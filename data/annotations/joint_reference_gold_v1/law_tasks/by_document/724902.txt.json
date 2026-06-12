@@ -1,0 +1,592 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.178188+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "724902.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/724902.txt",
+  "task_count": 20,
+  "tasks": [
+    {
+      "task_id": "724902.txt::section_or_article::305::403",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 92",
+      "snippet_doc_start": 45,
+      "snippet_doc_end": 569,
+      "snippet_text": " odůvodnění umístění převýšené stavby podle \núzemního plánu hl. m. Prahy a Pražských stavebních předpisů.  \nRekapitulace předchozího řízení a obsah správního spisu\n2.\nOdbor stavební Úřadu městské části Praha 13 (stavební úřad) prvostupňovým rozhodnutím \npodle § 92 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon) \numístil stavbu nazvanou „Polyfunkční dům Paprsek 1“. Jedná se o bytový komplex \ns jednopodlažním přízemím (48 x 67 m), na které vystoupí soustava šesti částečně \npropojených věží o",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 92",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "183/2006 Sb.",
+          "law_name_text": "stavební zákon",
+          "declared_alias_text": "stavební zákon",
+          "detail_number": "92",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stavebni_zakon_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::law_id_mention::320::404",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "183/2006 Sb.",
+      "snippet_doc_start": 60,
+      "snippet_doc_end": 592,
+      "snippet_text": "stění převýšené stavby podle \núzemního plánu hl. m. Prahy a Pražských stavebních předpisů.  \nRekapitulace předchozího řízení a obsah správního spisu\n2.\nOdbor stavební Úřadu městské části Praha 13 (stavební úřad) prvostupňovým rozhodnutím \npodle § 92 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon) \numístil stavbu nazvanou „Polyfunkční dům Paprsek 1“. Jedná se o bytový komplex \ns jednopodlažním přízemím (48 x 67 m), na které vystoupí soustava šesti částečně \npropojených věží o výšce 5 až 12 nadzemní",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "183/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "183/2006 Sb.",
+          "law_name_text": "zákon o územním plánování a stavebním řádu (stavební zákon)",
+          "declared_alias_text": "stavební zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stavebni_zakon_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::3759::405",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 20",
+      "snippet_doc_start": 3499,
+      "snippet_doc_end": 4023,
+      "snippet_text": "ledující žalobní body: \n1) Odůvodnění splnění podmínek pro umístění převýšené stavby je nedostatečné a \nnesprávné. Stavba není zapojena do stávající struktury a urbanistické kompozice \nlokality.  \n2) Umístění stavby nebere ohled na charakter území v rozporu s § 20 Pražských \nstavebních předpisů. Žalovaný špatně určil výškovou hladinu podle Pražských \nstavebních předpisů.\n3) Žalovaný nevzal v potaz podlažnost záměru podle § 25 odst. 1 Pražských stavebních \npředpisů.   \n8.\nŽalovaný ve svém vyjádření navrhl žalobu zamítno",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 20",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "20",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::3924::406",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 3664,
+      "snippet_doc_end": 4188,
+      "snippet_text": "nistické kompozice \nlokality.  \n2) Umístění stavby nebere ohled na charakter území v rozporu s § 20 Pražských \nstavebních předpisů. Žalovaný špatně určil výškovou hladinu podle Pražských \nstavebních předpisů.\n3) Žalovaný nevzal v potaz podlažnost záměru podle § 25 odst. 1 Pražských stavebních \npředpisů.   \n8.\nŽalovaný ve svém vyjádření navrhl žalobu zamítnout. Přitom odkázal na závěry napadeného \nrozhodnutí, na kterých trvá.  \nPosouzení žaloby\n9.\nMěstský soud v Praze na základě žaloby v rozsahu žalobních bodů, kterými ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "25",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::4198::407",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 75",
+      "snippet_doc_start": 3938,
+      "snippet_doc_end": 4462,
+      "snippet_text": "ražských stavebních \npředpisů.   \n8.\nŽalovaný ve svém vyjádření navrhl žalobu zamítnout. Přitom odkázal na závěry napadeného \nrozhodnutí, na kterých trvá.  \nPosouzení žaloby\n9.\nMěstský soud v Praze na základě žaloby v rozsahu žalobních bodů, kterými je vázán (§ 75 \nodst. 2 soudního řádu správního), přezkoumal napadené rozhodnutí včetně řízení, které jeho \nvydání předcházelo. Při přezkoumání rozhodnutí soud vycházel ze skutkového a právního\nShodu s prvopisem potvrzuje S. T.\nstavu, který tu byl v době rozhodování správní",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 75",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "soudního řádu správního",
+          "detail_number": "75",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::4473::408",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 75",
+      "snippet_doc_start": 4213,
+      "snippet_doc_end": 4737,
+      "snippet_text": "oudního řádu správního), přezkoumal napadené rozhodnutí včetně řízení, které jeho \nvydání předcházelo. Při přezkoumání rozhodnutí soud vycházel ze skutkového a právního\nShodu s prvopisem potvrzuje S. T.\nstavu, který tu byl v době rozhodování správního orgánu (§ 75 odst. 1 soudního řádu \nsprávního).\n10. Soud rozhodl ve věci samé bez jednání, protože s tímto postupem oba účastníci řízení \nvyslovili souhlas (§ 51 odst. 1 soudního řádu správního).\nIII.1 Podmínky pro umístění převýšené stavby byly splněny\n11. Podle oddílu 7",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 75",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "soudního řádu správního",
+          "detail_number": "75",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::4622::409",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 51",
+      "snippet_doc_start": 4362,
+      "snippet_doc_end": 4886,
+      "snippet_text": "utkového a právního\nShodu s prvopisem potvrzuje S. T.\nstavu, který tu byl v době rozhodování správního orgánu (§ 75 odst. 1 soudního řádu \nsprávního).\n10. Soud rozhodl ve věci samé bez jednání, protože s tímto postupem oba účastníci řízení \nvyslovili souhlas (§ 51 odst. 1 soudního řádu správního).\nIII.1 Podmínky pro umístění převýšené stavby byly splněny\n11. Podle oddílu 7b) odst. 4 Přílohy č. 1 k územnímu plánu výškové, převýšené a rozměrné \nstavby musí vyhovět těmto podmínkám:\na) Neovlivní negativně panorama města, a",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 51",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "soudního řádu správního",
+          "detail_number": "51",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::10054::410",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 20",
+      "snippet_doc_start": 9794,
+      "snippet_doc_end": 10318,
+      "snippet_text": " použít princip kontrastu \na respektovat členění sousedního projednávaného záměru. Z daného tedy nelze nijak dovodit \nnesplnění této podmínky pro převýšenou stavbu.   \n19. Tyto námitky jsou tedy nedůvodné. \nIII.2 Soulad s Pražskými stavebními předpisy\n20. Dle § 20 odst. 1 Pražských stavebních předpisů (nařízení č. 10/2016 Sb. hl. m. Prahy, kterým \nse stanovují obecné požadavky na využívání území a technické požadavky na stavby v \nhlavním městě Praze) platí, že při umisťování staveb musí být přihlédnuto k charakteru \núz",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 20",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "20",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::law_id_mention::10110::411",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "10/2016 Sb.",
+      "snippet_doc_start": 9850,
+      "snippet_doc_end": 10381,
+      "snippet_text": "ího projednávaného záměru. Z daného tedy nelze nijak dovodit \nnesplnění této podmínky pro převýšenou stavbu.   \n19. Tyto námitky jsou tedy nedůvodné. \nIII.2 Soulad s Pražskými stavebními předpisy\n20. Dle § 20 odst. 1 Pražských stavebních předpisů (nařízení č. 10/2016 Sb. hl. m. Prahy, kterým \nse stanovují obecné požadavky na využívání území a technické požadavky na stavby v \nhlavním městě Praze) platí, že při umisťování staveb musí být přihlédnuto k charakteru \núzemí, zejména ke vztahu zástavby k veřejným prostranstvím, půdor",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "10/2016 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "nařízení č. 10/2016 Sb. hl. m. Prahy",
+          "declared_alias_text": "Pražské stavební předpisy",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::10440::412",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 10180,
+      "snippet_doc_end": 10704,
+      "snippet_text": "žívání území a technické požadavky na stavby v \nhlavním městě Praze) platí, že při umisťování staveb musí být přihlédnuto k charakteru \núzemí, zejména ke vztahu zástavby k veřejným prostranstvím, půdorysným rozměrům \nokolních staveb a jejich výšce. Ustanovení § 25 Pražských stavebních předpisů pak definuje \nvýškové hladiny:\n(1) Výškové uspořádání se definuje stanovením výškových hladin podle odstavce 2, \nurčením závazné maximální a minimální regulované výšky budov nebo stanovením \nminimálního a maximálního počtu podlaž",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "25",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::11588::413",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 26",
+      "snippet_doc_start": 11328,
+      "snippet_doc_end": 11852,
+      "snippet_text": "v územním nebo regulačním plánu lze stanovit \npodmínky, za jejichž splnění lze stanovenou maximální regulovanou výšku přesáhnout, \npopřípadě minimální regulovanou výšku podkročit, a to určením konkrétního místa \nnebo typu stavby anebo obecných pravidel.\nPodle § 26 Pražských stavebních předpisů poté platí, že stavby se umisťují v souladu s \nvýškovou regulací stanovenou podle § 25.\n21. Městský soud se již stanovením výškové hladiny v dané lokalitě i podle Pražských stavebních \npředpisů zabýval v rozsudku ze dne 14. 5. 20",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 26",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "26",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::11705::414",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 11445,
+      "snippet_doc_end": 11969,
+      "snippet_text": " přesáhnout, \npopřípadě minimální regulovanou výšku podkročit, a to určením konkrétního místa \nnebo typu stavby anebo obecných pravidel.\nPodle § 26 Pražských stavebních předpisů poté platí, že stavby se umisťují v souladu s \nvýškovou regulací stanovenou podle § 25.\n21. Městský soud se již stanovením výškové hladiny v dané lokalitě i podle Pražských stavebních \npředpisů zabýval v rozsudku ze dne 14. 5. 2024, č. j. 14 A 41/2022‑209. Zde dospěl k závěru, \nže převládající okolní zástavbu je nutné charakterizovat ve výškové",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "25",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::12527::415",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n25",
+      "snippet_doc_start": 12267,
+      "snippet_doc_end": 12792,
+      "snippet_text": "kovou hladinu podle Pražských stavebních předpisů posoudit jinak než podle regulativů \nv územním plánu. Výškové hladiny jsou v obou dokumentech upraveny shodně a Pražské \nstavební předpisy navíc na územní plán v této otázce na několika místech odkazují (např. § \n25 odst. 3, či § 26 věta druhá). \n22. V tomto ohledu je tedy názor žalovaného chybný. Městský soud nicméně dospěl k závěru, \nže toto pochybení nemá vliv na zákonnost napadeného rozhodnutí. \n23. V § 25 odst. 3 Pražské stavební předpisy totiž přímo upravují možnos",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražské stavební předpisy",
+          "detail_number": "25",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::12545::416",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 26",
+      "snippet_doc_start": 12285,
+      "snippet_doc_end": 12809,
+      "snippet_text": "e Pražských stavebních předpisů posoudit jinak než podle regulativů \nv územním plánu. Výškové hladiny jsou v obou dokumentech upraveny shodně a Pražské \nstavební předpisy navíc na územní plán v této otázce na několika místech odkazují (např. § \n25 odst. 3, či § 26 věta druhá). \n22. V tomto ohledu je tedy názor žalovaného chybný. Městský soud nicméně dospěl k závěru, \nže toto pochybení nemá vliv na zákonnost napadeného rozhodnutí. \n23. V § 25 odst. 3 Pražské stavební předpisy totiž přímo upravují možnost maximální \nregu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 26",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražské stavební předpisy",
+          "detail_number": "26",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::12726::417",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 12466,
+      "snippet_doc_end": 12990,
+      "snippet_text": "zemní plán v této otázce na několika místech odkazují (např. § \n25 odst. 3, či § 26 věta druhá). \n22. V tomto ohledu je tedy názor žalovaného chybný. Městský soud nicméně dospěl k závěru, \nže toto pochybení nemá vliv na zákonnost napadeného rozhodnutí. \n23. V § 25 odst. 3 Pražské stavební předpisy totiž přímo upravují možnost maximální \nregulovanou výšku přesáhnout, pokud jsou splněny podmínky v územním plánu. Jak je \npatrné z předchozího žalobního bodu regulativy územního plánu umožňují umístění tzv. \npřevýšené stavby",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražské stavební předpisy",
+          "detail_number": "25",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::14020::418",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 13760,
+      "snippet_doc_end": 14284,
+      "snippet_text": "í výškové hladiny podle Pražských stavebních předpisů tedy nemá žádný vliv na \nzákonnost napadeného rozhodnutí. \n25. Městský soud nakonec souhlasí se žalovaným, že nebylo nutno zohledňovat ani počet \npodlaží záměru.\nShodu s prvopisem potvrzuje S. T.\n26. Podle § 25 odst. 1 Pražských stavebních předpisů výškové uspořádání se definuje stanovením \nvýškových hladin podle odstavce 2, určením závazné maximální a minimální regulované \nvýšky budov nebo stanovením minimálního a maximálního počtu podlaží. Za prvé jde o \nalternati",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "25",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::14854::419",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 14594,
+      "snippet_doc_end": 15118,
+      "snippet_text": "ní počet podlaží. Vzhledem k tomu, že \npředpisy nestanoví maximální počet podlaží, nelze dovodit, že by napadené rozhodnutí bylo \nnezákonné či nepřezkoumatelné, pokud se touto otázkou nezabývalo.\n27. Lze odkázat i na odůvodnění Pražských stavebních předpisů k § 25, kde se uvádí, že „výšková \nhladina určuje regulovanou výšku budovy, tedy výšku po hlavní římsu (…). Jednotlivé \nhodnoty maximální výšky stanovené v metrech odpovídají běžné podlažnosti v daném \ncharakteru zástavby s rezervou na konstrukci atiky a vyrovnání t",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "10/2016 Sb.",
+          "law_name_text": "Pražské stavební předpisy",
+          "declared_alias_text": "Pražských stavebních předpisů",
+          "detail_number": "25",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:psp_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::15671::420",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n78",
+      "snippet_doc_start": 15411,
+      "snippet_doc_end": 15936,
+      "snippet_text": "\npředpisů. Výškou budovy se přitom žalovaný dostatečně zabýval, jak soud rozebral výše.\n28. Ani tyto námitky tedy nejsou důvodné.  \nZávěr a rozhodnutí o nákladech řízení\n29. Městský soud tedy z výše uvedených důvodů neshledal žalobu důvodnou, a proto ji podle § \n78 odst. 7 soudního řádu správního zamítl.\n30. Žalobci nebyli ve sporu úspěšní a žalovanému žádné účelně vynaložené náklady nad rámec \njeho běžné činnosti nevznikly. Soud tedy ve druhém výroku rozsudku v souladu s § 60 \nsoudního řádu správního rozhodl, že žádném",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n78",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "soudního řádu správního",
+          "detail_number": "78",
+          "detail_odst": [
+            "7"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::15888::421",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 60",
+      "snippet_doc_start": 15628,
+      "snippet_doc_end": 16152,
+      "snippet_text": "eshledal žalobu důvodnou, a proto ji podle § \n78 odst. 7 soudního řádu správního zamítl.\n30. Žalobci nebyli ve sporu úspěšní a žalovanému žádné účelně vynaložené náklady nad rámec \njeho běžné činnosti nevznikly. Soud tedy ve druhém výroku rozsudku v souladu s § 60 \nsoudního řádu správního rozhodl, že žádnému z účastníků se nepřiznává náhrada nákladů \nřízení.\n31. Osoba zúčastněná na řízení nemá právo na náhradu nákladů řízení, neboť jí soud neuložil \nžádnou povinnost, ani nenastal žádný důvod hodný zvláštního zřetele (§",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 60",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "soudního řádu správního",
+          "detail_number": "60",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::section_or_article::16151::422",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 60",
+      "snippet_doc_start": 15891,
+      "snippet_doc_end": 16191,
+      "snippet_text": "0 \nsoudního řádu správního rozhodl, že žádnému z účastníků se nepřiznává náhrada nákladů \nřízení.\n31. Osoba zúčastněná na řízení nemá právo na náhradu nákladů řízení, neboť jí soud neuložil \nžádnou povinnost, ani nenastal žádný důvod hodný zvláštního zřetele (§ 60 odst. 5 soudního \nřádu správního).\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 60",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "soudního řádu správního",
+          "detail_number": "60",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    }
+  ]
+}

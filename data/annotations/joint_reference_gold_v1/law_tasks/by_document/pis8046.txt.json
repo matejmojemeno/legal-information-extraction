@@ -1,0 +1,670 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.183189+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "pis8046.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis8046.txt",
+  "task_count": 23,
+  "tasks": [
+    {
+      "task_id": "pis8046.txt::section_or_article::140::636",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 404,
+      "snippet_text": " \nObec Dolní Habartice č.p. 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "49",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::163::637",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "199/1994 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 435,
+      "snippet_text": " \nObec Dolní Habartice č.p. 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na „Výstavbu středotlakých plynovo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "199/1994 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::227::638",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "148/1996 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 499,
+      "snippet_text": " \nObec Dolní Habartice č.p. 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na „Výstavbu středotlakých plynovodů vč. přípojek \nv obci Dolní Habartice“ dne 13.4.2001. \nZadavat",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "148/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "148/1996 Sb.",
+          "law_name_text": "zákona č. 148/1996 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::251::639",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "93/1998 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 522,
+      "snippet_text": " \nObec Dolní Habartice č.p. 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na „Výstavbu středotlakých plynovodů vč. přípojek \nv obci Dolní Habartice“ dne 13.4.2001. \nZadavatel ve lhůtě k podání na",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "93/1998 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "93/1998 Sb.",
+          "law_name_text": "zákona č. 93/1998 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::275::640",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "28/2000 Sb.",
+      "snippet_doc_start": 15,
+      "snippet_doc_end": 546,
+      "snippet_text": "bartice č.p. 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na „Výstavbu středotlakých plynovodů vč. přípojek \nv obci Dolní Habartice“ dne 13.4.2001. \nZadavatel ve lhůtě k podání nabídek obdržel pět nabíde",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "28/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "28/2000 Sb.",
+          "law_name_text": "zákona č. 28/2000 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::298::641",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "256/2000 Sb.",
+      "snippet_doc_start": 38,
+      "snippet_doc_end": 570,
+      "snippet_text": " starostou obce Václavem Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na „Výstavbu středotlakých plynovodů vč. přípojek \nv obci Dolní Habartice“ dne 13.4.2001. \nZadavatel ve lhůtě k podání nabídek obdržel pět nabídek. Komise pro otevírání ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "256/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "256/2000 Sb.",
+          "law_name_text": "zákona č. 256/2000 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::323::642",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "39/2001 Sb.",
+      "snippet_doc_start": 63,
+      "snippet_doc_end": 594,
+      "snippet_text": "Roudem, 407 22 Dolní \nHabartice (dále jen „zadavatel“), ve smyslu ustanovení § 49 odst. 1 zákona č. 199/1994 Sb., o \nzadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona \nč. 28/2000 Sb., zákona č. 256/2000 Sb. a zákona č. 39/2001 Sb. (dále jen „zákon“), písemně \nvyzvala pět zájemců k podání nabídky na „Výstavbu středotlakých plynovodů vč. přípojek \nv obci Dolní Habartice“ dne 13.4.2001. \nZadavatel ve lhůtě k podání nabídek obdržel pět nabídek. Komise pro otevírání obálek \nna svém zasedání",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "39/2001 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "39/2001 Sb.",
+          "law_name_text": "zákona č. 39/2001 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::2156::643",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 58",
+      "snippet_doc_start": 1896,
+      "snippet_doc_end": 2420,
+      "snippet_text": " dne \n10.5.2001. Uchazeč podal návrh na přezkoumání rozhodnutí zadavatele, který Úřad pro \nochranu hospodářské soutěže (dále jen „Úřad“) i zadavatel obdrželi dne 21.5.2001. Tímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou o",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 58",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "58",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2171::644",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "199/1994 Sb.",
+      "snippet_doc_start": 1911,
+      "snippet_doc_end": 2443,
+      "snippet_text": ". Uchazeč podal návrh na přezkoumání rozhodnutí zadavatele, který Úřad pro \nochranu hospodářské soutěže (dále jen „Úřad“) i zadavatel obdrželi dne 21.5.2001. Tímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 40",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "199/1994 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2235::645",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "148/1996 Sb.",
+      "snippet_doc_start": 1975,
+      "snippet_doc_end": 2507,
+      "snippet_text": "ý Úřad pro \nochranu hospodářské soutěže (dále jen „Úřad“) i zadavatel obdrželi dne 21.5.2001. Tímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice, \nb) PLYNEX spol. s r.o., se sídlem Oblouk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "148/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "148/1996 Sb.",
+          "law_name_text": "zákona č. 148/1996 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2259::646",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "93/1998 Sb.",
+      "snippet_doc_start": 1999,
+      "snippet_doc_end": 2530,
+      "snippet_text": "odářské soutěže (dále jen „Úřad“) i zadavatel obdrželi dne 21.5.2001. Tímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice, \nb) PLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "93/1998 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "93/1998 Sb.",
+          "law_name_text": "zákona č. 93/1998 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2282::647",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "28/2000 Sb.",
+      "snippet_doc_start": 2022,
+      "snippet_doc_end": 2553,
+      "snippet_text": "en „Úřad“) i zadavatel obdrželi dne 21.5.2001. Tímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice, \nb) PLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín I, za niž jedná jednat",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "28/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "28/2000 Sb.",
+          "law_name_text": "zákona č. 28/2000 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2306::648",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "256/2000 Sb.",
+      "snippet_doc_start": 2046,
+      "snippet_doc_end": 2578,
+      "snippet_text": "bdrželi dne 21.5.2001. Tímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice, \nb) PLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín I, za niž jedná jednatel \nJindřich Josefus, \nc)",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "256/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "256/2000 Sb.",
+          "law_name_text": "zákona č. 256/2000 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2330::649",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "39/2001 Sb.",
+      "snippet_doc_start": 2070,
+      "snippet_doc_end": 2601,
+      "snippet_text": "ímto \ndnem bylo zahájeno správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice, \nb) PLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín I, za niž jedná jednatel \nJindřich Josefus, \nc) STAVOPLYN spol. s r.o.",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "39/2001 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "39/2001 Sb.",
+          "law_name_text": "zákona č. 39/2001 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::law_id_mention::2354::650",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "142/2001 Sb.",
+      "snippet_doc_start": 2094,
+      "snippet_doc_end": 2626,
+      "snippet_text": " správní řízení u orgánu dohledu. \nÚčastníci řízení ve smyslu § 58 zákona č. 199/1994 Sb., o zadávání veřejných \nzakázek, ve znění zákona č. 148/1996 Sb., zákona č. 93/1998 Sb., zákona č. 28/2000 Sb., \nzákona č. 256/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 142/2001 Sb. jsou: \na) obec Dolní Habartice 178, zast. starostou obce Václavem Roudem, 407 22 Dolní \nHabartice, \nb) PLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín I, za niž jedná jednatel \nJindřich Josefus, \nc) STAVOPLYN spol. s r.o. se sídlem K nádraží 63, ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "142/2001 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "142/2001 Sb.",
+          "law_name_text": "zákona č. 142/2001 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::2810::651",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 57",
+      "snippet_doc_start": 2550,
+      "snippet_doc_end": 3074,
+      "snippet_text": "natel \nJindřich Josefus, \nc) STAVOPLYN spol. s r.o. se sídlem K nádraží 63, 405 02 Děčín, za niž jedná jednatel \nMiroslav Vorel. \nPři podání návrhu se Úřad nejprve zabýval otázkou, zda byl návrh podán včas \nv desetidenní lhůtě a zda má veškeré náležitosti dle § 57 odst. 2 zákona. \nUstanovení § 57 odst. 2 zákona zní: „Návrh se podává ve dvojím vyhotovení do 10 \nkalendářních dnů od doručení rozhodnutí zadavatele; jedno vyhotovení zasílá uchazeč orgánu \ndohledu a jedno zadavateli. V návrhu musí být uvedeno, kdo jej podává",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 57",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "57",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::2843::652",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 57",
+      "snippet_doc_start": 2583,
+      "snippet_doc_end": 3107,
+      "snippet_text": "OPLYN spol. s r.o. se sídlem K nádraží 63, 405 02 Děčín, za niž jedná jednatel \nMiroslav Vorel. \nPři podání návrhu se Úřad nejprve zabýval otázkou, zda byl návrh podán včas \nv desetidenní lhůtě a zda má veškeré náležitosti dle § 57 odst. 2 zákona. \nUstanovení § 57 odst. 2 zákona zní: „Návrh se podává ve dvojím vyhotovení do 10 \nkalendářních dnů od doručení rozhodnutí zadavatele; jedno vyhotovení zasílá uchazeč orgánu \ndohledu a jedno zadavateli. V návrhu musí být uvedeno, kdo jej podává, proti kterému úkonu \nzadavatele",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 57",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "57",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::3274::653",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 25",
+      "snippet_doc_start": 3014,
+      "snippet_doc_end": 3538,
+      "snippet_text": " jedno zadavateli. V návrhu musí být uvedeno, kdo jej podává, proti kterému úkonu \nzadavatele směřuje, v čem je spatřováno porušení zákona a čeho se uchazeč domáhá. Součástí \nnávrhu je i přesné označení a adresa zadavatele a doklad o složení uvolněné jistoty (§ 25 odst. \n7). Návrh, který nemá tyto náležitosti nebo u něhož uchazeč tyto náležitosti nedoložil ve lhůtě \nstanovené orgánem dohledu, jakož i návrh došlý po uplynutí stanovené lhůty orgán dohledu \nzamítne“. \nUstanovení § 57 odst. 2 zákona je ustanovením speciáln",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 25",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "25",
+          "detail_odst": [
+            "7"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::3495::654",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 57",
+      "snippet_doc_start": 3235,
+      "snippet_doc_end": 3759,
+      "snippet_text": "e a doklad o složení uvolněné jistoty (§ 25 odst. \n7). Návrh, který nemá tyto náležitosti nebo u něhož uchazeč tyto náležitosti nedoložil ve lhůtě \nstanovené orgánem dohledu, jakož i návrh došlý po uplynutí stanovené lhůty orgán dohledu \nzamítne“. \nUstanovení § 57 odst. 2 zákona je ustanovením speciálním, které se i v ustanoveních \no řízení zahájeném na návrh a v náležitostech podání odchyluje od § 18 a § 19 správního \nřádu, a které opožděnost návrhu, nedostatečný počet jeho vyhotovení, chybějící součásti atd. \nspojuje",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 57",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "57",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::3635::655",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 18",
+      "snippet_doc_start": 3375,
+      "snippet_doc_end": 3899,
+      "snippet_text": " lhůtě \nstanovené orgánem dohledu, jakož i návrh došlý po uplynutí stanovené lhůty orgán dohledu \nzamítne“. \nUstanovení § 57 odst. 2 zákona je ustanovením speciálním, které se i v ustanoveních \no řízení zahájeném na návrh a v náležitostech podání odchyluje od § 18 a § 19 správního \nřádu, a které opožděnost návrhu, nedostatečný počet jeho vyhotovení, chybějící součásti atd. \nspojuje se zamítnutím návrhu.\nRozhodnutí o námitce uchazeč převzal dne 10.5.2001. Desetidenní lhůta pro podání \nnávrhu uplynula dne 20.5.2001 a uch",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 18",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "správního řádu",
+          "declared_alias_text": "správní řád",
+          "detail_number": "18",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::3642::656",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 19",
+      "snippet_doc_start": 3382,
+      "snippet_doc_end": 3906,
+      "snippet_text": "\nstanovené orgánem dohledu, jakož i návrh došlý po uplynutí stanovené lhůty orgán dohledu \nzamítne“. \nUstanovení § 57 odst. 2 zákona je ustanovením speciálním, které se i v ustanoveních \no řízení zahájeném na návrh a v náležitostech podání odchyluje od § 18 a § 19 správního \nřádu, a které opožděnost návrhu, nedostatečný počet jeho vyhotovení, chybějící součásti atd. \nspojuje se zamítnutím návrhu.\nRozhodnutí o námitce uchazeč převzal dne 10.5.2001. Desetidenní lhůta pro podání \nnávrhu uplynula dne 20.5.2001 a uchazeč po",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 19",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "správního řádu",
+          "declared_alias_text": "správní řád",
+          "detail_number": "19",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::4050::657",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 57",
+      "snippet_doc_start": 3790,
+      "snippet_doc_end": 4314,
+      "snippet_text": "tí o námitce uchazeč převzal dne 10.5.2001. Desetidenní lhůta pro podání \nnávrhu uplynula dne 20.5.2001 a uchazeč podal vyhotovení návrhu Úřadu i zadavateli dne \n21.5.2001. \nTím, že uchazeč zaslal zadavateli vyhotovení návrhu opožděně, nebylo možno ve \nsmyslu § 57 odst. 4 zákona pozastavit zadávací lhůtu a zadavatel mohl uzavřít smlouvu.  \nV důsledku nedodržení lhůty pro podání návrhu ve smyslu ustanovení § 57 odst. 2 \nzákona, musí Úřad tento návrh zamítnout. \nS ohledem na všechny uvedené skutečnosti, které byly prokáz",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 57",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "57",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::section_or_article::4199::658",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 57",
+      "snippet_doc_start": 3939,
+      "snippet_doc_end": 4463,
+      "snippet_text": "avateli dne \n21.5.2001. \nTím, že uchazeč zaslal zadavateli vyhotovení návrhu opožděně, nebylo možno ve \nsmyslu § 57 odst. 4 zákona pozastavit zadávací lhůtu a zadavatel mohl uzavřít smlouvu.  \nV důsledku nedodržení lhůty pro podání návrhu ve smyslu ustanovení § 57 odst. 2 \nzákona, musí Úřad tento návrh zamítnout. \nS ohledem na všechny uvedené skutečnosti, které byly prokázány ve správním řízení, \nÚřad rozhodl, jak je uvedeno ve výroku. \nÚřad přezkoumal postup zadavatele při zadání veřejné zakázky i po věcné stránce \na ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 57",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "57",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    }
+  ]
+}

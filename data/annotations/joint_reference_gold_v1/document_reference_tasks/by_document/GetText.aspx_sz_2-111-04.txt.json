@@ -1,0 +1,465 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "GetText.aspx_sz_2-111-04.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.169718+00:00",
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::117::8",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 117,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 377,
+      "snippet_text": ":\nVčas podanou ústavní stížností se stěžovatel domáhá zrušení usnesení Vrchního soudu v Olomouci ze dne 2. 12. 2003, sp. zn. 4 To 111/2003, a rozsudku Krajského soudu v Brně ze dne 11. 9. 2003, sp. zn. 43 T 3/2001, a tvrdí, že jimi bylo porušeno jeho základní právo podle čl. 36 odst. 1 Listiny základních práv a svobod. Zároveň stěžovatel požádal o odklad vykonatelnosti rozho",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 4 To 111/2003",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "4 To 111/2003",
+        "reference_type": "spisova_znacka",
+        "raw_start": 117,
+        "raw_end": 138,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Vrchního soudu",
+        "context": ": Včas podanou ústavní stížností se stěžovatel domáhá zrušení usnesení Vrchního soudu v Olomouci ze dne 2. 12. 2003, sp. zn. 4 To 111/2003, a rozsudku Krajského soudu v Brně ze dne 11. 9. 2003, sp. zn. 43 T 3/2001, a tvrdí, že jimi bylo porušeno jeho základní právo podle čl. 36 odst. 1 Listiny základních práv a svobod. Zároveň stěžovatel požádal o odklad v"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 4 To 111/2003",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "4 To 111/2003",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Vrchního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::194::9",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 194,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 454,
+      "snippet_text": ":\nVčas podanou ústavní stížností se stěžovatel domáhá zrušení usnesení Vrchního soudu v Olomouci ze dne 2. 12. 2003, sp. zn. 4 To 111/2003, a rozsudku Krajského soudu v Brně ze dne 11. 9. 2003, sp. zn. 43 T 3/2001, a tvrdí, že jimi bylo porušeno jeho základní právo podle čl. 36 odst. 1 Listiny základních práv a svobod. Zároveň stěžovatel požádal o odklad vykonatelnosti rozhodnutí.\nStěžovatel obecným soudům vytýká, že se nijak nevypořádaly s jeho argu",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 43 T 3/2001",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "43 T 3/2001",
+        "reference_type": "spisova_znacka",
+        "raw_start": 194,
+        "raw_end": 213,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": ": Včas podanou ústavní stížností se stěžovatel domáhá zrušení usnesení Vrchního soudu v Olomouci ze dne 2. 12. 2003, sp. zn. 4 To 111/2003, a rozsudku Krajského soudu v Brně ze dne 11. 9. 2003, sp. zn. 43 T 3/2001, a tvrdí, že jimi bylo porušeno jeho základní právo podle čl. 36 odst. 1 Listiny základních práv a svobod. Zároveň stěžovatel požádal o odklad vykonatelnosti rozhodnutí. Stěžovatel obecným soudům vytýká, že se nijak nev"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 43 T 3/2001",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "43 T 3/2001",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::592::10",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 592,
+      "snippet_doc_start": 332,
+      "snippet_doc_end": 852,
+      "snippet_text": "žovatel požádal o odklad vykonatelnosti rozhodnutí.\nStěžovatel obecným soudům vytýká, že se nijak nevypořádaly s jeho argumentací o neexistenci subjektivní stránky trestného činu na jeho straně a nevyhodnotily jím navržený důkaz - spis Krajského soudu v Brně, sp. zn. 34 Cm 139/2002. Přitom podle závěrů obecných soudů mělo dojít trestnou činností k obohacení stěžovatele, ačkoliv ze skutkových zjištění vyplývá, že obohacena byla obchodní společnost BlackField Picture v. o. s. (dále jen \"BFP\"), tedy osoba od stěžovate",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 34 Cm 139/2002",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "34 Cm 139/2002",
+        "reference_type": "spisova_znacka",
+        "raw_start": 592,
+        "raw_end": 614,
+        "decision_kind_hint": null,
+        "court_hint": "Krajského soudu",
+        "context": "rozhodnutí. Stěžovatel obecným soudům vytýká, že se nijak nevypořádaly s jeho argumentací o neexistenci subjektivní stránky trestného činu na jeho straně a nevyhodnotily jím navržený důkaz - spis Krajského soudu v Brně, sp. zn. 34 Cm 139/2002. Přitom podle závěrů obecných soudů mělo dojít trestnou činností k obohacení stěžovatele, ačkoliv ze skutkových zjištění vyplývá, že obohacena byla obchodní společnost BlackField Picture v. o. s. (dále jen \"BFP\"), tedy "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 34 Cm 139/2002",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "34 Cm 139/2002",
+          "decision_kind_hint": "",
+          "court_hint": "Krajského soudu",
+          "confidence": 0.98,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::1620::11",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 1620,
+      "snippet_doc_start": 1360,
+      "snippet_doc_end": 1880,
+      "snippet_text": "zováno se způsobem hodnocení provedených důkazů.\nVrchní státní zastupitelství v Olomouci se k ústavní stížnosti nijak nevyjádřilo.\nKrajské státní zastupitelství v Brně se postavení vedlejšího účastníka řízení vzdalo.\nZ vyžádaného spisu Krajského soudu v Brně, sp. zn. 43 T 3/2001, Ústavní soud zjistil, že proti stěžovateli bylo vedeno trestní stíhání pro pokus trestného činu podvodu podle § 250 odst. 1 a 4 zákona č. 140/1961 Sb., trestního zákona, ve znění pozdějších předpisů (dále jen \"tr. z.\"). Toho se měl dopusti",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 43 T 3/2001",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "43 T 3/2001",
+        "reference_type": "spisova_znacka",
+        "raw_start": 1620,
+        "raw_end": 1639,
+        "decision_kind_hint": null,
+        "court_hint": "Krajského soudu",
+        "context": " důkazů. Vrchní státní zastupitelství v Olomouci se k ústavní stížnosti nijak nevyjádřilo. Krajské státní zastupitelství v Brně se postavení vedlejšího účastníka řízení vzdalo. Z vyžádaného spisu Krajského soudu v Brně, sp. zn. 43 T 3/2001, Ústavní soud zjistil, že proti stěžovateli bylo vedeno trestní stíhání pro pokus trestného činu podvodu podle § 250 odst. 1 a 4 zákona č. 140/1961 Sb., trestního zákona, ve znění pozdějších předpisů (dále jen \"tr. z.\")"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 43 T 3/2001",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "43 T 3/2001",
+          "decision_kind_hint": "",
+          "court_hint": "Krajského soudu",
+          "confidence": 0.98,
+          "note": "manual_v1:structured_docref_repeat"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::3218::12",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 3218,
+      "snippet_doc_start": 2958,
+      "snippet_doc_end": 3478,
+      "snippet_text": "tku 30.000 Kč, přestože neměl na účtu složeny finanční prostředky v potřebné výši, a měl povolen týdenní debetní limit ve výši 30.000 Kč, a vzniklý debet 238.758,11 Kč Investiční a poštovní bance neuhradil.\nRozsudkem Krajského soudu v Brně ze dne 11. 3. 2003, č. j. 43 T 3/2001-1261, byl stěžovatel uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a 3 písm. b) tr. z., kterého se dopustil fakturováním neexistujícího zboží obchodní společnosti Multiservis, a dále trestného činu podvodu podle §",
+      "predicted_reference": {
+        "reference_text": "č. j. 43 T 3/2001-1261",
+        "reference_prefix": "č. j.",
+        "reference_body": "43 T 3/2001-1261",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 3218,
+        "raw_end": 3240,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "oženy finanční prostředky v potřebné výši, a měl povolen týdenní debetní limit ve výši 30.000 Kč, a vzniklý debet 238.758,11 Kč Investiční a poštovní bance neuhradil. Rozsudkem Krajského soudu v Brně ze dne 11. 3. 2003, č. j. 43 T 3/2001-1261, byl stěžovatel uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a 3 písm. b) tr. z., kterého se dopustil fakturováním neexistujícího zboží obchodní společnosti Multiservis, a dále trestného či"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 43 T 3/2001-1261",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "43 T 3/2001-1261",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::4221::13",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4221,
+      "snippet_doc_start": 3961,
+      "snippet_doc_end": 4481,
+      "snippet_text": "proštěn obžaloby, pokud mu bylo kladeno za vinu předstírané vloupání do skladových prostor obchodní společnosti BFP s úmyslem vylákat pojistné plnění.\nProti odsuzujícím výrokům podal stěžovatel odvolání a usnesením Vrchního soudu v Olomouci ze dne 1. 7. 2003, č. j. 4 To 54/2003-1280, byl v napadené části rozsudek soudu prvého stupně zrušen. Rozsudkem Krajského soudu v Brně ze dne 11. 9. 2003, č. j. 43 T 3/2001-1321, byl stěžovatel opět uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a ods",
+      "predicted_reference": {
+        "reference_text": "č. j. 4 To 54/2003-1280",
+        "reference_prefix": "č. j.",
+        "reference_body": "4 To 54/2003-1280",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4221,
+        "raw_end": 4244,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Vrchního soudu",
+        "context": "za vinu předstírané vloupání do skladových prostor obchodní společnosti BFP s úmyslem vylákat pojistné plnění. Proti odsuzujícím výrokům podal stěžovatel odvolání a usnesením Vrchního soudu v Olomouci ze dne 1. 7. 2003, č. j. 4 To 54/2003-1280, byl v napadené části rozsudek soudu prvého stupně zrušen. Rozsudkem Krajského soudu v Brně ze dne 11. 9. 2003, č. j. 43 T 3/2001-1321, byl stěžovatel opět uznán vinným jednak ze spáchání trestného činu podvodu podle § "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 4 To 54/2003-1280",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "4 To 54/2003-1280",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Vrchního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::4357::14",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4357,
+      "snippet_doc_start": 4097,
+      "snippet_doc_end": 4617,
+      "snippet_text": "jistné plnění.\nProti odsuzujícím výrokům podal stěžovatel odvolání a usnesením Vrchního soudu v Olomouci ze dne 1. 7. 2003, č. j. 4 To 54/2003-1280, byl v napadené části rozsudek soudu prvého stupně zrušen. Rozsudkem Krajského soudu v Brně ze dne 11. 9. 2003, č. j. 43 T 3/2001-1321, byl stěžovatel opět uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a odst. 3 písm. b) tr. z. dílem ve stádiu pokusu, a dále z trestného činu podvodu podle § 250 odst. 1 a 2 tr. z., a za to mu byl uložen trest",
+      "predicted_reference": {
+        "reference_text": "č. j. 43 T 3/2001-1321",
+        "reference_prefix": "č. j.",
+        "reference_body": "43 T 3/2001-1321",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4357,
+        "raw_end": 4379,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": " podal stěžovatel odvolání a usnesením Vrchního soudu v Olomouci ze dne 1. 7. 2003, č. j. 4 To 54/2003-1280, byl v napadené části rozsudek soudu prvého stupně zrušen. Rozsudkem Krajského soudu v Brně ze dne 11. 9. 2003, č. j. 43 T 3/2001-1321, byl stěžovatel opět uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a odst. 3 písm. b) tr. z. dílem ve stádiu pokusu, a dále z trestného činu podvodu podle § 250 odst. 1 a 2 tr. z., a za to m"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 43 T 3/2001-1321",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "43 T 3/2001-1321",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::4982::15",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4982,
+      "snippet_doc_start": 4722,
+      "snippet_doc_end": 5242,
+      "snippet_text": "vání obchodní činnosti koupě zboží za účelem jeho dalšího prodeje, a zákazu zprostředkovatelské činnosti na dobu dvou let, a uložena povinnost k náhradě škody obchodní společnosti GE Capital Multiservis. Usnesením Vrchního soudu v Olomouci ze dne 2. 12. 2003, č. j. 4 To 111/2003-1355, bylo odvolání stěžovatele zamítnuto. Dovolání stěžovatele bylo odmítnuto usnesením Nejvyššího soudu ČR ze dne 17. 6. 2004, č. j. 8 Tdo 332/2004-1417.\nÚstavní soud v minulosti dovodil, že není běžnou třetí instancí v systému všeobecnéh",
+      "predicted_reference": {
+        "reference_text": "č. j. 4 To 111/2003-1355",
+        "reference_prefix": "č. j.",
+        "reference_body": "4 To 111/2003-1355",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4982,
+        "raw_end": 5006,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Vrchního soudu",
+        "context": "elem jeho dalšího prodeje, a zákazu zprostředkovatelské činnosti na dobu dvou let, a uložena povinnost k náhradě škody obchodní společnosti GE Capital Multiservis. Usnesením Vrchního soudu v Olomouci ze dne 2. 12. 2003, č. j. 4 To 111/2003-1355, bylo odvolání stěžovatele zamítnuto. Dovolání stěžovatele bylo odmítnuto usnesením Nejvyššího soudu ČR ze dne 17. 6. 2004, č. j. 8 Tdo 332/2004-1417. Ústavní soud v minulosti dovodil, že není běžnou třetí instancí v sy"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 4 To 111/2003-1355",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "4 To 111/2003-1355",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Vrchního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::5131::16",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 5131,
+      "snippet_doc_start": 4871,
+      "snippet_doc_end": 5391,
+      "snippet_text": "adě škody obchodní společnosti GE Capital Multiservis. Usnesením Vrchního soudu v Olomouci ze dne 2. 12. 2003, č. j. 4 To 111/2003-1355, bylo odvolání stěžovatele zamítnuto. Dovolání stěžovatele bylo odmítnuto usnesením Nejvyššího soudu ČR ze dne 17. 6. 2004, č. j. 8 Tdo 332/2004-1417.\nÚstavní soud v minulosti dovodil, že není běžnou třetí instancí v systému všeobecného soudnictví. Není jeho úkolem zabývat se eventuálním porušením běžných  práv fyzických nebo právnických osob, chráněných zákony a dalšími  předpisy,",
+      "predicted_reference": {
+        "reference_text": "č. j. 8 Tdo 332/2004-1417",
+        "reference_prefix": "č. j.",
+        "reference_body": "8 Tdo 332/2004-1417",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 5131,
+        "raw_end": 5156,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího soudu",
+        "context": "l Multiservis. Usnesením Vrchního soudu v Olomouci ze dne 2. 12. 2003, č. j. 4 To 111/2003-1355, bylo odvolání stěžovatele zamítnuto. Dovolání stěžovatele bylo odmítnuto usnesením Nejvyššího soudu ČR ze dne 17. 6. 2004, č. j. 8 Tdo 332/2004-1417. Ústavní soud v minulosti dovodil, že není běžnou třetí instancí v systému všeobecného soudnictví. Není jeho úkolem zabývat se eventuálním porušením běžných  práv fyzických nebo právnických osob, chráněných zákony a dal"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 8 Tdo 332/2004-1417",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "8 Tdo 332/2004-1417",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::5482::17",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 5482,
+      "snippet_doc_start": 5222,
+      "snippet_doc_end": 5742,
+      "snippet_text": "v systému všeobecného soudnictví. Není jeho úkolem zabývat se eventuálním porušením běžných  práv fyzických nebo právnických osob, chráněných zákony a dalšími  předpisy, pokud   takové porušení současně neznamená porušení základního práva  nebo svobody (nález\nsp. zn. I. ÚS 68/93\nin Ústavní soud České republiky: Sbírka nálezů a usnesení. Svazek č. 1. Nález č. 17). Postup v soudním řízení, zjišťování a hodnocení skutkového stavu i výklad jiných než ústavních předpisů, jakož i jejich aplikace při řešení konkrétních př",
+      "predicted_reference": {
+        "reference_text": "sp. zn. I. ÚS 68/93",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "I. ÚS 68/93",
+        "reference_type": "spisova_znacka",
+        "raw_start": 5482,
+        "raw_end": 5501,
+        "decision_kind_hint": "nález",
+        "court_hint": null,
+        "context": "eho úkolem zabývat se eventuálním porušením běžných  práv fyzických nebo právnických osob, chráněných zákony a dalšími  předpisy, pokud   takové porušení současně neznamená porušení základního práva  nebo svobody (nález sp. zn. I. ÚS 68/93 in Ústavní soud České republiky: Sbírka nálezů a usnesení. Svazek č. 1. Nález č. 17). Postup v soudním řízení, zjišťování a hodnocení skutkového stavu i výklad jiných než ústavních předpisů, jakož i jejich aplikace při "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. I. ÚS 68/93",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "I. ÚS 68/93",
+          "decision_kind_hint": "nález",
+          "court_hint": "Ústavního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::6300::18",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 6300,
+      "snippet_doc_start": 6040,
+      "snippet_doc_end": 6560,
+      "snippet_text": "rávní relevance pochybení v procesu dokazování, resp. zjišťování skutkového stavu, vyčlenit případy důkazů získaných a tudíž posléze použitých v rozporu s procesními předpisy, resp.  opomenutí důkazů, a konečně svévolné hodnocení provedených důkazů. (usnesení\nsp. zn. III. ÚS 376/03\nin Ústavní soud České republiky: Sbírka nálezů a usnesení. Svazek č. 32. Usnesení č. 1. str. 451).\nJe nutno konstatovat, že obecné soudy neignorovaly žádný z důkazních návrhů stěžovatele. V řízení, která předcházela napadeným rozhodnutím",
+      "predicted_reference": {
+        "reference_text": "sp. zn. III. ÚS 376/03",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "III. ÚS 376/03",
+        "reference_type": "spisova_znacka",
+        "raw_start": 6300,
+        "raw_end": 6322,
+        "decision_kind_hint": "usnesení",
+        "court_hint": null,
+        "context": "zování, resp. zjišťování skutkového stavu, vyčlenit případy důkazů získaných a tudíž posléze použitých v rozporu s procesními předpisy, resp.  opomenutí důkazů, a konečně svévolné hodnocení provedených důkazů. (usnesení sp. zn. III. ÚS 376/03 in Ústavní soud České republiky: Sbírka nálezů a usnesení. Svazek č. 32. Usnesení č. 1. str. 451). Je nutno konstatovat, že obecné soudy neignorovaly žádný z důkazních návrhů stěžovatele. V řízení, která předcházela nap"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. III. ÚS 376/03",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "III. ÚS 376/03",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Ústavního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::6628::19",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 6628,
+      "snippet_doc_start": 6368,
+      "snippet_doc_end": 6888,
+      "snippet_text": "ů a usnesení. Svazek č. 32. Usnesení č. 1. str. 451).\nJe nutno konstatovat, že obecné soudy neignorovaly žádný z důkazních návrhů stěžovatele. V řízení, která předcházela napadeným rozhodnutím, totiž stěžovatel nenavrhoval důkaz spisem Krajského soudu v Brně, sp. zn. 34 Cm 139/2002, jak nesprávně uvádí v ústavní stížnosti. Proto tento důkaz nebyl nikdy prováděn, aniž by o něm bylo jakkoliv jinak rozhodnuto, a aniž by se následně s takovýmto důkazem byly obecné soudy povinny vypořádat. V každém případě se obecné sou",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 34 Cm 139/2002",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "34 Cm 139/2002",
+        "reference_type": "spisova_znacka",
+        "raw_start": 6628,
+        "raw_end": 6650,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": "Krajského soudu",
+        "context": "1. str. 451). Je nutno konstatovat, že obecné soudy neignorovaly žádný z důkazních návrhů stěžovatele. V řízení, která předcházela napadeným rozhodnutím, totiž stěžovatel nenavrhoval důkaz spisem Krajského soudu v Brně, sp. zn. 34 Cm 139/2002, jak nesprávně uvádí v ústavní stížnosti. Proto tento důkaz nebyl nikdy prováděn, aniž by o něm bylo jakkoliv jinak rozhodnuto, a aniž by se následně s takovýmto důkazem byly obecné soudy povinny vypořádat. V každém pří"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 34 Cm 139/2002",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "34 Cm 139/2002",
+          "decision_kind_hint": "",
+          "court_hint": "Krajského soudu",
+          "confidence": 0.98,
+          "note": "manual_v1:structured_docref_repeat"
+        }
+      ]
+    }
+  ]
+}

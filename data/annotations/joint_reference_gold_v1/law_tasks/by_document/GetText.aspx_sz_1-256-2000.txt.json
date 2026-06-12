@@ -1,0 +1,103 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.178681+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "GetText.aspx_sz_1-256-2000.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-256-2000.txt",
+  "task_count": 3,
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_1-256-2000.txt::law_id_mention::508::1",
+      "document_id": "GetText.aspx_sz_1-256-2000.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-256-2000.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/1993 Sb.",
+      "snippet_doc_start": 248,
+      "snippet_doc_end": 780,
+      "snippet_text": "e strany České správy sociálního zabezpečení v Praze. Zároveň namítal, že údajně došlo k pochybení ve shora rovněž citovaném rozsudku krajského soudu ze dne 28. 4. 1995.\nVzhledem k okolnosti, že podání stěžovatele neodpovídalo příslušným ustanovením zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů (dále jen \"zákon o Ústavním soudu\"), vyzval Ústavní soud stěžovatele přípisem ze dne 15. 5. 2000 k odstranění vad podání. Současně ho poučil, že pokud ve lhůtě do 20 dnů od doručení soudní výzvy vady podání neod",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-256-2000.txt::section_or_article::825::2",
+      "document_id": "GetText.aspx_sz_1-256-2000.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-256-2000.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 43",
+      "snippet_doc_start": 565,
+      "snippet_doc_end": 1089,
+      "snippet_text": "isů (dále jen \"zákon o Ústavním soudu\"), vyzval Ústavní soud stěžovatele přípisem ze dne 15. 5. 2000 k odstranění vad podání. Současně ho poučil, že pokud ve lhůtě do 20 dnů od doručení soudní výzvy vady podání neodstraní, bude jeho návrh ve smyslu ustanovení § 43 odst. 1 zákona o Ústavním soudu odmítnut.\nVýzva k odstranění vad byla stěžovateli doručena dne 19. 5. 2000, lhůta k jejich odstranění marně uplynula dne 8. 6. 2000.\nV návaznosti na skutečnost, že stěžovatel neodstranil vady návrhu ve lhůtě soudem určené, tj. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 43",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákona o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "43",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-256-2000.txt::section_or_article::1368::3",
+      "document_id": "GetText.aspx_sz_1-256-2000.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-256-2000.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 43",
+      "snippet_doc_start": 1108,
+      "snippet_doc_end": 1490,
+      "snippet_text": "emž vzal na vědomí poučení Ústavního soudu o následcích neodstranění vad a rovněž s přihlédnutím k okolnosti, že návrh byl zjevně podán po lhůtě stanovené pro jeho podání (viz napadený rozsudek ze dne 28. 4. 1995), rozhodl Ústavní soud v souladu s ustanovením § 43 odst. 1 písm. a) a b) citovaného zákona tak, že návrh mimo ústní jednání bez přítomnosti účastníků usnesením odmítl.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 43",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "citovaného zákona",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "43",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_anaphora"
+        }
+      ]
+    }
+  ]
+}

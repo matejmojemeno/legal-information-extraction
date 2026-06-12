@@ -1,0 +1,582 @@
+{
+  "run_root": "data/final_runs/thesis_final_v1",
+  "analysis_dir": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1",
+  "edge_table": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1/document_reference_edge_table.jsonl",
+  "node_table": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1/document_reference_node_table.jsonl",
+  "total_edge_occurrences": 2460156,
+  "exact_edge_occurrences": 2448488,
+  "same_proceeding_edge_occurrences": 11668,
+  "unique_source_documents": 315382,
+  "unique_target_documents": 174038,
+  "unique_graph_nodes": 344492,
+  "unique_collapsed_exact_edges": 2011500,
+  "unique_collapsed_all_edges": 2015358,
+  "weak_component_count_exact": 4986,
+  "largest_weak_component_size_exact": 335444,
+  "top_n": 15,
+  "top_reference_types": [
+    {
+      "reference_type": "spisova_znacka",
+      "occurrence_count": 1348241
+    },
+    {
+      "reference_type": "cislo_jednaci",
+      "occurrence_count": 1111915
+    }
+  ],
+  "top_link_methods": [
+    {
+      "link_method": "body_exact",
+      "occurrence_count": 2357834
+    },
+    {
+      "link_method": "body_exact_canonical_document",
+      "occurrence_count": 48477
+    },
+    {
+      "link_method": "body_relaxed_uohs",
+      "occurrence_count": 28430
+    },
+    {
+      "link_method": "body_nalus_short_year",
+      "occurrence_count": 11529
+    },
+    {
+      "link_method": "body_uohs_same_proceeding",
+      "occurrence_count": 9587
+    },
+    {
+      "link_method": "body_uohs_same_proceeding_fallback",
+      "occurrence_count": 1905
+    },
+    {
+      "link_method": "body_uohs_root",
+      "occurrence_count": 1161
+    },
+    {
+      "link_method": "body_nalus_short_year_canonical_document",
+      "occurrence_count": 616
+    },
+    {
+      "link_method": "body_nalus_without_chamber",
+      "occurrence_count": 289
+    },
+    {
+      "link_method": "body_uohs_vz_short_decision",
+      "occurrence_count": 176
+    }
+  ],
+  "link_scope_counts": [
+    {
+      "link_scope": "exact_decision",
+      "occurrence_count": 2448488
+    },
+    {
+      "link_scope": "same_proceeding",
+      "occurrence_count": 11668
+    }
+  ],
+  "top_cited_documents": [
+    {
+      "document_id": "3-84-94.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-84-94.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 84/94",
+      "decision_year": 1995,
+      "exact_incoming_occurrences": 9036,
+      "exact_indegree": 8573,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "29 Cdo 2394_2013.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/29 Cdo 2394_2013.txt",
+      "source": "ns",
+      "display_identifier": "29 Cdo 2394/2013",
+      "decision_year": 2013,
+      "exact_incoming_occurrences": 9094,
+      "exact_indegree": 8016,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "4-73-03.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/4-73-03.txt",
+      "source": "nalus",
+      "display_identifier": "IV. ÚS 73/03",
+      "decision_year": 2004,
+      "exact_incoming_occurrences": 8390,
+      "exact_indegree": 7977,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "4-449-03.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/4-449-03.txt",
+      "source": "nalus",
+      "display_identifier": "IV. ÚS 449/03",
+      "decision_year": 2004,
+      "exact_incoming_occurrences": 7697,
+      "exact_indegree": 7496,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "241727.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/241727.txt",
+      "source": "nss",
+      "display_identifier": "1 Azs 13/2006 - 39",
+      "decision_year": 2006,
+      "exact_incoming_occurrences": 7462,
+      "exact_indegree": 6741,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "239280.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/239280.txt",
+      "source": "nss",
+      "display_identifier": "2 Ads 58/2003 - 75",
+      "decision_year": 2003,
+      "exact_incoming_occurrences": 6095,
+      "exact_indegree": 5822,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "619259.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/619259.txt",
+      "source": "nss",
+      "display_identifier": "4 As 3/2008 - 78",
+      "decision_year": 2010,
+      "exact_incoming_occurrences": 4869,
+      "exact_indegree": 4366,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "29 Cdo 2488_2013.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/29 Cdo 2488_2013.txt",
+      "source": "ns",
+      "display_identifier": "29 Cdo 2488/2013",
+      "decision_year": 2013,
+      "exact_incoming_occurrences": 5037,
+      "exact_indegree": 4300,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "2-279-03.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/2-279-03.txt",
+      "source": "nalus",
+      "display_identifier": "II. ÚS 279/03",
+      "decision_year": 2004,
+      "exact_incoming_occurrences": 4287,
+      "exact_indegree": 4231,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "232138.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/232138.txt",
+      "source": "nss",
+      "display_identifier": "2 Afs 24/2005 - 44",
+      "decision_year": 2005,
+      "exact_incoming_occurrences": 4502,
+      "exact_indegree": 4228,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "St-45-16_1.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/St-45-16_1.txt",
+      "source": "nalus",
+      "display_identifier": "Pl. ÚS-st. 45/16",
+      "decision_year": 2017,
+      "exact_incoming_occurrences": 4844,
+      "exact_indegree": 4056,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "29 NSCR 55_2013.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/29 NSCR 55_2013.txt",
+      "source": "ns",
+      "display_identifier": "29 NSCR 55/2013",
+      "decision_year": 2013,
+      "exact_incoming_occurrences": 4648,
+      "exact_indegree": 4038,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "3-989-08_1.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-989-08_1.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 989/08",
+      "decision_year": 2009,
+      "exact_incoming_occurrences": 4237,
+      "exact_indegree": 3969,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "238709.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/238709.txt",
+      "source": "nss",
+      "display_identifier": "4 As 5/2003 - 52",
+      "decision_year": 2004,
+      "exact_incoming_occurrences": 3969,
+      "exact_indegree": 3945,
+      "same_proceeding_incoming": 0
+    },
+    {
+      "document_id": "3-732-02.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-732-02.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 732/02",
+      "decision_year": 2003,
+      "exact_incoming_occurrences": 3731,
+      "exact_indegree": 3684,
+      "same_proceeding_incoming": 0
+    }
+  ],
+  "top_citing_documents": [
+    {
+      "document_id": "769038.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/769038.txt",
+      "source": "nss",
+      "display_identifier": "9 A 34/2025 - 432",
+      "decision_year": 2025,
+      "exact_outgoing_occurrences": 263,
+      "exact_outdegree": 133,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "442341.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/442341.txt",
+      "source": "nss",
+      "display_identifier": "50 Az 3/2018 - 181",
+      "decision_year": 2019,
+      "exact_outgoing_occurrences": 148,
+      "exact_outdegree": 123,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "28 Cdo 2457_2023.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/28 Cdo 2457_2023.txt",
+      "source": "ns",
+      "display_identifier": "28 Cdo 2457/2023",
+      "decision_year": 2023,
+      "exact_outgoing_occurrences": 134,
+      "exact_outdegree": 122,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "3 Tdo 990_2018- II..txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/3 Tdo 990_2018- II..txt",
+      "source": "ns",
+      "display_identifier": "3 Tdo 990/2018- II.",
+      "decision_year": 2018,
+      "exact_outgoing_occurrences": 178,
+      "exact_outdegree": 119,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "442368.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/442368.txt",
+      "source": "nss",
+      "display_identifier": "50 Az 4/2018 - 168",
+      "decision_year": 2019,
+      "exact_outgoing_occurrences": 146,
+      "exact_outdegree": 119,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "446396.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/446396.txt",
+      "source": "nss",
+      "display_identifier": "50 Az 2/2018 - 144",
+      "decision_year": 2018,
+      "exact_outgoing_occurrences": 130,
+      "exact_outdegree": 114,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "8 Tdo 340_2021.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/8 Tdo 340_2021.txt",
+      "source": "ns",
+      "display_identifier": "8 Tdo 340/2021",
+      "decision_year": 2021,
+      "exact_outgoing_occurrences": 152,
+      "exact_outdegree": 103,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "6 Tdo 360_2020.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/6 Tdo 360_2020.txt",
+      "source": "ns",
+      "display_identifier": "6 Tdo 360/2020",
+      "decision_year": 2021,
+      "exact_outgoing_occurrences": 136,
+      "exact_outdegree": 103,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "Pl-32-16_1.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/Pl-32-16_1.txt",
+      "source": "nalus",
+      "display_identifier": "Pl. ÚS 32/16",
+      "decision_year": 2017,
+      "exact_outgoing_occurrences": 116,
+      "exact_outdegree": 102,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "439035.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/439035.txt",
+      "source": "nss",
+      "display_identifier": "36 Az 4/2018",
+      "decision_year": 2019,
+      "exact_outgoing_occurrences": 111,
+      "exact_outdegree": 101,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "3-2607-21_1.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-2607-21_1.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 2607/21",
+      "decision_year": 2022,
+      "exact_outgoing_occurrences": 104,
+      "exact_outdegree": 101,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "30 Cdo 2797_2024.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/30 Cdo 2797_2024.txt",
+      "source": "ns",
+      "display_identifier": "30 Cdo 2797/2024",
+      "decision_year": 2024,
+      "exact_outgoing_occurrences": 101,
+      "exact_outdegree": 100,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "592353.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/592353.txt",
+      "source": "nss",
+      "display_identifier": "50 Az 2/2020 - 82",
+      "decision_year": 2020,
+      "exact_outgoing_occurrences": 122,
+      "exact_outdegree": 99,
+      "same_proceeding_outgoing": 0
+    },
+    {
+      "document_id": "2022_R0003.txt",
+      "document_path": "data/imports/parent_bucket_texts/uohs/2022_R0003.txt",
+      "source": "uohs",
+      "display_identifier": "R0003/2022",
+      "decision_year": 2022,
+      "exact_outgoing_occurrences": 124,
+      "exact_outdegree": 96,
+      "same_proceeding_outgoing": 1
+    },
+    {
+      "document_id": "Pl-20-21_1.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/Pl-20-21_1.txt",
+      "source": "nalus",
+      "display_identifier": "Pl. ÚS 20/21",
+      "decision_year": 2021,
+      "exact_outgoing_occurrences": 113,
+      "exact_outdegree": 95,
+      "same_proceeding_outgoing": 0
+    }
+  ],
+  "top_pagerank_documents": [
+    {
+      "document_id": "3-23-93.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-23-93.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 23/93",
+      "decision_year": 1994,
+      "pagerank": 0.011924011519381774,
+      "exact_indegree": 3360,
+      "exact_incoming_occurrences": 3439
+    },
+    {
+      "document_id": "3-84-94.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-84-94.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 84/94",
+      "decision_year": 1995,
+      "pagerank": 0.008114449088321781,
+      "exact_indegree": 8573,
+      "exact_incoming_occurrences": 9036
+    },
+    {
+      "document_id": "241727.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/241727.txt",
+      "source": "nss",
+      "display_identifier": "1 Azs 13/2006 - 39",
+      "decision_year": 2006,
+      "pagerank": 0.0020324740388395156,
+      "exact_indegree": 6741,
+      "exact_incoming_occurrences": 7462
+    },
+    {
+      "document_id": "3-224-98.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-224-98.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 224/98",
+      "decision_year": 1999,
+      "pagerank": 0.0018795910972694684,
+      "exact_indegree": 2164,
+      "exact_incoming_occurrences": 2206
+    },
+    {
+      "document_id": "31 Nd 200_2012.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/31 Nd 200_2012.txt",
+      "source": "ns",
+      "display_identifier": "31 Nd 200/2012",
+      "decision_year": 2012,
+      "pagerank": 0.001858538622637689,
+      "exact_indegree": 3399,
+      "exact_incoming_occurrences": 3715
+    },
+    {
+      "document_id": "Pl-16-93.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/Pl-16-93.txt",
+      "source": "nalus",
+      "display_identifier": "Pl. ÚS 16/93",
+      "decision_year": 1994,
+      "pagerank": 0.001847327370660342,
+      "exact_indegree": 226,
+      "exact_incoming_occurrences": 270
+    },
+    {
+      "document_id": "4-73-03.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/4-73-03.txt",
+      "source": "nalus",
+      "display_identifier": "IV. ÚS 73/03",
+      "decision_year": 2004,
+      "pagerank": 0.0017425369173375636,
+      "exact_indegree": 7977,
+      "exact_incoming_occurrences": 8390
+    },
+    {
+      "document_id": "3-150-93.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-150-93.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 150/93",
+      "decision_year": 1994,
+      "pagerank": 0.0017326244473543381,
+      "exact_indegree": 1189,
+      "exact_incoming_occurrences": 1215
+    },
+    {
+      "document_id": "239280.txt",
+      "document_path": "data/imports/parent_bucket_texts/nss/239280.txt",
+      "source": "nss",
+      "display_identifier": "2 Ads 58/2003 - 75",
+      "decision_year": 2003,
+      "pagerank": 0.0017224406362032626,
+      "exact_indegree": 5822,
+      "exact_incoming_occurrences": 6095
+    },
+    {
+      "document_id": "4-252-95.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/4-252-95.txt",
+      "source": "nalus",
+      "display_identifier": "IV. ÚS 252/95",
+      "decision_year": 1996,
+      "pagerank": 0.0016777856054710268,
+      "exact_indegree": 6,
+      "exact_incoming_occurrences": 7
+    },
+    {
+      "document_id": "3-142-98.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-142-98.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 142/98",
+      "decision_year": 1998,
+      "pagerank": 0.0015667452941063177,
+      "exact_indegree": 126,
+      "exact_incoming_occurrences": 138
+    },
+    {
+      "document_id": "29 Cdo 2394_2013.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/29 Cdo 2394_2013.txt",
+      "source": "ns",
+      "display_identifier": "29 Cdo 2394/2013",
+      "decision_year": 2013,
+      "pagerank": 0.0015639783258376142,
+      "exact_indegree": 8016,
+      "exact_incoming_occurrences": 9094
+    },
+    {
+      "document_id": "29 NSCR 55_2013.txt",
+      "document_path": "data/imports/parent_bucket_texts/ns/29 NSCR 55_2013.txt",
+      "source": "ns",
+      "display_identifier": "29 NSCR 55/2013",
+      "decision_year": 2013,
+      "pagerank": 0.0015529788658250022,
+      "exact_indegree": 4038,
+      "exact_incoming_occurrences": 4648
+    },
+    {
+      "document_id": "4-565-02.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/4-565-02.txt",
+      "source": "nalus",
+      "display_identifier": "IV. ÚS 565/02",
+      "decision_year": 2003,
+      "pagerank": 0.001547054100260751,
+      "exact_indegree": 197,
+      "exact_incoming_occurrences": 211
+    },
+    {
+      "document_id": "3-114-93.txt",
+      "document_path": "data/imports/parent_bucket_texts/nalus/3-114-93.txt",
+      "source": "nalus",
+      "display_identifier": "III. ÚS 114/93",
+      "decision_year": 1994,
+      "pagerank": 0.0015104790887016317,
+      "exact_indegree": 41,
+      "exact_incoming_occurrences": 46
+    }
+  ],
+  "component_sizes_exact_top20": [
+    335444,
+    18,
+    14,
+    12,
+    11,
+    11,
+    11,
+    11,
+    10,
+    10,
+    9,
+    9,
+    9,
+    8,
+    8,
+    8,
+    8,
+    7,
+    7,
+    7
+  ],
+  "plots": {
+    "top_cited_documents_png_written": true,
+    "top_citing_documents_png_written": true,
+    "top_pagerank_documents_png_written": true,
+    "source_to_source_heatmap_courts_png_written": true,
+    "source_to_source_heatmap_normalized_all_sources_png_written": true,
+    "small_citation_subgraph_png_written": true
+  },
+  "subgraph_description": {
+    "central_document_id": "3-84-94.txt",
+    "central_label": "III. ÚS 84/94",
+    "incoming_neighbors": 10,
+    "outgoing_neighbors": 1
+  },
+  "uohs_scope_summary": [
+    {
+      "scope": "uohs_exact_decision",
+      "occurrence_count": 60770
+    },
+    {
+      "scope": "uohs_same_proceeding",
+      "occurrence_count": 11668
+    }
+  ],
+  "normalized_heatmap_note": "Cells are normalized by the number of documents in the source institution and reported as citations per 1 000 source documents."
+}

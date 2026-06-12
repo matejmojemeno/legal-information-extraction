@@ -1,0 +1,886 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.170133+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "2021_S0666.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2021_S0666.txt",
+  "task_count": 29,
+  "tasks": [
+    {
+      "task_id": "2021_S0666.txt::section_or_article::1233::534",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 248",
+      "snippet_doc_start": 973,
+      "snippet_doc_end": 1498,
+      "snippet_text": "mlouvě na veřejnou zakázku dne 16. 10. 2020 na profilu \nzadavatele dostupném z https://www.kdv.cz/pza_zakazka.php?ic=71205501&id=4413.   \nPOSTUP ÚŘADU PŘED VYDÁNÍM PŘÍKAZU \n3. \nÚřad pro ochranu hospodářské soutěže (dále jen „Úřad“), jako orgán příslušný podle § 248 \nzákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů (dále jen \n„zákon“) k výkonu dozoru nad dodržováním pravidel stanovených zákonem a zadávacími \npodmínkami pro zadání podlimitní a nadlimitní veřejné zakázky, včetně koncese s ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 248",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "248",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::law_id_mention::1250::535",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "134/2016 Sb.",
+      "snippet_doc_start": 990,
+      "snippet_doc_end": 1522,
+      "snippet_text": "u zakázku dne 16. 10. 2020 na profilu \nzadavatele dostupném z https://www.kdv.cz/pza_zakazka.php?ic=71205501&id=4413.   \nPOSTUP ÚŘADU PŘED VYDÁNÍM PŘÍKAZU \n3. \nÚřad pro ochranu hospodářské soutěže (dále jen „Úřad“), jako orgán příslušný podle § 248 \nzákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů (dále jen \n„zákon“) k výkonu dozoru nad dodržováním pravidel stanovených zákonem a zadávacími \npodmínkami pro zadání podlimitní a nadlimitní veřejné zakázky, včetně koncese s výjimkou \nkoncesí malého",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "134/2016 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::1537::536",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 178",
+      "snippet_doc_start": 1277,
+      "snippet_doc_end": 1802,
+      "snippet_text": "řejných zakázek, ve znění pozdějších předpisů (dále jen \n„zákon“) k výkonu dozoru nad dodržováním pravidel stanovených zákonem a zadávacími \npodmínkami pro zadání podlimitní a nadlimitní veřejné zakázky, včetně koncese s výjimkou \nkoncesí malého rozsahu podle § 178 zákona, a pro zvláštní postupy podle části šesté zákona, \nobdržel dne 11. 11. 2021 podnět s žádostí o prošetření postupu zadavatele ve věci výše \nuvedené veřejné zakázky. \n4. \nNa základě uvedeného podnětu si Úřad vyžádal od obviněného smlouvu uzavřenou na výš",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 178",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "178",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::2279::537",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 90",
+      "snippet_doc_start": 2019,
+      "snippet_doc_end": 2543,
+      "snippet_text": "í Dodatku nebylo jeho záměrem a má za to, \nže pozdní uveřejnění Dodatku nemělo žádný vliv na transparentnost této zakázky a jedná se \npouze o nedostatek formálního charakteru, kterým nebyla způsobena újma na právech \npodatele podnětu. \nZÁVĚRY ÚŘADU \n5. \nPodle § 90 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich (dále \njen „přestupkový zákon“), správní orgán může o přestupku rozhodnout příkazem. Podle § 150 \nodst. 1 věty druhé zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 90",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "250/2016 Sb.",
+          "law_name_text": "přestupkový zákon",
+          "declared_alias_text": "přestupkový zákon",
+          "detail_number": "90",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:prestupkovy_zakon_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::law_id_mention::2302::538",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "250/2016 Sb.",
+      "snippet_doc_start": 2042,
+      "snippet_doc_end": 2574,
+      "snippet_text": "áměrem a má za to, \nže pozdní uveřejnění Dodatku nemělo žádný vliv na transparentnost této zakázky a jedná se \npouze o nedostatek formálního charakteru, kterým nebyla způsobena újma na právech \npodatele podnětu. \nZÁVĚRY ÚŘADU \n5. \nPodle § 90 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich (dále \njen „přestupkový zákon“), správní orgán může o přestupku rozhodnout příkazem. Podle § 150 \nodst. 1 věty druhé zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen \n„správní řád“), přík",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "250/2016 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "250/2016 Sb.",
+          "law_name_text": "zákon o odpovědnosti za přestupky a řízení o nich",
+          "declared_alias_text": "přestupkový zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:prestupkovy_zakon_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::2451::539",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 150",
+      "snippet_doc_start": 2191,
+      "snippet_doc_end": 2716,
+      "snippet_text": "ru, kterým nebyla způsobena újma na právech \npodatele podnětu. \nZÁVĚRY ÚŘADU \n5. \nPodle § 90 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich (dále \njen „přestupkový zákon“), správní orgán může o přestupku rozhodnout příkazem. Podle § 150 \nodst. 1 věty druhé zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen \n„správní řád“), příkaz může správní orgán vydat, považuje-li skutkové zjištění za dostatečné; \nvydání příkazu může být prvním úkonem v řízení. Úřad konstatuje, že",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 150",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "150",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::law_id_mention::2487::540",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "500/2004 Sb.",
+      "snippet_doc_start": 2227,
+      "snippet_doc_end": 2759,
+      "snippet_text": "právech \npodatele podnětu. \nZÁVĚRY ÚŘADU \n5. \nPodle § 90 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich (dále \njen „přestupkový zákon“), správní orgán může o přestupku rozhodnout příkazem. Podle § 150 \nodst. 1 věty druhé zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen \n„správní řád“), příkaz může správní orgán vydat, považuje-li skutkové zjištění za dostatečné; \nvydání příkazu může být prvním úkonem v řízení. Úřad konstatuje, že byly dostatečně zjištěny \nskutkové okolnos",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "500/2004 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::2925::541",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 219",
+      "snippet_doc_start": 2665,
+      "snippet_doc_end": 3190,
+      "snippet_text": "ůže být prvním úkonem v řízení. Úřad konstatuje, že byly dostatečně zjištěny \nskutkové okolnosti pro vydání tohoto příkazu, přičemž vydání příkazu je prvním úkonem \nv řízení o přestupku. \nK výroku I. příkazu \nRelevantní ustanovení právních předpisů \n6. \nPodle § 219 odst. 1 zákona veřejný zadavatel uveřejní na profilu zadavatele smlouvu \nuzavřenou na veřejnou zakázku včetně všech jejích změn a dodatků, a to do 15 dnů od jejich \nuzavření nebo od konce každého čtvrtletí v případě veřejných zakázek zadávaných na základě \nrá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 219",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "219",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::3434::542",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 29",
+      "snippet_doc_start": 3174,
+      "snippet_doc_end": 3698,
+      "snippet_text": "h na základě \nrámcové dohody nebo v dynamickém nákupním systému. To neplatí pro \na. \nsmlouvu na veřejnou zakázku, jejíž cena nepřesáhne 500 000 Kč bez daně z přidané \nhodnoty,  \nb. \nsmlouvu na veřejnou zakázku, u které veřejný zadavatel postupoval v souladu s § 29 \npísm. a) až c) a písm. l) bod 2, § 30 písm. d) nebo § 191 odst. 2 písm. e) zákona,  \nc. \npro zadavatele, který je zpravodajskou službou podle jiného právního předpisu, nebo  \nd. \nsmlouvu uveřejněnou podle jiného právního předpisu. \n7. \nPodle § 269 odst. 2 zá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 29",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "29",
+          "detail_odst": [],
+          "detail_pism": [
+            "a",
+            "b",
+            "c",
+            "l"
+          ],
+          "confidence": 0.98,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::3473::543",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 30",
+      "snippet_doc_start": 3213,
+      "snippet_doc_end": 3737,
+      "snippet_text": "amickém nákupním systému. To neplatí pro \na. \nsmlouvu na veřejnou zakázku, jejíž cena nepřesáhne 500 000 Kč bez daně z přidané \nhodnoty,  \nb. \nsmlouvu na veřejnou zakázku, u které veřejný zadavatel postupoval v souladu s § 29 \npísm. a) až c) a písm. l) bod 2, § 30 písm. d) nebo § 191 odst. 2 písm. e) zákona,  \nc. \npro zadavatele, který je zpravodajskou službou podle jiného právního předpisu, nebo  \nd. \nsmlouvu uveřejněnou podle jiného právního předpisu. \n7. \nPodle § 269 odst. 2 zákona se veřejný zadavatel dopustí přest",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 30",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "30",
+          "detail_odst": [],
+          "detail_pism": [
+            "d"
+          ],
+          "confidence": 0.98,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::3492::544",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 191",
+      "snippet_doc_start": 3232,
+      "snippet_doc_end": 3757,
+      "snippet_text": "stému. To neplatí pro \na. \nsmlouvu na veřejnou zakázku, jejíž cena nepřesáhne 500 000 Kč bez daně z přidané \nhodnoty,  \nb. \nsmlouvu na veřejnou zakázku, u které veřejný zadavatel postupoval v souladu s § 29 \npísm. a) až c) a písm. l) bod 2, § 30 písm. d) nebo § 191 odst. 2 písm. e) zákona,  \nc. \npro zadavatele, který je zpravodajskou službou podle jiného právního předpisu, nebo  \nd. \nsmlouvu uveřejněnou podle jiného právního předpisu. \n7. \nPodle § 269 odst. 2 zákona se veřejný zadavatel dopustí přestupku při uveřejňován",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 191",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "191",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "e"
+          ],
+          "confidence": 0.98,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::3682::545",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 269",
+      "snippet_doc_start": 3422,
+      "snippet_doc_end": 3947,
+      "snippet_text": "v souladu s § 29 \npísm. a) až c) a písm. l) bod 2, § 30 písm. d) nebo § 191 odst. 2 písm. e) zákona,  \nc. \npro zadavatele, který je zpravodajskou službou podle jiného právního předpisu, nebo  \nd. \nsmlouvu uveřejněnou podle jiného právního předpisu. \n7. \nPodle § 269 odst. 2 zákona se veřejný zadavatel dopustí přestupku při uveřejňování podle \ntohoto zákona tím, že neuveřejní uzavřenou smlouvu na veřejnou zakázku podle § 219 odst. 1 \nzákona. \nZjištěné skutečnosti \n8. \nObviněný uzavřel dne 2. 3. 2020 s vybraným dodavatelem",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 269",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "269",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::3843::546",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 219",
+      "snippet_doc_start": 3583,
+      "snippet_doc_end": 4108,
+      "snippet_text": "iného právního předpisu, nebo  \nd. \nsmlouvu uveřejněnou podle jiného právního předpisu. \n7. \nPodle § 269 odst. 2 zákona se veřejný zadavatel dopustí přestupku při uveřejňování podle \ntohoto zákona tím, že neuveřejní uzavřenou smlouvu na veřejnou zakázku podle § 219 odst. 1 \nzákona. \nZjištěné skutečnosti \n8. \nObviněný uzavřel dne 2. 3. 2020 s vybraným dodavatelem Smlouvu na provedení veřejné \nzakázky.  \n9. \nPodle čl. IV Smlouvy činí cena za plnění veřejné zakázky částku 1 150 000 Kč bez DPH. \n10. \nDne 30. 7. 2020 obviněn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 219",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "219",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::4569::547",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 219",
+      "snippet_doc_start": 4309,
+      "snippet_doc_end": 4834,
+      "snippet_text": "jněn dne 16. 10. 2020. \n12. \nPlatný profil zadavatele na adrese https://www.kdv.cz/profil.php?ic=71205501 byl pod \nev. č. 344141 zveřejněn ve Věstníku veřejných zakázek dne 28. 1. 2013. \nPrávní posouzení \n13. \nÚřad nejprve v obecné rovině uvádí, že ustanovení § 219 odst. 1 zákona upravuje povinnost \nveřejného zadavatele uveřejnit na profilu zadavatele smlouvu na veřejnou zakázku včetně \nvšech jejích změn a dodatků, a to do 15 dnů od jejich uzavření. Uveřejnění smlouvy umožňuje \nkontrolu vynakládání veřejných prostředků ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 219",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "219",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::4954::548",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 4694,
+      "snippet_doc_end": 5217,
+      "snippet_text": "tně \nvšech jejích změn a dodatků, a to do 15 dnů od jejich uzavření. Uveřejnění smlouvy umožňuje \nkontrolu vynakládání veřejných prostředků zadavatelem ze strany ostatních subjektů\n(veřejnosti), a výrazně se v něm tak promítá zásada transparentnosti uvedená v § 6 odst. 1 \nzákona. \n14. \nÚřad dále v obecné rovině dodává, že v § 219 odst. 1 písm. a) – d) zákona je výslovně \nstanoveno, na které smlouvy, případně zadavatele, se povinnost uveřejnění smluv na profilu \nzadavatele nevztahuje. Úřad v této souvislosti konstatuje",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "6",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::5020::549",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 219",
+      "snippet_doc_start": 4760,
+      "snippet_doc_end": 5285,
+      "snippet_text": "í. Uveřejnění smlouvy umožňuje \nkontrolu vynakládání veřejných prostředků zadavatelem ze strany ostatních subjektů\n(veřejnosti), a výrazně se v něm tak promítá zásada transparentnosti uvedená v § 6 odst. 1 \nzákona. \n14. \nÚřad dále v obecné rovině dodává, že v § 219 odst. 1 písm. a) – d) zákona je výslovně \nstanoveno, na které smlouvy, případně zadavatele, se povinnost uveřejnění smluv na profilu \nzadavatele nevztahuje. Úřad v této souvislosti konstatuje, že žádná z výjimek dle § 219 odst. 1 \npísm. a) až d) zákona v šetř",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 219",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "219",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::5242::550",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 219",
+      "snippet_doc_start": 4982,
+      "snippet_doc_end": 5507,
+      "snippet_text": "řad dále v obecné rovině dodává, že v § 219 odst. 1 písm. a) – d) zákona je výslovně \nstanoveno, na které smlouvy, případně zadavatele, se povinnost uveřejnění smluv na profilu \nzadavatele nevztahuje. Úřad v této souvislosti konstatuje, že žádná z výjimek dle § 219 odst. 1 \npísm. a) až d) zákona v šetřeném případě není naplněna. \n15. \nZ výše uvedeného tedy jednoznačně vyplývá, že jelikož byl Dodatek uzavřen dne 30. 7. 2020, \nobviněný byl povinen jej na profilu zadavatele uveřejnit nejpozději dne 14. 8. 2020. Obviněný \nt",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 219",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "219",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::5703::551",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 269",
+      "snippet_doc_start": 5443,
+      "snippet_doc_end": 5968,
+      "snippet_text": "ilu zadavatele uveřejnit nejpozději dne 14. 8. 2020. Obviněný \ntuto svou povinnost v zákonné lhůtě, tzn. uveřejnění Dodatku do 15 dnů od jeho uzavření \nnesplnil, když Dodatek na profilu zadavatele uveřejnil až dne 16. 10. 2020 a dopustil se tak \npřestupku dle § 269 odst. 2 zákona, jak je uvedeno ve výroku I. tohoto příkazu. \nK výroku II. příkazu – uložení pokuty \n16. \nÚřad považuje ve smyslu ustanovení § 150 odst. 1 správního řádu v návaznosti na § 90 \npřestupkového zákona skutková zjištění za dostatečná a s ohledem na ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 269",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "269",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::5849::552",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 150",
+      "snippet_doc_start": 5589,
+      "snippet_doc_end": 6114,
+      "snippet_text": "ření \nnesplnil, když Dodatek na profilu zadavatele uveřejnil až dne 16. 10. 2020 a dopustil se tak \npřestupku dle § 269 odst. 2 zákona, jak je uvedeno ve výroku I. tohoto příkazu. \nK výroku II. příkazu – uložení pokuty \n16. \nÚřad považuje ve smyslu ustanovení § 150 odst. 1 správního řádu v návaznosti na § 90 \npřestupkového zákona skutková zjištění za dostatečná a s ohledem na výše uvedené považuje \nza prokázané, že se obviněný dopustil přestupku při uveřejňování podle § 269 odst. 2 zákona, \njak je uvedeno ve výroku I. t",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 150",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správního řádu",
+          "detail_number": "150",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::5894::553",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 90",
+      "snippet_doc_start": 5634,
+      "snippet_doc_end": 6158,
+      "snippet_text": "atele uveřejnil až dne 16. 10. 2020 a dopustil se tak \npřestupku dle § 269 odst. 2 zákona, jak je uvedeno ve výroku I. tohoto příkazu. \nK výroku II. příkazu – uložení pokuty \n16. \nÚřad považuje ve smyslu ustanovení § 150 odst. 1 správního řádu v návaznosti na § 90 \npřestupkového zákona skutková zjištění za dostatečná a s ohledem na výše uvedené považuje \nza prokázané, že se obviněný dopustil přestupku při uveřejňování podle § 269 odst. 2 zákona, \njak je uvedeno ve výroku I. tohoto příkazu. \n17. \nOdpovědnost za přestupe",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 90",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "250/2016 Sb.",
+          "law_name_text": "přestupkový zákon",
+          "declared_alias_text": "přestupkového zákona",
+          "detail_number": "90",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:prestupkovy_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::6062::554",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 269",
+      "snippet_doc_start": 5802,
+      "snippet_doc_end": 6327,
+      "snippet_text": "okuty \n16. \nÚřad považuje ve smyslu ustanovení § 150 odst. 1 správního řádu v návaznosti na § 90 \npřestupkového zákona skutková zjištění za dostatečná a s ohledem na výše uvedené považuje \nza prokázané, že se obviněný dopustil přestupku při uveřejňování podle § 269 odst. 2 zákona, \njak je uvedeno ve výroku I. tohoto příkazu. \n17. \nOdpovědnost za přestupek zaniká mj. uplynutím promlčecí doby, která podle § 270 odst. 5 \nzákona činí 5 let. \n18. \nPodle § 31 odst. 1 přestupkového zákona počíná promlčecí doba běžet dnem násle",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 269",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "269",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::6209::555",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 270",
+      "snippet_doc_start": 5949,
+      "snippet_doc_end": 6474,
+      "snippet_text": "čná a s ohledem na výše uvedené považuje \nza prokázané, že se obviněný dopustil přestupku při uveřejňování podle § 269 odst. 2 zákona, \njak je uvedeno ve výroku I. tohoto příkazu. \n17. \nOdpovědnost za přestupek zaniká mj. uplynutím promlčecí doby, která podle § 270 odst. 5 \nzákona činí 5 let. \n18. \nPodle § 31 odst. 1 přestupkového zákona počíná promlčecí doba běžet dnem následujícím \npo dni spáchání přestupku; dnem spáchání přestupku se rozumí den, kdy došlo k ukončení \njednání, kterým byl přestupek spáchán. Je-li znake",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 270",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "270",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::6255::556",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 31",
+      "snippet_doc_start": 5995,
+      "snippet_doc_end": 6519,
+      "snippet_text": "rokázané, že se obviněný dopustil přestupku při uveřejňování podle § 269 odst. 2 zákona, \njak je uvedeno ve výroku I. tohoto příkazu. \n17. \nOdpovědnost za přestupek zaniká mj. uplynutím promlčecí doby, která podle § 270 odst. 5 \nzákona činí 5 let. \n18. \nPodle § 31 odst. 1 přestupkového zákona počíná promlčecí doba běžet dnem následujícím \npo dni spáchání přestupku; dnem spáchání přestupku se rozumí den, kdy došlo k ukončení \njednání, kterým byl přestupek spáchán. Je-li znakem přestupku účinek, promlčecí doba počíná \nbě",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 31",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "250/2016 Sb.",
+          "law_name_text": "přestupkový zákon",
+          "declared_alias_text": "přestupkového zákona",
+          "detail_number": "31",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:prestupkovy_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::6674::557",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 270",
+      "snippet_doc_start": 6414,
+      "snippet_doc_end": 6939,
+      "snippet_text": "ukončení \njednání, kterým byl přestupek spáchán. Je-li znakem přestupku účinek, promlčecí doba počíná \nběžet dnem následujícím po dni, kdy takový účinek nastal. \n19. \nV návaznosti na výše uvedené Úřad před uložením pokuty ověřil, zda již neuplynula lhůta \ndle § 270 odst. 5 zákona. Ke spáchání přestupku uvedeného ve výroku I. došlo dne 15. 8. 2020, \ntj. první den po marném uplynutí zákonné lhůty pro uveřejnění Dodatku na profilu zadavatele. \nŘízení o přestupku je zahájeno dnem doručení tohoto příkazu. Z uvedeného vyplývá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 270",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "270",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::7153::558",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 269",
+      "snippet_doc_start": 6893,
+      "snippet_doc_end": 7418,
+      "snippet_text": "m doručení tohoto příkazu. Z uvedeného vyplývá, \nže promlčecí doba ve vztahu k projednávanému přestupku neuplynula a odpovědnost \nobviněného za projednávaný přestupek uplynutím promlčecí doby nezanikla. \n20. \nV daném případě se obviněný dopustil přestupku dle § 269 odst. 2 zákona. Podle ustanovení \n§ 269 odst. 3 písm. a) zákona se za přestupek uloží pokuta do 1 000 000 Kč, jde-li o přestupek \npodle ustanovení § 269 odst. 2 zákona. \n21. \nPodle § 37 písm. a) a c) přestupkového zákona se při určení druhu správního trestu a",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 269",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "269",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::7193::559",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 269",
+      "snippet_doc_start": 6933,
+      "snippet_doc_end": 7458,
+      "snippet_text": "yplývá, \nže promlčecí doba ve vztahu k projednávanému přestupku neuplynula a odpovědnost \nobviněného za projednávaný přestupek uplynutím promlčecí doby nezanikla. \n20. \nV daném případě se obviněný dopustil přestupku dle § 269 odst. 2 zákona. Podle ustanovení \n§ 269 odst. 3 písm. a) zákona se za přestupek uloží pokuta do 1 000 000 Kč, jde-li o přestupek \npodle ustanovení § 269 odst. 2 zákona. \n21. \nPodle § 37 písm. a) a c) přestupkového zákona se při určení druhu správního trestu a jeho \nvýměry přihlédne zejména k povaze",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 269",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "269",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::7306::560",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 269",
+      "snippet_doc_start": 7046,
+      "snippet_doc_end": 7571,
+      "snippet_text": "aný přestupek uplynutím promlčecí doby nezanikla. \n20. \nV daném případě se obviněný dopustil přestupku dle § 269 odst. 2 zákona. Podle ustanovení \n§ 269 odst. 3 písm. a) zákona se za přestupek uloží pokuta do 1 000 000 Kč, jde-li o přestupek \npodle ustanovení § 269 odst. 2 zákona. \n21. \nPodle § 37 písm. a) a c) přestupkového zákona se při určení druhu správního trestu a jeho \nvýměry přihlédne zejména k povaze a závažnosti přestupku a k přitěžujícím a polehčujícím \nokolnostem. \n22. \nPodle § 38 přestupkového zákona je pov",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 269",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "134/2016 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákona",
+          "detail_number": "269",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zzvz_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::7340::561",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 37",
+      "snippet_doc_start": 7080,
+      "snippet_doc_end": 7604,
+      "snippet_text": "doby nezanikla. \n20. \nV daném případě se obviněný dopustil přestupku dle § 269 odst. 2 zákona. Podle ustanovení \n§ 269 odst. 3 písm. a) zákona se za přestupek uloží pokuta do 1 000 000 Kč, jde-li o přestupek \npodle ustanovení § 269 odst. 2 zákona. \n21. \nPodle § 37 písm. a) a c) přestupkového zákona se při určení druhu správního trestu a jeho \nvýměry přihlédne zejména k povaze a závažnosti přestupku a k přitěžujícím a polehčujícím \nokolnostem. \n22. \nPodle § 38 přestupkového zákona je povaha a závažnost přestupku dána ze",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 37",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "250/2016 Sb.",
+          "law_name_text": "přestupkový zákon",
+          "declared_alias_text": "přestupkového zákona",
+          "detail_number": "37",
+          "detail_odst": [],
+          "detail_pism": [
+            "a",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:prestupkovy_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "2021_S0666.txt::section_or_article::7539::562",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 38",
+      "snippet_doc_start": 7279,
+      "snippet_doc_end": 7803,
+      "snippet_text": "řestupek \npodle ustanovení § 269 odst. 2 zákona. \n21. \nPodle § 37 písm. a) a c) přestupkového zákona se při určení druhu správního trestu a jeho \nvýměry přihlédne zejména k povaze a závažnosti přestupku a k přitěžujícím a polehčujícím \nokolnostem. \n22. \nPodle § 38 přestupkového zákona je povaha a závažnost přestupku dána zejména významem \nzákonem chráněného zájmu, který byl přestupkem porušen nebo ohrožen, dále významem \na rozsahem následku přestupku a okolnostmi jeho spáchání (Úřad zde uvádí pouze ty \nskutečnosti cito",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 38",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "250/2016 Sb.",
+          "law_name_text": "přestupkový zákon",
+          "declared_alias_text": "přestupkového zákona",
+          "detail_number": "38",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:prestupkovy_zakon_alias"
+        }
+      ]
+    }
+  ]
+}

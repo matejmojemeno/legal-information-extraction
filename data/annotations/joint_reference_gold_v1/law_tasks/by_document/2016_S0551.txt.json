@@ -1,0 +1,2055 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.168664+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "2016_S0551.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2016_S0551.txt",
+  "task_count": 66,
+  "tasks": [
+    {
+      "task_id": "2016_S0551.txt::section_or_article::78::468",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 112",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 343,
+      "snippet_text": " \n \n1. Úřad pro ochranu hospodářské soutěže (dále jen „Úřad“), který je podle § 112 zákona \nč. 137/2006 Sb., o veřejných zakázkách, v rozhodném znění (dále jen „zákon“), příslušný \nk dohledu nad postupem zadavatele při zadávání veřejných zakázek a soutěži o návrh \na k projednání správních deliktů podle tohoto zákona, včetně ukládání sankce z",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 112",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::law_id_mention::95::469",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "137/2006 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 367,
+      "snippet_text": " \n \n1. Úřad pro ochranu hospodářské soutěže (dále jen „Úřad“), který je podle § 112 zákona \nč. 137/2006 Sb., o veřejných zakázkách, v rozhodném znění (dále jen „zákon“), příslušný \nk dohledu nad postupem zadavatele při zadávání veřejných zakázek a soutěži o návrh \na k projednání správních deliktů podle tohoto zákona, včetně ukládání sankce za jejich \nspáchání, obdr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "137/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon o veřejných zakázkách",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::2369::470",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 2109,
+      "snippet_doc_end": 2633,
+      "snippet_text": ".5 písm. a) zadávací dokumentace zadavatel k prokázání splnění technických \nkvalifikačních předpokladů požadoval předložení seznamu nejvýznamnějších staveb \nprovedených uchazečem o veřejnou zakázku za posledních pět let. Technický kvalifikační \npředpoklad dle § 56 odst. 5 písm. c) zákona č. 137/2006 Sb., o veřejných zakázkách, \nv rozhodném znění (dále jen „zákon“) měl splnit takový uchazeč, který by v uvedeném \nseznamu uvedl alespoň tři provedené rekonstrukce budov občanské výstavby, přičemž každá \nz nich měla být ve f",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [
+            "a",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::law_id_mention::2401::471",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "137/2006 Sb.",
+      "snippet_doc_start": 2141,
+      "snippet_doc_end": 2673,
+      "snippet_text": " zadavatel k prokázání splnění technických \nkvalifikačních předpokladů požadoval předložení seznamu nejvýznamnějších staveb \nprovedených uchazečem o veřejnou zakázku za posledních pět let. Technický kvalifikační \npředpoklad dle § 56 odst. 5 písm. c) zákona č. 137/2006 Sb., o veřejných zakázkách, \nv rozhodném znění (dále jen „zákon“) měl splnit takový uchazeč, který by v uvedeném \nseznamu uvedl alespoň tři provedené rekonstrukce budov občanské výstavby, přičemž každá \nz nich měla být ve finanční hodnotě alespoň 8 000 000 Kč bez",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "137/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon o veřejných zakázkách",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::3044::472",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 2784,
+      "snippet_doc_end": 3308,
+      "snippet_text": "ba \ndoprovodné technické infrastruktury (parkoviště, komunikace). \n8. Z dopisu zadavatele č. j.: MVS-2059/2016 ze dne 18. 7. 2016, který Úřad obdržel mimo správní \nřízení, vyplývá, že zadavatel požadoval k prokázání technických kvalifikačních předpokladů \ndle § 56 odst. 3 písm. a) zákona předložení dokladů o realizaci alespoň tří provedených \nrekonstrukcí budov občanské výstavby, přičemž každá z nich měla být ve finanční hodnotě \nalespoň 8 000 000 Kč bez DPH a být realizovaná v posledních pěti letech. \n9. Dle „Oznámení",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::3801::473",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 3541,
+      "snippet_doc_end": 4065,
+      "snippet_text": "stého 1311/29A, 400 03 \nÚstí nad Labem, přičemž celková konečná hodnota zakázky byla stanovena na 9 014 107,96 Kč \nvč. DPH. \n10. Na základě výše uvedených skutečností získal Úřad pochybnosti o tom, zda zadavatel neporušil \nzákon tím, že postupoval v rozporu s § 56 odst. 5 zákona, když v čl. 5.5. písm. a) zadávací \ndokumentace stanovil k prokázání technických kvalifikačních předpokladů předložení seznamu \nvýznamných stavebních zakázek a příslušných osvědčení dle § 56 odst. 3 písm. a) zákona \no realizaci minimálně tří st",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::3829::474",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 5",
+      "snippet_doc_start": 3569,
+      "snippet_doc_end": 4094,
+      "snippet_text": " nad Labem, přičemž celková konečná hodnota zakázky byla stanovena na 9 014 107,96 Kč \nvč. DPH. \n10. Na základě výše uvedených skutečností získal Úřad pochybnosti o tom, zda zadavatel neporušil \nzákon tím, že postupoval v rozporu s § 56 odst. 5 zákona, když v čl. 5.5. písm. a) zadávací \ndokumentace stanovil k prokázání technických kvalifikačních předpokladů předložení seznamu \nvýznamných stavebních zakázek a příslušných osvědčení dle § 56 odst. 3 písm. a) zákona \no realizaci minimálně tří stavebních zakázek, přičemž fin",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:bid_docs_article"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::4007::475",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 3747,
+      "snippet_doc_end": 4271,
+      "snippet_text": "vatel neporušil \nzákon tím, že postupoval v rozporu s § 56 odst. 5 zákona, když v čl. 5.5. písm. a) zadávací \ndokumentace stanovil k prokázání technických kvalifikačních předpokladů předložení seznamu \nvýznamných stavebních zakázek a příslušných osvědčení dle § 56 odst. 3 písm. a) zákona \no realizaci minimálně tří stavebních zakázek, přičemž finanční hodnota každé z těchto zakázek \nměla dosahovat alespoň 8 000 000 Kč bez DPH, ačkoliv požadovaný rozsah stavebních prací \nu jednotlivé položky v seznamu stavebních prací pr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::4482::476",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 4222,
+      "snippet_doc_end": 4745,
+      "snippet_text": " jednotlivé položky v seznamu stavebních prací provedených dodavatelem nesměl\npřekračovat 50 % předpokládané hodnoty veřejné zakázky, tj. u šetřené zakázky hodnotu \n4 500 000 Kč bez DPH, a současně zda zadavatel neporušil zásadu transparentnosti stanovenou \nv § 6 odst. 1 zákona, když dle výzvy k podání nabídky na předmětnou veřejnou zakázku \nke splnění technického kvalifikačního předpokladu dle § 56 odst. 3 písm. a) zákona požadoval \nprokázání realizace alespoň tří referenčních staveb, realizovaných za předchozích pět",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::4620::477",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 4360,
+      "snippet_doc_end": 4884,
+      "snippet_text": "u šetřené zakázky hodnotu \n4 500 000 Kč bez DPH, a současně zda zadavatel neporušil zásadu transparentnosti stanovenou \nv § 6 odst. 1 zákona, když dle výzvy k podání nabídky na předmětnou veřejnou zakázku \nke splnění technického kvalifikačního předpokladu dle § 56 odst. 3 písm. a) zákona požadoval \nprokázání realizace alespoň tří referenčních staveb, realizovaných za předchozích pět let, \npřičemž každá z nich měla dosahovat finanční hodnoty alespoň 7 500 000 Kč bez DPH, zatímco \ndle bodu 5.5 písm. a) zadávací dokumenta",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::5320::478",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 116",
+      "snippet_doc_start": 5060,
+      "snippet_doc_end": 5585,
+      "snippet_text": "lespoň 8 000 000 Kč bez DPH. Z těchto důvodů Úřad zahájil \nsprávní řízení z moci úřední vedené pod sp. zn. S551/2016/VZ ve věci přezkoumání úkonů \nzadavatele učiněných ve veřejné zakázce.  Řízení před správním orgánem \n11. Účastníkem správního řízení je podle § 116 zákona  \n zadavatel. \n12. Zahájení správního řízení ve věci možného spáchání správních deliktů oznámil Úřad zadavateli \ndopisem č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu ze dne 5. 8. 2016, ve kterém ho \nzároveň seznámil se zjištěnými skutečnostmi, které bu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 116",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::5937::479",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 113",
+      "snippet_doc_start": 5677,
+      "snippet_doc_end": 6202,
+      "snippet_text": "016/553/MBu ze dne 5. 8. 2016 \nstanovil zadavateli lhůtu, v níž byl oprávněn navrhovat důkazy, či činit jiné návrhy a v níž \nmohl vyjádřit v řízení své stanovisko, a lhůtu, v níž se mohl vyjádřit k podkladům rozhodnutí. \n14. Správní řízení bylo zahájeno podle § 113 zákona dne 8. 8. 2016, tj. dnem, kdy bylo výše \nuvedené oznámení o zahájení správního řízení doručeno zadavateli. \n15. Zadavatel se ve lhůtách stanovených Úřadem, resp. ani do vydání tohoto rozhodnutí, \nk oprávnění podat návrhy důkazů, činit jiné návrhy, vyjá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 113",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::6352::480",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 112",
+      "snippet_doc_start": 6092,
+      "snippet_doc_end": 6617,
+      "snippet_text": "ených Úřadem, resp. ani do vydání tohoto rozhodnutí, \nk oprávnění podat návrhy důkazů, činit jiné návrhy, vyjádřit své stanovisko, jakož ani \nk možnosti vyjádřit se k podkladům rozhodnutí, nevyjádřil.   Závěry správního orgánu  \n16. Úřad přezkoumal na základě § 112 a následujících ustanovení zákona případ ve všech \nvzájemných souvislostech, přičemž po zhodnocení všech podkladů, zejména dokumentace \no veřejné zakázce a na základě vlastního zjištění konstatuje, že zadavatel při zadávání výše \nspecifikované veřejné zakázky",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 112",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::6864::481",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 6604,
+      "snippet_doc_end": 7127,
+      "snippet_text": "řejné zakázky nepostupoval v souladu se zákonem, jak je uvedeno ve výrocích  a II. tohoto rozhodnutí, za což mu byla uložena sankce uvedená ve výroku III. tohoto \nrozhodnutí. \nK právnímu postavení zadavatele \n17. Úřad nejprve ověřil postavení zadavatele podle § 2 zákona.  \n18. Podle § 2 odst. 1 zákona za zadavatele veřejné zakázky se pro účely tohoto zákona považuje \nveřejný, dotovaný a sektorový zadavatel. \n19. Podle § 2 odst. 2 veřejným zadavatelem je: \na) Česká republika, \nb) státní příspěvková organizace,\nc) územn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::6888::482",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 6628,
+      "snippet_doc_end": 7151,
+      "snippet_text": "al v souladu se zákonem, jak je uvedeno ve výrocích  a II. tohoto rozhodnutí, za což mu byla uložena sankce uvedená ve výroku III. tohoto \nrozhodnutí. \nK právnímu postavení zadavatele \n17. Úřad nejprve ověřil postavení zadavatele podle § 2 zákona.  \n18. Podle § 2 odst. 1 zákona za zadavatele veřejné zakázky se pro účely tohoto zákona považuje \nveřejný, dotovaný a sektorový zadavatel. \n19. Podle § 2 odst. 2 veřejným zadavatelem je: \na) Česká republika, \nb) státní příspěvková organizace,\nc) územní samosprávný celek nebo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::7026::483",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 6766,
+      "snippet_doc_end": 7289,
+      "snippet_text": "\nrozhodnutí. \nK právnímu postavení zadavatele \n17. Úřad nejprve ověřil postavení zadavatele podle § 2 zákona.  \n18. Podle § 2 odst. 1 zákona za zadavatele veřejné zakázky se pro účely tohoto zákona považuje \nveřejný, dotovaný a sektorový zadavatel. \n19. Podle § 2 odst. 2 veřejným zadavatelem je: \na) Česká republika, \nb) státní příspěvková organizace,\nc) územní samosprávný celek nebo příspěvková organizace, u níž funkci zřizovatele \nvykonává územní samosprávný celek, \nd) jiná právnická osoba, pokud \n1. byla založena či",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::7765::484",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 99",
+      "snippet_doc_start": 7505,
+      "snippet_doc_end": 8031,
+      "snippet_text": " ovládána nebo stát či jiný veřejný zadavatel jmenuje či volí více než \npolovinu členů v jejím statutárním, správním, dozorčím či kontrolním orgánu. \n20. Vzhledem ke skutečnosti, že zadavatel je v postavení obce, jedná se o územní samosprávný \ncelek ve smyslu čl. 99 zákona č. 1/1993 Sb., Ústava České republiky.  \n21. Zadavatel tak naplňuje znaky veřejného zadavatele podle § 2 odst. 2 písm. c) zákona, pročež se \nna něj vztahuje zákon o veřejných zakázkách a zadavatel byl tedy povinen při zadávání \npředmětné veřejné zakázk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 99",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "1/1993 Sb.",
+          "law_name_text": "Ústava České republiky",
+          "declared_alias_text": "Ústava České republiky",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustava"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::law_id_mention::7782::485",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "1/1993 Sb.",
+      "snippet_doc_start": 7522,
+      "snippet_doc_end": 8052,
+      "snippet_text": "át či jiný veřejný zadavatel jmenuje či volí více než \npolovinu členů v jejím statutárním, správním, dozorčím či kontrolním orgánu. \n20. Vzhledem ke skutečnosti, že zadavatel je v postavení obce, jedná se o územní samosprávný \ncelek ve smyslu čl. 99 zákona č. 1/1993 Sb., Ústava České republiky.  \n21. Zadavatel tak naplňuje znaky veřejného zadavatele podle § 2 odst. 2 písm. c) zákona, pročež se \nna něj vztahuje zákon o veřejných zakázkách a zadavatel byl tedy povinen při zadávání \npředmětné veřejné zakázky postupovat podle us",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "1/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "1/1993 Sb.",
+          "law_name_text": "Ústava České republiky",
+          "declared_alias_text": "Ústava České republiky",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustava_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::7880::486",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 7620,
+      "snippet_doc_end": 8143,
+      "snippet_text": "m, dozorčím či kontrolním orgánu. \n20. Vzhledem ke skutečnosti, že zadavatel je v postavení obce, jedná se o územní samosprávný \ncelek ve smyslu čl. 99 zákona č. 1/1993 Sb., Ústava České republiky.  \n21. Zadavatel tak naplňuje znaky veřejného zadavatele podle § 2 odst. 2 písm. c) zákona, pročež se \nna něj vztahuje zákon o veřejných zakázkách a zadavatel byl tedy povinen při zadávání \npředmětné veřejné zakázky postupovat podle ustanovení zákona platných pro veřejné \nzadavatele. \nRelevantní ustanovení zákona \n22. Podle ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::8143::487",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 7883,
+      "snippet_doc_end": 8406,
+      "snippet_text": " odst. 2 písm. c) zákona, pročež se \nna něj vztahuje zákon o veřejných zakázkách a zadavatel byl tedy povinen při zadávání \npředmětné veřejné zakázky postupovat podle ustanovení zákona platných pro veřejné \nzadavatele. \nRelevantní ustanovení zákona \n22. Podle § 6 odst. 1 zákona je zadavatel povinen při postupu podle tohoto zákona dodržovat \nzásady transparentnosti, rovného zacházení a zákazu diskriminace.  \n23. Podle § 56 odst. 3 zákona k prokázání splnění technických kvalifikačních předpokladů \ndodavatele pro plnění ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::8304::488",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 8044,
+      "snippet_doc_end": 8568,
+      "snippet_text": "podle ustanovení zákona platných pro veřejné \nzadavatele. \nRelevantní ustanovení zákona \n22. Podle § 6 odst. 1 zákona je zadavatel povinen při postupu podle tohoto zákona dodržovat \nzásady transparentnosti, rovného zacházení a zákazu diskriminace.  \n23. Podle § 56 odst. 3 zákona k prokázání splnění technických kvalifikačních předpokladů \ndodavatele pro plnění veřejné zakázky na stavební práce může veřejný zadavatel požadovat \na) seznam stavebních prací provedených dodavatelem za posledních 5 let a osvědčení \nobjednatel",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::9818::489",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 9558,
+      "snippet_doc_end": 10082,
+      "snippet_text": "kteru a počtu vedoucích zaměstnanců dodavatele nebo \nosob v obdobném postavení za poslední 3 roky, nebo \nf) přehled nástrojů či pomůcek, provozních a technických zařízení, které bude mít dodavatel \npři plnění veřejné zakázky k dispozici. \n24. Podle ustanovení § 56 odst. 5 zákona je ve vztahu k technickým kvalifikačním předpokladům \nveřejný zadavatel povinen v oznámení či výzvě o zahájení zadávacího řízení  \na) stanovit rozsah požadovaných informací a dokladů,\nb) uvést způsob prokázání splnění těchto kvalifikačních před",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::10275::490",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 10015,
+      "snippet_doc_end": 10539,
+      "snippet_text": "kladů,\nb) uvést způsob prokázání splnění těchto kvalifikačních předpokladů a \nc) vymezit minimální úroveň těchto kvalifikačních předpokladů, odpovídající druhu, rozsahu \na složitosti předmětu plnění veřejné zakázky, \npřičemž u kvalifikačního předpokladu podle § 56 odst. 3 písm. a) zákona nesmí požadovaný \nrozsah stavebních prací u jednotlivé položky v seznamu stavebních prací provedených \ndodavatelem překračovat 50 % předpokládané hodnoty veřejné zakázky. \n25. Podle ustanovení § 120 odst. 1 písm. a) zákona zadavatel se",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::10497::491",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 10237,
+      "snippet_doc_end": 10762,
+      "snippet_text": "mž u kvalifikačního předpokladu podle § 56 odst. 3 písm. a) zákona nesmí požadovaný \nrozsah stavebních prací u jednotlivé položky v seznamu stavebních prací provedených \ndodavatelem překračovat 50 % předpokládané hodnoty veřejné zakázky. \n25. Podle ustanovení § 120 odst. 1 písm. a) zákona zadavatel se dopustí správního deliktu tím, že \nnedodrží postup stanovený tímto zákonem pro zadání veřejné zakázky, přičemž tím podstatně \novlivnil nebo mohl ovlivnit výběr nejvhodnější nabídky, a uzavře smlouvu na veřejnou zakázku. \nK",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::11590::492",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 11330,
+      "snippet_doc_end": 11853,
+      "snippet_text": "ymezení \nkvalifikačních předpokladů obecně, tedy i při vymezení technických kvalifikačních předpokladů, \nlimitován především základními zásadami zadávacího řízení, tj. zásadami nediskriminace, \ntransparentnosti a rovného zacházení, jež nachází své vyjádření v § 6 odst. 1 zákona, a musí \ntudíž vymezit své požadavky na kvalifikační předpoklady tak, aby bezdůvodně neomezil \nmožnost dodavatelů zúčastnit se zadávacího řízení a naopak umožnil rovné příležitosti všem \ndodavatelům, kteří jsou objektivně schopni předmětnou zak",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::13275::493",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 13015,
+      "snippet_doc_end": 13538,
+      "snippet_text": "li k plnění předmětu veřejné zakázky \nobjektivně způsobilými i dodavatelé jiní. V této souvislosti Úřad odkazuje na rozsudek \nNejvyššího správního soudu ze dne 5. 6. 2008, č. j. 1 Afs 20/2008-152, v němž soud dospěl \nk závěru, že „zákaz diskriminace uvedený v § 6 zákona zahrnuje jednak formu zjevnou, jednak \nformu skrytou. Za skrytou formu nepřípustné diskriminace v zadávacích řízeních je třeba \npovažovat i takový postup, pokud zadavatel znemožní některým dodavatelům ucházet se \no veřejnou zakázku nastavením takových ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::14705::494",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 14445,
+      "snippet_doc_end": 14969,
+      "snippet_text": "umožnit rovné příležitosti všem \ndodavatelům, kteří jsou objektivně schopni předmětnou zakázku plnit. Zásada nediskriminace \nse pak při vymezení požadavků zadavatele na prokázání splnění technických kvalifikačních \npředpokladů dodavatelů promítá do ustanovení § 56 odst. 5 písm. c) zákona, podle kterého je \nzadavatel ve vztahu k technickým kvalifikačním předpokladům povinen vymezit minimální \núroveň těchto kvalifikačních předpokladů tak, aby odpovídala druhu, rozsahu a složitosti \npředmětu veřejné zakázky. \n29. Ustanove",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::14972::495",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 14712,
+      "snippet_doc_end": 15236,
+      "snippet_text": "st. 5 písm. c) zákona, podle kterého je \nzadavatel ve vztahu k technickým kvalifikačním předpokladům povinen vymezit minimální \núroveň těchto kvalifikačních předpokladů tak, aby odpovídala druhu, rozsahu a složitosti \npředmětu veřejné zakázky. \n29. Ustanovení § 56 odst. 3 písm. a) zákona přiznává zadavatelům požadovat po potenciálních \nuchazečích k prokázání technických kvalifikačních předpokladů předložení seznamu stavebních \nprací provedených dodavatelem za posledních 5 let a příslušných osvědčeních o jejich realizac",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::15253::496",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 14993,
+      "snippet_doc_end": 15517,
+      "snippet_text": " zákona přiznává zadavatelům požadovat po potenciálních \nuchazečích k prokázání technických kvalifikačních předpokladů předložení seznamu stavebních \nprací provedených dodavatelem za posledních 5 let a příslušných osvědčeních o jejich realizaci. \nZ ustanovení § 56 odst. 5 písm. c) zákona však současně vyplývá, že zadavatel má možnost \npožadovat k prokázání kvalifikačních předpokladů dle § 56 odst. 3 písm. a) zákona předložení \npředmětných dokladů o realizaci referenčních zakázek s tím omezením, že rozsah stavebních \npr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::15383::497",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 15123,
+      "snippet_doc_end": 15647,
+      "snippet_text": "seznamu stavebních \nprací provedených dodavatelem za posledních 5 let a příslušných osvědčeních o jejich realizaci. \nZ ustanovení § 56 odst. 5 písm. c) zákona však současně vyplývá, že zadavatel má možnost \npožadovat k prokázání kvalifikačních předpokladů dle § 56 odst. 3 písm. a) zákona předložení \npředmětných dokladů o realizaci referenčních zakázek s tím omezením, že rozsah stavebních \nprací u jednotlivé položky v seznamu stavebních prací provedených dodavatelem nesmí \npřekračovat 50 % předpokládané hodnoty veřejné ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::16543::498",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 16283,
+      "snippet_doc_end": 16807,
+      "snippet_text": " v hodnotě 50 mil. Kč \nnebyl způsobilý stejně kvalitně realizovat stavby v hodnotě 100 mil. Kč. \n30. S ohledem na výše uvedené pravidlo byl zadavatel v daném případě oprávněn požadovat \nk prokázání technických kvalifikačních předpokladů předložení dokladů dle § 56 odst. 3 písm. a) \nzákona o realizaci referenčních zakázek ve finančním objemu o maximální výši 50 % \nz předpokládané hodnoty veřejné zakázky, která činila 9 000 000 Kč bez DPH. Maximální výše \npožadované finanční hodnoty jednotlivé referenční zakázky, kterou ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::16826::499",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 16566,
+      "snippet_doc_end": 17090,
+      "snippet_text": "zákona o realizaci referenčních zakázek ve finančním objemu o maximální výši 50 % \nz předpokládané hodnoty veřejné zakázky, která činila 9 000 000 Kč bez DPH. Maximální výše \npožadované finanční hodnoty jednotlivé referenční zakázky, kterou zadavatel mohl dle § 56 \nodst. 5 písm. c) zákona požadovat, tedy v tomto případě činila 4 500 000 Kč bez DPH.  \n31. Zadavatel v šetřeném případě požadoval k prokázání technických kvalifikačních předpokladů, \naby uchazeči o veřejnou zakázku doložili, že v posledních 5 letech realizov",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::17503::500",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 17243,
+      "snippet_doc_end": 17767,
+      "snippet_text": "renčních zakázek měla dosahovat \nminimálně finančních hodnoty 8 000 000 Kč bez DPH, tj. cca 88, 9 % předpokládané hodnoty \nveřejné zakázky, tedy u každé ze 3 požadovaných referenčních zakázek zadavatel zcela zjevně \npřekročil limit 50 % stanovený v ustanovení § 56 odst. 5 písm. c) zákona. Zadavatel v daném \npřípadě u každé z předmětných referenčních zakázek požadoval o 3 500 000 Kč bez DPH vyšší\nrozsah stavebních prací provedených dodavatelem, než zákon v citovaném ustanovení zákona \numožňuje, a stanovil tak minimální ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::18013::501",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 17753,
+      "snippet_doc_end": 18277,
+      "snippet_text": "tak minimální úroveň tohoto technického kvalifikačního předpokladu \nvyšší, než odpovídá rozsahu předmětu plnění veřejné zakázky. \n32. Tím, že zadavatel v důsledku svého nezákonného postupu nevymezil minimální úroveň \ntechnického kvalifikačního předpokladu dle § 56 odst. 3 písm. a) zákona s ohledem na rozsah \npředmětu plnění veřejné zakázky, již a priori ze soutěže o veřejnou zakázku vyloučil ty \ndodavatele, kteří zadavatelem vyžadovanou referenční zakázku, tzn. nejméně 3 zakázky \ns předmětem plnění spočívajícím v prove",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::18809::502",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 18549,
+      "snippet_doc_end": 19073,
+      "snippet_text": "stanovené výše, ale nedosáhla zadavatelem \npožadovaného objemu 8 000 000 Kč bez DPH. Zadavatel tudíž postupoval diskriminačně vůči \ntěm dodavatelům, kteří by, pokud by zadavatel při vymezení předmětného technického \nkvalifikačního předpokladu postupoval podle § 56 odst. 5 písm. c) zákona, tento kvalifikační \npředpoklad splnili, avšak výše popsané nezákonné jednání jim mohlo fakticky znemožnit \nucházet se o předmětnou veřejnou zakázku. Svým postupem tedy zadavatel mohl omezit \nokruh potenciálních uchazečů, přičemž nelze",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::19790::503",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 19530,
+      "snippet_doc_end": 20055,
+      "snippet_text": "ních zakázek překračovala \nzákonem stanovený limit o téměř 38,9 % předpokládané hodnoty veřejné zakázky, což \nv daném případě činilo 3 500 000 Kč bez DPH, tedy o nezanedbatelnou míru. \n33. Úřad k výše uvedenému dodává, že již z formulace správního deliktu dle § 120 odst. 1 písm. a) \nzákona jednoznačně vyplývá, že ke spáchání správního deliktu dle citovaného ustanovení \nzákona není nutné, aby k vlivu na výběr nejvhodnější nabídky na veřejnou zakázku v důsledku \npostupu zadavatele prokazatelně došlo, neboť za účelem napln",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::20327::504",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 20067,
+      "snippet_doc_end": 20592,
+      "snippet_text": " podstaty \nsprávního deliktu postačí pouhá možnost podstatného ovlivnění výběru nejvhodnější nabídky. \nKrajský soud v Brně v rozsudku ze dne 7. 10. 2011 č. j. 62 Af 41/2010-72, dovodil, že \n„pro spáchání správního deliktu podle tohoto ustanovení [Pozn. Úřadu: § 120 odst. 1 písm. a) \nzákona] (a pro uložení pokuty podle § 120 odst. 2 zákona) musí být prokázáno, že zadavatel \nporušil ZVZ, přitom k porušení ZVZ ze strany zadavatele došlo kvalifikovaným způsobem. Tento \nkvalifikovaný způsob porušení ZVZ (závažnější, „nebezpe",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::20387::505",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 20127,
+      "snippet_doc_end": 20652,
+      "snippet_text": "ho ovlivnění výběru nejvhodnější nabídky. \nKrajský soud v Brně v rozsudku ze dne 7. 10. 2011 č. j. 62 Af 41/2010-72, dovodil, že \n„pro spáchání správního deliktu podle tohoto ustanovení [Pozn. Úřadu: § 120 odst. 1 písm. a) \nzákona] (a pro uložení pokuty podle § 120 odst. 2 zákona) musí být prokázáno, že zadavatel \nporušil ZVZ, přitom k porušení ZVZ ze strany zadavatele došlo kvalifikovaným způsobem. Tento \nkvalifikovaný způsob porušení ZVZ (závažnější, „nebezpečnější“ porušení ZVZ) je dán tehdy, \npokud kromě samotného n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::21582::506",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 21322,
+      "snippet_doc_end": 21847,
+      "snippet_text": "bídky. Není tedy pravdou, že nedošlo k naplnění \nmateriálního znaku správního deliktu… již pouhá existence takové možnosti je společensky \nškodlivá, a došlo tedy k naplnění materiálního znaku (společenské škodlivosti) správního deliktu \nuvedeného v ustanovení § 120 odst. 1 písm. a) zákona o veřejných zakázkách“. K obdobným\nzávěrům došel i Nejvyšší správní soud např. v rozsudku ze dne 25. 7. 2013, č. j. 9 Afs 78/2012 – \n28, či rozsudku ze dne 28. 6. 2016, č. j. 4 As 61/2016 – 34.  \n34. Úřad k výše uvedenému uvádí, že se ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22214::507",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 21954,
+      "snippet_doc_end": 22479,
+      "snippet_text": "ádaných významných stavebních prací \nani na celkové množství požadovaných referenčních zakázek, neboť toto není předmětem \nvedeného správního řízení. \n35. Na základě výše uvedených skutečností Úřad konstatuje, že se zadavatel dopustil správního \ndeliktu podle § 120 odst. 1 písm. a) zákona tím, že při zadávání veřejné zakázky postupoval \nv rozporu s § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil \nk prokázání technických kvalifikačních předpokladů předložení seznamu významných \nstavebních zakáz",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22305::508",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 22045,
+      "snippet_doc_end": 22569,
+      "snippet_text": "zek, neboť toto není předmětem \nvedeného správního řízení. \n35. Na základě výše uvedených skutečností Úřad konstatuje, že se zadavatel dopustil správního \ndeliktu podle § 120 odst. 1 písm. a) zákona tím, že při zadávání veřejné zakázky postupoval \nv rozporu s § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil \nk prokázání technických kvalifikačních předpokladů předložení seznamu významných \nstavebních zakázek a příslušných osvědčení dle § 56 odst. 3 písm. a) zákona o realizaci \nminimálně tří sta",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22333::509",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 5",
+      "snippet_doc_start": 22073,
+      "snippet_doc_end": 22598,
+      "snippet_text": "em \nvedeného správního řízení. \n35. Na základě výše uvedených skutečností Úřad konstatuje, že se zadavatel dopustil správního \ndeliktu podle § 120 odst. 1 písm. a) zákona tím, že při zadávání veřejné zakázky postupoval \nv rozporu s § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil \nk prokázání technických kvalifikačních předpokladů předložení seznamu významných \nstavebních zakázek a příslušných osvědčení dle § 56 odst. 3 písm. a) zákona o realizaci \nminimálně tří stavebních zakázek, přičemž fina",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:bid_docs_article"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22510::510",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 22250,
+      "snippet_doc_end": 22774,
+      "snippet_text": "e při zadávání veřejné zakázky postupoval \nv rozporu s § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil \nk prokázání technických kvalifikačních předpokladů předložení seznamu významných \nstavebních zakázek a příslušných osvědčení dle § 56 odst. 3 písm. a) zákona o realizaci \nminimálně tří stavebních zakázek, přičemž finanční hodnota každé z těchto zakázek měla \ndosahovat alespoň 8 000 000 Kč bez DPH, ačkoliv požadovaný rozsah stavebních prací \nu jednotlivé položky v seznamu stavebních prací pr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::23239::511",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 22979,
+      "snippet_doc_end": 23502,
+      "snippet_text": " \nsmlouvu na veřejnou zakázku. \nK výroku II. tohoto rozhodnutí  \n36. Jak již Úřad výše uvedl, zadavatel je povinen při postupu podle tohoto zákona dodržovat \nzásady transparentnosti, rovného zacházení a zákazu diskriminace. Zásada transparentnosti \nvymezená v § 6 zákona v sobě zahrnuje požadavek jednoznačnosti, konkrétnosti a přesnosti \nzadávacích podmínek. Společně se zásadou rovného zacházení a zásadou zákazu diskriminace \nmusí být zadavatelem dodržována v průběhu celého zadávacího řízení. Úkolem zásady \ntransparent",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::27233::512",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 26973,
+      "snippet_doc_end": 27497,
+      "snippet_text": "e výzvě \nk podání nabídek lze považovat za mírnější v tom, že požadovaná výše finanční hodnoty \nreferenčních zakázek byla o 500 000 Kč bez DPH nižší než v případě zadávací dokumentace, \nna druhé straně požadavek obsažený v zadávací dokumentace byl v rozporu s § 56 odst. 3 \npísm. a) zákona zmírněn v tom, že stanovil, že referenční zakázky mohly být realizované \nv posledních šesti letech, což by mohlo rozšířit okruh referenčních zakázek o zakázky \nrealizované v dalším roce.   \n41. Z vyjádření zadavatele ze dne 18. 7. 201",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::27735::513",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 27475,
+      "snippet_doc_end": 27999,
+      "snippet_text": "tele ze dne 18. 7. 2016 k obsahu podnětu, který Úřad obdržel ještě \npřed zahájením správního řízení (viz bod 8. odůvodnění tohoto rozhodnutí), přitom vyplývá, že \nzadavatel přes uvedené rozpory požadoval k prokázání technických kvalifikačních předpokladů \ndle § 56 odst. 3 písm. a) zákona předložení dokladů o realizaci alespoň tří provedených \nrekonstrukcí budov občanské výstavby, přičemž každá z nich měla být ve finanční hodnotě \nalespoň 8 000 000 Kč bez DPH a být realizovaná v posledních pěti letech. V tomto ohledu je",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::28671::514",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 48",
+      "snippet_doc_start": 28411,
+      "snippet_doc_end": 28935,
+      "snippet_text": "h od možnosti \nucházet se o veřejnou zakázku odradit, a to přestože byla přílohou výzvy k podání nabídek \ni zadávací dokumentace, a přestože ve vztahu k možnému okruhu neoslovených potenciálních \ndodavatelů byly oba dokumenty na profilu zadavatele v souladu s § 48 odst. 1 zákona \nuveřejněny. Ani to totiž nevylučuje možný vliv na výběr nejvhodnější nabídky, a to právě \nz důvodu neurčitosti požadavků zadavatele na prokázání kvalifikace.\n43. Na základě výše uvedeného Úřad konstatuje, že se zadavatel dopustil správního del",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 48",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::28947::515",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 28687,
+      "snippet_doc_end": 29212,
+      "snippet_text": "ona \nuveřejněny. Ani to totiž nevylučuje možný vliv na výběr nejvhodnější nabídky, a to právě \nz důvodu neurčitosti požadavků zadavatele na prokázání kvalifikace.\n43. Na základě výše uvedeného Úřad konstatuje, že se zadavatel dopustil správního deliktu podle \n§ 120 odst. 1 písm. a) zákona tím, že při zadávání veřejné zakázky porušil zásadu \ntransparentnosti stanovenou v § 6 odst. 1 citovaného zákona, když dle výzvy k podání nabídky \nna předmětnou veřejnou zakázku ke splnění technického kvalifikačního předpokladu dle § 5",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::29060::516",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 28800,
+      "snippet_doc_end": 29323,
+      "snippet_text": "ti požadavků zadavatele na prokázání kvalifikace.\n43. Na základě výše uvedeného Úřad konstatuje, že se zadavatel dopustil správního deliktu podle \n§ 120 odst. 1 písm. a) zákona tím, že při zadávání veřejné zakázky porušil zásadu \ntransparentnosti stanovenou v § 6 odst. 1 citovaného zákona, když dle výzvy k podání nabídky \nna předmětnou veřejnou zakázku ke splnění technického kvalifikačního předpokladu dle § 56 \nodst. 3 písm. a) citovaného zákona požadoval prokázání realizace alespoň tří referenčních \nstaveb, realizova",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::29209::517",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 28949,
+      "snippet_doc_end": 29473,
+      "snippet_text": "120 odst. 1 písm. a) zákona tím, že při zadávání veřejné zakázky porušil zásadu \ntransparentnosti stanovenou v § 6 odst. 1 citovaného zákona, když dle výzvy k podání nabídky \nna předmětnou veřejnou zakázku ke splnění technického kvalifikačního předpokladu dle § 56 \nodst. 3 písm. a) citovaného zákona požadoval prokázání realizace alespoň tří referenčních \nstaveb, realizovaných za předchozích pět let, přičemž každá z nich měla dosahovat finanční \nhodnoty alespoň 7 500 000 Kč bez DPH, zatímco dle bodu 5.5 písm. a) zadávac",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::29885::518",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 29625,
+      "snippet_doc_end": 30150,
+      "snippet_text": "h měla dosahovat finanční hodnoty alespoň \n8 000 000 Kč bez DPH, přičemž svým postupem mohl podstatně ovlivnit výběr nejvhodnější \nnabídky a zadavatel uzavřel smlouvu na předmětnou veřejnou zakázku. \nK výroku III. tohoto rozhodnutí - uložení sankce \n44. Podle § 120 odst. 1 písm. a) zákona se zadavatel dopustí správního deliktu tím, že nedodrží \npostup stanovený tímto zákonem pro zadání veřejné zakázky, přičemž tím podstatně ovlivnil \nnebo mohl ovlivnit výběr nejvhodnější nabídky, a uzavře smlouvu na veřejnou zakázku.  \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30178::519",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 29918,
+      "snippet_doc_end": 30443,
+      "snippet_text": "zadavatel dopustí správního deliktu tím, že nedodrží \npostup stanovený tímto zákonem pro zadání veřejné zakázky, přičemž tím podstatně ovlivnil \nnebo mohl ovlivnit výběr nejvhodnější nabídky, a uzavře smlouvu na veřejnou zakázku.  \n45. Správního deliktu podle § 120 odst. 1 písm. b) zákona uvedeného ve výroku I. tohoto \nrozhodnutí se zadavatel dopustil tím, že při zadávání veřejné zakázky postupoval v rozporu \ns § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil k prokázání \ntechnických kvalifikač",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30333::520",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 30073,
+      "snippet_doc_end": 30597,
+      "snippet_text": "ovlivnit výběr nejvhodnější nabídky, a uzavře smlouvu na veřejnou zakázku.  \n45. Správního deliktu podle § 120 odst. 1 písm. b) zákona uvedeného ve výroku I. tohoto \nrozhodnutí se zadavatel dopustil tím, že při zadávání veřejné zakázky postupoval v rozporu \ns § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil k prokázání \ntechnických kvalifikačních předpokladů předložení seznamu významných stavebních zakázek \na příslušných osvědčení dle § 56 odst. 3 písm. a) zákona o realizaci minimálně tří stav",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30361::521",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 5",
+      "snippet_doc_start": 30101,
+      "snippet_doc_end": 30626,
+      "snippet_text": "nabídky, a uzavře smlouvu na veřejnou zakázku.  \n45. Správního deliktu podle § 120 odst. 1 písm. b) zákona uvedeného ve výroku I. tohoto \nrozhodnutí se zadavatel dopustil tím, že při zadávání veřejné zakázky postupoval v rozporu \ns § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil k prokázání \ntechnických kvalifikačních předpokladů předložení seznamu významných stavebních zakázek \na příslušných osvědčení dle § 56 odst. 3 písm. a) zákona o realizaci minimálně tří stavebních \nzakázek, přičemž fina",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:bid_docs_article"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30538::522",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 30278,
+      "snippet_doc_end": 30802,
+      "snippet_text": "e při zadávání veřejné zakázky postupoval v rozporu \ns § 56 odst. 5 zákona, když v čl. 5.5 písm. a) zadávací dokumentace stanovil k prokázání \ntechnických kvalifikačních předpokladů předložení seznamu významných stavebních zakázek \na příslušných osvědčení dle § 56 odst. 3 písm. a) zákona o realizaci minimálně tří stavebních \nzakázek, přičemž finanční hodnota každé z těchto zakázek měla dosahovat alespoň 8 000 000 \nKč bez DPH, ačkoliv požadovaný rozsah stavebních prací u jednotlivé položky v seznamu \nstavebních prací pr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "5"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::31077::523",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 30817,
+      "snippet_doc_end": 31342,
+      "snippet_text": "atelem nesměl překračovat 50 % předpokládané hodnoty \nveřejné zakázky, tj. hodnotu 4 500 000 Kč, přičemž svým postupem mohl podstatně ovlivnit \nvýběr nejvhodnější nabídky a zadavatel uzavřel smlouvu na předmětnou veřejnou zakázku. \n46. Správního deliktu podle § 120 odst. 1 písm. b) zákona uvedeného ve výroku II. tohoto \nrozhodnutí se zadavatel dopustil tím, že při zadávání veřejné zakázky porušil zásadu \ntransparentnosti stanovenou v § 6 odst. 1 zákona, když dle výzvy k podání nabídky \nna předmětnou veřejnou zakázku ke ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::31255::524",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 30995,
+      "snippet_doc_end": 31518,
+      "snippet_text": "atel uzavřel smlouvu na předmětnou veřejnou zakázku. \n46. Správního deliktu podle § 120 odst. 1 písm. b) zákona uvedeného ve výroku II. tohoto \nrozhodnutí se zadavatel dopustil tím, že při zadávání veřejné zakázky porušil zásadu \ntransparentnosti stanovenou v § 6 odst. 1 zákona, když dle výzvy k podání nabídky \nna předmětnou veřejnou zakázku ke splnění technického kvalifikačního předpokladu dle § 56 \nodst. 3 písm. a) zákona požadoval prokázání realizace alespoň tří referenčních staveb, \nrealizovaných za předchozích pě",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::31393::525",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 31133,
+      "snippet_doc_end": 31657,
+      "snippet_text": "hoto \nrozhodnutí se zadavatel dopustil tím, že při zadávání veřejné zakázky porušil zásadu \ntransparentnosti stanovenou v § 6 odst. 1 zákona, když dle výzvy k podání nabídky \nna předmětnou veřejnou zakázku ke splnění technického kvalifikačního předpokladu dle § 56 \nodst. 3 písm. a) zákona požadoval prokázání realizace alespoň tří referenčních staveb, \nrealizovaných za předchozích pět let, přičemž každá z nich měla dosahovat finanční hodnoty \nalespoň 7 500 000 Kč bez DPH, zatímco dle bodu 5.5 písm. a) zadávací dokumenta",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::32008::526",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 121",
+      "snippet_doc_start": 31748,
+      "snippet_doc_end": 32273,
+      "snippet_text": "ných \nza předchozích šest let, přičemž každá z nich měla dosahovat finanční hodnoty alespoň \n8 000 000 Kč bez DPH, přičemž svým postupem mohl podstatně ovlivnit výběr nejvhodnější \nnabídky a zadavatel uzavřel smlouvu na předmětnou veřejnou zakázku. \n47. Podle § 121 odst. 3 zákona odpovědnost právnické osoby za správní delikt zaniká, jestliže Úřad \no něm nezahájil řízení do 3 let ode dne, kdy se o něm dozvěděl, nejpozději však do 5 let \node dne, kdy byl spáchán.  \n48. V návaznosti na posledně citované ustanovení zákona Ú",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 121",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::32342::527",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 121",
+      "snippet_doc_start": 32082,
+      "snippet_doc_end": 32607,
+      "snippet_text": " jestliže Úřad \no něm nezahájil řízení do 3 let ode dne, kdy se o něm dozvěděl, nejpozději však do 5 let \node dne, kdy byl spáchán.  \n48. V návaznosti na posledně citované ustanovení zákona Úřad před uložením pokuty ověřil, zda je \nnaplněna podmínka uvedená v § 121 odst. 3 zákona. Úřad obdržel podnět týkající  \nse předmětné veřejné zakázky dne 8. 7. 2016, přičemž správní řízení bylo zahájeno 8. 8. 2016. \nSmlouva na veřejnou zakázku byla zadavatelem uzavřena dne 3. 7. 2015. Z uvedeného vyplývá,\nže v šetřeném případě odpo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 121",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::34957::528",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 34697,
+      "snippet_doc_end": 35222,
+      "snippet_text": "o se Úřad \nnejprve zabýval otázkou, jaký správní delikt je v šetřeném případě možné považovat za přísněji \ntrestný, tj. za který z nich je možno uložit přísnější sankci (vyšší pokutu). \n52. V šetřeném případě se zadavatel dopustil dvou správních deliktů podle § 120 odst. 1 písm. a) \nzákona. \n53. Podle § 120 odst. 2 písm. a) zákona se za správní delikt uloží pokuta do 10 % ceny zakázky, \nnebo do 20 000 000 Kč, nelze-li celkovou cenu veřejné zakázky zjistit, jde-li o správní delikt \npodle odstavce 1 písm. a), c) nebo d) z",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::35000::529",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 34740,
+      "snippet_doc_end": 35265,
+      "snippet_text": "rávní delikt je v šetřeném případě možné považovat za přísněji \ntrestný, tj. za který z nich je možno uložit přísnější sankci (vyšší pokutu). \n52. V šetřeném případě se zadavatel dopustil dvou správních deliktů podle § 120 odst. 1 písm. a) \nzákona. \n53. Podle § 120 odst. 2 písm. a) zákona se za správní delikt uloží pokuta do 10 % ceny zakázky, \nnebo do 20 000 000 Kč, nelze-li celkovou cenu veřejné zakázky zjistit, jde-li o správní delikt \npodle odstavce 1 písm. a), c) nebo d) zákona. \n54. Cena veřejné zakázky, při jejím",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::35456::530",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 35196,
+      "snippet_doc_end": 35721,
+      "snippet_text": "e 1 písm. a), c) nebo d) zákona. \n54. Cena veřejné zakázky, při jejímž zadání se zadavatel dopustil správního deliktu, a za kterou \nmůže být zadavateli uložena pokuta, činí celkem 9 014 107,96 Kč včetně DPH. Horní hranice \nmožné pokuty za správní delikt podle § 120 odst. 1 písm. a) zákona (10 % ceny veřejné zakázky) \ntedy činí 901 411 Kč. \n55. S ohledem na to, že se jedná v obou případech o delikty podle § 120 odst. 1 písm. a) zákona, \npro které je stanovena stejná výše pokuty, nelze v konkrétním případě v souladu se zá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::35604::531",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 35344,
+      "snippet_doc_end": 35869,
+      "snippet_text": "eli uložena pokuta, činí celkem 9 014 107,96 Kč včetně DPH. Horní hranice \nmožné pokuty za správní delikt podle § 120 odst. 1 písm. a) zákona (10 % ceny veřejné zakázky) \ntedy činí 901 411 Kč. \n55. S ohledem na to, že se jedná v obou případech o delikty podle § 120 odst. 1 písm. a) zákona, \npro které je stanovena stejná výše pokuty, nelze v konkrétním případě v souladu se zásadou \nabsorpce ukládat sankci podle přísněji trestného spáchaného deliktu. V daném případě je tedy \ns ohledem na souběh správních deliktů nutné ulo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::36572::532",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 121",
+      "snippet_doc_start": 36312,
+      "snippet_doc_end": 36837,
+      "snippet_text": "oť jako \nzávažnější porušení zákona shledal spáchání správního deliktu uvedeného ve výroku I. tohoto \nrozhodnutí, a to především s ohledem na zcela zjevnou diskriminaci potencionálních \ndodavatelů a s tím souvisejícím omezením soutěžního prostředí. \n57. Podle § 121 odst. 2 zákona se při určení výměry pokuty právnické osobě přihlédne  \nk závažnosti správního deliktu, přičemž zákon demonstrativním výčtem vymezuje, co lze \npod pojem závažnost správního deliktu podřadit (způsob jeho spáchání, jeho následky \na okolnosti, za ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 121",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::37406::533",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 56",
+      "snippet_doc_start": 37146,
+      "snippet_doc_end": 37670,
+      "snippet_text": "ž je jedním ze základních principů postupu zadavatele v zadávacím \nřízení. Tím, že zadavatel požadoval k prokázání technických kvalifikačních předpokladů \npředložení seznamu významných stavebních zakázek a příslušných osvědčení o realizaci těchto \nzakázek dle § 56 odst. 3 písm. a) zákona, přičemž finanční hodnota každé z těchto zakázek měla \ndosahovat alespoň 8 000 000 Kč bez DPH, ačkoliv požadovaný rozsah stavebních prací \nu jednotlivé položky v seznamu stavebních prací provedených dodavatelem nesmělo \npřekračovat 50 ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 56",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    }
+  ]
+}

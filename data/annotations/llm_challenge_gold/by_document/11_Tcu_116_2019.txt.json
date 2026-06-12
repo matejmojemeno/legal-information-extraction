@@ -1,0 +1,27 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "11 Tcu 116_2019.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 116_2019.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.432681+00:00",
+  "citations": [
+    {
+      "task_id": "11 Tcu 116_2019.txt::article::37225::18",
+      "finding_id": "1",
+      "citation_text": "čl. 6",
+      "citation_type": "article",
+      "start_char": 37225,
+      "end_char": 37230,
+      "law_id": null,
+      "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+      "declared_alias_text": "Úmluvy",
+      "classification": "foreign_law",
+      "confidence": 0.96,
+      "detail_number": "6",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

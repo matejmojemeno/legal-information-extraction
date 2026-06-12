@@ -1,0 +1,9 @@
+{
+  "alias_source": "audited+seeded+ambiguous+overrides",
+  "documents": 17,
+  "predicted_occurrences": 1375,
+  "routed_anomalies": 495,
+  "route_reasons": {
+    "unresolved": 495
+  }
+}

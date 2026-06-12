@@ -1,0 +1,129 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.180484+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+  "task_count": 4,
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::section_or_article::184::74",
+      "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 36",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 448,
+      "snippet_text": ":\nSoudce zpravodaj Stanislav Balík přípisem ze dne 6. 12. 2012 oznámil, že se v dané věci cítí být podjatým. K věci uvedl následující:\n\"Ve shora uvedené věci, s poukazem na ustanovení § 36 odst. 1 zákona o Ústavním soudu sděluji, že s právním zástupcem stěžovatelky JUDr. Jaroslavem Procházkou se znám po několik desetiletí, v advokátských i justičních kruzích je všeobecně známo, že jsme si velmi dobrými a věrnými přáteli a že jsme společně praco",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 36",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákona o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "36",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::section_or_article::895::75",
+      "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 36",
+      "snippet_doc_start": 635,
+      "snippet_doc_end": 1159,
+      "snippet_text": "bě, naše rodiny se vzájemně dobře znají, trávili jsme společně nejednu dovolenou, účastnili jsme se spolu demonstrace 17. listopadu 1989, máme celou řadu společných známých a kamarádů.\"\nZ uvedeného důvodu předložil soudce zpravodaj Stanislav Balík v souladu s § 36 a násl. zákona č. 182/1993 Sb., zákon o Ústavním soudu, ve znění pozdějších předpisů, (dále jen \"zákon o Ústavním soudu\") věc k projednání prvnímu senátu Ústavního soudu.\nPodle ustanovení § 36 odst. 1, 2 zákona o Ústavním soudu je soudce vyloučen z projednává",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 36",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákona č. 182/1993 Sb., zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "36",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_a_nasl"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::law_id_mention::918::76",
+      "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/1993 Sb.",
+      "snippet_doc_start": 658,
+      "snippet_doc_end": 1190,
+      "snippet_text": "emně dobře znají, trávili jsme společně nejednu dovolenou, účastnili jsme se spolu demonstrace 17. listopadu 1989, máme celou řadu společných známých a kamarádů.\"\nZ uvedeného důvodu předložil soudce zpravodaj Stanislav Balík v souladu s § 36 a násl. zákona č. 182/1993 Sb., zákon o Ústavním soudu, ve znění pozdějších předpisů, (dále jen \"zákon o Ústavním soudu\") věc k projednání prvnímu senátu Ústavního soudu.\nPodle ustanovení § 36 odst. 1, 2 zákona o Ústavním soudu je soudce vyloučen z projednávání a rozhodování věci, jestliže",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::section_or_article::1088::77",
+      "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 36",
+      "snippet_doc_start": 828,
+      "snippet_doc_end": 1352,
+      "snippet_text": "ného důvodu předložil soudce zpravodaj Stanislav Balík v souladu s § 36 a násl. zákona č. 182/1993 Sb., zákon o Ústavním soudu, ve znění pozdějších předpisů, (dále jen \"zákon o Ústavním soudu\") věc k projednání prvnímu senátu Ústavního soudu.\nPodle ustanovení § 36 odst. 1, 2 zákona o Ústavním soudu je soudce vyloučen z projednávání a rozhodování věci, jestliže se zřetelem na jeho poměr k věci, účastníkům, vedlejším účastníkům nebo jejich zástupcům, lze mít pochybnost o jeho nepodjatosti.\nPodle přesvědčení I. senátu Úst",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 36",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákona o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "36",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_multiple_odst"
+        }
+      ]
+    }
+  ]
+}

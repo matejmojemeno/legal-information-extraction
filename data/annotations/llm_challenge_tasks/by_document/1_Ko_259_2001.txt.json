@@ -1,0 +1,52 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.224988+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 Ko 259_2001.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 259_2001.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 Ko 259_2001.txt::section::72::5",
+      "document_id": "1 Ko 259_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 259_2001.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 44",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 336,
+      "snippet_text": "m, že nebyly splněny podmínky pro zrušení \nkonkursu, jež jsou uvedeny v § 44 odst. 1 písm. a) zákona o konkursu a vyrovnání (dále též \nZKV), neboť nenastala situace, kdy do konkursu nepřihlásil žádný věřitel svou pohledávku, \nneboť do konkursu přihlásilo své pohledávky za úpadcem čtrnáct věřitelů. Úpadce přitom uznal \nexistenci pohled",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 44",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "328/1991 Sb.",
+          "law_name_text": "zákona o konkursu a vyrovnání",
+          "declared_alias_text": "ZKV",
+          "detail_number": "44",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 Ko 259_2001.txt::72:76:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": []
+      }
+    }
+  ]
+}

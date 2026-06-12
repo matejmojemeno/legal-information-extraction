@@ -1,0 +1,43 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "7 tdo 1449_2003_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.417478+00:00",
+  "references": [
+    {
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "task_id": "7 tdo 1449_2003_openElement.txt::docref::140::49",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. 8 To 357/2002",
+      "start_char": 140,
+      "end_char": 161,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "8 To 357/2002",
+      "decision_kind_hint": "usnesení",
+      "court_hint": "Městského soudu v Praze",
+      "confidence": 0.99,
+      "note": "manual_v1:court_decision_reference"
+    },
+    {
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "task_id": "7 tdo 1449_2003_openElement.txt::docref::280::50",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. 7 T 15/2002",
+      "start_char": 280,
+      "end_char": 299,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "7 T 15/2002",
+      "decision_kind_hint": "rozsudek",
+      "court_hint": "Obvodního soudu pro Prahu 2",
+      "confidence": 0.99,
+      "note": "manual_v1:court_decision_reference"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "tag": "thesis_final_v1",
+  "created_at": "2026-04-01T12:25:46",
+  "corpus_root": "data/imports/parent_bucket_texts",
+  "limit_per_source": null,
+  "external_self_id_metadata": "data/metadata/document_metadata.jsonl.gz",
+  "docref_use_fuzzy_candidates": false,
+  "law": {
+    "runtime_alias_source": "audited+seeded+canonical+derived+ambiguous+overrides",
+    "occurrences": 13304530,
+    "resolved": 12240899,
+    "anomalies": 771564,
+    "occurrences_path": "data/final_runs/thesis_final_v1/law/citation_occurrences.jsonl",
+    "anomaly_queue_path": "data/final_runs/thesis_final_v1/law/to_be_checked_by_llm.json"
+  },
+  "document_references": {
+    "occurrences": 4280705,
+    "linked": 2460156,
+    "unresolved": 1731782,
+    "self_identifiers": 824289,
+    "occurrences_path": "data/final_runs/thesis_final_v1/document_references/document_reference_occurrences.jsonl",
+    "linked_output_path": "data/final_runs/thesis_final_v1/document_references/document_reference_links.jsonl",
+    "unresolved_output_path": "data/final_runs/thesis_final_v1/document_references/document_reference_unresolved.jsonl",
+    "self_id_output_path": "data/final_runs/thesis_final_v1/document_references/document_self_identifiers.jsonl",
+    "link_checkpoint_path": "data/final_runs/thesis_final_v1/document_references/document_reference_linking_checkpoint.jsonl"
+  },
+  "step6_output": null,
+  "runtime_artifacts": {
+    "canonical_laws": "data/dicts/canonical_laws.json",
+    "global_aliases": "data/dicts/global_aliases.json",
+    "audited_aliases": "data/dicts/audited_aliases.json",
+    "seed_aliases": "data/dicts/seed_aliases.json",
+    "ambiguous_aliases": "data/dicts/ambiguous_aliases.json"
+  },
+  "law_refresh": {
+    "refreshed_at": "2026-04-03T10:27:57",
+    "backup_law_dir": "data/final_runs/thesis_final_v1/law_law_refresh_apr1",
+    "backup_analysis_dir": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1",
+    "limit_per_source": null
+  }
+}

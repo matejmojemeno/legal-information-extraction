@@ -1,0 +1,268 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.182234+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "pis6543.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis6543.txt",
+  "task_count": 9,
+  "tasks": [
+    {
+      "task_id": "pis6543.txt::law_id_mention::85::603",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "199/1994 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 357,
+      "snippet_text": "\n Úřad pro ochranu hospodářské soutěže jako orgán dohledu nad dodržováním zákona \nč. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb. a zákona \nč. 93/1998 Sb. (dále jen „zákon“) zahájil podle § 62 odst. 2 zákona o zadávání veřejných \nzakázek v návaznosti na § 18 zákona č. 71/1967 Sb., o správním řízení (správní řád), \nz vlastníh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "199/1994 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::law_id_mention::148::604",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "148/1996 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 420,
+      "snippet_text": "\n Úřad pro ochranu hospodářské soutěže jako orgán dohledu nad dodržováním zákona \nč. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb. a zákona \nč. 93/1998 Sb. (dále jen „zákon“) zahájil podle § 62 odst. 2 zákona o zadávání veřejných \nzakázek v návaznosti na § 18 zákona č. 71/1967 Sb., o správním řízení (správní řád), \nz vlastního podnětu správní řízení ve věci uložení pořádkové pokuty městu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "148/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "148/1996 Sb.",
+          "law_name_text": "zákona č. 148/1996 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::law_id_mention::174::605",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "93/1998 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 445,
+      "snippet_text": "\n Úřad pro ochranu hospodářské soutěže jako orgán dohledu nad dodržováním zákona \nč. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb. a zákona \nč. 93/1998 Sb. (dále jen „zákon“) zahájil podle § 62 odst. 2 zákona o zadávání veřejných \nzakázek v návaznosti na § 18 zákona č. 71/1967 Sb., o správním řízení (správní řád), \nz vlastního podnětu správní řízení ve věci uložení pořádkové pokuty městu Rosice, Palackého \nnám. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "93/1998 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "93/1998 Sb.",
+          "law_name_text": "zákona č. 93/1998 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::section_or_article::219::606",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 62",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 483,
+      "snippet_text": "\n Úřad pro ochranu hospodářské soutěže jako orgán dohledu nad dodržováním zákona \nč. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb. a zákona \nč. 93/1998 Sb. (dále jen „zákon“) zahájil podle § 62 odst. 2 zákona o zadávání veřejných \nzakázek v návaznosti na § 18 zákona č. 71/1967 Sb., o správním řízení (správní řád), \nz vlastního podnětu správní řízení ve věci uložení pořádkové pokuty městu Rosice, Palackého \nnám. 13, 665 01 Rosice, zastoupeném Mgr. Pa",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 62",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "62",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::section_or_article::285::607",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 18",
+      "snippet_doc_start": 25,
+      "snippet_doc_end": 549,
+      "snippet_text": "ářské soutěže jako orgán dohledu nad dodržováním zákona \nč. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb. a zákona \nč. 93/1998 Sb. (dále jen „zákon“) zahájil podle § 62 odst. 2 zákona o zadávání veřejných \nzakázek v návaznosti na § 18 zákona č. 71/1967 Sb., o správním řízení (správní řád), \nz vlastního podnětu správní řízení ve věci uložení pořádkové pokuty městu Rosice, Palackého \nnám. 13, 665 01 Rosice, zastoupeném Mgr. Pavlem Polanským, starostou města Rosic (dále \njen „zadavatel“), a t",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 18",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "zákona č. 71/1967 Sb., o správním řízení (správní řád)",
+          "declared_alias_text": "správní řád",
+          "detail_number": "18",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::law_id_mention::300::608",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "71/1967 Sb.",
+      "snippet_doc_start": 40,
+      "snippet_doc_end": 571,
+      "snippet_text": "ako orgán dohledu nad dodržováním zákona \nč. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb. a zákona \nč. 93/1998 Sb. (dále jen „zákon“) zahájil podle § 62 odst. 2 zákona o zadávání veřejných \nzakázek v návaznosti na § 18 zákona č. 71/1967 Sb., o správním řízení (správní řád), \nz vlastního podnětu správní řízení ve věci uložení pořádkové pokuty městu Rosice, Palackého \nnám. 13, 665 01 Rosice, zastoupeném Mgr. Pavlem Polanským, starostou města Rosic (dále \njen „zadavatel“), a to z důvodu neposkytnut",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "71/1967 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::section_or_article::1749::609",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 1489,
+      "snippet_doc_end": 2012,
+      "snippet_text": "atuje, že ve všech dopisech, jimiž žádal \nzadavatele o materiály vztahující se ke konkrétním veřejným zakázkám, šetřeným v rámci \nsprávního řízení vedeného pod č.j. S 114/99-150, požadoval mj. „zaslání kompletní \ndokumentace o zadání těchto veřejných zakázek (§ 2 písm. j) zákona), t.j. originálů všech \nmateriálů, které byly zpracovány v souvislosti“ s jejich zadáváním. Orgán dohledu tedy zcela \nkonkrétně odkazoval na ustanovení zákona, které definuje jako dokumentaci o zadání veřejné \nzakázky „soubor všech dokladů, je",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "2",
+          "detail_odst": [],
+          "detail_pism": [
+            "j"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::section_or_article::2273::610",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 69",
+      "snippet_doc_start": 2013,
+      "snippet_doc_end": 2537,
+      "snippet_text": "ichž pořízení vyžaduje tento zákon, a nabídky všech \nuchazečů“ a požadoval předložení příslušných materiálů. Za archivaci dokumentace o zadání \nveřejné zakázky je odpovědný pouze zadavatel a nezáleží tedy na tom, zda výkonem \nzadavatelských činností ve smyslu § 69 zákona zadavatel pověřil jinou osobu. \nPoněvadž zadavatel požadované podklady nepředložil ani v původně stanovené lhůtě \nstanovené dopisem č.j. P 29/99-150/938/99-jl ze dne 5.5.1999 do 14.5.1999, ani po dvou\n17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 69",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "69",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::section_or_article::2685::611",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 52",
+      "snippet_doc_start": 2425,
+      "snippet_doc_end": 2949,
+      "snippet_text": "9/99-150/938/99-jl ze dne 5.5.1999 do 14.5.1999, ani po dvou\n17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999), byla mu pořádková pokuta uložena \nv maximální možné výši t.j. 10 000,− Kč (deset tisíc korun českých). \nDohled nad dodržováním zákona podle § 52 zákona spočívá mimo jiné i v kontrole \npostupů zadavatelů  při zadávání veřejných zakázek. Tím, že zadavatel nerespektoval \nlegitimní požadavek ústředního orgánu státní správy, v jehož kompetenci je dohled \nnad dodržováním zákona, na poskytnutí požadovaných p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 52",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "52",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:procurement_alias"
+        }
+      ]
+    }
+  ]
+}

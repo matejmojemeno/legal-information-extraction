@@ -1,0 +1,1407 @@
+{
+    "zákon o půdě": {
+        "law_id": "229/1991 Sb.",
+        "law_name": "Zákon o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o Ústavním soudu": {
+        "law_id": "182/1993 Sb.",
+        "law_name": "Zákon o Ústavním soudu",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZOR": {
+        "law_id": "94/1963 Sb.",
+        "law_name": "Zákon o rodině",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Listina": {
+        "law_id": "2/1993 Sb.",
+        "law_name": "Usnesení předsednictva České národní rady o vyhlášení LISTINY ZÁKLADNÍCH PRÁV A SVOBOD jako součástí ústavního pořádku České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "tr. zák.": {
+        "law_id": "140/1961 Sb.",
+        "law_name": "Trestní zákon",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "tr. ř.": {
+        "law_id": "141/1961 Sb.",
+        "law_name": "Zákon o trestním řízení soudním (trestní řád)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o podmínkách převodu majetku státu": {
+        "law_id": "92/1991 Sb.",
+        "law_name": "Zákon o podmínkách převodu majetku státu na jiné osoby",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "o. s. ř.": {
+        "law_id": "99/1963 Sb.",
+        "law_name": "Občanský soudní řád",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZÚS": {
+        "law_id": "182/1993 Sb.",
+        "law_name": "Zákon o Ústavním soudu",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "celní zákon": {
+        "law_id": "13/1993 Sb.",
+        "law_name": "Celní zákon",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Ústava": {
+        "law_id": "1/1993 Sb.",
+        "law_name": "Ústava České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "s. ř. s.": {
+        "law_id": "150/2002 Sb.",
+        "law_name": "Zákon soudní řád správní",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o soudní rehabilitaci": {
+        "law_id": "119/1990 Sb.",
+        "law_name": "Zákon o soudní rehabilitaci",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "o. z.": {
+        "law_id": "89/2012 Sb.",
+        "law_name": "Zákon občanský zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "tr. z.": {
+        "law_id": "140/1961 Sb.",
+        "law_name": "Trestní zákon",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "tr. řád": {
+        "law_id": "141/1961 Sb.",
+        "law_name": "Zákon o trestním řízení soudním (trestní řád)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "tr. zákoník": {
+        "law_id": "40/2009 Sb.",
+        "law_name": "Zákon trestní zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "obchodní zákoník": {
+        "law_id": "513/1991 Sb.",
+        "law_name": "Obchodní zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Úmluva o vydávání": {
+        "law_id": "549/1957 Sb.",
+        "is_valid": "UNKNOWN",
+        "reason": "ID not found in canonical DB"
+    },
+    "občanský zákoník z roku": {
+        "law_id": "40/1964 Sb.",
+        "law_name": "Občanský zákoník",
+        "is_valid": false,
+        "reason": "The alias contains a temporal fragment 'z roku' (from the year), which is an incomplete modifier used to specify a version of the law rather than acting as a standalone, static shorthand identifier for the law itself."
+    },
+    "obch. z.": {
+        "law_id": "513/1991 Sb.",
+        "law_name": "Obchodní zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o rodině": {
+        "law_id": "94/1963 Sb.",
+        "law_name": "Zákon o rodině",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "z. o d. p.": {
+        "law_id": "155/1995 Sb.",
+        "law_name": "Zákon o důchodovém pojištění",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "z. p.": {
+        "law_id": "65/1965 Sb.",
+        "law_name": "Zákoník práce",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o pozemních komunikacích": {
+        "law_id": "13/1997 Sb.",
+        "law_name": "Zákon o pozemních komunikacích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "občanský soudní řád": {
+        "law_id": "99/1963 Sb.",
+        "law_name": "Občanský soudní řád",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Opatření": {
+        "law_id": "157/1989 Sb.",
+        "law_name": "Zákon o důchodové dani a o změnách zákona č. 172/1988 Sb., o zemědělské dani, a zákona č. 116/1985 Sb., o podmínkách činnosti organizací s mezinárodním prvkem v Československé socialistické republice (zákon o důchodové dani)",
+        "is_valid": false,
+        "reason": "The term 'Opatření' is a generic legal category meaning 'measure' or 'provision'. It is not a specific or established shorthand for the Act on Income Tax and fits the criteria of a generic term that could apply to numerous legal acts or administrative instruments."
+    },
+    "zákon o státním zastupitelství": {
+        "law_id": "283/1993 Sb.",
+        "law_name": "Zákon o státním zastupitelství",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "e. ř.": {
+        "law_id": "120/2001 Sb.",
+        "law_name": "Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "tr. zákon": {
+        "law_id": "140/1961 Sb.",
+        "law_name": "Trestní zákon",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o vězeňské službě": {
+        "law_id": "555/1992 Sb.",
+        "law_name": "Zákon České národní rady o Vězeňské službě a justiční stráži České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o nájmu nebytových prostor": {
+        "law_id": "116/1990 Sb.",
+        "law_name": "Zákon o nájmu a podnájmu nebytových prostor",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "obč. zák.": {
+        "law_id": "40/1964 Sb.",
+        "law_name": "Občanský zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o silničním provozu": {
+        "law_id": "361/2000 Sb.",
+        "law_name": "Zákon o provozu na pozemních komunikacích a o změnách některých zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "trestní zákon": {
+        "law_id": "140/1961 Sb.",
+        "law_name": "Trestní zákon",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákona o soudních poplatcích": {
+        "law_id": "549/1991 Sb.",
+        "law_name": "Zákon České národní rady  o soudních poplatcích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákona o Ústavním soudu": {
+        "law_id": "182/1993 Sb.",
+        "law_name": "Zákon o Ústavním soudu",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o Ústavního soudu": {
+        "law_id": "182/1993 Sb.",
+        "law_name": "Zákon o Ústavním soudu",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZSOP": {
+        "law_id": "549/1991 Sb.",
+        "law_name": "Zákon České národní rady  o soudních poplatcích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Štrasburská úmluva": {
+        "law_id": "70/2002 Sb.",
+        "law_name": "Nařízení vlády o technických požadavcích na zařízení pro dopravu osob",
+        "is_valid": false,
+        "reason": "The alias 'Štrasburská úmluva' (Strasbourg Convention) refers to a specific international treaty, most commonly the European Convention on Human Rights, and has no logical or legal connection to the Czech government decree 'Nařízení vlády o technických požadavcích na zařízení pro dopravu osob'."
+    },
+    "trestní řád": {
+        "law_id": "141/1961 Sb.",
+        "law_name": "Zákon o trestním řízení soudním (trestní řád)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "trestní zákoník": {
+        "law_id": "40/2009 Sb.",
+        "law_name": "Zákon trestní zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o dani z přidané hodnoty": {
+        "law_id": "588/92 Sb.",
+        "is_valid": "UNKNOWN",
+        "reason": "ID not found in canonical DB"
+    },
+    "atomový zákon": {
+        "law_id": "18/1997 Sb.",
+        "law_name": "Zákon o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon směnečný a šekový": {
+        "law_id": "191/1950 Sb.",
+        "law_name": "Zákon směnečný a šekový",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "z. ř. s.": {
+        "law_id": "292/2013 Sb.",
+        "law_name": "Zákon o zvláštních řízeních soudních",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon obcích": {
+        "law_id": "128/2000 Sb.",
+        "law_name": "Zákon o obcích (obecní zřízení)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "s. ř. s": {
+        "law_id": "150/2002 Sb.",
+        "law_name": "Zákon soudní řád správní",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o pobytu cizinců": {
+        "law_id": "326/1999 Sb.",
+        "law_name": "Zákon o pobytu cizinců na území České republiky a o změně některých zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "z. m. j. s.": {
+        "law_id": "104/2013 Sb.",
+        "law_name": "Zákon o mezinárodní justiční spolupráci ve věcech trestních",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o obcích": {
+        "law_id": "128/2000 Sb.",
+        "law_name": "Zákon o obcích (obecní zřízení)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "správní řád": {
+        "law_id": "500/2004 Sb.",
+        "law_name": "Zákon správní řád",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o telekomunikacích": {
+        "law_id": "110/1964 Sb.",
+        "law_name": "Zákon o telekomunikacích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ex. řád": {
+        "law_id": "120/2001 Sb.",
+        "law_name": "Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákona o státním podniku": {
+        "law_id": "77/1997 Sb.",
+        "law_name": "Zákon o státním podniku",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "OSŘ": {
+        "law_id": "99/1963 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"OSŘ\" stands for \"Občanský soudní řád\" (Civil Procedure Code). Law ID 99/1963 Sb. is explicitly named \"Občanský soudní řád\". Law ID 30/2000 Sb. is an amendment to 99/1963 Sb., not the code itself. Therefore, 99/1963 Sb. is the canonical and universally understood modern law represented by the alias \"OSŘ\", despite numerous amendments over time."
+    },
+    "ObčZ": {
+        "law_id": "40/1964 Sb.",
+        "law_name": "Občanský zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZRŘ": {
+        "law_id": "216/1994 Sb.",
+        "law_name": "Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "obch. zák.": {
+        "law_id": "513/1991 Sb.",
+        "law_name": "Obchodní zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o soudních poplatcích": {
+        "law_id": "549/1991 Sb.",
+        "law_name": "Zákon České národní rady  o soudních poplatcích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "exekuční řád": {
+        "law_id": "120/2001 Sb.",
+        "law_name": "Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "z. v. r.": {
+        "law_id": "304/2013 Sb.",
+        "law_name": "Zákon o veřejných rejstřících právnických a fyzických osob",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "družstvo": {
+        "law_id": "229/1991 Sb.",
+        "law_name": "Zákon o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku",
+        "is_valid": false,
+        "reason": "The alias 'družstvo' refers to a type of legal entity (a cooperative) rather than the law itself. It falls under the category of Entity/Subject Hijacking as it describes a subject/entity governed by law, not the legislative act itself."
+    },
+    "advokátní tarif": {
+        "law_id": "177/1996 Sb.",
+        "law_name": "Vyhláška Ministerstva spravedlnosti o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "OdpŠk": {
+        "law_id": "358/1992 Sb.",
+        "law_name": "Zákon České národní rady o notářích a jejich činnosti (notářský řád)",
+        "is_valid": false,
+        "reason": "The alias 'OdpŠk' is a standard abbreviation for the law on state liability for damage (Zákon o odpovědnosti za škodu způsobenou při výkonu veřejné moci), and it is not a valid shorthand for the Notary Act (notářský řád)."
+    },
+    "Dodatková úmluva": {
+        "law_id": "178/1935 Sb.",
+        "law_name": "Dodatková úmluva o civilním řízení soudním mezi republikou Československou a Spojeným Královstvím Velké Britanie a Severního Irska.",
+        "is_valid": false,
+        "reason": "The alias 'Dodatková úmluva' (Supplementary Convention) is a generic term describing a type of legal instrument rather than a specific identifier for this particular treaty. There are numerous supplementary conventions across various legal areas, making this alias too broad and prone to collision, similar to the generic terms 'zákon' or 'vyhláška'."
+    },
+    "hosp. zák.": {
+        "law_id": "109/1964 Sb.",
+        "law_name": "Hospodářský zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zák. pr.": {
+        "law_id": "65/1965 Sb.",
+        "law_name": "Zákoník práce",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "rehabilitační zákon": {
+        "law_id": "119/1990 Sb.",
+        "law_name": "Zákon o soudní rehabilitaci",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o spořitelních a úvěrních družstvech": {
+        "law_id": "87/1995 Sb.",
+        "law_name": "Zákon o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "nadační zákon": {
+        "law_id": "227/1997 Sb.",
+        "law_name": "Zákon o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Smlouva": {
+        "law_id": "29/2003 Sb.",
+        "law_name": "Vyhláška, kterou se mění vyhláška č. 278/1998 Sb., k provedení zákona č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů, ve znění zákona č. 60/1998 Sb., ve znění vyhlášky č. 88/2000 Sb. a vyhlášky č. 355/2001 Sb.",
+        "is_valid": false,
+        "reason": "The alias 'Smlouva' (Contract/Treaty) is a generic legal term and an example of subject hijacking. It refers to a general legal concept or instrument rather than acting as a specific identifier for the provided decree (vyhláška). It is explicitly listed in the rejection criteria."
+    },
+    "ZSDP": {
+        "law_id": "337/1992 Sb.",
+        "law_name": "Zákon České národní rady o správě daní a poplatků",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o důchodovém pojištění": {
+        "law_id": "155/1995 Sb.",
+        "law_name": "Zákon o důchodovém pojištění",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o daních z příjmů": {
+        "law_id": "586/1992 Sb.",
+        "law_name": "Zákon České národní rady o daních z příjmů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o služebním poměru": {
+        "law_id": "186/1992 Sb.",
+        "law_name": "Zákon České národní rady o služebním poměru příslušníků Policie České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZDPH": {
+        "law_id": "235/2004 Sb.",
+        "law_name": "Zákon o dani z přidané hodnoty",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o elektronickém podpisu": {
+        "law_id": "227/2000 Sb.",
+        "law_name": "Zákon o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o vodách": {
+        "law_id": "138/1973 Sb.",
+        "law_name": "Zákon o vodách (vodní zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o státní správě ve vodním hospodářství": {
+        "law_id": "130/1974 Sb.",
+        "law_name": "Zákon České národní rady o státní správě ve vodním hospodářství",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "stavební zákon": {
+        "law_id": "183/2006 Sb.",
+        "law_name": "Zákon o územním plánování a stavebním řádu (stavební zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "d. ř.": {
+        "law_id": "337/1992 Sb.",
+        "law_name": "Zákon České národní rady o správě daní a poplatků",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o místních poplatcích": {
+        "law_id": "565/1990 Sb.",
+        "law_name": "Zákon České národní rady o místních poplatcích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vyhláška o hracích přístrojích": {
+        "law_id": "223/1993 Sb.",
+        "law_name": "Vyhláška ministerstva financí o hracích přístrojích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o loteriích": {
+        "law_id": "202/1990 Sb.",
+        "law_name": "Zákon České národní rady o loteriích a jiných podobných hrách",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "horní zákon": {
+        "law_id": "44/1988 Sb.",
+        "law_name": "Zákon o ochraně a využití nerostného bohatství (horní zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "starý správní řád": {
+        "law_id": "71/1967 Sb.",
+        "law_name": "Zákon o správním řízení (správní řád)",
+        "is_valid": false,
+        "reason": "The alias contains a temporal modifier ('starý'), which describes the version or state of the law relative to time rather than being a static identifier for the law itself. This falls under the rejection category for temporal/state modifiers."
+    },
+    "zákon o správě daní": {
+        "law_id": "337/1992 Sb.",
+        "law_name": "Zákon České národní rady o správě daní a poplatků",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o vojácích z povolání": {
+        "law_id": "221/1999 Sb.",
+        "law_name": "Zákon o vojácích z povolání",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o vojácích v záloze": {
+        "law_id": "45/2016 Sb.",
+        "law_name": "Zákon o službě vojáků v záloze",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o rozpočtových pravidlech": {
+        "law_id": "218/2000 Sb.",
+        "law_name": "Zákon o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZVZ": {
+        "law_id": "137/2006 Sb.",
+        "law_name": "Zákon o veřejných zakázkách",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "první ZVZ": {
+        "law_id": "199/1994 Sb.",
+        "law_name": "Zákon o zadávání veřejných zakázek",
+        "is_valid": false,
+        "reason": "The alias 'první ZVZ' includes a temporal/ordinal modifier ('první') that describes a specific historical version or state of the law rather than serving as a static, general identifier for the law's name itself, which violates the rule against temporal/state modifiers."
+    },
+    "zákon o přestupcích": {
+        "law_id": "250/2016 Sb.",
+        "law_name": "Zákon o odpovědnosti za přestupky a řízení o nich",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o ochraně osobních údajů": {
+        "law_id": "101/2000 Sb.",
+        "law_name": "Zákon o ochraně osobních údajů a o změně některých zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "živnostenský zákon": {
+        "law_id": "267/2015 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony",
+        "is_valid": false,
+        "reason": "The alias 'živnostenský zákon' (Trade Licensing Act) refers to Act No. 455/1991 Coll., while the provided official name is an amending act for the Public Health Act (No. 258/2000 Coll.). The alias is a specific name for a completely different law and is not a valid shorthand for this amending act."
+    },
+    "zákon o trojdani": {
+        "law_id": "357/1992 Sb.",
+        "law_name": "Zákon České národní rady o dani dědické, dani darovací a dani z převodu nemovitostí",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o vinohradnictví a vinařství": {
+        "law_id": "321/2004 Sb.",
+        "law_name": "Zákon o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Evropská úmluva": {
+        "law_id": "209/1992 Sb.",
+        "law_name": "Sdělení federálního ministerstva zahraničních věcí o sjednání Úmluvy o ochraně lidských práv a základních svobod a Protokolů na tuto Úmluvu navazujících",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Fond": {
+        "law_id": "388/1991 Sb.",
+        "law_name": "Zákon České národní rady o Státním fondu životního prostředí České republiky",
+        "is_valid": false,
+        "reason": "The alias 'Fond' refers to the subject or entity (the State Environmental Fund) regulated by the law rather than the law itself, which constitutes entity/subject hijacking. Furthermore, the term is too generic as it could apply to any number of legal funds."
+    },
+    "poštovní zákona": {
+        "law_id": "29/2000 Sb.",
+        "law_name": "Zákon o poštovních službách a o změně některých zákonů (zákon o poštovních službách)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "poštovní vyhláška": {
+        "law_id": "464/2012 Sb.",
+        "law_name": "Vyhláška o stanovení specifikace jednotlivých základních služeb a základních kvalitativních požadavků na jejich poskytování",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o zemědělství": {
+        "law_id": "252/19997 Sb.",
+        "is_valid": "UNKNOWN",
+        "reason": "ID not found in canonical DB"
+    },
+    "volební zákon": {
+        "law_id": "491/2001 Sb.",
+        "law_name": "Zákon o volbách do zastupitelstev obcí a o změně některých zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o výkonu trestu": {
+        "law_id": "169/1999 Sb.",
+        "law_name": "Zákon o výkonu trestu odnětí svobody a o změně některých souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o hornické činnosti": {
+        "law_id": "61/1988 Sb.",
+        "law_name": "Zákon České národní rady o hornické činnosti, výbušninách a o státní báňské správě",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zemědělský zákon": {
+        "law_id": "252/1997 Sb.",
+        "law_name": "Zákon o zemědělství",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o pozemkových úpravách": {
+        "law_id": "139/2002 Sb.",
+        "law_name": "Zákon o pozemkových úpravách a pozemkových úřadech a o změně zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o spotřebních daních": {
+        "law_id": "353/2003 Sb.",
+        "law_name": "Zákon o spotřebních daních",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZoR": {
+        "law_id": "593/1992 Sb.",
+        "law_name": "Zákon České národní rady o rezervách pro zjištění základu daně z příjmů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZDP": {
+        "law_id": "586/1992 Sb.",
+        "law_name": "Zákon České národní rady o daních z příjmů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZSD": {
+        "law_id": "353/2003 Sb.",
+        "law_name": "Zákon o spotřebních daních",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vodní zákon": {
+        "law_id": "254/2001 Sb.",
+        "law_name": "Zákon o vodách a o změně některých zákonů (vodní zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "řád výkonu trestu odnětí svobody": {
+        "law_id": "345/1999 Sb.",
+        "law_name": "Vyhláška Ministerstva spravedlnosti, kterou se vydává řád výkonu trestu odnětí svobody",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o silniční dopravě": {
+        "law_id": "111/1994 Sb.",
+        "law_name": "Zákon o silniční dopravě",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "PřesZ": {
+        "law_id": "250/2016 Sb.",
+        "law_name": "Zákon o odpovědnosti za přestupky a řízení o nich",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "kontrolní řád": {
+        "law_id": "255/2012 Sb.",
+        "law_name": "Zákon o kontrole (kontrolní řád)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o silniční kontrole": {
+        "law_id": "111/1994 Sb.",
+        "law_name": "Zákon o silniční dopravě",
+        "is_valid": false,
+        "reason": "The alias 'zákon o silniční kontrole' (Law on Road Inspection) is not a recognized or logical shorthand for 'Zákon o silniční dopravě' (Law on Road Transport). It substitutes the primary subject of the law (transport) with a specific procedure (inspection) that may be regulated within it but does not represent the law as a whole."
+    },
+    "OTPP": {
+        "law_id": "26/1999 Sb.",
+        "law_name": "Vyhláška Ministerstva průmyslu a obchodu o způsobu provedení a označení obalů nebezpečných chemických látek a přípravků",
+        "is_valid": false,
+        "reason": "The alias 'OTPP' is not a standard or logical shorthand for this specific decree on chemical packaging. In Czech legal and technical practice, 'OTPP' is a well-established acronym for 'Obecné technické požadavky na výstavbu' (General Technical Requirements for Construction), which refers to an entirely different set of regulations."
+    },
+    "zákon o regulaci reklamy": {
+        "law_id": "468/1991 Sb.",
+        "law_name": "Zákon o provozování rozhlasového a televizního vysílání",
+        "is_valid": false,
+        "reason": "The alias refers to a completely different statute (Act No. 40/1995 Coll., on Advertising Regulation) than the official law provided (Act No. 231/2001 Coll., on Radio and Television Broadcasting). They are distinct legal acts."
+    },
+    "přestupkový zákon": {
+        "law_id": "250/2016 Sb.",
+        "law_name": "Zákon o odpovědnosti za přestupky a řízení o nich",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "příspěvek": {
+        "law_id": "108/2006 Sb.",
+        "law_name": "Zákon o sociálních službách",
+        "is_valid": false,
+        "reason": "The alias 'příspěvek' is a generic term referring to a financial contribution or allowance rather than a specific shorthand for the 'Zákon o sociálních službách'. It describes a legal subject or benefit found within many laws, falling under the category of generic terms and subject hijacking."
+    },
+    "zákona o správě daní a poplatků": {
+        "law_id": "337/1992 Sb.",
+        "law_name": "Zákon České národní rady o správě daní a poplatků",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o insolvenčních správcích": {
+        "law_id": "312/2006 Sb.",
+        "law_name": "Zákon o insolvenčních správcích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "informační zákon": {
+        "law_id": "106/1999 Sb.",
+        "law_name": "Zákon o svobodném přístupu k informacím",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o pojistném": {
+        "law_id": "592/1992 Sb.",
+        "law_name": "Zákon České národní rady  o pojistném na veřejné zdravotní pojištění",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "nový správní řád": {
+        "law_id": "500/2004 Sb.",
+        "law_name": "Zákon správní řád",
+        "is_valid": false,
+        "reason": "The alias contains the temporal modifier 'nový', which describes the version or state of the law relative to a previous one rather than serving as a static identifier for the law itself."
+    },
+    "zákon o státní sociální podpoře": {
+        "law_id": "117/1995 Sb.",
+        "law_name": "Zákon o státní sociální podpoře",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "správce daně": {
+        "law_id": "337/1992 Sb.",
+        "law_name": "Zákon České národní rady o správě daní a poplatků",
+        "is_valid": false,
+        "reason": "The alias 'správce daně' (tax administrator) refers to the legal subject or entity responsible for tax administration rather than the law itself. This constitutes 'Entity/Subject Hijacking' as the term describes the actor governed by the statute, not the statute's title."
+    },
+    "zákon o ochraně spotřebitele": {
+        "law_id": "634/1992 Sb.",
+        "law_name": "Zákon o ochraně spotřebitele",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "s. ř. s. .": {
+        "law_id": "150/2002 Sb.",
+        "law_name": "Zákon soudní řád správní",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vyhláška o zřízení oblastí klidu": {
+        "law_id": "3/1991 Sb.",
+        "law_name": "Zákon, kterým se mění a doplňuje zákoník práce",
+        "is_valid": false,
+        "reason": "The alias refers to a specific decree regarding quiet zones ('vyhláška o zřízení oblastí klidu'), which is completely unrelated to the target law, an amendment to the Labour Code ('zákoník práce')."
+    },
+    "zákon o ochraně přírody a krajiny": {
+        "law_id": "114/1992 Sb.",
+        "law_name": "Zákon České národní rady o ochraně přírody a krajiny",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vyhláška o požadavcích na výstavbu": {
+        "law_id": "26/1999 Sb.",
+        "law_name": "Vyhláška Ministerstva průmyslu a obchodu o způsobu provedení a označení obalů nebezpečných chemických látek a přípravků",
+        "is_valid": false,
+        "reason": "The alias 'vyhláška o požadavcích na výstavbu' refers to construction requirements, which is a completely different subject matter than the official law concerning the packaging and marking of dangerous chemical substances."
+    },
+    "starý stavební zákon": {
+        "law_id": "50/1976 Sb.",
+        "law_name": "Zákon o územním plánování a stavebním řádu (stavební zákon)",
+        "is_valid": false,
+        "reason": "The alias contains a temporal modifier ('starý'), which describes the version or state of the law relative to others rather than being a static identifier for the law itself. This falls under the 'Temporal/State Modifiers' rejection category."
+    },
+    "zákon o výkonu trestu odnětí svobody": {
+        "law_id": "169/1999 Sb.",
+        "law_name": "Zákon o výkonu trestu odnětí svobody a o změně některých souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o Vězeňské službě": {
+        "law_id": "555/1992 Sb.",
+        "law_name": "Zákon České národní rady o Vězeňské službě a justiční stráži České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o správě daní a poplatků": {
+        "law_id": "337/1992 Sb.",
+        "law_name": "Zákon České národní rady o správě daní a poplatků",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "poškozená": {
+        "law_id": "200/1990 Sb.",
+        "law_name": "Zákon České národní rady o přestupcích",
+        "is_valid": false,
+        "reason": "The alias 'poškozená' refers to a specific legal subject or party involved in a proceeding (the injured party) rather than the law itself. This falls under the category of entity or subject hijacking and is not a valid shorthand for the Law on Misdemeanors."
+    },
+    "rozsudek ve věci Lumius": {
+        "law_id": "1771/2009 Sb.",
+        "is_valid": "UNKNOWN",
+        "reason": "ID not found in canonical DB"
+    },
+    "zákon o svobodném přístupu k informacím": {
+        "law_id": "106/1999 Sb.",
+        "law_name": "Zákon o svobodném přístupu k informacím",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o DPH": {
+        "law_id": "235/2004 Sb.",
+        "law_name": "Zákon o dani z přidané hodnoty",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o evidenci tržeb": {
+        "law_id": "112/2016 Sb.",
+        "law_name": "Zákon o evidenci tržeb",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o hazardních hrách": {
+        "law_id": "186/2016 Sb.",
+        "law_name": "Zákon o hazardních hrách",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "napadený rozsudek": {
+        "law_id": "182/2006 Sb.",
+        "law_name": "Zákon o úpadku a způsobech jeho řešení (insolvenční zákon)",
+        "is_valid": false,
+        "reason": "The alias 'napadený rozsudek' (challenged judgment) refers to a specific judicial decision or court ruling being appealed, not to a law. It is a procedural term and does not function as a shorthand for the Insolvency Act."
+    },
+    "zákon o odpovědnosti za přestupky": {
+        "law_id": "250/2016 Sb.",
+        "law_name": "Zákon o odpovědnosti za přestupky a řízení o nich",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o České obchodní inspekci": {
+        "law_id": "64/1986 Sb.",
+        "law_name": "Zákon České národní rady o České obchodní inspekci",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o vysokých školách": {
+        "law_id": "111/1998 Sb.",
+        "law_name": "Zákon o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o poskytování dávek": {
+        "law_id": "329/2011 Sb.",
+        "law_name": "Zákon o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZVZP": {
+        "law_id": "48/1997 Sb.",
+        "law_name": "Zákon o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákona o metrologii": {
+        "law_id": "505/1990 Sb.",
+        "law_name": "Zákon o metrologii",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "lesní zákon": {
+        "law_id": "289/1995 Sb.",
+        "law_name": "Zákon o lesích a o změně a doplnění některých zákonů (lesní zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o ochraně veřejného zdraví": {
+        "law_id": "258/2000 Sb.",
+        "law_name": "Zákon o ochraně veřejného zdraví a o změně některých souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "stará hluková zátěž": {
+        "law_id": "272/2011 Sb.",
+        "law_name": "Nařízení vlády o ochraně zdraví před nepříznivými účinky hluku a vibrací",
+        "is_valid": false,
+        "reason": "The alias 'stará hluková zátěž' refers to a specific legal concept or institute defined within the regulation (specifically regarding noise limits for older infrastructure) rather than serving as a shorthand for the entire government regulation. It is a legal topic, not the name of the law."
+    },
+    "Aarhuská úmluva": {
+        "law_id": "124/2004 Sb.",
+        "law_name": "Vyhláška, kterou se mění vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje",
+        "is_valid": false,
+        "reason": "The alias 'Aarhuská úmluva' refers to the Aarhus Convention, which is an international treaty regarding environmental information and justice. It has no logical connection to the provided official law, which is a technical decree regulating the standards for milk, dairy products, and fats."
+    },
+    "shromažďovací zákon": {
+        "law_id": "84/1990 Sb.",
+        "law_name": "Zákon o právu shromažďovacím",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vinařský zákon": {
+        "law_id": "321/2004 Sb.",
+        "law_name": "Zákon o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o dráhách": {
+        "law_id": "266/1994 Sb.",
+        "law_name": "Zákon o dráhách",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o potravinách": {
+        "law_id": "110/1997 Sb.",
+        "law_name": "Zákon o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o ochranných známkách": {
+        "law_id": "441/2003 Sb.",
+        "law_name": "Zákon o ochranných známkách a o změně zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, (zákon o ochranných známkách)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o veřejných zakázkách": {
+        "law_id": "137/2006 Sb.",
+        "law_name": "Zákon o veřejných zakázkách",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o zadávání veřejných zakázek": {
+        "law_id": "134/2016 Sb.",
+        "law_name": "Zákon o zadávání veřejných zakázek",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o organizaci a provádění sociálního zabezpečení": {
+        "law_id": "582/1991 Sb.",
+        "law_name": "Zákon České národní rady o organizaci a provádění sociálního zabezpečení",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Zásady": {
+        "law_id": "143/2001 Sb.",
+        "law_name": "Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)",
+        "is_valid": false,
+        "reason": "The alias 'Zásady' is a generic term meaning 'principles' and does not serve as a specific or established identifier for the Act on the Protection of Economic Competition. It falls under the category of generic terms that could apply to various legal contexts or documents."
+    },
+    "zákon o zemních komunikacích": {
+        "law_id": "13/1997 Sb.",
+        "law_name": "Zákon o pozemních komunikacích",
+        "is_valid": false,
+        "reason": "The alias uses the incorrect adjective 'zemních' (earth/soil) instead of the official 'pozemních' (land/road). This is a linguistic corruption or factual error rather than a logical shorthand or established colloquialism."
+    },
+    "koncesní zákon": {
+        "law_id": "139/2006 Sb.",
+        "law_name": "Zákon o koncesních smlouvách a koncesním řízení (koncesní zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "nález ÚS": {
+        "law_id": "405/2002 Sb.",
+        "law_name": "Nález Ústavního soudu ze dne 13. srpna 2002 ve věci návrhu na zrušení části ustanovení § 106 odst. 3 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů",
+        "is_valid": false,
+        "reason": "The alias 'nález ÚS' (Constitutional Court finding) is a generic term that can apply to any decision issued by the Constitutional Court. It lacks the specificity (such as a date or file number) required to uniquely identify this particular finding from 2002, making it a generic term rather than a specific shorthand for this exact document."
+    },
+    "zákon o nakládání s GMO": {
+        "law_id": "78/2004 Sb.",
+        "law_name": "Zákon o nakládání s geneticky modifikovanými organismy a genetickými produkty",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o archivnictví a spisové službě": {
+        "law_id": "499/2004 Sb.",
+        "law_name": "Zákon o archivnictví a spisové službě a o změně některých zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vyhláška o podrobnostech výkonu spisové služby": {
+        "law_id": "259/2012 Sb.",
+        "law_name": "Vyhláška o podrobnostech výkonu spisové služby",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "insolvenční zákon": {
+        "law_id": "182/2006 Sb.",
+        "law_name": "Zákon o úpadku a způsobech jeho řešení (insolvenční zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "předchozí zákon": {
+        "law_id": "40/2004 Sb.",
+        "law_name": "Zákon o veřejných zakázkách",
+        "is_valid": false,
+        "reason": "The alias 'předchozí zákon' is a temporal modifier describing the law's chronological relationship to another law rather than being a specific, static shorthand for 'Zákon o veřejných zakázkách'."
+    },
+    "krizový zákon": {
+        "law_id": "240/200 Sb.",
+        "is_valid": "UNKNOWN",
+        "reason": "ID not found in canonical DB"
+    },
+    "zákon o zdravotnických prostředcích": {
+        "law_id": "123/2000 Sb.",
+        "law_name": "Zákon o zdravotnických prostředcích a o změně některých souvisejících zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o státních hranicích": {
+        "law_id": "200/1990 Sb.",
+        "law_name": "Zákon České národní rady o přestupcích",
+        "is_valid": false,
+        "reason": "The alias 'zákon o státních hranicích' refers to an entirely different subject matter (state borders) than the official law name 'Zákon České národní rady o přestupcích' (misdemeanors). It is not a valid shorthand or synonym for the specified law."
+    },
+    "LZPS": {
+        "law_id": "2/1993 Sb.",
+        "law_name": "Usnesení předsednictva České národní rady o vyhlášení LISTINY ZÁKLADNÍCH PRÁV A SVOBOD jako součástí ústavního pořádku České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o majetku státu": {
+        "law_id": "219/2000 Sb.",
+        "law_name": "Zákon o majetku České republiky a jejím vystupování v právních vztazích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o ochraně utajovaných informací": {
+        "law_id": "412/2005 Sb.",
+        "law_name": "Zákon o ochraně utajovaných informací a o bezpečnostní způsobilosti",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "nařízení vlády": {
+        "law_id": "522/2005 Sb.",
+        "law_name": "Nařízení vlády, kterým se stanoví seznam utajovaných informací",
+        "is_valid": false,
+        "reason": "The alias 'nařízení vlády' is a generic term describing a type of legal act (Government Regulation) rather than a specific shorthand for this particular law. It falls under the category of Generic Terms because it can apply to any government regulation, not just the one regarding classified information."
+    },
+    "rozhodnutí Úřadu": {
+        "law_id": "89/2012 Sb.",
+        "law_name": "Zákon občanský zákoník",
+        "is_valid": false,
+        "reason": "The alias 'rozhodnutí Úřadu' refers to an administrative decision issued by an authority/office rather than the law itself. It falls under the category of entity/subject hijacking as it describes a legal output of an institution."
+    },
+    "ZZVZ": {
+        "law_id": "134/2016 Sb.",
+        "law_name": "Zákon o zadávání veřejných zakázek",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "TOPO": {
+        "law_id": "418/2011 Sb.",
+        "law_name": "Zákon o trestní odpovědnosti právnických osob a řízení proti nim",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o veřejných službách": {
+        "law_id": "194/2010 Sb.",
+        "law_name": "Zákon o veřejných službách v přepravě cestujících a o změně dalších zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "důvodová zpráva": {
+        "law_id": "40/2015 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů",
+        "is_valid": false,
+        "reason": "The alias 'důvodová zpráva' (explanatory memorandum) refers to a specific type of legal document that accompanies a draft bill or law, explaining its purpose and content. It is not an alias or shorthand for the law itself."
+    },
+    "ZVS": {
+        "law_id": "194/2010 Sb.",
+        "law_name": "Zákon o veřejných službách v přepravě cestujících a o změně dalších zákonů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZOK": {
+        "law_id": "90/2012 Sb.",
+        "law_name": "Zákon o obchodních společnostech a družstvech (zákon o obchodních korporacích)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Listina základních práv a svobod": {
+        "law_id": "2/1993 Sb.",
+        "law_name": "Usnesení předsednictva České národní rady o vyhlášení LISTINY ZÁKLADNÍCH PRÁV A SVOBOD jako součástí ústavního pořádku České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "Stanovisko Úřadu": {
+        "law_id": "137/2006 Sb.",
+        "law_name": "Zákon o veřejných zakázkách",
+        "is_valid": false,
+        "reason": "The alias 'Stanovisko Úřadu' refers to a legal opinion or position issued by an administrative body (an 'Office'), not the law itself. This constitutes Entity/Subject Hijacking as it describes a specific document or stance from an institution rather than the statute."
+    },
+    "transparentní novela": {
+        "law_id": "137/2006 Sb.",
+        "law_name": "Zákon o veřejných zakázkách",
+        "is_valid": false,
+        "reason": "The alias refers to a specific amendment (novela) to the law rather than the law itself. According to rule #2, modifiers describing a specific version or amendment are not valid static identifiers for the entire law."
+    },
+    "zákon o zdravotních pojišťovnách": {
+        "law_id": "280/1992 Sb.",
+        "law_name": "Zákon České národní rady o resortních, oborových, podnikových a dalších zdravotních pojišťovnách",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZoSFDI": {
+        "law_id": "104/2000 Sb.",
+        "law_name": "Zákon o Státním fondu dopravní infrastruktury a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZoP": {
+        "law_id": "250/2016 Sb.",
+        "law_name": "Zákon o odpovědnosti za přestupky a řízení o nich",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZEU": {
+        "law_id": "300/2008 Sb.",
+        "law_name": "Zákon o elektronických úkonech a autorizované konverzi dokumentů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "autorský zákon": {
+        "law_id": "121/2000 Sb.",
+        "law_name": "Zákon o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o elektronických úkonech": {
+        "law_id": "300/2008 Sb.",
+        "law_name": "Zákon o elektronických úkonech a autorizované konverzi dokumentů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "obecní zřízení": {
+        "law_id": "128/2000 Sb.",
+        "law_name": "Zákon o obcích (obecní zřízení)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "ZOHS": {
+        "law_id": "262/2017 Sb.",
+        "law_name": "Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže), ve znění pozdějších předpisů, (zákon o náhradě škody v oblasti hospodářské soutěže)",
+        "is_valid": false,
+        "reason": "The alias 'ZOHS' is the established and specific acronym for 'Zákon o ochraně hospodářské soutěže' (Law No. 143/2001 Sb.). While that law is mentioned in the official title of the provided text as a law being amended, Law No. 262/2017 Sb. (Zákon o náhradě škody v oblasti hospodářské soutěže) is a distinct legal act typically abbreviated as 'ZNŠHS'. Assigning 'ZOHS' to the compensation law would result in an incorrect identification of the legal act."
+    },
+    "zákon o majetku ČR": {
+        "law_id": "219/2000 Sb.",
+        "law_name": "Zákon o majetku České republiky a jejím vystupování v právních vztazích",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "rejstříkový zákon": {
+        "law_id": "304/2013 Sb.",
+        "law_name": "Zákon o veřejných rejstřících právnických a fyzických osob",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o HZS": {
+        "law_id": "320/2015 Sb.",
+        "law_name": "Zákon o Hasičském záchranném sboru České republiky a o změně některých zákonů (zákon o hasičském záchranném sboru)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o požární ochraně": {
+        "law_id": "133/1985 Sb.",
+        "law_name": "Zákon České národní rady o požární ochraně",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "vyhláška o požární prevenci": {
+        "law_id": "246/2001 Sb.",
+        "law_name": "Vyhláška Ministerstva vnitra o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "NOZ": {
+        "law_id": "89/2012 Sb.",
+        "law_name": "Zákon občanský zákoník",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o střetu zájmů": {
+        "law_id": "159/2006 Sb.",
+        "law_name": "Zákon o střetu zájmů",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o odpadech": {
+        "law_id": "541/2020 Sb.",
+        "law_name": "Zákon o odpadech",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "novela ZZVZ": {
+        "law_id": "134/2016 Sb.",
+        "law_name": "Zákon o zadávání veřejných zakázek",
+        "is_valid": false,
+        "reason": "The alias 'novela ZZVZ' is a temporal or state modifier referring to an amendment of the law rather than the law itself. It is explicitly listed as a prohibited alias under the rejection criteria for temporal/state modifiers."
+    },
+    "zákon o veřejné podpoře": {
+        "law_id": "59/2000 Sb.",
+        "law_name": "Zákon o veřejné podpoře",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon po novele": {
+        "law_id": "142/2001 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů",
+        "is_valid": false,
+        "reason": "The alias 'zákon po novele' is a temporal/state modifier that describes the version of a law (law after amendment) rather than serving as a specific, static shorthand for the law's name. It is explicitly listed as an example of an invalid alias in the rejection criteria."
+    },
+    "Sdružení Pro-Insta": {
+        "law_id": "40/1964 Sb.",
+        "law_name": "Občanský zákoník",
+        "is_valid": false,
+        "reason": "The alias 'Sdružení Pro-Insta' refers to a specific entity or association name rather than being a valid shorthand or identifier for the law 'Občanský zákoník'. This is a case of Entity/Subject Hijacking."
+    },
+    "uchazeč": {
+        "law_id": "40/1964 Sb.",
+        "law_name": "Občanský zákoník",
+        "is_valid": false,
+        "reason": "The alias 'uchazeč' (bidder/applicant) refers to a legal subject or role in a process, not to the law itself. This falls under the category of Entity/Subject Hijacking and is not a valid shorthand for the 'Občanský zákoník'."
+    },
+    "zákon o správních poplatcích": {
+        "law_id": "368/1992 Sb.",
+        "law_name": "Zákon České národní rady  o správních poplatcích vybíraných správními orgány České republiky",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "zákon o investičních pobídkách": {
+        "law_id": "72/2000 Sb.",
+        "law_name": "Zákon o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "nový zákon": {
+        "law_id": "437/2004 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, zákon č. 76/2002 Sb., o integrované prevenci a o omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon o integrované prevenci), ve znění zákona č. 521/2002 Sb., a zákon č. 40/2004 Sb., o veřejných zakázkách",
+        "is_valid": false,
+        "reason": "The alias 'nový zákon' (meaning 'new law') is a temporal modifier and a generic term. It describes the relative state of the law rather than providing a static, specific identifier. It falls under the prohibited categories of Temporal/State Modifiers and Generic Terms."
+    },
+    "veřejná zakázka": {
+        "law_id": "424/2002 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů",
+        "is_valid": false,
+        "reason": "The alias 'veřejná zakázka' refers to a general legal topic or the subject matter of the law (a public contract) rather than the law itself. It falls under the 'Entity/Subject Hijacking' category as specified in the instructions."
+    },
+    "zákon v úplném znění": {
+        "law_id": "41/2004 Sb.",
+        "law_name": "Zákon, kterým se mění některé další zákony v souvislosti s přijetím zákona o veřejných zakázkách",
+        "is_valid": false,
+        "reason": "The alias 'zákon v úplném znění' is a state modifier describing a consolidated version of a law (full text) rather than being a specific shorthand or identifier for the law name itself."
+    },
+    "zákon v platném znění": {
+        "law_id": "253/2005 Sb.",
+        "law_name": "Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o inspekci práce",
+        "is_valid": false,
+        "reason": "The alias 'zákon v platném znění' consists of a generic term ('zákon') combined with a temporal/state modifier ('v platném znění'), both of which are explicitly listed as grounds for rejection. It fails to specifically identify the law."
+    },
+    "silniční zákon": {
+        "law_id": "111/1994 Sb.",
+        "law_name": "Zákon o silniční dopravě",
+        "is_valid": false,
+        "reason": "V českém právním prostředí je označení 'silniční zákon' vžité a ustálené výhradně pro zákon č. 361/2000 Sb., o provozu na pozemních komunikacích. Pro zákon č. 111/1994 Sb., o silniční dopravě, se toto zkrácení nepoužívá, neboť by vedlo k záměně s jiným, zcela zásadním právním předpisem."
+    },
+    "smlouvy s distributory": {
+        "law_id": "513/1991 Sb.",
+        "law_name": "Obchodní zákoník",
+        "is_valid": false,
+        "reason": "The alias 'smlouvy s distributory' refers to a specific legal topic or subject matter (contracts with distributors) rather than the law itself. This falls under the category of Entity/Subject Hijacking."
+    },
+    "zákon o ČKA": {
+        "law_id": "239/2001 Sb.",
+        "law_name": "Zákon o České konsolidační agentuře a o změně některých zákonů (zákon o České konsolidační agentuře)",
+        "is_valid": true,
+        "reason": "No reason provided"
+    },
+    "soutěž": {
+        "law_id": "39/2001 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů, a o změně některých dalších zákonů",
+        "is_valid": false,
+        "reason": "The alias 'soutěž' (competition) refers to a general legal topic or event rather than the specific law regarding Czech Television. It falls under the category of Entity/Subject Hijacking as it is too broad and does not function as a specific identifier for the law in question."
+    },
+    "Úřad": {
+        "law_id": "143/2001 Sb.",
+        "law_name": "Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)",
+        "is_valid": false,
+        "reason": "The alias 'Úřad' refers to an institution (the Office/Authority) rather than the law itself. This falls under the category of Entity/Subject Hijacking as it identifies the regulator (Úřad pro ochranu hospodářské soutěže) instead of the legislative act."
+    },
+    "zákon po poslední novele": {
+        "law_id": "142/2001 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů",
+        "is_valid": false,
+        "reason": "The alias 'zákon po poslední novele' falls into the category of temporal or state modifiers as it describes the law's status relative to its amendments rather than serving as a static, specific shorthand for the law's name."
+    },
+    "zákon před poslední novelou": {
+        "law_id": "39/2001 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů, a o změně některých dalších zákonů",
+        "is_valid": false,
+        "reason": "The alias 'zákon před poslední novelou' refers to a specific temporal state or version of a law (the law as it stood before the latest amendment) rather than serving as a static, shorthand identifier for the law itself. This falls under the prohibited category of temporal/state modifiers."
+    },
+    "úřad": {
+        "law_id": "286/1993 Sb.",
+        "law_name": "Zákon, kterým se mění a doplňuje zákon č. 63/1991 Sb., o ochraně hospodářské soutěže, ve znění zákona č. 459/1992 Sb. a zákon č. 513/1991 Sb., obchodní zákoník, ve znění zákona č. 264/1992 Sb. a zákona č. 600/1992 Sb.",
+        "is_valid": false,
+        "reason": "The alias 'úřad' refers to an entity (an institution or authority) rather than the law itself, falling under the 'Entity/Subject Hijacking' rejection category. It is a generic noun that does not uniquely identify a specific piece of legislation."
+    },
+    "zákon po druhé novele": {
+        "law_id": "93/1998 Sb.",
+        "law_name": "Zákon, kterým se mění a doplňuje zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 148/1996 Sb., a doplňují některé další zákony",
+        "is_valid": false,
+        "reason": "The alias 'zákon po druhé novele' is a temporal or state modifier that describes a specific version of the law (after the second amendment) rather than serving as a static, specific identifier for the name of the law itself. It falls under the category of rejected temporal/state modifiers."
+    },
+    "zákon po novelách": {
+        "law_id": "424/2002 Sb.",
+        "law_name": "Zákon, kterým se mění zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů",
+        "is_valid": false,
+        "reason": "The alias 'zákon po novelách' (law after amendments) is a temporal/state modifier that describes the version or state of a law rather than providing a specific, identifying name. It is too generic and falls under the category of rejected temporal descriptors."
+    },
+    "zákon o azylu": {
+        "law_id": "325/1999 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"zákon o azylu\" directly and explicitly matches the official short title of law 325/1999 Sb., which is \"Zákon o azylu\". Although 283/1991 Sb. has a higher frequency, its official name \"Zákon České národní rady o Policii České republiky\" is unrelated to asylum. The other candidates are either unrelated or are amending laws, not the primary law on asylum itself. Therefore, 325/1999 Sb. is the canonical law for this alias."
+    },
+    "občanský zákoník": {
+        "law_id": "89/2012 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"občanský zákoník\" (Civil Code) in contemporary Czech legal discourse almost exclusively refers to the current Civil Code, Act No. 89/2012 Sb., which came into effect on January 1, 2014. While Act No. 40/1964 Sb. was the previous Civil Code, it is no longer in force and would only be referenced in historical contexts or for specific transitional provisions. For a modern, canonical reference, 89/2012 Sb. is the clear choice."
+    },
+    "s. ř.": {
+        "law_id": "500/2004 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The abbreviation \"s. ř.\" stands for \"správní řád\" (Administrative Procedure Code). While 71/1967 Sb. was an older Administrative Procedure Code, it has been repealed. In modern Czech legal discourse, when \"správní řád\" or its abbreviation \"s. ř.\" is used without further specification, it refers to the currently valid Administrative Procedure Code, which is 500/2004 Sb. Therefore, 500/2004 Sb. is the indisputable canonical modern law represented by this alias."
+    },
+    "zákon o odpovědnosti státu": {
+        "law_id": "82/1998 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"zákon o odpovědnosti státu\" (Law on state liability) directly and unambiguously refers to Act No. 82/1998 Sb., which is titled \"Zákon o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem...\". This law is the primary legal regulation governing state liability in the Czech Republic. Act No. 358/1992 Sb. is about notaries and their activities, and its inclusion as a candidate is likely due to the fact that Act No. 82/1998 Sb. also amended it, leading to a spurious association. However, the alias itself does not refer to the Notarial Code. Therefore, 82/1998 Sb. is the indisputable canonical law."
+    },
+    "daňový řád": {
+        "law_id": "280/2009 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"daňový řád\" directly and unequivocally refers to Law ID 280/2009 Sb., which is officially named \"Zákon daňový řád\". This is the current and canonical tax code in the Czech Republic. While 337/1992 Sb. was a predecessor law concerning tax administration, it is not officially called \"daňový řád\" and is no longer in force as the primary tax code. The other candidates are clearly not laws or are unrelated to the alias."
+    },
+    "zákoník práce": {
+        "law_id": "262/2006 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"zákoník práce\" (Labour Code) refers to the current Labour Code in the Czech Republic. While 65/1965 Sb. was an older Labour Code, 262/2006 Sb. is the modern and currently effective Labour Code. Following the instruction to choose the indisputable canonical, modern law, 262/2006 Sb. is the correct choice, similar to how 'občanský zákoník' refers to 89/2012 Sb. and not the older 40/1964 Sb."
+    },
+    "zákon o zaměstnanosti": {
+        "law_id": "435/2004 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"zákon o zaměstnanosti\" directly and unambiguously refers to Law No. 435/2004 Sb., which is officially titled \"Zákon o zaměstnanosti\". This is the current and canonical law on employment in the Czech Republic. Law No. 9/1991 Sb. is an older, superseded regulation, and Law No. 261/2021 Sb. is an amending law, not the primary employment act itself."
+    },
+    "zákon o státní kontrole": {
+        "law_id": "552/1991 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"zákon o státní kontrole\" directly and unambiguously refers to Law ID 552/1991 Sb., which is officially named \"Zákon České národní rady o státní kontrole\". The other candidate, 230/2006 Sb., is an amending law primarily concerning the state statistical service, not state control, and therefore does not match the alias."
+    },
+    "katastrální zákon": {
+        "law_id": "256/2013 Sb.",
+        "law_name": "Resolved from conflict",
+        "is_valid": true,
+        "reason": "The alias \"katastrální zákon\" explicitly appears in the official names of both candidate laws. However, 256/2013 Sb. is the current and modern law governing the real estate cadastre in the Czech Republic, having superseded the older 344/1992 Sb. When referred to without further specification in contemporary legal texts, \"katastrální zákon\" unambiguously refers to the currently valid law, which is 256/2013 Sb."
+    }
+}

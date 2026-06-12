@@ -1,0 +1,205 @@
+{
+  "method": "Wilson score 95% intervals over reviewed rows; F1 intervals use the equivalent ratio 2TP/(2TP+FP+FN).",
+  "rows": [
+    {
+      "metric": "Law anchor detection F1",
+      "source": "SPP",
+      "successes": 1316,
+      "total": 1322,
+      "estimate": 0.9955,
+      "ci95_low": 0.9901,
+      "ci95_high": 0.9979,
+      "note": "F1 as 2TP/(2TP+FP+FN), TP=658, FP=6, FN=0"
+    },
+    {
+      "metric": "Law citation-presence F1",
+      "source": "SPP",
+      "successes": 1292,
+      "total": 1309,
+      "estimate": 0.987,
+      "ci95_low": 0.9793,
+      "ci95_high": 0.9919,
+      "note": "F1 as 2TP/(2TP+FP+FN), TP=646, FP=17, FN=0"
+    },
+    {
+      "metric": "Czech-law resolution accuracy",
+      "source": "SPP",
+      "successes": 577,
+      "total": 634,
+      "estimate": 0.9101,
+      "ci95_low": 0.8853,
+      "ci95_high": 0.93,
+      "note": "Correct law identifiers among gold Czech-law references"
+    },
+    {
+      "metric": "Czech-law resolution accuracy",
+      "source": "SPP + BRL",
+      "successes": 599,
+      "total": 634,
+      "estimate": 0.9448,
+      "ci95_low": 0.9242,
+      "ci95_high": 0.96,
+      "note": "Correct law identifiers among gold Czech-law references"
+    },
+    {
+      "metric": "Law classification accuracy",
+      "source": "SPP",
+      "successes": 605,
+      "total": 658,
+      "estimate": 0.9195,
+      "ci95_low": 0.8961,
+      "ci95_high": 0.9379,
+      "note": "Correct labels over matched supported law findings"
+    },
+    {
+      "metric": "Law classification accuracy",
+      "source": "SPP + BRL",
+      "successes": 628,
+      "total": 658,
+      "estimate": 0.9544,
+      "ci95_low": 0.9357,
+      "ci95_high": 0.9679,
+      "note": "Correct labels over matched supported law findings"
+    },
+    {
+      "metric": "Routed hard-case law classification accuracy",
+      "source": "SPP + BRL",
+      "successes": 23,
+      "total": 42,
+      "estimate": 0.5476,
+      "ci95_low": 0.3995,
+      "ci95_high": 0.6878,
+      "note": "Correct labels on routed law hard cases"
+    },
+    {
+      "metric": "Routed hard-case Czech-law accuracy",
+      "source": "SPP + BRL",
+      "successes": 22,
+      "total": 37,
+      "estimate": 0.5946,
+      "ci95_low": 0.4349,
+      "ci95_high": 0.7365,
+      "note": "Correct law identifiers on routed Czech-law hard cases"
+    },
+    {
+      "metric": "Weak-evidence law full accuracy",
+      "source": "SPP weak-evidence slice",
+      "successes": 146,
+      "total": 159,
+      "estimate": 0.9182,
+      "ci95_low": 0.8651,
+      "ci95_high": 0.9516,
+      "note": "Correct classification and, for Czech-law rows, correct law identifier"
+    },
+    {
+      "metric": "Weak-evidence Czech-law accuracy",
+      "source": "SPP weak-evidence slice",
+      "successes": 146,
+      "total": 154,
+      "estimate": 0.9481,
+      "ci95_low": 0.9008,
+      "ci95_high": 0.9734,
+      "note": "Correct law identifiers on resolved weak-evidence Czech-law rows"
+    },
+    {
+      "metric": "Weak-evidence law full accuracy",
+      "source": "BRL verification",
+      "successes": 152,
+      "total": 159,
+      "estimate": 0.956,
+      "ci95_low": 0.9119,
+      "ci95_high": 0.9785,
+      "note": "Correct classification and, for Czech-law rows, correct law identifier"
+    },
+    {
+      "metric": "Weak-evidence Czech-law accuracy",
+      "source": "BRL verification",
+      "successes": 151,
+      "total": 154,
+      "estimate": 0.9805,
+      "ci95_low": 0.9443,
+      "ci95_high": 0.9934,
+      "note": "Correct law identifiers on resolved weak-evidence Czech-law rows"
+    },
+    {
+      "metric": "Document-reference exact-span F1",
+      "source": "SPP",
+      "successes": 202,
+      "total": 220,
+      "estimate": 0.9182,
+      "ci95_low": 0.8744,
+      "ci95_high": 0.9476,
+      "note": "F1 as 2TP/(2TP+FP+FN), TP=101, FP=7, FN=11"
+    },
+    {
+      "metric": "Document-reference exact-span F1",
+      "source": "BRL gap promotion",
+      "successes": 206,
+      "total": 239,
+      "estimate": 0.8619,
+      "ci95_low": 0.8124,
+      "ci95_high": 0.9,
+      "note": "F1 as 2TP/(2TP+FP+FN), TP=103, FP=24, FN=9"
+    },
+    {
+      "metric": "Exact-linkable recovery",
+      "source": "SPP",
+      "successes": 36,
+      "total": 46,
+      "estimate": 0.7826,
+      "ci95_low": 0.6443,
+      "ci95_high": 0.8774,
+      "note": "Correct exact links among reviewed references with an exact in-corpus target"
+    },
+    {
+      "metric": "Unavailable exact target correctly unresolved",
+      "source": "SPP",
+      "successes": 52,
+      "total": 52,
+      "estimate": 1.0,
+      "ci95_low": 0.9312,
+      "ci95_high": 1.0,
+      "note": "Reviewed rows outside the exact-link task that received no exact link"
+    },
+    {
+      "metric": "Exact-linkable recovery",
+      "source": "BRL link-only with enriched candidates",
+      "successes": 44,
+      "total": 46,
+      "estimate": 0.9565,
+      "ci95_low": 0.8547,
+      "ci95_high": 0.988,
+      "note": "Correct exact links among reviewed references with an exact in-corpus target"
+    },
+    {
+      "metric": "Unavailable exact target correctly unresolved",
+      "source": "BRL link-only with enriched candidates",
+      "successes": 52,
+      "total": 52,
+      "estimate": 1.0,
+      "ci95_low": 0.9312,
+      "ci95_high": 1.0,
+      "note": "Reviewed rows outside the exact-link task that received no exact link"
+    },
+    {
+      "metric": "Document-reference route accuracy",
+      "source": "SPP",
+      "successes": 11,
+      "total": 30,
+      "estimate": 0.3667,
+      "ci95_low": 0.2187,
+      "ci95_high": 0.5449,
+      "note": "Correct decisions on the reviewed 30-row document-reference route slice"
+    },
+    {
+      "metric": "Document-reference route accuracy",
+      "source": "BRL",
+      "successes": 29,
+      "total": 30,
+      "estimate": 0.9667,
+      "ci95_low": 0.8333,
+      "ci95_high": 0.9941,
+      "note": "Correct decisions on the reviewed 30-row document-reference route slice"
+    }
+  ]
+}

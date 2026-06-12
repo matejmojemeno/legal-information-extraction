@@ -1,0 +1,47 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "pis7143.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis7143.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.245215+00:00",
+  "tasks": [
+    {
+      "task_id": "pis7143.txt::docref::2722::108",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 2722,
+      "snippet_doc_start": 2462,
+      "snippet_doc_end": 2982,
+      "snippet_text": "polečnost VODÁRNA PLZEŇ 100 % obchodního podílu \nspolečnosti VODOSPOL. \nV průběhu správního řízení byl zástupce účastníka vyzván, aby ve lhůtě do 18.5.1999 \nodstranil nedostatky podání a současně  předložil doplňující informace. Na tuto dobu úřad \nrozhodnutím č.j. S 41A/99-220/1074 správní řízení v souladu s § 29 odst. 2 zákona č. 71/1967 \nSb., o správním řízení přerušil. Nedostatek podání, který spočíval v zaplacení správního \npoplatku, byl odstraněn ve stanovené lhůtě. \nPodklady pro správní řízení: \n návrh na za",
+      "predicted_reference": {
+        "reference_text": "č.j. S 41A/99-220/1074",
+        "reference_prefix": "č.j.",
+        "reference_body": "S 41A/99-220/1074",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2722,
+        "raw_end": 2744,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": "Úřadu",
+        "context": " podílu  společnosti VODOSPOL.  V průběhu správního řízení byl zástupce účastníka vyzván, aby ve lhůtě do 18.5.1999  odstranil nedostatky podání a současně  předložil doplňující informace. Na tuto dobu úřad  rozhodnutím č.j. S 41A/99-220/1074 správní řízení v souladu s § 29 odst. 2 zákona č. 71/1967  Sb., o správním řízení přerušil. Nedostatek podání, který spočíval v zaplacení správního  poplatku, byl odstraněn ve stanovené lhůtě.  Podklady pro správní říze"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. S 41A/99-220/1074",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "S 41A/99-220/1074",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_docref"
+        }
+      ]
+    }
+  ]
+}

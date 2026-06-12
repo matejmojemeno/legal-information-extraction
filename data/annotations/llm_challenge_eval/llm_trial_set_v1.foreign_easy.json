@@ -1,0 +1,265 @@
+[
+  {
+    "entry_id": "ns::0 Ts 42_2003.txt::48776:48781:article",
+    "trial_reason": "current_queue::foreign_law",
+    "llm_route": "foreign_easy",
+    "source": "ns",
+    "document_id": "0 Ts 42_2003.txt",
+    "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 42_2003.txt",
+    "target_reference": "čl. 5",
+    "context_block": ", že se bude  skrývat, přičemž důvodnost této obavy musí být založena jeho jednáním nebo dalšími  konkrétními skutečnostmi, jejichž demonstrativní alternativní výčet zahrnuje skutkové podstaty  nemožnosti zjištění jeho totožnosti, neexistenci jeho stálého bydliště anebo hrozbu vysokého  trestu. Jinými slovy řečeno, každá z těchto skutkových podstat, jelikož jejich uspořádání je  alternativní a nikoli kumulativní, je tím jednáním, příp. konkrétní skutečností, jež zakládá samo o  sobě důvodnou obavu, že se obviněný bude vyhýbat trestnímu stíhání, a to buď tím, že uprchne,  anebo tím, že se bude skrývat.   Z pohledu ústavních kautel (zejména pak čl. 8 odst. 5 Listiny základních práv a svobod a čl. 5  odst. 1 Úmluvy o ochraně lidských práv a základních svobod) nutno ale pro aplikaci takto  vyloženého předmětného zákonného ustanovení vymezit prostor ústavně konformní interpretace.   Výklad zákonné podmínky „hrozby vysokým trestem“ Ústavní soud interpretuje ve smyslu  konkretizace a individualizace trestněprávní kvalifikace skutku ve vztahu k obviněnému, a to na  základě zjištění konkrétních skutečností, opodstatňujících důvodnost trestního stíhání.  „Hrozbou vysokým trestem“ lze odůvodnit uložení tzv. útěkové vazby toliko v těch případech, kdy  na základě zjištěných skutečností opodstatňujících důvodnost podezření ze spáchání zvlášť  závažného trestného činu lze předpokládat uložení tres",
+    "immediate_context": "o  sobě důvodnou obavu, že se obviněný bude vyhýbat trestnímu stíhání, a to buď tím, že uprchne,  anebo tím, že se bude skrývat.   Z pohledu ústavních kautel (zejména pak čl. 8 odst. 5 Listiny základních práv a svobod a čl. 5  odst. 1 Úmluvy o ochraně lidských práv a základních svobod) nutno ale pro aplikaci takto  vyloženého předmětného zákonného ustanovení vymezit prostor ústavně konformní interpretace.   Výklad zákonné podmínky „hrozby vysokým trestem“ Ústavní soud interpretuje",
+    "deterministic": {
+      "classification": "foreign_law",
+      "resolved_law_id": null,
+      "resolver_stage": "Typed: Foreign Law",
+      "confidence": 0.82,
+      "candidate_law_ids": [
+        "1/2003 Sb.",
+        "140/1961 Sb.",
+        "141/1961 Sb.",
+        "16/2003 Sb.",
+        "18/2003 Sb.",
+        "2/1993 Sb.",
+        "209/1992 Sb.",
+        "283/2004 Sb.",
+        "293/1993 Sb.",
+        "3/2003 Sb.",
+        "30/2002 Sb.",
+        "30/2003 Sb.",
+        "34/2003 Sb.",
+        "42/2003 Sb.",
+        "44/2003 Sb.",
+        "5/2003 Sb.",
+        "51/2002 Sb.",
+        "52/2002 Sb.",
+        "58/2002 Sb.",
+        "59/2003 Sb.",
+        "7/2003 Sb."
+      ],
+      "detail": {
+        "number": "5",
+        "odst": [
+          "1"
+        ]
+      }
+    },
+    "gold": [
+      {
+        "task_id": "0 Ts 42_2003.txt::article::48776::14",
+        "finding_id": "1",
+        "citation_text": "čl. 5",
+        "citation_type": "article",
+        "start_char": 48776,
+        "end_char": 48781,
+        "law_id": null,
+        "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+        "declared_alias_text": "Úmluvy",
+        "classification": "foreign_law",
+        "confidence": 0.98,
+        "detail_number": "5",
+        "detail_odst": [
+          "1"
+        ],
+        "detail_pism": [],
+        "note": "manual_v1:llm_challenge_review",
+        "snippet_warnings": []
+      }
+    ]
+  },
+  {
+    "entry_id": "ns::1 To 39_2012.txt::2847:2853:article",
+    "trial_reason": "current_queue::foreign_law",
+    "llm_route": "foreign_easy",
+    "source": "ns",
+    "document_id": "1 To 39_2012.txt",
+    "document_path": "data/imports/parent_bucket_texts/ns/1 To 39_2012.txt",
+    "target_reference": "čl. 6",
+    "context_block": "tj. výroku o vině, totiž v  posuzované věci vyplynula z toho, že výrok o trestu napadla státní  zástupkyně, tj. procesní strana, která je ve smyslu § 246 odst. 1 písm.  a) tr.ř. oprávněna rozsudek odvoláním napadnout „pro nesprávnost  kteréhokoli výroku“. Uvedené procesní poučení (č.l. 489) bylo  obžalované poskytnuto proto, aby v případě odlišného právního závěru popsaných ve výroku napadeného rozsudku nemohlo být rozhodnutí  odvolacího soudu (tj. v takovém případě rozsudek vydaný za podmínek  § 259 odst. 3, odst. 4 tr.ř.) označeno za rozhodnutí překvapivé, tzn.  takové, jehož vydáním by bylo porušeno ustanovení čl. 40 odst. 3  Listiny základních práv a svobod (dale „Listiny”) i ustanovení čl.  6 odst. 3 písm. b) Úmluvy o ochraně lidských práv a základních svobod  ve znění protokolů č. 209/1992 Sb. a v konečném důsledku i ustanovení  čl. 36 odst. 1 Listiny, kterým je zaručeno právo na spravedlivý proces  (srov. např. rozhodnutí Ústavního soudu ČR, sp.zn. III. ÚS 377/01,  které zdůraznilo, že obviněný v průběhu trestního řízení proti své  osobě vedeného před soudy má právo vědět, jakým směrem se ubírají  úvahy i odvolacího soudu při rozhodování o tom kterém konkrétním  trestném činu /všech znacích jeho skutkové podstaty/).     Výše zmíněné poučení (tj. upozornění na možnost odlišného  právního posouzení skutku odvolacím soudem – č.l. 489) odvolací soud  obžalované a jejímu obhájci za",
+    "immediate_context": "vydaný za podmínek  § 259 odst. 3, odst. 4 tr.ř.) označeno za rozhodnutí překvapivé, tzn.  takové, jehož vydáním by bylo porušeno ustanovení čl. 40 odst. 3  Listiny základních práv a svobod (dale „Listiny”) i ustanovení čl.  6 odst. 3 písm. b) Úmluvy o ochraně lidských práv a základních svobod  ve znění protokolů č. 209/1992 Sb. a v konečném důsledku i ustanovení  čl. 36 odst. 1 Listiny, kterým je zaručeno právo na spravedlivý proces  (srov. např. rozhodnutí Ústavního soudu ČR, sp.",
+    "deterministic": {
+      "classification": "foreign_law",
+      "resolved_law_id": null,
+      "resolver_stage": "Typed: Foreign Law",
+      "confidence": 0.82,
+      "candidate_law_ids": [
+        "141/1961 Sb.",
+        "2/1993 Sb.",
+        "209/1992 Sb."
+      ],
+      "detail": {
+        "number": "6",
+        "odst": [
+          "3"
+        ],
+        "pism": [
+          "b"
+        ]
+      }
+    },
+    "gold": [
+      {
+        "task_id": "1 To 39_2012.txt::article::2847::15",
+        "finding_id": "1",
+        "citation_text": "čl. \n6",
+        "citation_type": "article",
+        "start_char": 2847,
+        "end_char": 2853,
+        "law_id": null,
+        "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+        "declared_alias_text": "Úmluvy",
+        "classification": "foreign_law",
+        "confidence": 0.98,
+        "detail_number": "6",
+        "detail_odst": [
+          "3"
+        ],
+        "detail_pism": [
+          "b"
+        ],
+        "note": "manual_v1:llm_challenge_review",
+        "snippet_warnings": []
+      }
+    ]
+  },
+  {
+    "entry_id": "ns::10 To 34_2007.txt::3677:3682:article",
+    "trial_reason": "current_queue::foreign_law",
+    "llm_route": "foreign_easy",
+    "source": "ns",
+    "document_id": "10 To 34_2007.txt",
+    "document_path": "data/imports/parent_bucket_texts/ns/10 To 34_2007.txt",
+    "target_reference": "čl. 5",
+    "context_block": "nu v plné výši podle § 11 odst. 1 písm. g) vyhlášky č. 177/1996 Sb., ve znění  pozdějších předpisů.     Především je třeba odkázat na judikaturu Ústavního soudu týkající se problematiky  osobního slyšení dotčené osoby při rozhodování o vazbě. V nálezu sp. zn. I. Ús 573/02 tento  soud konstatoval, že „ Právo obviněného být slyšen v kontradiktorním řízení, v němž je  přezkoumávána zákonnost dalšího trvání vazby, patří mezi základní institucionální záruky  spravedlnosti řízení o pokračování či skončení omezení osobní svobody. Pokud v takovém řízení  není umožněno slyšení obviněného, dochází v případě následného pokračování vazby k ústavně  nepřípustnému omezení svobody (čl. 8 odst. 2 Listiny a čl. 5 odst. 4 Úmluvy o ochraně lidských  práv a svobod, dále jen Úmluvy)“. Obdobně v nálezu sp. zns I. ÚS 161/04 Ústavní soud vyslovil,  že  podle § 5 odst. 4 Úmluvy „je třeba při rozhodování o pokračování omezení osobní svobody  zajistit slyšení dotčené osoby.“     Ústavní soud nicméně ve svých rozhodnutích rovněž konstatoval, že tyto shora citované  nálezy Ústavního soudu nelze interpretovat tak, že absence ústního slyšení v řízení, ve kterém je  rozhodováno o dalším trvání vazby, sama o sobě znamená vždy porušení ústavně zaručených  práv a svobod. Např. v rozhodnutí sp. zn. IV. ÚS 239/04 Ústavní soud shledal, že „jak z článku 5  odst. 4 Úmluvy, tak ani z výše uvedeného nálezu ve věci sp .zn. I",
+    "immediate_context": " pokračování či skončení omezení osobní svobody. Pokud v takovém řízení  není umožněno slyšení obviněného, dochází v případě následného pokračování vazby k ústavně  nepřípustnému omezení svobody (čl. 8 odst. 2 Listiny a čl. 5 odst. 4 Úmluvy o ochraně lidských  práv a svobod, dále jen Úmluvy)“. Obdobně v nálezu sp. zns I. ÚS 161/04 Ústavní soud vyslovil,  že  podle § 5 odst. 4 Úmluvy „je třeba při rozhodování o pokračování omezení osobní svobody  zajistit slyšení dotčené osoby.“   ",
+    "deterministic": {
+      "classification": "foreign_law",
+      "resolved_law_id": null,
+      "resolver_stage": "Typed: Foreign Law",
+      "confidence": 0.82,
+      "candidate_law_ids": [
+        "141/1961 Sb.",
+        "177/1996 Sb.",
+        "2/1993 Sb."
+      ],
+      "detail": {
+        "number": "5",
+        "odst": [
+          "4"
+        ]
+      }
+    },
+    "gold": [
+      {
+        "task_id": "10 To 34_2007.txt::article::3677::16",
+        "finding_id": "1",
+        "citation_text": "čl. 5",
+        "citation_type": "article",
+        "start_char": 3677,
+        "end_char": 3682,
+        "law_id": null,
+        "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+        "declared_alias_text": "Úmluvy",
+        "classification": "foreign_law",
+        "confidence": 0.98,
+        "detail_number": "5",
+        "detail_odst": [
+          "4"
+        ],
+        "detail_pism": [],
+        "note": "manual_v1:llm_challenge_review",
+        "snippet_warnings": []
+      }
+    ]
+  },
+  {
+    "entry_id": "ns::11 Tcu 106_2015.txt::4048:4053:article",
+    "trial_reason": "current_queue::foreign_law",
+    "llm_route": "foreign_easy",
+    "source": "ns",
+    "document_id": "11 Tcu 106_2015.txt",
+    "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 106_2015.txt",
+    "target_reference": "čl. 3",
+    "context_block": "ly bedlivě zkoumat všechny právně relevantní okolnosti, jež se mohou stát  překážkou vydání, což jak soud prvního stupně, tak vrchní soud opomenuly.     Další výtka směřuje k tomu, že dle názoru navrhovatele soudy při posuzování  přípustnosti vydání neposuzovaly tuto otázku z hlediska možného rozporu s mezinárodními  závazky plynoucími pro Českou republiku ze smluv o lidských právech a svobodách. Ministr  spravedlnosti má na mysli posouzení případného vydání z hlediska nebezpečí „špatného  zacházení“. V návrhu poukazuje na to, že není zřejmé, na základě jakých důkazů a okolností  dospěl vrchní soud k závěru, že trestní řízení vedené vůči vyžádanému v Ruské federaci nebude  odporovat zásadám čl. 3 a 6 Úmluvy o ochraně lidských práv. Ministr k tomu namítá, že soudy  neměly spolehlivé a objektivní důkazy o situaci ve vyžadujícím státě, jako jsou podle jeho  názoru např. zprávy Amnesty International. Dodává, že podle názoru Evropského soudu pro  lidská práva nutno posoudit, zda v daném případě hrozí tzv. „reálné riziko“, že vydaná osoba  bude v cílové zemi mučena nebo vystavena nelidskému či ponižujícímu zacházení nebo trestání.  Poukazuje i na to, že v rozhodnutí o přípustnosti vydání je soud povinen podle rozsudku ESLP  vzít v potaz předvídatelné důsledky vydání vyžádané osoby do vyžadujícího státu s ohledem na  tamní celkovou situaci, osobní situaci této osoby, jakož i diplomatické z",
+    "immediate_context": "ečí „špatného  zacházení“. V návrhu poukazuje na to, že není zřejmé, na základě jakých důkazů a okolností  dospěl vrchní soud k závěru, že trestní řízení vedené vůči vyžádanému v Ruské federaci nebude  odporovat zásadám čl. 3 a 6 Úmluvy o ochraně lidských práv. Ministr k tomu namítá, že soudy  neměly spolehlivé a objektivní důkazy o situaci ve vyžadujícím státě, jako jsou podle jeho  názoru např. zprávy Amnesty International. Dodává, že podle názoru Evropského soudu pro  lidská pr",
+    "deterministic": {
+      "classification": "foreign_law",
+      "resolved_law_id": null,
+      "resolver_stage": "Typed: Foreign Law",
+      "confidence": 0.82,
+      "candidate_law_ids": [
+        "104/2013 Sb.",
+        "40/2009 Sb."
+      ],
+      "detail": {
+        "number": "3"
+      }
+    },
+    "gold": [
+      {
+        "task_id": "11 Tcu 106_2015.txt::article::4048::17",
+        "finding_id": "1",
+        "citation_text": "čl. 3",
+        "citation_type": "article",
+        "start_char": 4048,
+        "end_char": 4053,
+        "law_id": null,
+        "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+        "declared_alias_text": "Úmluvy",
+        "classification": "foreign_law",
+        "confidence": 0.96,
+        "detail_number": "3",
+        "detail_odst": [],
+        "detail_pism": [],
+        "note": "manual_v1:llm_challenge_review",
+        "snippet_warnings": []
+      }
+    ]
+  },
+  {
+    "entry_id": "ns::11 Tcu 116_2019.txt::37225:37230:article",
+    "trial_reason": "current_queue::foreign_law",
+    "llm_route": "foreign_easy",
+    "source": "ns",
+    "document_id": "11 Tcu 116_2019.txt",
+    "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 116_2019.txt",
+    "target_reference": "čl. 6",
+    "context_block": "voustrannou mezinárodní smlouvu o vydávání, která se  aplikuje i ve vztahu k osobám tchajwanské národnosti. Uvedená skutečnost pak má svědčit o  dostatečném stupni důvěry těchto zemí ve vztahu k ČLR, a to alespoň ve vztahu k případům  obecné kriminality bez politického kontextu. Stran podmínek v čínských věznicích (a to jak ve vztahu k případné vazbě vydávaného,  tak i eventuálnímu výkonu nepodmíněného trestu odnětí svobody), je třeba konstatovat, že touto  otázkou se vrchní soud zabýval toliko nepřímo v rámci hodnocení skutečností, které by na  základě konkrétních závažných zjištění v dané věci ve vztahu ke konkrétní vyžadované osobě, a  to ve vztahu k porušení práv vyplývajících z čl. 3 a čl. 6 Úmluvy o ochraně lidských práv a  základních svobod. Nejvyšší soud k tomuto konstatuje, že po přezkoumání usnesení městského  soudu a vrchního soudu je toho názoru, že provedené posouzení celkové situace v ČLR z  hlediska dodržování článku 3 Úmluvy lze v zásadě považovat za dostatečné. Oba soudy si totiž  dle zjištění Nejvyššího soudu vyžádaly informace o celkové situaci v dané zemi z relevantních  zdrojů ve smyslu shora citovaného rozsudku ESLP ve věci Salah Sheek proti Nizozemí ze dne  11. 1. 2007 č. 1948/04, bodu 136., pročež lze uzavřít, že při svém posouzení měly dostatečné  množství relevantních informací, které hodnotily jednotlivě i v jejich souhrnu. In concreto soudy  nižších stupň",
+    "immediate_context": "soud zabýval toliko nepřímo v rámci hodnocení skutečností, které by na  základě konkrétních závažných zjištění v dané věci ve vztahu ke konkrétní vyžadované osobě, a  to ve vztahu k porušení práv vyplývajících z čl. 3 a čl. 6 Úmluvy o ochraně lidských práv a  základních svobod. Nejvyšší soud k tomuto konstatuje, že po přezkoumání usnesení městského  soudu a vrchního soudu je toho názoru, že provedené posouzení celkové situace v ČLR z  hlediska dodržování článku 3 Úmluvy lze v zása",
+    "deterministic": {
+      "classification": "foreign_law",
+      "resolved_law_id": null,
+      "resolver_stage": "Typed: Foreign Law",
+      "confidence": 0.82,
+      "candidate_law_ids": [
+        "104/2013 Sb.",
+        "209/1992 Sb.",
+        "325/1999 Sb.",
+        "42/2002 Sb."
+      ],
+      "detail": {
+        "number": "6"
+      }
+    },
+    "gold": [
+      {
+        "task_id": "11 Tcu 116_2019.txt::article::37225::18",
+        "finding_id": "1",
+        "citation_text": "čl. 6",
+        "citation_type": "article",
+        "start_char": 37225,
+        "end_char": 37230,
+        "law_id": null,
+        "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+        "declared_alias_text": "Úmluvy",
+        "classification": "foreign_law",
+        "confidence": 0.96,
+        "detail_number": "6",
+        "detail_odst": [],
+        "detail_pism": [],
+        "note": "manual_v1:llm_challenge_review",
+        "snippet_warnings": []
+      }
+    ]
+  }
+]

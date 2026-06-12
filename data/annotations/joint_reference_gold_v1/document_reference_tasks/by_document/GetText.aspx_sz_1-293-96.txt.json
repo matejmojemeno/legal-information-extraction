@@ -1,0 +1,199 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "GetText.aspx_sz_1-293-96.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.160851+00:00",
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::105::1",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 105,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 365,
+      "snippet_text": ":\nStěžovatelka podala ústavní stížnost proti usnesení Městského soudu v Praze ze dne        29. 7. 1996, sp. zn. 28 Ca 209/95, kterým bylo zastaveno řízení proti Katastrálnímu úřadu P.,          o žalobě proti rozhodnutí žalovaného ze dne 28. 4. 1995, č.j. Vl-5500/93/Je, jímž byl povolen vklad vlastnického práva do katastru nemovitostí k ideální 1/2 domu čp. 832 ",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Ca 209/95",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Ca 209/95",
+        "reference_type": "spisova_znacka",
+        "raw_start": 105,
+        "raw_end": 125,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Městského soudu",
+        "context": ": Stěžovatelka podala ústavní stížnost proti usnesení Městského soudu v Praze ze dne        29. 7. 1996, sp. zn. 28 Ca 209/95, kterým bylo zastaveno řízení proti Katastrálnímu úřadu P.,          o žalobě proti rozhodnutí žalovaného ze dne 28. 4. 1995, č.j. Vl-5500/93/Je, jímž byl povolen vklad vlastnického práva do katastru nemovitostí k ideál"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Ca 209/95",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Ca 209/95",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:docref_clean"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::252::2",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 252,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 512,
+      "snippet_text": ":\nStěžovatelka podala ústavní stížnost proti usnesení Městského soudu v Praze ze dne        29. 7. 1996, sp. zn. 28 Ca 209/95, kterým bylo zastaveno řízení proti Katastrálnímu úřadu P.,          o žalobě proti rozhodnutí žalovaného ze dne 28. 4. 1995, č.j. Vl-5500/93/Je, jímž byl povolen vklad vlastnického práva do katastru nemovitostí k ideální 1/2 domu čp. 832 a ideální 1/2 pozemkových parcel č. 3788 - zastavěno a č. 3789 - zahrada, vše v kat. území D. ve prospěch K.K. - Č. Vklad byl proveden na základě\n1",
+      "predicted_reference": {
+        "reference_text": "č.j. Vl-5500/93/Je",
+        "reference_prefix": "č.j.",
+        "reference_body": "Vl-5500/93/Je",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 252,
+        "raw_end": 270,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": "Úřadu",
+        "context": "ížnost proti usnesení Městského soudu v Praze ze dne        29. 7. 1996, sp. zn. 28 Ca 209/95, kterým bylo zastaveno řízení proti Katastrálnímu úřadu P.,          o žalobě proti rozhodnutí žalovaného ze dne 28. 4. 1995, č.j. Vl-5500/93/Je, jímž byl povolen vklad vlastnického práva do katastru nemovitostí k ideální 1/2 domu čp. 832 a ideální 1/2 pozemkových parcel č. 3788 - zastavěno a č. 3789 - zahrada, vše v kat. území D. ve prospěch K.K. - Č. Vklad byl"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. Vl-5500/93/Je",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "V1-5500/93/Je",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Katastrálního úřadu P.",
+          "confidence": 0.92,
+          "note": "manual_v1:ocr_normalized_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::6809::3",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 6809,
+      "snippet_doc_start": 6549,
+      "snippet_doc_end": 7069,
+      "snippet_text": ". 265/1992 Sb., ve znění zákona č. 210/1993 Sb., vycházel katastrální úřad při svém rozhodování z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zaslal Městskému soudu v Praze ke sp. zn. 28 Ca 209/95, v němž mimo jiné poukázal na to, že odvolání daru je upraveno v ust. § 630 občanského zákoníku a ve věci je příslušný soud. Dopis stěžovatelky o odvolání daru, doručený katastrálnímu úřadu 7. 2. 1994, neobsahuje její návrh na přerušení ří",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Ca 209/95",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Ca 209/95",
+        "reference_type": "spisova_znacka",
+        "raw_start": 6809,
+        "raw_end": 6829,
+        "decision_kind_hint": null,
+        "court_hint": "Městského soudu",
+        "context": "993 Sb., vycházel katastrální úřad při svém rozhodování z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zaslal Městskému soudu v Praze ke sp. zn. 28 Ca 209/95, v němž mimo jiné poukázal na to, že odvolání daru je upraveno v ust. § 630 občanského zákoníku a ve věci je příslušný soud. Dopis stěžovatelky o odvolání daru, doručený katastrálnímu úřadu 7. 2. 1994, neobsahuje její n"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Ca 209/95",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Ca 209/95",
+          "decision_kind_hint": "",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:docref_clean"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::7511::4",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 7511,
+      "snippet_doc_start": 7251,
+      "snippet_doc_end": 7771,
+      "snippet_text": "o povolení vkladu takové rozhodnutí od soudu neobdržel.\nKatastrální úřad P. navrhl zamítnutí ústavní stížnosti a souhlasil s upuštěním od ústního jednání.\nStěžovatelka rovněž dala souhlas s upuštěním od ústního jednání.\nZ obsahu spisu Městského soudu v Praze, sp. zn. 28 Ca 209/95, vyplývá, že žalobkyně - stěžovatelka - se žalobou domáhala přezkoumání rozhodnutí žalovaného Katastrálního úřadu P. ze dne 28. 4. 1995, č.j. V1-5500/93/Je, kterým byl povolen vklad vlastnického práva do katastru nemovitostí k ideální 1/2 ",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Ca 209/95",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Ca 209/95",
+        "reference_type": "spisova_znacka",
+        "raw_start": 7511,
+        "raw_end": 7531,
+        "decision_kind_hint": null,
+        "court_hint": "Městského soudu",
+        "context": "oudu neobdržel. Katastrální úřad P. navrhl zamítnutí ústavní stížnosti a souhlasil s upuštěním od ústního jednání. Stěžovatelka rovněž dala souhlas s upuštěním od ústního jednání. Z obsahu spisu Městského soudu v Praze, sp. zn. 28 Ca 209/95, vyplývá, že žalobkyně - stěžovatelka - se žalobou domáhala přezkoumání rozhodnutí žalovaného Katastrálního úřadu P. ze dne 28. 4. 1995, č.j. V1-5500/93/Je, kterým byl povolen vklad vlastnického práva do katastru nemovi"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Ca 209/95",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Ca 209/95",
+          "decision_kind_hint": "",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:docref_clean"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::7669::5",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 7669,
+      "snippet_doc_start": 7409,
+      "snippet_doc_end": 7929,
+      "snippet_text": "žovatelka rovněž dala souhlas s upuštěním od ústního jednání.\nZ obsahu spisu Městského soudu v Praze, sp. zn. 28 Ca 209/95, vyplývá, že žalobkyně - stěžovatelka - se žalobou domáhala přezkoumání rozhodnutí žalovaného Katastrálního úřadu P. ze dne 28. 4. 1995, č.j. V1-5500/93/Je, kterým byl povolen vklad vlastnického práva do katastru nemovitostí k ideální 1/2 domu čp. 832 a ideální 1/2 pozemkových parcel č. 3788 - zastavěno a               č. 3789 - zahrada, vše v kat. území D., ve\nprospěch K.K. - Č., a to na zákla",
+      "predicted_reference": {
+        "reference_text": "č.j. V1-5500/93/Je",
+        "reference_prefix": "č.j.",
+        "reference_body": "V1-5500/93/Je",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 7669,
+        "raw_end": 7687,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "m od ústního jednání. Z obsahu spisu Městského soudu v Praze, sp. zn. 28 Ca 209/95, vyplývá, že žalobkyně - stěžovatelka - se žalobou domáhala přezkoumání rozhodnutí žalovaného Katastrálního úřadu P. ze dne 28. 4. 1995, č.j. V1-5500/93/Je, kterým byl povolen vklad vlastnického práva do katastru nemovitostí k ideální 1/2 domu čp. 832 a ideální 1/2 pozemkových parcel č. 3788 - zastavěno a               č. 3789 - zahrada, vše v kat. území D., ve prospěch K."
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. V1-5500/93/Je",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "V1-5500/93/Je",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Katastrálního úřadu P.",
+          "confidence": 0.99,
+          "note": "manual_v1:docref_clean"
+        }
+      ]
+    }
+  ]
+}

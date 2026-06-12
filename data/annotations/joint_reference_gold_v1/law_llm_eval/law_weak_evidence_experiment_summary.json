@@ -1,0 +1,30 @@
+{
+  "gold_input": "data/annotations/joint_reference_gold_v1/law_gold/joint_law_reference_gold_v1.jsonl",
+  "predictions_input": "data/annotations/joint_reference_gold_v1/law_llm_eval/law_llm_fresh.deterministic_predictions.jsonl",
+  "queue_output": "data/annotations/joint_reference_gold_v1/law_llm_eval/law_weak_evidence_queue.json",
+  "label_output": "data/annotations/joint_reference_gold_v1/law_llm_eval/law_weak_evidence_labels.json",
+  "queue_rows": 159,
+  "confidence_threshold": 0.75,
+  "stage_counts": {
+    "Level 3: Implicit Generic Reference": 130,
+    "Level 3B: Citation Chain Carryover": 21,
+    "Level 3C: Backward Context Carryover": 8
+  },
+  "spp": {
+    "rows": 159,
+    "classification_accuracy": 0.9685534591194969,
+    "full_accuracy": 0.9182389937106918,
+    "czech_law_rows": 154,
+    "czech_law_accuracy": 0.948051948051948,
+    "czech_law_wrong": 8
+  },
+  "step6_results": "data/annotations/joint_reference_gold_v1/law_llm_eval/law_weak_evidence_step6_results.jsonl",
+  "llm": {
+    "rows": 159,
+    "classification_accuracy": 0.9559748427672956,
+    "full_accuracy": 0.9559748427672956,
+    "czech_law_rows": 154,
+    "czech_law_accuracy": 0.9805194805194806,
+    "czech_law_wrong": 0
+  }
+}

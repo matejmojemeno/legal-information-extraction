@@ -1,0 +1,712 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.182618+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "pis7143.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis7143.txt",
+  "task_count": 24,
+  "tasks": [
+    {
+      "task_id": "pis7143.txt::section_or_article::86::612",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 11",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 350,
+      "snippet_text": "\nV Brně dne 11.6.1999 \nÚřad pro ochranu hospodářské soutěže, jako orgán příslušný dle § 11 odst. 1 písm. a) \nzákona č. 63/1991 Sb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a \nzákona č. 286/1993 Sb., ve správním řízení zahájeném dne 6.5.1999 na návrh společnosti \nVODÁRNA PLZEŇ a.s., se sídlem Plzeň, Malostranská 2, zastoupené ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 11",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona č. 63/1991 Sb., o ochraně hospodářské soutěže",
+          "declared_alias_text": "zákona č. 63/1991 Sb., o ochraně hospodářské soutěže",
+          "detail_number": "11",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:competition_law_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::119::613",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "63/1991 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 390,
+      "snippet_text": "\nV Brně dne 11.6.1999 \nÚřad pro ochranu hospodářské soutěže, jako orgán příslušný dle § 11 odst. 1 písm. a) \nzákona č. 63/1991 Sb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a \nzákona č. 286/1993 Sb., ve správním řízení zahájeném dne 6.5.1999 na návrh společnosti \nVODÁRNA PLZEŇ a.s., se sídlem Plzeň, Malostranská 2, zastoupené Ing. Philippem \nGuitardem, předsedou pře",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "63/1991 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákon o ochraně hospodářské soutěže",
+          "declared_alias_text": "zákon o ochraně hospodářské soutěže",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:competition_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::182::614",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "495/1992 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 454,
+      "snippet_text": "\nV Brně dne 11.6.1999 \nÚřad pro ochranu hospodářské soutěže, jako orgán příslušný dle § 11 odst. 1 písm. a) \nzákona č. 63/1991 Sb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a \nzákona č. 286/1993 Sb., ve správním řízení zahájeném dne 6.5.1999 na návrh společnosti \nVODÁRNA PLZEŇ a.s., se sídlem Plzeň, Malostranská 2, zastoupené Ing. Philippem \nGuitardem, předsedou představenstva, ve správním řízení zastoupené na základě plné moci ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "495/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "495/1992 Sb.",
+          "law_name_text": "zákona č. 495/1992 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::208::615",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "286/1993 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 480,
+      "snippet_text": "\nV Brně dne 11.6.1999 \nÚřad pro ochranu hospodářské soutěže, jako orgán příslušný dle § 11 odst. 1 písm. a) \nzákona č. 63/1991 Sb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a \nzákona č. 286/1993 Sb., ve správním řízení zahájeném dne 6.5.1999 na návrh společnosti \nVODÁRNA PLZEŇ a.s., se sídlem Plzeň, Malostranská 2, zastoupené Ing. Philippem \nGuitardem, předsedou představenstva, ve správním řízení zastoupené na základě plné moci \nze dne 4.5.1999 JUDr. Jos",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "286/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "286/1993 Sb.",
+          "law_name_text": "zákona č. 286/1993 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::793::616",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 32",
+      "snippet_doc_start": 533,
+      "snippet_doc_end": 1057,
+      "snippet_text": "ídlem Plzeň, Na Jíkalce 13, ve věci udělení povolení ke spojení podniků VODÁRNA \nPLZEŇ a.s., se sídlem Plzeň, Malostranská 2, IČO 25 20 56 25 a VODOSPOL s.r.o., se \nsídlem Klatovy, Ostravská 169/IV, IČO 48 36 53 51, vydává po zjištění potřebných podkladů \ndle § 32 zákona č. 71/1967 Sb., o správním řízení a poté co byla účastníku řízení dána \nmožnost vyjádřit se k předmětu řízení a výsledkům šetření toto \nr o z h o d n u t í: \nSpojení podniků VODÁRNA PLZEŇ a.s., se sídlem Plzeň, Malostranská 2, IČO 25 \n20 56 25 a VODOSP",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 32",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "zákona č. 71/1967 Sb., o správním řízení",
+          "declared_alias_text": "zákona č. 71/1967 Sb., o správním řízení",
+          "detail_number": "32",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::808::617",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "71/1967 Sb.",
+      "snippet_doc_start": 548,
+      "snippet_doc_end": 1079,
+      "snippet_text": " Jíkalce 13, ve věci udělení povolení ke spojení podniků VODÁRNA \nPLZEŇ a.s., se sídlem Plzeň, Malostranská 2, IČO 25 20 56 25 a VODOSPOL s.r.o., se \nsídlem Klatovy, Ostravská 169/IV, IČO 48 36 53 51, vydává po zjištění potřebných podkladů \ndle § 32 zákona č. 71/1967 Sb., o správním řízení a poté co byla účastníku řízení dána \nmožnost vyjádřit se k předmětu řízení a výsledkům šetření toto \nr o z h o d n u t í: \nSpojení podniků VODÁRNA PLZEŇ a.s., se sídlem Plzeň, Malostranská 2, IČO 25 \n20 56 25 a VODOSPOL s.r.o., se sídlem K",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "71/1967 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::1420::618",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8a",
+      "snippet_doc_start": 1160,
+      "snippet_doc_end": 1684,
+      "snippet_text": "ouvy o převodu obchodních podílů v obchodní \nspolečnosti \nVODOSPOL \ns.r.o., uzavřené dne 30.4.1999 mezi  společníky společnosti \nVODOSPOL s.r.o. a VODÁRNOU PLZEŇ a.s. získala společnost VODÁRNA PLZEŇ a.s. \n100 % obchodního podílu  společnosti VODOSPOL, se dle § 8a odst. 2 zákona č. 63/1991 \nSb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 \nSb. \np o v o l u j e.\nÚřad pro ochranu hospodářské soutěže (dále jen „úřad“) zahájil dne 6.5.1999 na \nnávrh účastníka řízení, jímž je společno",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona č. 63/1991 Sb., o ochraně hospodářské soutěže",
+          "declared_alias_text": "zákona č. 63/1991 Sb., o ochraně hospodářské soutěže",
+          "detail_number": "8a",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:competition_law_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::1443::619",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "63/1991 \nSb.",
+      "snippet_doc_start": 1183,
+      "snippet_doc_end": 1715,
+      "snippet_text": "ch podílů v obchodní \nspolečnosti \nVODOSPOL \ns.r.o., uzavřené dne 30.4.1999 mezi  společníky společnosti \nVODOSPOL s.r.o. a VODÁRNOU PLZEŇ a.s. získala společnost VODÁRNA PLZEŇ a.s. \n100 % obchodního podílu  společnosti VODOSPOL, se dle § 8a odst. 2 zákona č. 63/1991 \nSb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 \nSb. \np o v o l u j e.\nÚřad pro ochranu hospodářské soutěže (dále jen „úřad“) zahájil dne 6.5.1999 na \nnávrh účastníka řízení, jímž je společnost VODÁRNA PLZEŇ a.s., se sídle",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "63/1991 \nSb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákon o ochraně hospodářské soutěže",
+          "declared_alias_text": "zákon o ochraně hospodářské soutěže",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:competition_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::1507::620",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "495/1992 Sb.",
+      "snippet_doc_start": 1247,
+      "snippet_doc_end": 1779,
+      "snippet_text": "e 30.4.1999 mezi  společníky společnosti \nVODOSPOL s.r.o. a VODÁRNOU PLZEŇ a.s. získala společnost VODÁRNA PLZEŇ a.s. \n100 % obchodního podílu  společnosti VODOSPOL, se dle § 8a odst. 2 zákona č. 63/1991 \nSb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 \nSb. \np o v o l u j e.\nÚřad pro ochranu hospodářské soutěže (dále jen „úřad“) zahájil dne 6.5.1999 na \nnávrh účastníka řízení, jímž je společnost VODÁRNA PLZEŇ a.s., se sídlem Plzeň, \nMalostranská 2, IČO 25 20 56 25 (dále jen „VODÁRNA PLZ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "495/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "495/1992 Sb.",
+          "law_name_text": "zákona č. 495/1992 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::1532::621",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "286/1993 \nSb.",
+      "snippet_doc_start": 1272,
+      "snippet_doc_end": 1805,
+      "snippet_text": "íky společnosti \nVODOSPOL s.r.o. a VODÁRNOU PLZEŇ a.s. získala společnost VODÁRNA PLZEŇ a.s. \n100 % obchodního podílu  společnosti VODOSPOL, se dle § 8a odst. 2 zákona č. 63/1991 \nSb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 \nSb. \np o v o l u j e.\nÚřad pro ochranu hospodářské soutěže (dále jen „úřad“) zahájil dne 6.5.1999 na \nnávrh účastníka řízení, jímž je společnost VODÁRNA PLZEŇ a.s., se sídlem Plzeň, \nMalostranská 2, IČO 25 20 56 25 (dále jen „VODÁRNA PLZEŇ“), zastoupená na základ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "286/1993 \nSb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "286/1993 Sb.",
+          "law_name_text": "zákona č. 286/1993 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::2131::622",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 1871,
+      "snippet_doc_end": 2394,
+      "snippet_text": "K ZELLNER & \nPARTNER, se sídlem Plzeň, Na Jíkalce 13, správní řízení ve věci udělení povolení ke \nspojení podniků VODÁRNA PLZEŇ a VODOSPOL s.r.o., se sídlem Klatovy, Ostravská \n169/IV, IČO 48 36 53 51 (dále jen „VODOSPOL“). \nKe spojení podniků došlo ve smyslu § 8 odst. 2 písm. a) zákona č. 63/1991 Sb., o \nochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 Sb. (dále \njen „zákon“) tím, že na základě  Smlouvy o převodu obchodních podílů v obchodní \nspolečnosti VODOSPOL, uzavřené dne 30.4.19",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::2162::623",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "63/1991 Sb.",
+      "snippet_doc_start": 1902,
+      "snippet_doc_end": 2433,
+      "snippet_text": " Plzeň, Na Jíkalce 13, správní řízení ve věci udělení povolení ke \nspojení podniků VODÁRNA PLZEŇ a VODOSPOL s.r.o., se sídlem Klatovy, Ostravská \n169/IV, IČO 48 36 53 51 (dále jen „VODOSPOL“). \nKe spojení podniků došlo ve smyslu § 8 odst. 2 písm. a) zákona č. 63/1991 Sb., o \nochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 Sb. (dále \njen „zákon“) tím, že na základě  Smlouvy o převodu obchodních podílů v obchodní \nspolečnosti VODOSPOL, uzavřené dne 30.4.1999 mezi  společníky společnosti VODOSPO",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "63/1991 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákon o ochraně hospodářské soutěže",
+          "declared_alias_text": "zákon o ochraně hospodářské soutěže",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:competition_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::2226::624",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "495/1992 Sb.",
+      "snippet_doc_start": 1966,
+      "snippet_doc_end": 2498,
+      "snippet_text": "e \nspojení podniků VODÁRNA PLZEŇ a VODOSPOL s.r.o., se sídlem Klatovy, Ostravská \n169/IV, IČO 48 36 53 51 (dále jen „VODOSPOL“). \nKe spojení podniků došlo ve smyslu § 8 odst. 2 písm. a) zákona č. 63/1991 Sb., o \nochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 Sb. (dále \njen „zákon“) tím, že na základě  Smlouvy o převodu obchodních podílů v obchodní \nspolečnosti VODOSPOL, uzavřené dne 30.4.1999 mezi  společníky společnosti VODOSPOL \na VODÁRNOU PLZEŇ získala společnost VODÁRNA PLZEŇ 100 % obchod",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "495/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "495/1992 Sb.",
+          "law_name_text": "zákona č. 495/1992 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::2251::625",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "286/1993 Sb.",
+      "snippet_doc_start": 1991,
+      "snippet_doc_end": 2523,
+      "snippet_text": "A PLZEŇ a VODOSPOL s.r.o., se sídlem Klatovy, Ostravská \n169/IV, IČO 48 36 53 51 (dále jen „VODOSPOL“). \nKe spojení podniků došlo ve smyslu § 8 odst. 2 písm. a) zákona č. 63/1991 Sb., o \nochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb. a zákona č. 286/1993 Sb. (dále \njen „zákon“) tím, že na základě  Smlouvy o převodu obchodních podílů v obchodní \nspolečnosti VODOSPOL, uzavřené dne 30.4.1999 mezi  společníky společnosti VODOSPOL \na VODÁRNOU PLZEŇ získala společnost VODÁRNA PLZEŇ 100 % obchodního podílu \nspolečnosti ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "286/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "286/1993 Sb.",
+          "law_name_text": "zákona č. 286/1993 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::2772::626",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 29",
+      "snippet_doc_start": 2512,
+      "snippet_doc_end": 3036,
+      "snippet_text": "polečnosti VODOSPOL. \nV průběhu správního řízení byl zástupce účastníka vyzván, aby ve lhůtě do 18.5.1999 \nodstranil nedostatky podání a současně  předložil doplňující informace. Na tuto dobu úřad \nrozhodnutím č.j. S 41A/99-220/1074 správní řízení v souladu s § 29 odst. 2 zákona č. 71/1967 \nSb., o správním řízení přerušil. Nedostatek podání, který spočíval v zaplacení správního \npoplatku, byl odstraněn ve stanovené lhůtě. \nPodklady pro správní řízení: \n návrh na zahájení správního řízení \n doklad o zaplacení správníh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 29",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "zákona č. 71/1967 Sb., o správním řízení",
+          "declared_alias_text": "zákona č. 71/1967 Sb., o správním řízení",
+          "detail_number": "29",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::2795::627",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "71/1967 \nSb.",
+      "snippet_doc_start": 2535,
+      "snippet_doc_end": 3067,
+      "snippet_text": " průběhu správního řízení byl zástupce účastníka vyzván, aby ve lhůtě do 18.5.1999 \nodstranil nedostatky podání a současně  předložil doplňující informace. Na tuto dobu úřad \nrozhodnutím č.j. S 41A/99-220/1074 správní řízení v souladu s § 29 odst. 2 zákona č. 71/1967 \nSb., o správním řízení přerušil. Nedostatek podání, který spočíval v zaplacení správního \npoplatku, byl odstraněn ve stanovené lhůtě. \nPodklady pro správní řízení: \n návrh na zahájení správního řízení \n doklad o zaplacení správního poplatku \n originál plné moc",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "71/1967 \nSb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::8101::628",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 12",
+      "snippet_doc_start": 7841,
+      "snippet_doc_end": 8365,
+      "snippet_text": ". \nSkutečnost, že se úřad spojením zabývá byla uveřejněna v Obchodním věstníku č. \n22/99 ze dne 2.6.1999. Ve stanovené lhůtě 8 dnů pro podání případných připomínek úřad \nžádnou připomínku k uvedenému spojení podniků neobdržel. \n           Ve smyslu ustanovení § 12 odst. 6 zákona úřad umožnil, aby se zástupce účastníka \nsprávního řízení před vydáním rozhodnutí vyjádřil k předmětu řízení a k výsledkům šetření. \nZástupce účastníka řízení této možnosti nevyužil. Nebyly tedy vzneseny žádné připomínky \nani návrhy na doplnění",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 12",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "12",
+          "detail_odst": [
+            "6"
+          ],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::law_id_mention::11505::629",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "526/1990 Sb.",
+      "snippet_doc_start": 11245,
+      "snippet_doc_end": 11777,
+      "snippet_text": "s.r.o., \nREVOS Rokycany s.r.o., Vodohospodářské sdružení Vejvanov-Chomle, Vodotechnické \nslužby s.r.o. Stříbro, Vodohospodářský servis s.r.o. Dobřany a Sušické vodovody a kanalizace \ns.r.o. \nCeny za vodné a stočné podléhají věcnému usměrňování podle zákona č. 526/1990 Sb. \no cenách. V Cenovém věstníku Ministerstva financí je uvedeno, co je možno do těchto cen \npromítnout. VODÁRNA PLZEŇ a VODOSPOL jako provozovatelé infrastrukturní sítě \nvodovodů a kanalizací na území  uvedených okresů v rámci Západočeského regionu vedou o \nnáv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "526/1990 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "526/1990 Sb.",
+          "law_name_text": "zákon o cenách",
+          "declared_alias_text": "zákona č. 526/1990 Sb., o cenách",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:prices_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::14614::630",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 14354,
+      "snippet_doc_end": 14877,
+      "snippet_text": "Y PLZEŇ \na tím i jejího rozhodujícího akcionáře, tj. CTSE na chování jiného provozovatele působícího \nna stejném výrobkovém trhu, avšak na jiném trhu geografickém. K propojení lokálních \ninfrastrukturních sítí spojovaných subjektů nedojde. \nPrávní rozbor \nDle § 8 odst. 2 písm. a) zákona se za spojování podniků považuje i jednání, kdy jedna \nnebo více osob, které již kontrolují jeden podnik, získají přímou nebo nepřímou kontrolu nad \ncelkem nebo podstatnou částí jiného podniku získáním akcií, obchodních nebo členských ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.98,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::14891::631",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8a",
+      "snippet_doc_start": 14631,
+      "snippet_doc_end": 15155,
+      "snippet_text": " a) zákona se za spojování podniků považuje i jednání, kdy jedna \nnebo více osob, které již kontrolují jeden podnik, získají přímou nebo nepřímou kontrolu nad \ncelkem nebo podstatnou částí jiného podniku získáním akcií, obchodních nebo členských \npodílů. \nDle § 8a odst. 1 zákona podléhá povolení úřadu spojení, které narušuje, nebo může \nnarušit hospodářskou soutěž. Za narušení se považuje, jestliže spojením podniků  přesáhne \njejich podíl 30 % celkového obratu na celostátním nebo místním trhu daného zboží. \nNa základě ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8a",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::15398::632",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 15138,
+      "snippet_doc_end": 15661,
+      "snippet_text": "oží. \nNa základě Smlouvy o převodu obchodních podílů v obchodní společnosti \nVODOSPOL, uzavřené dne 30.4.1999 mezi společníky společnosti VODOSPOL a \nVODÁRNOU PLZEŇ získala společnost VODÁRNA PLZEŇ 100 % obchodního podílu \nspolečnosti VODOSPOL. Dle ustanovení § 8 odst. 2 písm. a) zákona tak došlo ke spojení \npodniků.\nPLZEŇ i VODOSPOL mají na relevantním trhu monopolní postavení. Spojením podniků \nzískal VODOSPOL kapitálově  silnějšího partnera, který rovněž působí na stejném \nvýrobkovém trhu, avšak na jiném geografick",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.98,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::15733::633",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8a",
+      "snippet_doc_start": 15473,
+      "snippet_doc_end": 15997,
+      "snippet_text": " mají na relevantním trhu monopolní postavení. Spojením podniků \nzískal VODOSPOL kapitálově  silnějšího partnera, který rovněž působí na stejném \nvýrobkovém trhu, avšak na jiném geograficky vymezeném trhu. Jde tedy o horizontální \nspojení podniků, které podle § 8a odst. 1 zákona podléhá povolení úřadu. \nVýhody spojení \nSpojování podniků, které narušuje nebo může narušit hospodářskou soutěž podléhá \npovolení úřadu ve smyslu ustanovení § 8a zákona. Dle ustanovení § 8a odst. 2 zákona úřad \nspojení povolí, jestliže zúčastn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8a",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::15911::634",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8a",
+      "snippet_doc_start": 15651,
+      "snippet_doc_end": 16175,
+      "snippet_text": "geograficky vymezeném trhu. Jde tedy o horizontální \nspojení podniků, které podle § 8a odst. 1 zákona podléhá povolení úřadu. \nVýhody spojení \nSpojování podniků, které narušuje nebo může narušit hospodářskou soutěž podléhá \npovolení úřadu ve smyslu ustanovení § 8a zákona. Dle ustanovení § 8a odst. 2 zákona úřad \nspojení povolí, jestliže zúčastnění soutěžitelé prokáží, že újma, která narušením soutěže může \nvzniknout, bude převážena hospodářskými výhodami, jež spojení přinese. \n \nZ předložených výhod spojení úřad posoud",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8a",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8a",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "pis7143.txt::section_or_article::15939::635",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8a",
+      "snippet_doc_start": 15679,
+      "snippet_doc_end": 16203,
+      "snippet_text": "Jde tedy o horizontální \nspojení podniků, které podle § 8a odst. 1 zákona podléhá povolení úřadu. \nVýhody spojení \nSpojování podniků, které narušuje nebo může narušit hospodářskou soutěž podléhá \npovolení úřadu ve smyslu ustanovení § 8a zákona. Dle ustanovení § 8a odst. 2 zákona úřad \nspojení povolí, jestliže zúčastnění soutěžitelé prokáží, že újma, která narušením soutěže může \nvzniknout, bude převážena hospodářskými výhodami, jež spojení přinese. \n \nZ předložených výhod spojení úřad posoudil jako nejvýznamnější z hle",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8a",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "63/1991 Sb.",
+          "law_name_text": "zákona",
+          "declared_alias_text": "zákon",
+          "detail_number": "8a",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:competition_alias"
+        }
+      ]
+    }
+  ]
+}

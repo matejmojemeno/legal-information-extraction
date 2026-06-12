@@ -1,0 +1,237 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "30 cdo 1363_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.195891+00:00",
+  "tasks": [
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::333::43",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 333,
+      "snippet_doc_start": 73,
+      "snippet_doc_end": 593,
+      "snippet_text": "eným \npozastavením stavebních prací na developerském projektu v důsledku rozhodnutí Pozemkového \núřadu Praha o vydání pozemků žalobkyně restituentce, které bylo následně zrušeno. \nObvodní soud pro Prahu 1 jako soud prvního stupně rozsudkem ze dne 30. 4. 2021, č. j. \n15 C 127/2017-158, zamítl žalobu o zaplacení částky ve výši 11 339 329 Kč s příslušenstvím \n(výrok I) a uložil žalobkyni zaplatit žalované náhradu nákladů řízení v částce 2 700 Kč (výrok \nII). \nMěstský soud v Praze jako soud odvolací napadeným rozsudkem",
+      "predicted_reference": {
+        "reference_text": "č. j. 15 C 127/2017-158",
+        "reference_prefix": "č. j.",
+        "reference_body": "15 C 127/2017-158",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 333,
+        "raw_end": 357,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": null,
+        "context": "eveloperském projektu v důsledku rozhodnutí Pozemkového  úřadu Praha o vydání pozemků žalobkyně restituentce, které bylo následně zrušeno.  Obvodní soud pro Prahu 1 jako soud prvního stupně rozsudkem ze dne 30. 4. 2021, č. j.  15 C 127/2017-158, zamítl žalobu o zaplacení částky ve výši 11 339 329 Kč s příslušenstvím  (výrok I) a uložil žalobkyni zaplatit žalované náhradu nákladů řízení v částce 2 700 Kč (výrok  II).  Městský soud v Praze jako soud odvolací nap"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 15 C 127/2017-158",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "15 C 127/2017-158",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Obvodního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::1491::44",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 1491,
+      "snippet_doc_start": 1231,
+      "snippet_doc_end": 1751,
+      "snippet_text": "astnicí restitučního řízení, přípustnost dovolání \npodle § 237 o. s. ř. nezakládá, neboť se při jejím řešení odvolací soud neodchýlil od ustálené \njudikatury Nejvyššího soudu, pokud na ni odpověděl záporně (srov. rozsudek Nejvyššího soudu \nze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021, a judikaturu citovanou v bodě 19 tohoto rozsudku).\n82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo \nnesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o \nnotářích a",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Cdo 232/2021",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Cdo 232/2021",
+        "reference_type": "spisova_znacka",
+        "raw_start": 1491,
+        "raw_end": 1514,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": " dovolání  podle § 237 o. s. ř. nezakládá, neboť se při jejím řešení odvolací soud neodchýlil od ustálené  judikatury Nejvyššího soudu, pokud na ni odpověděl záporně (srov. rozsudek Nejvyššího soudu  ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021, a judikaturu citovanou v bodě 19 tohoto rozsudku). 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo  nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 S"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Cdo 232/2021",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Cdo 232/2021",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::2063::45",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 2063,
+      "snippet_doc_start": 1803,
+      "snippet_doc_end": 2323,
+      "snippet_text": "e vztahu k pojmu účastník řízení, ve \nkterém bylo nezákonné rozhodnutí vydáno, neboť i tu jako podmínku odpovědnosti státu \nohledně žalobkyně posoudil odvolací soud v souladu s judikaturou Nejvyššího soudu (srov. \nrozsudek Nejvyššího soudu ze dne 26. 8. 2014, sp. zn. 30 Cdo 2767/2013, a v něm odkazovanou \njudikaturu). \nNa vysvětlenou žalobkyni Nejvyšší soud dodává, že neshledal důvody pro změnu své \njudikatury ve vztahu k vymezení okruhu účastníků restitučního řízení, ani neshledal podmínky \npro podání návrhu Ústav",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 30 Cdo 2767/2013",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "30 Cdo 2767/2013",
+        "reference_type": "spisova_znacka",
+        "raw_start": 2063,
+        "raw_end": 2087,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": "erém bylo nezákonné rozhodnutí vydáno, neboť i tu jako podmínku odpovědnosti státu  ohledně žalobkyně posoudil odvolací soud v souladu s judikaturou Nejvyššího soudu (srov.  rozsudek Nejvyššího soudu ze dne 26. 8. 2014, sp. zn. 30 Cdo 2767/2013, a v něm odkazovanou  judikaturu).  Na vysvětlenou žalobkyni Nejvyšší soud dodává, že neshledal důvody pro změnu své  judikatury ve vztahu k vymezení okruhu účastníků restitučního řízení, ani neshledal podmínky  pro pod"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 30 Cdo 2767/2013",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "30 Cdo 2767/2013",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::3080::46",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 3080,
+      "snippet_doc_start": 2820,
+      "snippet_doc_end": 3340,
+      "snippet_text": "u však zřetelně plyne, že \nrozhodnutí správního orgánu o vydání nemovitosti osobě oprávněné k restituci nemůže mít vliv \nna existenci vlastnického práva toho, kdo nebyl účastníkem restitučního řízení (srov. např. \nrozsudek Nejvyššího soudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7. \n2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku \nNejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).  \nNákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Cdo 3048/2012",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Cdo 3048/2012",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3080,
+        "raw_end": 3104,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": "rávního orgánu o vydání nemovitosti osobě oprávněné k restituci nemůže mít vliv  na existenci vlastnického práva toho, kdo nebyl účastníkem restitučního řízení (srov. např.  rozsudek Nejvyššího soudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7.  2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku  Nejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).   Nákladový výrok netřeba odůvodňovat (§ 243f od"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Cdo 3048/2012",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Cdo 3048/2012",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::3131::47",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 3131,
+      "snippet_doc_start": 2871,
+      "snippet_doc_end": 3353,
+      "snippet_text": "ánu o vydání nemovitosti osobě oprávněné k restituci nemůže mít vliv \nna existenci vlastnického práva toho, kdo nebyl účastníkem restitučního řízení (srov. např. \nrozsudek Nejvyššího soudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7. \n2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku \nNejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).  \nNákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.). \n",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Cdo 5678/2017",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Cdo 5678/2017",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3131,
+        "raw_end": 3155,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": " k restituci nemůže mít vliv  na existenci vlastnického práva toho, kdo nebyl účastníkem restitučního řízení (srov. např.  rozsudek Nejvyššího soudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7.  2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku  Nejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).   Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).  "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Cdo 5678/2017",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Cdo 5678/2017",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::3250::48",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 3250,
+      "snippet_doc_start": 2990,
+      "snippet_doc_end": 3353,
+      "snippet_text": "častníkem restitučního řízení (srov. např. \nrozsudek Nejvyššího soudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7. \n2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku \nNejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).  \nNákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.). \n",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Cdo 232/2021",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Cdo 232/2021",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3250,
+        "raw_end": 3273,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": "ř.  rozsudek Nejvyššího soudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7.  2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku  Nejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).   Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).  "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Cdo 232/2021",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Cdo 232/2021",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref_repeat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "29 icdo 2_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.184022+00:00",
+  "tasks": [
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::44::30",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "č. j",
+      "candidate_start": 44,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 304,
+      "snippet_text": ": \n \n \n1. Rozsudkem ze dne 11. května 2021, č. j 74 ICm XY, Krajský soud v Brně (dále jen \n„insolvenční soud“): \n[1] Určil, že pohledávka žalobce (věřitele č. 6, města Oslavany) přihlášená do \ninsolvenčního řízení vedeného na majetek dlužníka (A. I.) přihláškou P6 ze dne 26. října 2017  \nve výši 101.275",
+      "predicted_reference": null,
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "74 ICm XY",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.92,
+          "note": "manual_v1:anonymized_case_number"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::778::31",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 778,
+      "snippet_doc_start": 518,
+      "snippet_doc_end": 1038,
+      "snippet_text": "ím, že tato pohledávka se pokládá za přihlášenou \ndo insolvenčního řízení a bude uspokojena ve stejném pořadí jako pohledávka uvedená v bodě I. \nvýroku rozsudku (bod II. výroku). \n2. K odvolání žalovaného Vrchní soud v Olomouci rozsudkem ze dne 5. října 2021, č. j. 74 ICm \nXY, 13 VSOL XY (KSBR 27 INS XY):\n[2] Uložil žalovanému zaplatit žalobci na náhradě nákladů odvolacího řízení do 3 dnů od \nprávní moci rozhodnutí částku 12.260 Kč (druhý výrok). \n3. Proti rozsudku odvolacího soudu podal žalovaný dovolání, jehož př",
+      "predicted_reference": null,
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j.",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "74 ICm XY, 13 VSOL XY (KSBR 27 INS XY)",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Vrchního soudu v Olomouci",
+          "confidence": 0.9,
+          "note": "manual_v1:anonymized_combined_case_number"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::2970::32",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "sen. zn.",
+      "candidate_start": 2970,
+      "snippet_doc_start": 2710,
+      "snippet_doc_end": 3230,
+      "snippet_text": "ní pravosti vykonatelné \npohledávky žalobce důvody popření uplatněnými v popěrném úkonu (§ 198 odst. 3 \ninsolvenčního zákona)], je souladné s ustálenou judikaturou Nejvyššího soudu představovanou \npředevším rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013, \nuveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února \n2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo \nrozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. ",
+      "predicted_reference": {
+        "reference_text": "sen. zn. 29 ICdo 7/2013",
+        "reference_prefix": "sen. zn.",
+        "reference_body": "29 ICdo 7/2013",
+        "reference_type": "spisova_znacka",
+        "raw_start": 2970,
+        "raw_end": 2993,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": "bce důvody popření uplatněnými v popěrném úkonu (§ 198 odst. 3  insolvenčního zákona)], je souladné s ustálenou judikaturou Nejvyššího soudu představovanou  především rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013,  uveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února  2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo  rozsudkem Nejvyššího soudu ze dne 23. č"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sen. zn. 29 ICdo 7/2013",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sen. zn.",
+          "reference_body": "29 ICdo 7/2013",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::3095::33",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "sen. zn.",
+      "candidate_start": 3095,
+      "snippet_doc_start": 2835,
+      "snippet_doc_end": 3355,
+      "snippet_text": "], je souladné s ustálenou judikaturou Nejvyššího soudu představovanou \npředevším rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013, \nuveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února \n2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo \nrozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021. \n10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností \nnasta",
+      "predicted_reference": {
+        "reference_text": "sen. zn. 29 ICdo 39/2016",
+        "reference_prefix": "sen. zn.",
+        "reference_body": "29 ICdo 39/2016",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3095,
+        "raw_end": 3119,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": "ejvyššího soudu představovanou  především rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013,  uveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února  2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo  rozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021.  10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě sk"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sen. zn. 29 ICdo 39/2016",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sen. zn.",
+          "reference_body": "29 ICdo 39/2016",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::3225::34",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "sen. zn.",
+      "candidate_start": 3225,
+      "snippet_doc_start": 2965,
+      "snippet_doc_end": 3485,
+      "snippet_text": "013, sen. zn. 29 ICdo 7/2013, \nuveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února \n2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo \nrozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021. \n10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností \nnastalých mimo insolvenční řízení, zformuloval Nejvyšší soud již  v usnesení ze dne 28. \nlistopadu 2013, sen. zn. 29 NSČR 63/2011, uveř",
+      "predicted_reference": {
+        "reference_text": "sen. zn. 29 ICdo 13/2021. 10",
+        "reference_prefix": "sen. zn.",
+        "reference_body": "29 ICdo 13/2021. 10",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3225,
+        "raw_end": 3254,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu",
+        "context": "ým pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února  2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo  rozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021.  10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností  nastalých mimo insolvenční řízení, zformuloval Nejvyšší soud již  v usnesení ze dne 28.  listopadu 2013, sen. zn. 29 NSČR 63"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sen. zn. 29 ICdo 13/2021. 10",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sen. zn.",
+          "reference_body": "29 ICdo 13/2021",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.95,
+          "note": "manual_v1:trimmed_sentence_number"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::3455::35",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "sen. zn.",
+      "candidate_start": 3455,
+      "snippet_doc_start": 3195,
+      "snippet_doc_end": 3715,
+      "snippet_text": "soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021. \n10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností \nnastalých mimo insolvenční řízení, zformuloval Nejvyšší soud již  v usnesení ze dne 28. \nlistopadu 2013, sen. zn. 29 NSČR 63/2011, uveřejněném pod číslem 34/2014 Sb. rozh. obč., \ndodávaje tamtéž, že insolvenční řízení vychází takovým postupům vstříc i úpravou obsaženou v \nustanovení § 186 insolvenčního zákona. Jinak řečeno, insolvenční zákon upravuje mechanismus,",
+      "predicted_reference": {
+        "reference_text": "sen. zn. 29 NSČR 63/2011",
+        "reference_prefix": "sen. zn.",
+        "reference_body": "29 NSČR 63/2011",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3455,
+        "raw_end": 3479,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího soudu",
+        "context": "9 ICdo 13/2021.  10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností  nastalých mimo insolvenční řízení, zformuloval Nejvyšší soud již  v usnesení ze dne 28.  listopadu 2013, sen. zn. 29 NSČR 63/2011, uveřejněném pod číslem 34/2014 Sb. rozh. obč.,  dodávaje tamtéž, že insolvenční řízení vychází takovým postupům vstříc i úpravou obsaženou v  ustanovení § 186 insolvenčního zákona. Jinak řečeno, insolvenční zákon uprav"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sen. zn. 29 NSČR 63/2011",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sen. zn.",
+          "reference_body": "29 NSČR 63/2011",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::docref::4004::36",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_prefix": "sen. zn.",
+      "candidate_start": 4004,
+      "snippet_doc_start": 3744,
+      "snippet_doc_end": 4264,
+      "snippet_text": "končit účast dlužníkova věřitele v insolvenčním řízení v případě, že v \nprůběhu insolvenčního řízení po svém zjištění byla uspokojena jeho pohledávka, nebo že taková \npohledávka zanikla jiným způsobem (srov. i usnesení Nejvyššího soudu ze dne 10. února 2022, \nsen. zn. 29 NSČR 92/2021). To ovšem ničeho nemění na závěru, že v incidenčním sporu o určení \npravosti nebo výše vykonatelné pohledávky  lze k takové skutečnosti přihlédnout jen tehdy, \nnebrání-li jejímu uplatnění pravidlo formulované v ustanovení § 199 odst. ",
+      "predicted_reference": {
+        "reference_text": "sen. zn. 29 NSČR 92/2021",
+        "reference_prefix": "sen. zn.",
+        "reference_body": "29 NSČR 92/2021",
+        "reference_type": "spisova_znacka",
+        "raw_start": 4004,
+        "raw_end": 4028,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího soudu",
+        "context": "venčním řízení v případě, že v  průběhu insolvenčního řízení po svém zjištění byla uspokojena jeho pohledávka, nebo že taková  pohledávka zanikla jiným způsobem (srov. i usnesení Nejvyššího soudu ze dne 10. února 2022,  sen. zn. 29 NSČR 92/2021). To ovšem ničeho nemění na závěru, že v incidenčním sporu o určení  pravosti nebo výše vykonatelné pohledávky  lze k takové skutečnosti přihlédnout jen tehdy,  nebrání-li jejímu uplatnění pravidlo formulované v ustanov"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sen. zn. 29 NSČR 92/2021",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sen. zn.",
+          "reference_body": "29 NSČR 92/2021",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    }
+  ]
+}

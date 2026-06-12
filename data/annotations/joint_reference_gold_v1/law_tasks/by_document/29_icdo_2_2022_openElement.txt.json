@@ -1,0 +1,794 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.173373+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "29 icdo 2_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+  "task_count": 27,
+  "tasks": [
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::1079::151",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 819,
+      "snippet_doc_end": 1344,
+      "snippet_text": " XY):\n[2] Uložil žalovanému zaplatit žalobci na náhradě nákladů odvolacího řízení do 3 dnů od \nprávní moci rozhodnutí částku 12.260 Kč (druhý výrok). \n3. Proti rozsudku odvolacího soudu podal žalovaný dovolání, jehož přípustnost vymezuje ve \nsmyslu ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. \nř.“), argumentem, že napadené rozhodnutí závisí na vyřešení právní otázky, při jejímž řešení se \nodvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, jakož i na vyřešení \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::1095::152",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "99/1963 Sb.",
+      "snippet_doc_start": 835,
+      "snippet_doc_end": 1366,
+      "snippet_text": " žalovanému zaplatit žalobci na náhradě nákladů odvolacího řízení do 3 dnů od \nprávní moci rozhodnutí částku 12.260 Kč (druhý výrok). \n3. Proti rozsudku odvolacího soudu podal žalovaný dovolání, jehož přípustnost vymezuje ve \nsmyslu ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. \nř.“), argumentem, že napadené rozhodnutí závisí na vyřešení právní otázky, při jejímž řešení se \nodvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, jakož i na vyřešení \nprávní otázky, která v",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "99/1963 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::1695::153",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 241a",
+      "snippet_doc_start": 1435,
+      "snippet_doc_end": 1961,
+      "snippet_text": ": \nMůže být předmětem incidenčního sporu pohledávka, jež zanikla započtením \nprovedeným osobou, která není a nebyla účastníkem insolvenčního řízení? \n4. Dovolatel namítá, že napadené rozhodnutí spočívá na nesprávném právním posouzení věci \n(dovolací důvod dle § 241a odst. 1 o. s. ř.), a požaduje, aby Nejvyšší soud napadené rozhodnutí \nzrušil a věc vrátil k dalšímu řízení. \n5. V mezích uplatněného dovolacího důvodu argumentuje dovolatel  ve prospěch závěru, že \nsoud je povinen zkoumat  [s přihlédnutím k § 5 písm. a/ zákon",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 241a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::1943::154",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 1683,
+      "snippet_doc_end": 2206,
+      "snippet_text": "í důvod dle § 241a odst. 1 o. s. ř.), a požaduje, aby Nejvyšší soud napadené rozhodnutí \nzrušil a věc vrátil k dalšímu řízení. \n5. V mezích uplatněného dovolacího důvodu argumentuje dovolatel  ve prospěch závěru, že \nsoud je povinen zkoumat  [s přihlédnutím k § 5 písm. a/ zákona č. 182/2006 Sb., o úpadku a \nzpůsobech jeho řešení (insolvenčního zákona)] zánik pohledávky započtením, byť k němu došlo \naž poté, co dlužník pohledávku popřel.   \n6. Žalobce ve vyjádření navrhuje dovolání odmítnout, akcentuje obsah popěrného ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::1966::155",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/2006 Sb.",
+      "snippet_doc_start": 1706,
+      "snippet_doc_end": 2238,
+      "snippet_text": ". 1 o. s. ř.), a požaduje, aby Nejvyšší soud napadené rozhodnutí \nzrušil a věc vrátil k dalšímu řízení. \n5. V mezích uplatněného dovolacího důvodu argumentuje dovolatel  ve prospěch závěru, že \nsoud je povinen zkoumat  [s přihlédnutím k § 5 písm. a/ zákona č. 182/2006 Sb., o úpadku a \nzpůsobech jeho řešení (insolvenčního zákona)] zánik pohledávky započtením, byť k němu došlo \naž poté, co dlužník pohledávku popřel.   \n6. Žalobce ve vyjádření navrhuje dovolání odmítnout, akcentuje obsah popěrného důvodu, jenž \nnámitku tohoto způ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::2423::156",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 2163,
+      "snippet_doc_end": 2688,
+      "snippet_text": "olání odmítnout, akcentuje obsah popěrného důvodu, jenž \nnámitku tohoto způsobu zániku pohledávky neobsahuje.  \n7. Pro dovolací řízení v této věci je rozhodný občanský soudní řád v aktuálním znění.  \n8. Nejvyšší soud dovolání, jež může být přípustné jen podle § 237 o. s. ř. a pro něž neplatí žádné \nz omezení přípustnosti vypočtených v § 238 o. s. ř., odmítl podle § 243c odst. 1 a 2 o. s. ř. \n9. Učinil tak proto, že právní posouzení věci, na němž rozhodnutí odvolacího soudu spočívá \n[podle kterého byl žalovaný (dlužník) ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::2500::157",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 238",
+      "snippet_doc_start": 2240,
+      "snippet_doc_end": 2765,
+      "snippet_text": "bu zániku pohledávky neobsahuje.  \n7. Pro dovolací řízení v této věci je rozhodný občanský soudní řád v aktuálním znění.  \n8. Nejvyšší soud dovolání, jež může být přípustné jen podle § 237 o. s. ř. a pro něž neplatí žádné \nz omezení přípustnosti vypočtených v § 238 o. s. ř., odmítl podle § 243c odst. 1 a 2 o. s. ř. \n9. Učinil tak proto, že právní posouzení věci, na němž rozhodnutí odvolacího soudu spočívá \n[podle kterého byl žalovaný (dlužník) omezen ve sporu o určení pravosti vykonatelné \npohledávky žalobce důvody popř",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 238",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::2529::158",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243c",
+      "snippet_doc_start": 2269,
+      "snippet_doc_end": 2795,
+      "snippet_text": "je.  \n7. Pro dovolací řízení v této věci je rozhodný občanský soudní řád v aktuálním znění.  \n8. Nejvyšší soud dovolání, jež může být přípustné jen podle § 237 o. s. ř. a pro něž neplatí žádné \nz omezení přípustnosti vypočtených v § 238 o. s. ř., odmítl podle § 243c odst. 1 a 2 o. s. ř. \n9. Učinil tak proto, že právní posouzení věci, na němž rozhodnutí odvolacího soudu spočívá \n[podle kterého byl žalovaný (dlužník) omezen ve sporu o určení pravosti vykonatelné \npohledávky žalobce důvody popření uplatněnými v popěrném úko",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::2799::159",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 198",
+      "snippet_doc_start": 2539,
+      "snippet_doc_end": 3064,
+      "snippet_text": "t. 1 a 2 o. s. ř. \n9. Učinil tak proto, že právní posouzení věci, na němž rozhodnutí odvolacího soudu spočívá \n[podle kterého byl žalovaný (dlužník) omezen ve sporu o určení pravosti vykonatelné \npohledávky žalobce důvody popření uplatněnými v popěrném úkonu (§ 198 odst. 3 \ninsolvenčního zákona)], je souladné s ustálenou judikaturou Nejvyššího soudu představovanou \npředevším rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013, \nuveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 198",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::3019::160",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "106/2013 Sb.",
+      "snippet_doc_start": 2759,
+      "snippet_doc_end": 3291,
+      "snippet_text": "y popření uplatněnými v popěrném úkonu (§ 198 odst. 3 \ninsolvenčního zákona)], je souladné s ustálenou judikaturou Nejvyššího soudu představovanou \npředevším rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013, \nuveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února \n2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo \nrozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021. \n10. Závěr, že přihlášená pohledávka můž",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "106/2013 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:sb_rozh_obc_publication"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::3144::161",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "39/2019 Sb.",
+      "snippet_doc_start": 2884,
+      "snippet_doc_end": 3415,
+      "snippet_text": " soudu představovanou \npředevším rozsudkem Nejvyššího soudu ze dne 18. července 2013, sen. zn. 29 ICdo 7/2013, \nuveřejněným pod číslem 106/2013 Sb. rozh. obč., rozsudkem Nejvyššího soudu ze dne 27. února \n2018, sen. zn. 29 ICdo 39/2016, uveřejněným pod číslem 39/2019 Sb. rozh. obč., nebo \nrozsudkem Nejvyššího soudu ze dne 23. června 2021, sen. zn. 29 ICdo 13/2021. \n10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností \nnastalých mimo insolvenční řízení, zformuloval Nejvyšší soud již ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "39/2019 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:sb_rozh_obc_publication"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::3504::162",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "34/2014 Sb.",
+      "snippet_doc_start": 3244,
+      "snippet_doc_end": 3775,
+      "snippet_text": "/2021. \n10. Závěr, že přihlášená pohledávka může (i po svém zjištění) zaniknout i na základě skutečností \nnastalých mimo insolvenční řízení, zformuloval Nejvyšší soud již  v usnesení ze dne 28. \nlistopadu 2013, sen. zn. 29 NSČR 63/2011, uveřejněném pod číslem 34/2014 Sb. rozh. obč., \ndodávaje tamtéž, že insolvenční řízení vychází takovým postupům vstříc i úpravou obsaženou v \nustanovení § 186 insolvenčního zákona. Jinak řečeno, insolvenční zákon upravuje mechanismus, \njehož prostřednictvím lze ukončit účast dlužníkova věřitel",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "34/2014 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:sb_rozh_obc_publication"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::3634::163",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 186",
+      "snippet_doc_start": 3374,
+      "snippet_doc_end": 3899,
+      "snippet_text": "ní řízení, zformuloval Nejvyšší soud již  v usnesení ze dne 28. \nlistopadu 2013, sen. zn. 29 NSČR 63/2011, uveřejněném pod číslem 34/2014 Sb. rozh. obč., \ndodávaje tamtéž, že insolvenční řízení vychází takovým postupům vstříc i úpravou obsaženou v \nustanovení § 186 insolvenčního zákona. Jinak řečeno, insolvenční zákon upravuje mechanismus, \njehož prostřednictvím lze ukončit účast dlužníkova věřitele v insolvenčním řízení v případě, že v \nprůběhu insolvenčního řízení po svém zjištění byla uspokojena jeho pohledávka, nebo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 186",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4252::164",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 199",
+      "snippet_doc_start": 3992,
+      "snippet_doc_end": 4517,
+      "snippet_text": "nora 2022, \nsen. zn. 29 NSČR 92/2021). To ovšem ničeho nemění na závěru, že v incidenčním sporu o určení \npravosti nebo výše vykonatelné pohledávky  lze k takové skutečnosti přihlédnout jen tehdy, \nnebrání-li jejímu uplatnění pravidlo formulované v ustanovení § 199 odst. 3 insolvenčního \nzákona.\njiným způsobem (srov. § 185 a § 186 insolvenčního zákona), v incidenčním sporu o určení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (sr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 199",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4311::165",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 185",
+      "snippet_doc_start": 4051,
+      "snippet_doc_end": 4576,
+      "snippet_text": "ní na závěru, že v incidenčním sporu o určení \npravosti nebo výše vykonatelné pohledávky  lze k takové skutečnosti přihlédnout jen tehdy, \nnebrání-li jejímu uplatnění pravidlo formulované v ustanovení § 199 odst. 3 insolvenčního \nzákona.\njiným způsobem (srov. § 185 a § 186 insolvenčního zákona), v incidenčním sporu o určení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech d",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 185",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4319::166",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 186",
+      "snippet_doc_start": 4059,
+      "snippet_doc_end": 4584,
+      "snippet_text": "věru, že v incidenčním sporu o určení \npravosti nebo výše vykonatelné pohledávky  lze k takové skutečnosti přihlédnout jen tehdy, \nnebrání-li jejímu uplatnění pravidlo formulované v ustanovení § 199 odst. 3 insolvenčního \nzákona.\njiným způsobem (srov. § 185 a § 186 insolvenčního zákona), v incidenčním sporu o určení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech dovolacíh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 186",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4479::167",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 199",
+      "snippet_doc_start": 4219,
+      "snippet_doc_end": 4744,
+      "snippet_text": "ravidlo formulované v ustanovení § 199 odst. 3 insolvenčního \nzákona.\njiným způsobem (srov. § 185 a § 186 insolvenčního zákona), v incidenčním sporu o určení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § \n146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto, čímž žalobci vzniklo právo na \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 199",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4523::168",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 410",
+      "snippet_doc_start": 4263,
+      "snippet_doc_end": 4788,
+      "snippet_text": " 3 insolvenčního \nzákona.\njiným způsobem (srov. § 185 a § 186 insolvenčního zákona), v incidenčním sporu o určení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § \n146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto, čímž žalobci vzniklo právo na \nnáhradu účelně vynaložených nákladů dovolací",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 410",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/2006 Sb.",
+          "law_name_text": "insolvenční zákon",
+          "declared_alias_text": "insolvenční zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:insolvencni_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4615::169",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243c",
+      "snippet_doc_start": 4355,
+      "snippet_doc_end": 4881,
+      "snippet_text": "enčním sporu o určení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § \n146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto, čímž žalobci vzniklo právo na \nnáhradu účelně vynaložených nákladů dovolacího řízení. Ty v dané věci sestávají z odměny \nadvokáta za jeden úkon právní služby (vyjádření",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "občanský soudní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4631::170",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 224",
+      "snippet_doc_start": 4371,
+      "snippet_doc_end": 4896,
+      "snippet_text": "rčení \npravosti vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § \n146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto, čímž žalobci vzniklo právo na \nnáhradu účelně vynaložených nákladů dovolacího řízení. Ty v dané věci sestávají z odměny \nadvokáta za jeden úkon právní služby (vyjádření k dovolání ze ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 224",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::4647::171",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n146",
+      "snippet_doc_start": 4387,
+      "snippet_doc_end": 4913,
+      "snippet_text": "vykonatelné pohledávky je však i popírající dlužník povinen respektovat omezení \nplynoucí z § 199 odst. 3 insolvenčního zákona (srov. i § 410 insolvenčního zákona). \n12. Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § \n146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto, čímž žalobci vzniklo právo na \nnáhradu účelně vynaložených nákladů dovolacího řízení. Ty v dané věci sestávají z odměny \nadvokáta za jeden úkon právní služby (vyjádření k dovolání ze dne 8. prosince 2",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n146",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::4971::172",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "177/1996 Sb.",
+      "snippet_doc_start": 4711,
+      "snippet_doc_end": 5243,
+      "snippet_text": ", čímž žalobci vzniklo právo na \nnáhradu účelně vynaložených nákladů dovolacího řízení. Ty v dané věci sestávají z odměny \nadvokáta za jeden úkon právní služby (vyjádření k dovolání ze dne 8. prosince 2021) určené \npodle vyhlášky Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách \nadvokátů za poskytování právních služeb (advokátního tarifu), ve znění účinném do 31. prosince \n2021. Advokátu žalobce přísluší za tento úkon právní služby mimosmluvní odměna dle § 11 \nodst. 1 písm. k/ advokátního tarifu. Inc",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "177/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::5197::173",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 11",
+      "snippet_doc_start": 4937,
+      "snippet_doc_end": 5461,
+      "snippet_text": "šky Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách \nadvokátů za poskytování právních služeb (advokátního tarifu), ve znění účinném do 31. prosince \n2021. Advokátu žalobce přísluší za tento úkon právní služby mimosmluvní odměna dle § 11 \nodst. 1 písm. k/ advokátního tarifu. Incidenční spor o určení pravosti pohledávky je ve smyslu \nustanovení § 9 odst. 4 písm. c/ advokátního tarifu sporem ve věci rozhodované v insolvenčním \nřízení, u kterého se považuje za tarifní hodnotu částka 50.000 Kč. T",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 11",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "k"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::5310::174",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 9",
+      "snippet_doc_start": 5050,
+      "snippet_doc_end": 5573,
+      "snippet_text": " služeb (advokátního tarifu), ve znění účinném do 31. prosince \n2021. Advokátu žalobce přísluší za tento úkon právní služby mimosmluvní odměna dle § 11 \nodst. 1 písm. k/ advokátního tarifu. Incidenční spor o určení pravosti pohledávky je ve smyslu \nustanovení § 9 odst. 4 písm. c/ advokátního tarifu sporem ve věci rozhodované v insolvenčním \nřízení, u kterého se považuje za tarifní hodnotu částka 50.000 Kč. Tomu odpovídá (dle § 7 bodu \n5. advokátního tarifu) mimosmluvní odměna ve výši 3.100 Kč. Spolu s náhradou hotovýc",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 9",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::5479::175",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 7",
+      "snippet_doc_start": 5219,
+      "snippet_doc_end": 5742,
+      "snippet_text": " advokátního tarifu. Incidenční spor o určení pravosti pohledávky je ve smyslu \nustanovení § 9 odst. 4 písm. c/ advokátního tarifu sporem ve věci rozhodované v insolvenčním \nřízení, u kterého se považuje za tarifní hodnotu částka 50.000 Kč. Tomu odpovídá (dle § 7 bodu \n5. advokátního tarifu) mimosmluvní odměna ve výši 3.100 Kč. Spolu s náhradou hotových \nvýdajů dle § 13 odst. 4 advokátního tarifu ve výši 300 Kč jde o částku 3.400 Kč. S připočtením \nnáhrady za 21% daň z přidané hodnoty ve výši 714 Kč (§ 137 odst. 3 o. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 7",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::5587::176",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 13",
+      "snippet_doc_start": 5327,
+      "snippet_doc_end": 5837,
+      "snippet_text": " c/ advokátního tarifu sporem ve věci rozhodované v insolvenčním \nřízení, u kterého se považuje za tarifní hodnotu částka 50.000 Kč. Tomu odpovídá (dle § 7 bodu \n5. advokátního tarifu) mimosmluvní odměna ve výši 3.100 Kč. Spolu s náhradou hotových \nvýdajů dle § 13 odst. 4 advokátního tarifu ve výši 300 Kč jde o částku 3.400 Kč. S připočtením \nnáhrady za 21% daň z přidané hodnoty ve výši 714 Kč (§ 137 odst. 3 o. s. ř.) jde celkem o částku \n4.114 Kč, kterou Nejvyšší soud přiznal žalobci k tíži žalovaného. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 13",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "29 icdo 2_2022_openElement.txt::section_or_article::5725::177",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 137",
+      "snippet_doc_start": 5465,
+      "snippet_doc_end": 5837,
+      "snippet_text": "odpovídá (dle § 7 bodu \n5. advokátního tarifu) mimosmluvní odměna ve výši 3.100 Kč. Spolu s náhradou hotových \nvýdajů dle § 13 odst. 4 advokátního tarifu ve výši 300 Kč jde o částku 3.400 Kč. S připočtením \nnáhrady za 21% daň z přidané hodnoty ve výši 714 Kč (§ 137 odst. 3 o. s. ř.) jde celkem o částku \n4.114 Kč, kterou Nejvyšší soud přiznal žalobci k tíži žalovaného. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 137",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    }
+  ]
+}

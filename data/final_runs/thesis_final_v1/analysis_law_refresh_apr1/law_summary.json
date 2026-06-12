@@ -1,0 +1,170 @@
+{
+  "run_root": "data/final_runs/thesis_final_v1",
+  "analysis_dir": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1",
+  "law_reference_table": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1/law_reference_table.jsonl",
+  "total_occurrences": 13304530,
+  "resolved_occurrences": 12240899,
+  "unresolved_occurrences": 1063631,
+  "resolved_share": 0.920055,
+  "unique_documents": 444261,
+  "unique_resolved_laws": 13902,
+  "top_n": 15,
+  "plots": {
+    "top_cited_laws_png_written": true,
+    "top_cited_laws_png": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1/plots/top_cited_laws.png"
+  },
+  "top_cited_laws": [
+    {
+      "resolved_law_id": "99/1963 Sb.",
+      "resolved_law_name": "Občanský soudní řád",
+      "occurrence_count": 1694049,
+      "source_count": 1694049
+    },
+    {
+      "resolved_law_id": "150/2002 Sb.",
+      "resolved_law_name": "Zákon soudní řád správní",
+      "occurrence_count": 1405245,
+      "source_count": 1405245
+    },
+    {
+      "resolved_law_id": "141/1961 Sb.",
+      "resolved_law_name": "Zákon o trestním řízení soudním (trestní řád)",
+      "occurrence_count": 1246216,
+      "source_count": 1246216
+    },
+    {
+      "resolved_law_id": "500/2004 Sb.",
+      "resolved_law_name": "Zákon správní řád",
+      "occurrence_count": 555113,
+      "source_count": 555113
+    },
+    {
+      "resolved_law_id": "182/1993 Sb.",
+      "resolved_law_name": "Zákon o Ústavním soudu",
+      "occurrence_count": 452700,
+      "source_count": 452700
+    },
+    {
+      "resolved_law_id": "40/2009 Sb.",
+      "resolved_law_name": "Zákon trestní zákoník",
+      "occurrence_count": 449763,
+      "source_count": 449763
+    },
+    {
+      "resolved_law_id": "2/1993 Sb.",
+      "resolved_law_name": "Usnesení předsednictva České národní rady o vyhlášení LISTINY ZÁKLADNÍCH PRÁV A SVOBOD jako součástí ústavního pořádku České republiky",
+      "occurrence_count": 408260,
+      "source_count": 408260
+    },
+    {
+      "resolved_law_id": "140/1961 Sb.",
+      "resolved_law_name": "Trestní zákon",
+      "occurrence_count": 319034,
+      "source_count": 319034
+    },
+    {
+      "resolved_law_id": "325/1999 Sb.",
+      "resolved_law_name": "Zákon o azylu a o změně zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, (zákon o azylu)",
+      "occurrence_count": 310045,
+      "source_count": 310045
+    },
+    {
+      "resolved_law_id": "326/1999 Sb.",
+      "resolved_law_name": "Zákon o pobytu cizinců na území České republiky a o změně některých zákonů",
+      "occurrence_count": 267498,
+      "source_count": 267498
+    },
+    {
+      "resolved_law_id": "137/2006 Sb.",
+      "resolved_law_name": "Zákon o veřejných zakázkách",
+      "occurrence_count": 239240,
+      "source_count": 239240
+    },
+    {
+      "resolved_law_id": "280/2009 Sb.",
+      "resolved_law_name": "Zákon daňový řád",
+      "occurrence_count": 237632,
+      "source_count": 237632
+    },
+    {
+      "resolved_law_id": "134/2016 Sb.",
+      "resolved_law_name": "Zákon o zadávání veřejných zakázek",
+      "occurrence_count": 214224,
+      "source_count": 214224
+    },
+    {
+      "resolved_law_id": "1/1993 Sb.",
+      "resolved_law_name": "Ústava České republiky",
+      "occurrence_count": 203958,
+      "source_count": 203958
+    },
+    {
+      "resolved_law_id": "177/1996 Sb.",
+      "resolved_law_name": "Vyhláška Ministerstva spravedlnosti o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif)",
+      "occurrence_count": 199762,
+      "source_count": 199762
+    }
+  ],
+  "top_citation_types": [
+    {
+      "citation_type": "section",
+      "occurrence_count": 10181532
+    },
+    {
+      "citation_type": "other_normative",
+      "occurrence_count": 2103730
+    },
+    {
+      "citation_type": "article",
+      "occurrence_count": 1019268
+    }
+  ],
+  "top_classifications": [
+    {
+      "classification": "czech_resolved",
+      "occurrence_count": 12240899
+    },
+    {
+      "classification": "czech_unresolved",
+      "occurrence_count": 774443
+    },
+    {
+      "classification": "non_citation",
+      "occurrence_count": 153743
+    },
+    {
+      "classification": "foreign_law",
+      "occurrence_count": 135445
+    }
+  ],
+  "per_source_summary": [
+    {
+      "source": "nalus",
+      "total_occurrences": 1735277,
+      "resolved_occurrences": 1611943,
+      "unresolved_occurrences": 123334,
+      "resolved_share": 0.928925
+    },
+    {
+      "source": "ns",
+      "total_occurrences": 4842919,
+      "resolved_occurrences": 4628297,
+      "unresolved_occurrences": 214622,
+      "resolved_share": 0.955683
+    },
+    {
+      "source": "nss",
+      "total_occurrences": 5858812,
+      "resolved_occurrences": 5237189,
+      "unresolved_occurrences": 621623,
+      "resolved_share": 0.893899
+    },
+    {
+      "source": "uohs",
+      "total_occurrences": 867522,
+      "resolved_occurrences": 763470,
+      "unresolved_occurrences": 104052,
+      "resolved_share": 0.880058
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.172314+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "231833.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/231833.txt",
+  "task_count": 15,
+  "tasks": [
+    {
+      "task_id": "231833.txt::section_or_article::111::322",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 375,
+      "snippet_text": " :\nRozhodnutím ze dne 11. 4. 2006 zamítl žalovaný žádost žalobce o udělení azylu \njako zjevně nedůvodnou podle § 16 odst. 1 písm. g) zákona č. 325/1999 Sb., o azylu. \nŽalobce napadl rozhodnutí žalovaného žalobou doručenou Krajskému soudu v Praze \ndne 21. 4. 2006. Krajský soud tuto žalobu dne 21. 6. 2006 zamítl. \nŽalobce (stěžovatel) napadl rozsudek krajského soudu kasační ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona č. 325/1999 Sb., o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::law_id_mention::143::323",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "325/1999 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 415,
+      "snippet_text": " :\nRozhodnutím ze dne 11. 4. 2006 zamítl žalovaný žádost žalobce o udělení azylu \njako zjevně nedůvodnou podle § 16 odst. 1 písm. g) zákona č. 325/1999 Sb., o azylu. \nŽalobce napadl rozhodnutí žalovaného žalobou doručenou Krajskému soudu v Praze \ndne 21. 4. 2006. Krajský soud tuto žalobu dne 21. 6. 2006 zamítl. \nŽalobce (stěžovatel) napadl rozsudek krajského soudu kasační stížností, v níž namítá \nporušení práva ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "325/1999 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákon o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::453::324",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 8",
+      "snippet_doc_start": 193,
+      "snippet_doc_end": 718,
+      "snippet_text": "žalovaného žalobou doručenou Krajskému soudu v Praze \ndne 21. 4. 2006. Krajský soud tuto žalobu dne 21. 6. 2006 zamítl. \nŽalobce (stěžovatel) napadl rozsudek krajského soudu kasační stížností, v níž namítá \nporušení práva na respektování soukromého života dle čl. 8 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu a porušení práva stěžovatele nebýt podroben \nponižujícímu a nelidskému zacházení ve smyslu čl. 3 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu. Svou argumentaci přitom",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Evropská úmluva",
+          "declared_alias_text": "",
+          "detail_number": "8",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.95,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::499::325",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 239,
+      "snippet_doc_end": 763,
+      "snippet_text": " Praze \ndne 21. 4. 2006. Krajský soud tuto žalobu dne 21. 6. 2006 zamítl. \nŽalobce (stěžovatel) napadl rozsudek krajského soudu kasační stížností, v níž namítá \nporušení práva na respektování soukromého života dle čl. 8 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu a porušení práva stěžovatele nebýt podroben \nponižujícímu a nelidskému zacházení ve smyslu čl. 3 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu. Svou argumentaci přitom opírá o několik \nrozhodnutí Evropského soudu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::619::326",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 3",
+      "snippet_doc_start": 359,
+      "snippet_doc_end": 884,
+      "snippet_text": "o soudu kasační stížností, v níž namítá \nporušení práva na respektování soukromého života dle čl. 8 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu a porušení práva stěžovatele nebýt podroben \nponižujícímu a nelidskému zacházení ve smyslu čl. 3 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu. Svou argumentaci přitom opírá o několik \nrozhodnutí Evropského soudu pro lidská práva.\nDále se stěžovatel domnívá, že jeho vycestování na Ukrajinu brání hrozba špatného \nzacházení ze strany",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 3",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Evropská úmluva",
+          "declared_alias_text": "",
+          "detail_number": "3",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.95,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::665::327",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 405,
+      "snippet_doc_end": 929,
+      "snippet_text": "ení práva na respektování soukromého života dle čl. 8 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu a porušení práva stěžovatele nebýt podroben \nponižujícímu a nelidskému zacházení ve smyslu čl. 3 Evropské úmluvy ve spojení \ns porušením § 16 písm. g) zákona o azylu. Svou argumentaci přitom opírá o několik \nrozhodnutí Evropského soudu pro lidská práva.\nDále se stěžovatel domnívá, že jeho vycestování na Ukrajinu brání hrozba špatného \nzacházení ze strany věřitelů, a to pro nevrácený dluh (půjčka na",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::1220::328",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 1",
+      "snippet_doc_start": 960,
+      "snippet_doc_end": 1485,
+      "snippet_text": " druhého syna). Návrat stěžovatele by byl citelným zásahem do jeho fyzické \na morální integrity, což mělo být zohledněno soudem i žalovaným, neboť Česká republika \nje povinna respektovat své mezinárodní závazky. Protože toto \nnebylo učiněno, \ndošlo k porušení čl. 1 odst. 2 Ústavy České republiky. Stěžovatel také uvádí, že jím uváděné \nskutečnosti spadají do výčtu azylově relevantních důvodů podle § 12 zákona o azylu či článku\nStěžovatel také namítá chybné použití ustanovení § 16 odst. 1 písm. g) zákona o azylu, \nneboť z",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 1",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "czech_resolved",
+          "law_id": "1/1993 Sb.",
+          "law_name_text": "Ústavy České republiky",
+          "declared_alias_text": "Ústava České republiky",
+          "detail_number": "1",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:constitution"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::1360::329",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 12",
+      "snippet_doc_start": 1100,
+      "snippet_doc_end": 1624,
+      "snippet_text": " neboť Česká republika \nje povinna respektovat své mezinárodní závazky. Protože toto \nnebylo učiněno, \ndošlo k porušení čl. 1 odst. 2 Ústavy České republiky. Stěžovatel také uvádí, že jím uváděné \nskutečnosti spadají do výčtu azylově relevantních důvodů podle § 12 zákona o azylu či článku\nStěžovatel také namítá chybné použití ustanovení § 16 odst. 1 písm. g) zákona o azylu, \nneboť zjevně nedůvodnou není azylová žádost, která je motivována obavou z nelidského \nči ponižujícího \nzacházení. \nZákladním \nkamenem \nuprchlickéh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 12",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "12",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::1439::330",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 1179,
+      "snippet_doc_end": 1703,
+      "snippet_text": " toto \nnebylo učiněno, \ndošlo k porušení čl. 1 odst. 2 Ústavy České republiky. Stěžovatel také uvádí, že jím uváděné \nskutečnosti spadají do výčtu azylově relevantních důvodů podle § 12 zákona o azylu či článku\nStěžovatel také namítá chybné použití ustanovení § 16 odst. 1 písm. g) zákona o azylu, \nneboť zjevně nedůvodnou není azylová žádost, která je motivována obavou z nelidského \nči ponižujícího \nzacházení. \nZákladním \nkamenem \nuprchlického \npráva \nje \nochrana \npřed navrácením; proto by měl mít takřka každý žadatel o",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::3533::331",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 104",
+      "snippet_doc_start": 3273,
+      "snippet_doc_end": 3798,
+      "snippet_text": "ační řízení \nje přitom založeno na přezkumu soudních rozhodnutí; pokud námitka není uplatněna \njiž v řízení před krajským soudem, chybí zde podklad k přezkumu, a z tohoto důvodu \nse takovou námitkou Nejvyšší správní soud nemůže zabývat pro její nepřípustnost (§ 104 \nodst. 4 s. ř. s.).\nNejvyšší správní soud se poté zabýval tím, zda kasační stížnost ve smyslu § 104a \ns. ř. s. svým významem podstatně přesahuje vlastní zájmy stěžovatele, a zda je tedy možno \nji považovat za přijatelnou. K podrobnějšímu vymezení institutu př",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 104",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "104",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::3633::332",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 104a",
+      "snippet_doc_start": 3373,
+      "snippet_doc_end": 3899,
+      "snippet_text": " řízení před krajským soudem, chybí zde podklad k přezkumu, a z tohoto důvodu \nse takovou námitkou Nejvyšší správní soud nemůže zabývat pro její nepřípustnost (§ 104 \nodst. 4 s. ř. s.).\nNejvyšší správní soud se poté zabýval tím, zda kasační stížnost ve smyslu § 104a \ns. ř. s. svým významem podstatně přesahuje vlastní zájmy stěžovatele, a zda je tedy možno \nji považovat za přijatelnou. K podrobnějšímu vymezení institutu přijatelnosti kasační stížnosti \nve věcech azylu (mezinárodní ochrany) lze přitom pro stručnost odkázat",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 104a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "104a",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::law_id_mention::4012::333",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "933/2006 Sb.",
+      "snippet_doc_start": 3752,
+      "snippet_doc_end": 4284,
+      "snippet_text": "atelnou. K podrobnějšímu vymezení institutu přijatelnosti kasační stížnosti \nve věcech azylu (mezinárodní ochrany) lze přitom pro stručnost odkázat např. na usnesení \nNejvyššího správního soudu ze dne 26. 4. 2006, č. j. 1 Azs 13/2006 - 39, publikované \npod č. 933/2006 Sb. NSS.\nNámitkou týkající se „pronásledování“ ze strany věřitelů se Nejvyšší správní soud \ndostatečně zabýval např. v rozsudku ze dne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55, \nwww.nssoud.cz. Také podmínky zamítnutí žádosti o udělení azylu pro její zjevnou \nnedůvo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "933/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "non_citation",
+          "law_id": null,
+          "law_name_text": "Sb. NSS",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:nonstatutory_collection"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::6005::334",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 104a",
+      "snippet_doc_start": 5745,
+      "snippet_doc_end": 6258,
+      "snippet_text": "ura Nejvyššího správního soudu tak poskytuje \ndostatečnou odpověď na námitku, kterou stěžovatel vznesl v kasační stížnosti. Kasační \nstížnost tedy svým významem podstatně nepřesahuje vlastní zájmy stěžovatele; Nejvyšší \nsprávní soud ji proto shledal ve smyslu § 104a s. ř. s. nepřijatelnou a z tohoto důvodu \nji odmítl.\nVýrok o náhradě nákladů řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, pokud byla kasační \nstížnost odmítnuta.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 104a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "104a",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::6107::335",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 60",
+      "snippet_doc_start": 5847,
+      "snippet_doc_end": 6258,
+      "snippet_text": " v kasační stížnosti. Kasační \nstížnost tedy svým významem podstatně nepřesahuje vlastní zájmy stěžovatele; Nejvyšší \nsprávní soud ji proto shledal ve smyslu § 104a s. ř. s. nepřijatelnou a z tohoto důvodu \nji odmítl.\nVýrok o náhradě nákladů řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, pokud byla kasační \nstížnost odmítnuta.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 60",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "60",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::section_or_article::6133::336",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 5873,
+      "snippet_doc_end": 6258,
+      "snippet_text": "ční \nstížnost tedy svým významem podstatně nepřesahuje vlastní zájmy stěžovatele; Nejvyšší \nsprávní soud ji proto shledal ve smyslu § 104a s. ř. s. nepřijatelnou a z tohoto důvodu \nji odmítl.\nVýrok o náhradě nákladů řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, pokud byla kasační \nstížnost odmítnuta.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "120",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    }
+  ]
+}

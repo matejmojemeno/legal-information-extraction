@@ -1,0 +1,85 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "pis33402.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis33402.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.239849+00:00",
+  "tasks": [
+    {
+      "task_id": "pis33402.txt::docref::3946::98",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 3946,
+      "snippet_doc_start": 3686,
+      "snippet_doc_end": 4206,
+      "snippet_text": "e. \nVzhledem k tomu, že Úřad získal pochybnosti o správnosti postupu zadavatele při \nzdávání předmětné veřejné zakázky, zahájil správní řízení z vlastního podnětu. Oznámení o \nzahájení správního řízení zaslal Úřad zadavateli jako jedinému účastníkovi dopisem \nč. j. S351/2006-21179/2006/520-Pr ze dne 30.11.2006, přičemž ho seznámil s výše \nuvedenými výsledky kontroly, a usnesením č. j. S351/2006-21180/2006/520-Pr ze dne \n30.11.2006 stanovil účastníku řízení lhůtu, v níž mohl navrhovat důkazy, či činit jiné návrhy, \n",
+      "predicted_reference": {
+        "reference_text": "č. j. S351/2006-21179/2006/520-Pr",
+        "reference_prefix": "č. j.",
+        "reference_body": "S351/2006-21179/2006/520-Pr",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 3946,
+        "raw_end": 3979,
+        "decision_kind_hint": null,
+        "court_hint": "Úřadu",
+        "context": "ybnosti o správnosti postupu zadavatele při  zdávání předmětné veřejné zakázky, zahájil správní řízení z vlastního podnětu. Oznámení o  zahájení správního řízení zaslal Úřad zadavateli jako jedinému účastníkovi dopisem  č. j. S351/2006-21179/2006/520-Pr ze dne 30.11.2006, přičemž ho seznámil s výše  uvedenými výsledky kontroly, a usnesením č. j. S351/2006-21180/2006/520-Pr ze dne  30.11.2006 stanovil účastníku řízení lhůtu, v níž mohl navrhovat důkazy, či činit jiné ná"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. S351/2006-21179/2006/520-Pr",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "S351/2006-21179/2006/520-Pr",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::docref::4068::99",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4068,
+      "snippet_doc_start": 3808,
+      "snippet_doc_end": 4328,
+      "snippet_text": "hájil správní řízení z vlastního podnětu. Oznámení o \nzahájení správního řízení zaslal Úřad zadavateli jako jedinému účastníkovi dopisem \nč. j. S351/2006-21179/2006/520-Pr ze dne 30.11.2006, přičemž ho seznámil s výše \nuvedenými výsledky kontroly, a usnesením č. j. S351/2006-21180/2006/520-Pr ze dne \n30.11.2006 stanovil účastníku řízení lhůtu, v níž mohl navrhovat důkazy, či činit jiné návrhy, \na lhůtu, ve které se mohl vyjádřit k podkladům rozhodnutí.  \nDne 1.12.2006 bylo cit. oznámení zadavateli doručeno a tímto ",
+      "predicted_reference": {
+        "reference_text": "č. j. S351/2006-21180/2006/520-Pr",
+        "reference_prefix": "č. j.",
+        "reference_body": "S351/2006-21180/2006/520-Pr",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4068,
+        "raw_end": 4101,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Úřadu",
+        "context": ". Oznámení o  zahájení správního řízení zaslal Úřad zadavateli jako jedinému účastníkovi dopisem  č. j. S351/2006-21179/2006/520-Pr ze dne 30.11.2006, přičemž ho seznámil s výše  uvedenými výsledky kontroly, a usnesením č. j. S351/2006-21180/2006/520-Pr ze dne  30.11.2006 stanovil účastníku řízení lhůtu, v níž mohl navrhovat důkazy, či činit jiné návrhy,  a lhůtu, ve které se mohl vyjádřit k podkladům rozhodnutí.   Dne 1.12.2006 bylo cit. oznámení zadavateli doručeno a"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. S351/2006-21180/2006/520-Pr",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "S351/2006-21180/2006/520-Pr",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "1 Ko 68_2001.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 68_2001.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.433303+00:00",
+  "citations": [
+    {
+      "task_id": "1 Ko 68_2001.txt::section::1763::10",
+      "finding_id": "1",
+      "citation_text": "§ 18",
+      "citation_type": "section",
+      "start_char": 1763,
+      "end_char": 1767,
+      "law_id": "328/1991 Sb.",
+      "law_name_text": "ZKV",
+      "declared_alias_text": "ZKV",
+      "classification": "czech_resolved",
+      "confidence": 0.98,
+      "detail_number": "18",
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

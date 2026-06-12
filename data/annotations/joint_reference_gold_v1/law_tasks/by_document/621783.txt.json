@@ -1,0 +1,188 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.177387+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "621783.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/621783.txt",
+  "task_count": 6,
+  "tasks": [
+    {
+      "task_id": "621783.txt::section_or_article::466::397",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 206,
+      "snippet_doc_end": 729,
+      "snippet_text": "ivotního prostředí, Oblastního inspektorátu \nPraha pod sp. zn. 0801923 rozhodnutí o podaném odvolání ze dne 10. 2. 2008, a to do pěti \ndnů od právní moci rozsudku. \nMěstský soud v Praze, který věc projednává pod sp. zn. 6 Ca 172/2008, v souladu \ns ustanovením § 8 odst. 5 zákona č. 150/2002 Sb., soudního řádu správního, ve znění \npozdějších předpisů (dále jen „s. ř. s.“), předložil dne 24. 5. 2011 Nejvyššímu správnímu \nsoudu spisový materiál s podáním žalobce ze dne 10.2.2011, jehož obsahem je námitka \npodjatosti uplat",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "zákona č. 150/2002 Sb., soudního řádu správního",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "8",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::law_id_mention::488::398",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "150/2002 Sb.",
+      "snippet_doc_start": 228,
+      "snippet_doc_end": 760,
+      "snippet_text": "lastního inspektorátu \nPraha pod sp. zn. 0801923 rozhodnutí o podaném odvolání ze dne 10. 2. 2008, a to do pěti \ndnů od právní moci rozsudku. \nMěstský soud v Praze, který věc projednává pod sp. zn. 6 Ca 172/2008, v souladu \ns ustanovením § 8 odst. 5 zákona č. 150/2002 Sb., soudního řádu správního, ve znění \npozdějších předpisů (dále jen „s. ř. s.“), předložil dne 24. 5. 2011 Nejvyššímu správnímu \nsoudu spisový materiál s podáním žalobce ze dne 10.2.2011, jehož obsahem je námitka \npodjatosti uplatněná vůči soudkyni městského so",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "150/2002 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::section_or_article::1906::399",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 1646,
+      "snippet_doc_end": 2169,
+      "snippet_text": ", že při vyřizování žalob \nnedošlo k úmyslnému prodlení, žaloby jsou vyřizovány v pořadí podle doby nápadu. \nVyřízení žaloby přicházelo v úvahu do konce I. pololetí 2011.\nPři posouzení důvodnosti námitky podjatosti vycházel Nejvyšší správní soud \nz ustanovení § 8 odst. 1 s. ř. s., podle kterého jsou soudci vyloučeni z projednávání a \nrozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich \nzástupcům je dán důvod pochybovat o jejich nepodjatosti. Vyloučeni jsou též soudci, kteří \nse pod",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "8",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::section_or_article::2473::400",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 2213,
+      "snippet_doc_end": 2736,
+      "snippet_text": "u správního orgánu nebo v předchozím \nsoudním řízení. Důvodem k vyloučení soudce však nejsou okolnosti, které spočívají v \npostupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech. \nRozhodnutí o vyloučení soudce z důvodů uvedených v § 8 s. ř. s. představuje výjimku z \nústavní zásady, podle níž nikdo nesmí být odňat svému zákonnému soudci s tím, že \npříslušnost soudu i soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). \nTak, jak zákon tuto příslušnost stanovil, je tato zá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "§ 8 s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "8",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:srs_alias_short"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::section_or_article::2633::401",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 38",
+      "snippet_doc_start": 2373,
+      "snippet_doc_end": 2899,
+      "snippet_text": "é věci nebo v jeho rozhodování v jiných věcech. \nRozhodnutí o vyloučení soudce z důvodů uvedených v § 8 s. ř. s. představuje výjimku z \nústavní zásady, podle níž nikdo nesmí být odňat svému zákonnému soudci s tím, že \npříslušnost soudu i soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). \nTak, jak zákon tuto příslušnost stanovil, je tato zásadně dána, a postup, kterým je věc \nodnímána příslušnému soudci a přikázána soudci jinému, je nutno chápat jako postup \nvýjimečný. Vzhledem k tomu lze vyloučit so",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 38",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "czech_resolved",
+          "law_id": "2/1993 Sb.",
+          "law_name_text": "Listiny základních práv a svobod",
+          "declared_alias_text": "Listina",
+          "detail_number": "38",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:listina"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::section_or_article::3117::402",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 2857,
+      "snippet_doc_end": 3380,
+      "snippet_text": "výjimečný. Vzhledem k tomu lze vyloučit soudce z projednávání a rozhodnutí přidělené \nvěci jen vskutku výjimečně a z opravdu závažných důvodů, které mu reálně brání \nrozhodnout v souladu se zákonem nezaujatě a spravedlivě.\nJde-li o důvody uvedené v první větě § 8 odst. 1 s. ř. s., tak poměr k věci může \nvyplývat především z přímého právního zájmu soudce na projednávané věci, tedy zejména \nv případech, kdy by mohl být rozhodnutím soudu přímo dotčen ve svých právech. \nSoudcův poměr k účastníkům nebo k jejich zástupcům m",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "8",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    }
+  ]
+}

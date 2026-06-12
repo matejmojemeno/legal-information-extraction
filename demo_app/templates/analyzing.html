@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}Analyzing PDF{% endblock %}
+
+{% block content %}
+<section class="analysis-progress-panel" id="analysis-progress-panel" data-result-id="{{ result_id }}">
+  <div class="analysis-progress-copy">
+    <p class="eyebrow">SPP Analysis</p>
+    <h1>Preparing the reference view.</h1>
+    <p class="hero-text" id="analysis-progress-message">
+      Upload received for <strong>{{ document_name }}</strong>. SPP is now extracting and linking references.
+    </p>
+    {% if error %}
+    <div class="error-box">{{ error }}</div>
+    {% endif %}
+  </div>
+  <div class="analysis-progress-card">
+    <div class="analysis-progress-bar-shell" aria-hidden="true">
+      <div class="analysis-progress-bar" id="analysis-progress-bar"></div>
+    </div>
+    <div class="analysis-progress-meta">
+      <strong id="analysis-progress-label">Queued</strong>
+      <span id="analysis-progress-value">5%</span>
+    </div>
+    <p class="hint-text">
+      The bar tracks SPP processing first. BRL review, if enabled, starts only after the initial result is ready.
+    </p>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "GetText.aspx_sz_1-432-97.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.425561+00:00",
+  "citations": [
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::section_or_article::1458::59",
+      "finding_id": "1",
+      "citation_text": "čl. 36",
+      "citation_type": "article",
+      "start_char": 1458,
+      "end_char": 1464,
+      "law_id": "2/1993 Sb.",
+      "law_name_text": "Listiny základních práv a svobod",
+      "declared_alias_text": "Listina",
+      "classification": "czech_resolved",
+      "confidence": 0.98,
+      "detail_number": "36",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:listina",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::section_or_article::2297::60",
+      "finding_id": "1",
+      "citation_text": "§ 43",
+      "citation_type": "section",
+      "start_char": 2297,
+      "end_char": 2301,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákona č. 182/1993 Sb., o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "43",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "d"
+      ],
+      "note": "manual_v1:ustavni_soud_explicit",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::law_id_mention::2329::61",
+      "finding_id": "1",
+      "citation_text": "182/1993 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 2329,
+      "end_char": 2341,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákon o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_law_id",
+      "snippet_warnings": []
+    }
+  ]
+}

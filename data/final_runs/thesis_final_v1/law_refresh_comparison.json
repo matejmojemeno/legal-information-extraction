@@ -1,0 +1,22 @@
+{
+  "run_root": "data/final_runs/thesis_final_v1",
+  "backup_law_dir": "data/final_runs/thesis_final_v1/law_law_refresh_apr1",
+  "before": {
+    "occurrences": 13304530,
+    "resolved": 11662845,
+    "unresolved": 1641685,
+    "anomalies": 1348285
+  },
+  "after": {
+    "occurrences": 13304530,
+    "resolved": 12240899,
+    "unresolved": 1063631,
+    "anomalies": 771564
+  },
+  "delta": {
+    "occurrences": 0,
+    "resolved": 578054,
+    "unresolved": -578054,
+    "anomalies": -576721
+  }
+}

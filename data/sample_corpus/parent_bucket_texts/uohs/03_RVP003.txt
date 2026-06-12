@@ -1,0 +1,1089 @@
+ 
+Zahájení řízení na základě žádosti dopravce podle § 23d odst. 4 zákona o dráhách 
+1. 
+Úřad pro přístup k dopravní infrastruktuře (dále též „ÚPDI“) obdržel dne 4. 8. 2023 podání 
+dopravce, společnosti RegioJet a.s. (dále též „dopravce“ nebo „žadatel“), obsahující v části  žádost o postup podle § 23d odst. 4 zákona o dráhách (dále též „žádost podle § 23d“).  
+2. 
+Úřad pro ochranu hospodářské soutěže (dále též „Úřad“) pro úplnost uvádí, že ke dni 31. 12. 
+2023 byl ÚPDI zákonem č. 464/2023 Sb., kterým se mění a ruší některé zákony v souvislosti 
+se zrušením Úřadu pro přístup k dopravní infrastruktuře, zrušen. Jeho agendu od 1. 1. 2024 
+vykonává Úřad. Podle čl. 10 odst. 10 uvedeného zákona, správní řízení a další postupy 
+zahájené ÚPDI v oblasti jeho působnosti a přede dnem nabytí účinnosti uvedeného zákona 
+nedokončené, dokončí Úřad; dosavadní úkony ÚPDI se považují za úkony Úřadu. 
+3. 
+Dopravce požádal Úřad, aby uložil společnosti Brno new station development a.s. (dále též 
+„provozovatel“), jako provozovateli zařízení služeb a nájemci budovy Brno hlavní nádraží, 
+povinnost uzavřít s dopravcem smlouvu umožňující poskytnutí služby ve smyslu § 23d odst. 
+1 zákona o dráhách, v podobě zpřístupnění zařízení služeb, konkrétně prostor čekárny 
+a prodejního místa v areálu budovy Brno hlavní nádraží, a to za zákonných a 
+nediskriminačních podmínek stanovených Úřadem. 
+4. 
+Požadované prostory byly předmětem smlouvy umožňující poskytnout služby podle § 23d 
+odst. 1 zákona o dráhách, v podobě zpřístupnění provozní součásti zařízení služeb podle § 3 
+odst. 1 písm. c) a g) vyhlášky č. 76/2017 Sb., konkrétně Smlouvy o podnájmu nemovitosti, č. 
+HVB 2018-02 ze dne 14. 3. 2018, ve znění Dodatku č. 1 ze dne 12. 7. 2018, uzavřené mezi 
+dopravcem a provozovatelem (dále společně též „Smlouva o podnájmu původních 
+prostor“). V ní jsou požadované prostory specifikovány jako místnosti č. OP082, OP083, 
+OP084, OP085, OP086, OP087, OP088 a část příjezdové haly OP080 (dále též „místnosti“).
+Tato Smlouva o podnájmu původních prostor vč. dodatku č. 1 byla přiložena k žádosti podle 
+§ 23d společně s dalšími podklady. 
+5. 
+Úřad vyzval dopisem ze dne 1. 8. 2023 společnost České dráhy, a.s., IČO 70994226, se 
+sídlem nábřeží Ludvíka Svobody 1222/12, Nové Město, 110 00 Praha 1 (dále též „České 
+dráhy“), vlastníka budovy železniční stanice Brno hlavní nádraží (dále též „žst. Brno hl. n.“), 
+k doložení, zda v období od 7. 12. 2022 do 31. 7. 2023 byla provozovatelem zařízení služeb 
+žst. Brno hl. n., případně jejích provozních součástí, popř. ke sdělení, zda funkci 
+provozovatele zařízení služeb plní jiné subjekty, a na základě jakého právního titulu. Úřad 
+následně vyhověl žádosti Českých drah o prodloužení lhůty na odpověď a zároveň výzvu 
+upřesnil. 
+6. 
+České dráhy sdělily Úřadu dopisem sp. zn. 1058/2023-O25 ze dne 18. 8. 2023, že 
+v dotazovaném období nebyly provozovatelem zařízení služeb žst. Brno hl. n. 
+Provozovatelem uvedené železniční stanice byl provozovatel na základě Smlouvy o nájmu 
+věci č. 9149003008, uzavřené mezi Českými dráhami a provozovatelem dne 5. 6. 2008 (dále 
+též „Smlouva o nájmu budovy“). Tuto smlouvu České dráhy dodaly v částečně 
+anonymizované verzi jako přílohu uvedeného dopisu ze dne 18. 8. 2023.  
+7. 
+Dále České dráhy uvedly, že ve stanici provozují pouze některé provozní součásti podle § 3 
+odst. 1 písm. b), c), d), e), g) a h) vyhlášky č. 76/2017 Sb., a doporučily Úřadu obrátit se na 
+provozovatele. Úřad pro úplnost uvádí, že ke dni vydání tohoto rozhodnutí měly České dráhy 
+v popisu zařízení služeb uvedeny provozní součásti podle § 3 odst. 1 písm. c), e), g), h) a j) 
+vyhlášky č. 76/2017 Sb.1  
+8. 
+Úřad následně dopisem č. j. UPDI-3196/23/UM ze dne 4. 10. 2023 oznámil zahájení sporného 
+řízení podle § 141 správního řádu. Účastníky řízení jsou dopravce a provozovatel.  
+Předpisy upravující přístup k zařízením služeb 
+9. 
+Přístup k zařízení služeb a pravidla poskytování služeb těchto zařízení jsou upravena 
+tuzemskými právními předpisy, jakož i předpisy Evropské unie. Právní úprava je především 
+zahrnuta v ustanovení § 23d zákona č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů 
+(dále též „zákon o dráhách“), kterým byl do českého právního řádu transponován článek 13 
+směrnice Evropského parlamentu a Rady 2012/34/EU o vytvoření jednotného evropského 
+železničního prostoru (dále též „směrnice 2012/34/EU“). Dále tuto problematiku 
+upravuje prováděcí nařízení Komise (EU) 2017/2177 o přístupu k zařízením služeb a k 
+službám souvisejícím s železniční dopravou (dále též „nařízení Komise (EU) 2017/2177“).
+10. 
+Členění zařízení služeb a jejich provozní součásti v českém právním řádu podle § 23d odst. 5 
+zákona o dráhách stanoví prováděcí právní předpis, konkrétně § 3 odst. 1 vyhlášky č. 
+76/2017 Sb., o obsahu a rozsahu služeb poskytovaných dopravci provozovatelem dráhy a 
+provozovatelem zařízení služeb, ve znění pozdějších předpisů (dále též „vyhláška č. 76/2017 
+Sb.“). 
+11. 
+Podle § 23d odst. 1 a 4 zákona o dráhách, provozovatel zařízení služeb poskytuje dopravcům 
+prostřednictvím tohoto zařízení služby bezprostředně související s provozováním drážní 
+dopravy nediskriminačním způsobem, za cenu sjednanou podle cenových předpisů. Úřad na 
+žádost toho, komu provozovatel zařízení služeb v rozporu s právními předpisy poskytnutí 
+služeb těchto zařízení zcela nebo zčásti odepřel, uloží provozovateli uvedeného zařízení 
+služeb uzavřít s žadatelem smlouvu umožňující tyto služby poskytnout alespoň v omezeném 
+rozsahu nebo v jiném než požadovaném čase. 
+12. 
+Nařízení Komise (EU) 2017/2177 upravuje přístup k zařízením služeb a ke službám, 
+definovaným článkem 13 odst. 2 směrnice 2012/34/EU, podle kterého provozovatelé 
+zařízení služeb poskytnou přístup k zařízením služeb uvedeným v příloze II bodu 2 směrnice 
+2012/34/EU, a ke službám poskytovaným v těchto zařízeních. Ustanovení § 23d zákona o 
+dráhách hovoří zejména o poskytování služeb, nicméně z důvodové zprávy k návrhu zákona, 
+kterým se změnil zákon o dráhách v souvislosti s implementací směrnice 2012/34/EU do 
+českého právního řádu plyne též poskytování přístupu k zařízení služeb. Z uvedeného 
+vyplývá, že poskytování služeb podle zákona o dráhách je nutno vykládat i tak, že zahrnuje 
+oba přístupy, tj. jak k zařízení služeb, tak ke službám poskytovaným těmito zařízeními. 
+13. 
+Procesněprávní úprava předmětného správního řízení je obsažena v zákoně č. 500/2004 Sb., 
+správní řád, ve znění pozdějších předpisů (dále též „správní řád“) a částečně i v zákoně č. 
+266/1994 Sb., o dráhách. Pokud jde o hmotněprávní kvalifikaci, právní úprava je zde, jak je 
+uvedeno výše, obsažena v zákoně č. 266/1994 Sb., o dráhách a dále v nařízení Komise (EU) 
+2017/2177. 
+14. 
+Správní řízení bylo zahájeno dne 4. 8. 2023 podáním žádosti dopravce. Aplikace procesních 
+předpisů se odvíjí od okamžiku zahájení správního řízení, přičemž u novelizací procesních 
+předpisů se postupuje podle jejich přechodných ustanovení. Pokud přechodná ustanovení 
+neobsahují zvláštní úpravu, novelizace jsou aplikovány.  
+15. 
+K datu zahájení správního řízení bylo v účinnosti aktuální znění správního řádu, tj. znění 
+zákona č. 403/2020 Sb. Správní řád nebyl od vydání napadeného rozhodnutí novelizován, je 
+proto procesně postupováno podle shodného předpisu. Zákon o dráhách byl od zahájení 
+správního řízení pětkrát novelizován, a to zákony č. 303/2023 Sb., č. 277/2019 Sb., č. 
+284/2021 Sb., č. 464/2023 Sb. a částí zákona č. 426/2021 Sb. V tomto ohledu je nejdůležitější 
+přechodné ustanovení obsažené v čl. XXIII odst. 1 zákona č. 284/2021 Sb., které stanoví, že 
+„řízení a jiné postupy zahájené přede dnem nabytí účinnosti tohoto zákona se dokončí a práva 
+a povinnosti s nimi související se posoudí podle právních předpisů účinných ode dne nabytí
+účinnosti tohoto zákona“, když tato novela nabyla účinnosti k datu 1. 1. 2024. Pro 
+nedokončená správní řízení určuje citované přechodné ustanovení rozhodné znění jak 
+procesních, tak hmotněprávních předpisů. Přechodná ustanovení zákona č. 426/2021 Sb., 
+jehož poslední část nabyla účinnosti 16. 6. 2024, pak konstatují, že „řízení zahájená přede 
+dnem nabytí účinnosti tohoto zákona se dokončí podle zákona č. 266/1994 Sb., ve znění 
+účinném přede dnem nabytí účinnosti tohoto zákona.“ Z toho důvodu je tak nutné 
+postupovat v případě aplikace zákona č. 266/1994 Sb., o drahách, jako procesního i 
+hmotněprávního předpisu tak, že se tento zákon použije ve znění jeho novel č. 284/2021 Sb. 
+a č. 464/2023 Sb.  
+Relevantní právní úprava cenové regulace: 
+16. 
+Provozování zařízení služeb upravuje zákon o dráhách zejména v § 23d. V jeho odstavci 1 je 
+uvedeno, že provozovatel zařízení služeb poskytuje dopravcům prostřednictvím tohoto 
+zařízení služby bezprostředně související s provozováním drážní dopravy nediskriminačním 
+způsobem za cenu sjednanou podle cenových předpisů.  
+17. 
+Ceny za užití zařízení služeb pro účely bezprostředně související s provozováním drážní 
+dopravy podléhají pravidlům cenové regulace podle § 6 odst. 1 a 2 zákona č. 526/1990 Sb., 
+o cenách, ve znění pozdějších předpisů (dále též „zákon o cenách“). V něm je uvedeno, že 
+věcné usměrňování cen spočívá ve stanovení podmínek cenovými orgány pro sjednávání 
+cen. Tyto podmínky jsou: v odstavci 1 písm. c) „závazný postup při tvorbě ceny nebo při 
+kalkulaci ceny, včetně zahrnování přiměřeného zisku do ceny“; v odstavci 2 „tento způsob 
+regulace platí pro všechny prodávající určeného druhu zboží”. 
+18. 
+Kalkulace ceny se podle § 1 vyhlášky č. 450/2009 Sb., kterou se provádí zákon o cenách (dále 
+též „vyhláška č. 450/2009“), zpracovává ve struktuře uvedené v příloze č. 1 k této vyhlášce, 
+sestavuje se na jednotkové množství prodávaného zboží a vychází z nákladů, objemu zisku a 
+množství prodeje zboží pro daný kalendářní rok. 
+19. 
+Ekonomicky oprávněné náklady vymezuje § 2 odst. 7 písm. a) zákona o cenách. Zde je 
+uvedeno, že pro účely tohoto zákona se za ekonomicky oprávněné náklady považují náklady 
+pořízení odpovídajícího množství přímého materiálu, mzdové a ostatní osobní náklady, 
+technologicky nezbytné ostatní přímé a nepřímé náklady a náklady oběhu; při posuzování 
+ekonomicky oprávněných nákladů se vychází z dlouhodobě obvyklé úrovně těchto nákladů v 
+obdobných ekonomických činnostech s přihlédnutím ke zvláštnostem daného zboží. 
+20. 
+Na věcně usměrňované ceny se vztahují výměry Ministerstva financí. Podle části II. výměrů 
+Ministerstva financí označené jako Seznam zboží, u něhož se uplatňují věcně usměrňované 
+ceny, platí, že do ceny zboží v položkách uvedených v této části lze promítnout pouze 
+ekonomicky oprávněné náklady pořízení, zpracování a oběhu zboží doložitelné z účetnictví
+související výlučně s regulovaným zbožím, přiměřený zisk, daň a případně uplatněné clo 
+podle jiných právních předpisů, není-li dále stanoveno jinak. 
+21. 
+V části II. položce 5. výměrů MF je uvedeno, že cenová regulace platí pro užití zařízení služeb 
+a poskytování služby pro účely bezprostředně související s provozováním drážní dopravy – 
+podle ustanovení § 23d zákona o dráhách.   
+Povaha předmětného řízení 
+22. 
+Úřad v jiném řízení o žádosti podle § 23d odst. 4 zákona o dráhách, sp. zn. ŘVP001/23, vydal 
+rozhodnutí ve věci č. j. UPDI-4238/23/PP2 ze dne 7. 12. 2023. Toto řízení bylo (stejně jako 
+předmětné řízení sp. zn. ŘVP003/23) zahájeno jako řízení sporné podle § 141 správního řádu 
+na žádost dopravce, kterému provozovatel zařízení služeb odepřel v rozporu se zákonem o 
+dráhách poskytnutí služeb tohoto zařízení. 
+23. 
+Ve věci sp. zn. ŘVP001/23 byl podán rozklad, o kterém rozhodl předseda Úřadu rozhodnutím 
+č. j. ÚOHS-14962/2024/164 ze dne 11. 4. 2024 (dále též „rozhodnutí o rozkladu 
+ŘVP001/23“), a to tak, že napadené rozhodnutí potvrdil a rozklad zamítl.  
+24. 
+V rozhodnutí o rozkladu ŘVP001/23 pod body 30 až 37 předseda Úřadu rozhodl o povaze 
+správního řízení o žádosti podle § 23d odst. 4 zákona o dráhách, když mimo jiné uvedl: 
+31. Vedení sporného řízení je podle § 141 odst. 1 správního řádu svěřeno do 
+pravomoci správních orgánů pouze v omezené množině případů: pokud se jedná o 
+spory vyplývající z veřejnoprávních smluv (dle části V. správního řádu) či o spory, u 
+kterých tak stanoví zvláštní zákon, přičemž se může jednat o spory z 
+občanskoprávních, pracovních, rodinných nebo obchodních vztahů. 
+32. Správní řízení ve smyslu § 23d odst. 4 ZoD ovšem není ani sporem z 
+veřejnoprávní smlouvy a ani ZoD jako zvláštní zákon ve vztahu ke správnímu řádu 
+nikde neuvádí, že toto řízení by se mělo řídit pravidly ve smyslu § 141 správního 
+řádu. Vedení sporného řízení o občanskoprávních, pracovních, rodinných nebo 
+obchodních vztazích je svěřeno správním orgánům spíše výjimečně, a to například z 
+důvodu vysokých nároků na odborné znalosti osob, které by o věci mohly a měly 
+rozhodovat, přičemž se tak děje explicitním vymezením ve zvláštním zákoně, […].  
+33. Naopak o řízení ve smyslu § 23d odst. 4 ZoD je uvedeno pouze toto: „Úřad na 
+žádost toho, komu provozovatel zařízení služeb poskytnutí těchto služeb zcela nebo 
+zčásti odepřel v rozporu s tímto zákonem, uloží provozovateli zařízení služeb uzavřít 
+s žadatelem smlouvu umožňující tyto služby poskytnout alespoň v omezeném 
+rozsahu nebo v jiném než požadovaném čase. Žádost lze podat ve lhůtě 30 dnů ode 
+dne, v němž bylo poskytnutí služeb odepřeno.“ Citované ustanovení výslovně 
+nehovoří o tom, že by mělo jít o sporné řízení (jak to předpokládá § 141 odst. 1
+správního řádu) a tedy toto správní řízení by mělo mít spíše povahu řízení o žádosti. 
+Jsem přesvědčen, že přímo z textace tohoto ustanovení ZoD lze dovodit jeho povahu 
+jako řízení o žádosti, neboť mezi žadatelem a poskytovatelem služeb neexistuje spor 
+per se, ale Úřad má pouze rozhodnout o uložení povinnosti poskytovatele zařízení 
+služeb uzavřít s žadatelem smlouvu o jejich užívání. A to na základě posouzení toho, 
+zda poskytovatel služeb nastavil nediskriminačně pravidla pro jejich zpřístupnění či 
+jinak v tomto ohledu neporušil ZoD. 
+36. Současně je třeba uvést, že ačkoliv jde o vadu řízení, nemělo konstatování o 
+sporné povaze tohoto správního řízení na jeho výsledek praktický vliv. V průběhu 
+správního řízení totiž byla jak navrhovatelka a provozovatelka, ale i UPDI procesně 
+aktivní a došlo k řádnému a dostatečnému dokazování ve věci, kdy byl zjištěn stav 
+věci, o němž neexistují důvodné pochybnosti. Kvalifikace tohoto řízení jako 
+sporného či naopak „nesporného“ rovněž neměla vliv na jeho právní posouzení, 
+neboť UPDI na věc aplikoval právní předpisy, které by byly aplikovány jak v případě 
+řízení sporného, tak v řízení o žádosti. 
+37. Výše uvedené závěry jsou ovšem důvodem pro zrušení výroku III. až V. napadeného 
+rozhodnutí, neboť pouze ve sporném řízení přiznává správní orgán účastníkovi 
+řízení, který měl ve věci plný úspěch, náhradu nákladů potřebných k účelnému 
+uplatňování nebo bránění svého práva proti účastníkovi, který ve věci úspěch neměl 
+(srov. § 141 odst. 11 správního řádu). 
+25. 
+Rozhodnutím o rozkladu ŘVP001/23 tedy předseda Úřadu pravomocně rozhodl, že řízení 
+zahájené podle § 23d odst. 4 zákona o dráhách není řízením sporným podle § 141 správního 
+řádu, ale jedná se o řízení o žádosti podle § 44 správního řádu. Jelikož Úřad postupoval 
+shodným způsobem a podle shodné legislativy, jako by šlo o řízení o žádosti, nemá zahájení 
+řízení sp. zn. ŘVP001/23 jako řízení sporného vliv na výsledek samotného předmětu 
+uvedeného řízení. 
+26. 
+V případě předmětného řízení je situace analogická. I toto řízení bylo zahájeno podle § 23d 
+odst. 4 zákona o dráhách na žádost dopravce jako řízení sporné. Analogicky k pravomocnému 
+rozhodnutí o rozkladu ŘVP001/23 proto ani předmětné řízení není sporným řízením podle § 
+141 správního řádu, ale řízením o žádosti podle § 44 správního řádu. 
+27. 
+Na rozdíl od sporného řízení (viz § 141 odst. 4 věta prvá správního řádu) důkazní břemeno 
+neleží v řízení o žádosti podle § 44 správního řádu primárně na účastnících řízení. Ačkoli bylo 
+předmětné řízení zahájeno a vedeno jako řízení sporné podle § 141 správního řádu, stále je 
+třeba mít na paměti, že odstavec 4 věta druhá tohoto ustanovení uvádí, že „Pokud navržené 
+důkazy nepostačují ke zjištění stavu věci, může správní orgán provést i důkazy jiné“. To, že 
+důkazní břemeno ve sporném řízení podle § 141 správního řádu leží primárně na 
+účastnících řízení, tedy neznamená, že by Úřad byl v rámci sporného řízení omezen pouze 
+na důkazy předložené účastníky řízení.
+28. 
+Jelikož Úřad v předmětném řízení usoudil, že důkazy doložené účastníky řízení nepostačují 
+ke zjištění stavu věci, o němž nejsou důvodné pochybnosti (viz také § 3 správního řádu), 
+aktivně využíval možnosti provést důkazy jiné. Úřad tedy v předmětném řízení mohl 
+postupovat a postupoval shodným způsobem, jako by postupoval v řízení o žádosti podle § 
+44 správního řádu. V předmětném řízení tak nedošlo k žádné materiální odlišnosti v 
+postupu, která by měla vliv na jeho výsledek (viz také bod 36 rozhodnutí o rozkladu 
+ŘVP001/23). 
+29. 
+Vzhledem k uvedenému Úřad konstatuje, že předmětné řízení sp. zn. ŘVP003/23 je, 
+analogicky s pravomocným rozhodnutím předsedy Úřadu č. j. ÚOHS-14962/2024/164 ze 
+dne 11. 4. 2024, sp. zn. ŘVP001/23, vedeno jako řízení o žádosti podle § 44 správního řádu. 
+30. 
+Účastníci řízení byli o změně povahy řízení informováni vyrozuměním č. j. ÚOHS-
+20007/2024/452 ze dne 16. 5. 2024 (dále též „vyrozumění o změně povahy správního 
+řízení“). 
+31. 
+Úřad pro úplnost dodává, že vedení předmětného řízení jako řízení o žádosti podle § 44 
+správního řádu zakládá určité odlišnosti ve srovnání s řízením sporným. Na řízení o žádosti 
+se nevztahuje ustanovení o přiznání nákladů řízení podle § 141 odst. 11 správního řádu (viz 
+také bod 37 rozhodnutí o rozkladu ŘVP001/23). Zároveň neplatí, že v řízení o žádosti 
+účastníci řízení mohou uzavřít smír podle § 141 odst. 8 správního řádu; žadatel ale může zúžit 
+předmět své žádosti nebo vzít žádost zpět podle § 45 odst. 4 správního řádu.  
+Vývoj situace na žst. Brno hl. n. a průběh řízení 
+Původní stav a odepření přístupu 
+32. 
+Jak vyplývá ze Smlouvy o podnájmu původních prostor, dopravce užíval výše uvedené 
+místnosti od 1. 4. 2018. V těchto prostorách provozoval čekárnu a prodejní místo, 
+označované souhrnně jako RegioJet Lounge (dále též „čekárna a prodejní místo“), se 
+vstupem přímo z výpravní budovy (dále též „původní prostory“). Dodatkem č. 1 byla dne 12. 
+7. 2018 k uvedeným prostorám doplněna část příjezdové haly, místnost č. OP080. Uvedený 
+dokument byl přílohou žádosti podle § 23d; byl spojen s dokumentem Smlouva o podnájmu 
+nemovitosti č. HVB 2018-02, Dodatek č. 1 ke smlouvě o podnájmu nemovitosti č. HVB 2018-
+02.  
+33. 
+Nájemné bylo čl. IV Smlouvy o podnájmu původních prostor nasmlouváno ve výši [obchodní 
+tajemství] Kč bez DPH měsíčně. Dále bylo nasmlouváno placení zálohy na úhradu za plnění v 
+souvislosti s užíváním předmětu podnájmu ve výši [obchodní tajemství] Kč bez DPH měsíčně. 
+Podle smlouvy tedy smluvní platba dopravce provozovateli za původní prostory vycházela na 
+[obchodní tajemství] Kč bez DPH měsíčně.
+34. 
+[obchodní tajemství] (dále též „nové prostory“). V oznámení o změně byla pro každou 
+variantu uvedena jak měsíční cena podnájmu, tak cena služeb. Konkrétní výpočet 
+nákladovosti jednotlivých variant je uveden níže. 
+35. 
+Plocha původních prostor podle oznámení o změně činila 150 m2. Při nárůstu měsíční ceny 
+podnájmu na [obchodní tajemství] Kč/m2 a nárůstu měsíční ceny služeb na [obchodní 
+tajemství] Kč/m2 (tj. na celkem [obchodní tajemství] Kč/m2 měsíčně) by smluvní platba činila 
+za původní prostory podle nových podmínek [obchodní tajemství] Kč bez DPH měsíčně.  
+36. 
+Plocha nových prostor měla podle oznámení o změně činit 150 až 172 m2. Při měsíční ceně 
+podnájmu [obchodní tajemství] Kč/m2 a ceně služeb [obchodní tajemství] Kč/m2 (tj. celkem 
+[obchodní tajemství] Kč/m2) odpovídá navržená smluvní platba za nové prostory rozmezí 
+částek [obchodní tajemství] Kč až [obchodní tajemství] Kč bez DPH měsíčně.  
+37. 
+V návaznosti na oznámení o změně zaslal dopravce provozovateli dopis ze dne 8. 3. 2023, 
+kterým ho vyzval, aby výši ceny podnájmu čekárny a prodejního místa (tj. původních 
+prostor), která je na základě Smlouvy o podnájmu původních prostor užívána dopravcem, 
+stanovil v souladu s vnitrostátními a unijními předpisy, tj. zejména, aby daná výše 
+reflektovala výhradně náklady na jejich poskytnutí a přiměřený zisk. 
+38. 
+Ve své výzvě dopravce zdůraznil, že čekárna a prodejní místo je zařízením služeb ve smyslu 
+směrnice 2012/34/EU. Provozovatel má povinnosti poskytovat toto zařízení služeb 
+nediskriminačním způsobem ve smyslu § 23d odst. 1 zákona o dráhách. Poplatek za 
+poskytnutí zařízení služeb čekárny a prodejního místa nesmí vykazovat tržní hodnotu, nýbrž 
+pouze hodnotu reflektující náklady provozovatele zařízení služeb na jejich poskytnutí a 
+přiměřený zisk, což cena podnájmu ani cena v oznámení o změně nereflektují. Provozovatel 
+je povinen pro všechna jím provozovaná zařízení služeb vést oddělené účetnictví, včetně 
+oddělené rozvahy a výkazu zisků a ztrát.  
+39. 
+Provozovatel následně dopisem ze dne 25. 5. 2023 zaslal dopravci výpověď Smlouvy 
+o podnájmu původních prostor s tím, že podnájemní vztah skončí ke dni 30. 11. 2023. Přitom 
+navrhl možnost jednání o prodloužení podnájemního vztahu do 9. 12. 2023, tedy do konce 
+jízdního řádu pro období 2022/23. Provozovatel v dopise zároveň uvedl, že je možné požádat 
+o přidělení kapacity jím provozovaných zařízení služeb v žst. Brno hl. n. na období jízdního 
+řádu pro období 2023/24, a že aktuální popis těchto zařízení služeb bude řádně zveřejněn na 
+webových stránkách provozovatele nejpozději ke dni 31. 7. 2023. 
+40. 
+Zde Úřad poznamenává, že při kontrole webových stránek provozovatele dne 14. 8. 2023 
+bylo v záložce Volné prostory uvedeno Zařízení služeb Železniční stanice Brno hl. nádraží – 
+provozní součásti, kterými byly Čekárna pro cestující (čekárna) a Prostory pro služby prodeje 
+cestovních a rezervačních dokladů (pokladny). V této záložce byl ve formátu PDF ke stažení 
+Popis zařízení služeb Železniční stanice Brno hl. nádraží – provozní součásti, publikovaný dne 
+31. 7. 2020, ve znění změny č. 001 účinné od 1. 8. 2023. Tento popis obsahoval tytéž provozní
+součásti, jaké byly uvedeny na webové stránce. Uvedené důkazy byly vloženy do spisu na 
+základě úředního záznamu ze dne 14. 8. 2023. 
+41. 
+Dopravce zaslal provozovateli dopisem ze dne 27. 6. 2023 námitky proti výpovědi Smlouvy 
+o podnájmu původních prostor, tj. smlouvy umožňující poskytnout služby zařízení služeb. 
+Dopravce uvedl, že provozovatel sice podal výpověď formálně bez udání důvodu, skutečným 
+důvodem nicméně byla skutečnost, že dopravce odmítl akceptovat navrhovanou neúměrně 
+vysokou cenu podnájmu; přitom už aktuální výše ceny podnájmu odporuje právnímu režimu 
+zpoplatnění zařízení služeb.  
+42. 
+Návrh nových prostor považuje dopravce za diskriminační, protože významným způsobem 
+znevýhodňuje umístění jeho čekárny a prodejního místa oproti prostorům, které k 
+obdobnému účelu užívají České dráhy. Takovéto jednání brání dopravci přistupovat k 
+zařízení služeb za zákonem daných podmínek, považuje ho za účelovou snahu o zhoršení 
+jeho právního postavení, a proto výpověď považuje za neplatnou. 
+43. 
+Dopravce dále zaslal provozovateli výzvu ze dne 30. 6. 2023 k poskytnutí služby ve smyslu 
+§ 23d odst. 1 zákona o dráhách (dále též „výzva k poskytnutí služby“). V ní vyzval 
+provozovatele k nediskriminačnímu zpřístupnění zařízení služeb (prostor čekárny a 
+prodejního místa), jež je předmětem Smlouvy o podnájmu původních prostor, a to od 1. 1. 
+2024 za ceny odpovídající právními předpisy vymezenému zpoplatnění zařízení služeb. 
+44. 
+Provozovatel na oba dopisy dopravce reagoval dopisem ze dne 10. 7. 2023. V něm uvedl, 
+že čekárna a prodejní místo nemůže být zařízením služeb, protože tím je celá žst. Brno hl. n. 
+Původní prostory jsou podle provozovatele provozní součástí zařízení služeb ve smyslu § 3 
+odst. 1 vyhlášky č. 76/2017 Sb. Podle § 3 odst. 2 téže vyhlášky v železniční stanici nemusí být 
+provozovány veškeré provozní součásti vyjmenované v této vyhlášce. Pokud tedy v železniční 
+stanici nemusí být čekárna nebo místo pro prodej jízdních dokladů, tím spíše není obecně 
+rozhodné, kde se v rámci zařízení služeb nachází. 
+45. 
+Jedinou povinností provozovatele zařízení služeb je podle jeho názoru zajištění 
+nediskriminačního přístupu podle § 23d odst. 1 zákona o dráhách. Diskriminaci je třeba 
+posuzovat s ohledem na přístup, který mají k zařízení služeb jiní dopravci. Prodej jízdních 
+dokladů je v žst. Brno hl. n. prováděn především v odjezdové hale, kde má dopravce pokladny 
+hned vedle pokladen Českých drah, o znevýhodnění se tedy nemůže jednat.  
+46. 
+Čekárna Českých drah v žst. Brno hl. n. je provozována touto společností v režimu ČD Lounge 
+a slouží jen pro malý podíl cestujících tohoto dopravce (pro „cestující první třídy, těhotné 
+ženy, hendikepované atd.“). Jak původní, tak nové prostory navrhované provozovatelem v 
+oznámení o změně jsou podle jeho názoru ve srovnání s prostorem čekárny Českých drah 
+znatelně větší, a umožňují zde čekání cestujícím všech vozových tříd. Podle odhadu právního 
+zástupce provozovatele navíc tyto prostory nejsou co do podlahové plochy výrazně odlišné
+od prostor, které využívá dopravce v žst. Praha hl. n., tedy v násobně větším městě. 
+Nedochází tedy k diskriminaci dopravce ve věci čekárny pro cestující.  
+47. 
+Provozovatel dále uvedl, že nové prostory v žst. Brno hl. n. budou bezbariérové, a zároveň 
+budou zrekonstruované, což zvýší uživatelský komfort ve srovnání s původními prostory. 
+48. 
+Provozovatel také odkázal na pravomocné rozhodnutí Úřadu č. j. UPDI-3896/22/UM ze dne 
+1. 12. 2022, ve znění rozhodnutí o rozkladu č. j. UPDI-0270/23/KP ze dne 26. 1. 2023 (dále 
+též „rozhodnutí ŘVP001/20“), ve věci přístupu dopravce k nosičům informačních systémů 
+Českých drah, tedy k provozní součásti železničních stanic Brno-Židenice a Bílovice nad 
+Svitavou. Podle tohoto rozhodnutí lze kapacitu zařízení služeb přidělit jen na dobu platnosti 
+jízdního řádu. Provozovatel tedy nezneužil svého práva vypovědět Smlouvu o podnájmu 
+původních prostor, ale v důsledku uvedeného rozhodnutí ŘVP001/20 mu nic jiného nezbylo, 
+jelikož smlouva byla uzavřena na dobu neurčitou. 
+49. 
+Dopravce navíc nemá nárok na vlastní čekárnu. Kapacita čekárny může být přidělena jak tím 
+způsobem, že každý dopravce bude mít svou čekárnu, tak rovněž způsobem, že čekárna bude 
+dopravci sdílena. Dopravce si tedy nemůže nárokovat vlastní čekárnu na dobu neurčitou.  
+50. 
+Provozovatel v dopise ze dne 10. 7. 2023 také odmítl, že by cena účtovaná dopravci podle 
+Smlouvy o podnájmu původních prostor nebyla v souladu s cenovými předpisy. Z uvedených 
+důvodů provozovatel trvá na výpovědi. 
+51. 
+Podle názoru dopravce provozovatel dopisem ze dne 10. 7. 2023 zamítl výzvu k poskytnutí 
+služby, a tím dopravci odepřel přístup k požadované provozní součásti zařízení služeb v 
+rozporu s § 23d zákona o dráhách. Dopravce proto zaslal Úřadu včasnou žádost podle § 23d, 
+na základě které Úřad zahájil toto řízení. 
+ 
+Komunikace Úřadu s dopravcem 
+52. 
+Dopravce Úřadu v žádosti podle § 23d popsal důvody, které ho vedly k podání této žádosti, 
+popsal původní stav čekárny a prodejního místa v žst. Brno hl. n., a vývoj následující po 
+oznámení o změně (viz výše).  
+53. 
+Shrnul zde své argumenty, že zařízení služeb tvoří celá železniční stanice; čekárna a prodejní 
+místo jsou její provozní součásti podle § 3 odst. 1 písm. c) a písm. g) vyhlášky č. 76/2017 Sb. 
+Provozovatel má primárně uspokojovat potřeby jednotlivých železničních dopravců ve 
+vztahu ke všem součástem dané železniční stanice, které mají či mohou mít povahu zařízení 
+služeb. Přístup provozovatel je opačný, jelikož prostory, které zařízení služeb tvoří, se snaží 
+protiprávně přeměnit na prostory komerční.  
+54. 
+Dopravce odkazuje na rozhodnutí Úřadu o rozkladu č. j. UPDI-3545/21/KP ze dne 21. 10. 
+2021, podle kterého je proces přeměny zařízení služeb ve smyslu čl. 15 nařízení Komise (EU) 
+2017/2177 možný pouze v případě, že zařízení není více jak dva roky využíváno. Po celou
+tuto dvouletou dobu musí být zveřejněn popis tohoto zařízení podle § 23d zákona o dráhách, 
+resp. podle čl. 4 a 5 nařízení Komise (EU) 2017/2177. Do doby jeho přeměny příslušné 
+zařízení v kategorii zařízení služeb zůstává. Zároveň podle předmětného rozhodnutí k určení 
+zařízení služeb nedochází pouhým administrativním krokem jeho provozovatele. 
+55. 
+Dopravce dále sdělil, že provozovatel sice ve svém popisu zařízení služeb uvedl, že popis 
+zařízení služeb byl publikován již dne 31. 7. 2020, ovšem k tvrzenému zveřejnění popisu 
+zařízení služeb došlo na jeho internetových stránkách až 31. 7. 2023. Ani dřívější datum 
+zveřejnění popisu by však podle dopravce na nezákonném postupu provozovatel nic 
+nezměnilo. 
+56. 
+Provozovatel činí kroky k tomu, aby dopravce měl čekárnu a prodejní místo (pro osoby 
+s omezenou schopností pohybu a orientace) „umístěnou v lokalitě, ve které má konkurenční 
+dopravce umístěny skladové prostory“. Nové prostory nepředstavují zařízení služeb, které by 
+zajišťovalo nediskriminační podmínky pro služby a činnosti poskytované dopravcem v rámci 
+čekárny a prodejního místa. Požadavek nediskriminačního přístupu splňují pouze původní 
+prostory. 
+57. 
+Dopravce následně zaslal Úřadu dopis ze dne 6. 11. 2023 a následně doplňující přípis ze 
+dne 16. 11. 2023, ve kterém popsal provozní součásti v žst. Brno hl. n. vč. jejich 
+provozovatelů, a přiložil nepodepsaný text smlouvy o nájmu budovy mezi provozovatelem 
+a Českými dráhami. K dopisu byl také přiložen text e-mailu ze dne 14. 11. 2023, obsahující 
+komunikaci mezi dopravcem a provozovatelem. Dopravce respektuje právo provozovatele 
+po dobu rekonstrukce přerušit užívání původních prostor s možností provizorního umístění. 
+Zároveň by podle dopravce bylo permanentní přesunutí čekárny a prodejního místa na první 
+nástupiště v pořádku, kdyby čekárny všech dopravců byly na stejném místě. A to bez ohledu 
+na to, zda by tyto čekárny nabízel stejný provozovatel zařízení služeb, anebo jiný (např. České 
+dráhy samy sobě). Dopravce zdůraznil, že nejde pouze o čekárnu. Jde také o prodejnu 
+jízdenek, přičemž mnoho cestujících se rozhoduje až na nádraží, kterého dopravce zvolí. 
+Viditelnost prodejního místa toto rozhodování ovlivňuje. Navíc v části haly s jediným 
+bezbariérovým vstupem, kde se nacházejí původní prostory, se dále nachází pouze obdobná 
+čekárna s prodejním místem, a to čekárna Českých drah.  
+58. 
+Nezákonný postup provozovatele při preferenci subjektů platících tržní nájemné se podle 
+dopravce projevuje i ve vyjádření předsedy správní rady provozovatele v e-mailu ze dne 14. 
+11. 2023 (přiloženého k přípisu ze dne 16. 11. 2023), podle kterého je variantou, jak 
+poskytnout prostory dopravci na dobu neurčitou, aby se dopravce stal provozovatelem 
+čekárny a prodejního místa, ale přitom platil provozovateli tržní nájemné. 
+59. 
+Úřad vyzval dne 22. 2. 2024 dopravce k doložení smlouvy, na základě které využívá nové 
+prostory, dále k uvedení data, od kterého tyto prostory užívá, a dále data, kdy naposledy 
+využíval původní prostory, popř. k doplnění dalších souvisejících informací.
+60. 
+Dopravce odpověděl Úřadu dopisem ze dne 23. 2. 2024. Doložil požadované informace 
+a dokumenty; Dohoda o dalším postupu z 15. 12. 2023 (dále též „Dohoda o dalším postupu“), 
+Podnájemní smlouva č. HVB – 2023-017 z 18. 12. 2023 na nové prostory (dále též 
+„Podnájemní smlouva na nové prostory“), a Smlouvu o podnájmu č. HVB - 2023-018 z 
+18. 12. 2023 na původní prostory za komerční nájemné (dále též „Smlouva o podnájmu na 
+původní prostory za komerční nájemné“).  
+61. 
+Úřad oznámil účastníkům řízení ukončení dokazování dne 20. 3. 2024 dopisem č. j. ÚOHS-
+10102/2024/452 a stanovil lhůtu, ve které účastníci měli možnost se k podkladům pro 
+rozhodnutí vyjádřit (dále též „ukončení dokazování“).  
+62. 
+Dopravce na ukončení dokazování ve stanovené lhůtě nereagoval. 
+63. 
+Následně Úřad obdržel dne 22. 4. 2024 sdělení dopravce ze dne 19. 4. 2024. V něm 
+dopravce zopakoval svá dřívější tvrzení a argumenty, že byl do nových prostor přesunut 
+diskriminačně, že toto umístění zhoršuje dostupnost pro jeho klienty, což doložil počty 
+návštěvníků čekárny a prodejního místa ve srovnání se stejnými měsíci let 2023 a 2024. Také 
+uvedl, že revitalizace původních prostor má trvat déle, než mu bylo původně sděleno. 
+Dopravce rovněž doplnil svou e-mailovou komunikaci s provozovatelem ve věci lepší 
+informovanosti cestujících ve věci o nové pozice čekárny a prodejního místa, a navrhl provést 
+místní šetření s cílem ověřit u pracovníků dopravce, že dostupnost nových prostory je pro 
+cestující složitější.  
+64. 
+Úřad dne 12. 6. 2024 zaslal účastníkům řízení Oznámení o ukončení dokazování a výzvu k 
+vyjádření se k podkladům rozhodnutí, č. j. ÚOHS-23523/2024/452 a stanovil lhůtu, ve které 
+měli účastníci možnost se k podkladům pro rozhodnutí vyjádřit (dále též „ukončení 
+dokazování II.“). 
+65. 
+Provozovatel reagoval dne 28. 6. 2024 zasláním vyjádření, ve kterém shrnuje své dosavadní 
+argumenty, celý průběh a vývoj situace v žst. Brno hl. n. a jednotlivé postupy ze strany 
+provozovatele. Zejména dopravce zdůrazňuje diskriminační způsob odejmutí původních 
+prostor a přesun čekárny dopravce a prodejního místa do nevhodných nových prostor.  
+ 
+Komunikace Úřadu s provozovatelem 
+66. 
+Provozovatel v reakci na zahájení řízení sdělil Úřadu vyjádřením ze dne 23. 10. 2023, 
+následně doplněném o chybějící podklad dne 30. 10. 2023, že pro řízení podle § 23d odst. 4 
+zákona o dráhách nejsou splněny podmínky, a že dopravce není diskriminován v přístupu k 
+zařízení služeb. Provozovatel navrhl žádost podle § 23d zamítnout. 
+67. 
+Úřad vyzval provozovatele dopisem č. j. UPDI-3807/23/UM ze dne 7. 11. 2023 k doložení 
+dalších podkladů se zaměřením na vlastnosti relevantních prostor v žst. Brno hl. n., a 
+dopisem ze dne 13. 11. 2023 k doložení, jakým způsobem plní povinnost koordinace s
+ostatními provozovateli zařízení služeb uloženou čl. 5 odst. 4 nařízení Komise (EU) 
+2017/2177.  
+68. 
+Reakci na obě výzvy Úřad obdržel společně s doplněním vyjádření provozovatele dopisem 
+ze dne 20. 11. 2023. V něm provozovatel zdůraznil, že důkazní břemeno ve sporném řízení 
+je především na straně dopravce. Dále provozovatel uvedl, že není a nebyl provozovatelem 
+čekárny Českých drah; tyto prostory využívají České dráhy jakožto vlastník budovy.  
+69. 
+Provozovatel sdělil přesnou výměru předmětných prostor – u prostor původních se jedná o 
+plochu 142,88 m2, u nových prostor pak o 133,2 m2. Menší plochu nových prostor ve srovnání 
+s plochou původně nabízenou vysvětlil nezájmem dopravce a faktem, že v téže stanici 
+postačuje Českým dráhám čekárna o ploše menší než 50 m2. Zde Úřad pro přesnost uvádí, 
+že 43 m2 činí plocha samotné čekárny Českých drah a 14,12 m2 plocha toalet pro cestující. 
+Plocha zázemí pro zaměstnance Českých drah pak je 9,45 m2. Celý prostor dostupný Českým 
+dráhám v rámci ČD Lounge (tj. prostor odpovídající čekárně a prodejnímu místu dopravce) 
+tedy zahrnuje 66,57 m2. Provozovatel dále uvedl, že docházková vzdálenost od původního k 
+novému prostoru činí 51 metrů. 
+70. 
+Provozovatel neshledává problém ani v menší výměře nových prostor, ani v docházkové 
+vzdálenosti. Zde argumentuje jednak velikostí (popř. absencí) čekáren dopravce v jiných 
+stanicích, jednak docházkovou vzdáleností např. ve stanicích Praha hl. n. nebo Praha 
+Masarykovo nádraží, kdy musí cestující dopravce překonávat delší vzdálenosti. Podle 
+provozovatele je sporná otázka, jaký vliv na rozhodování cestujících má poloha čekárny. 
+Podle jeho názoru je pro cestující hlavní cena jízdenky, čas odjezdu spoje, jízdní doba, 
+návaznost přestupů, palubní servis atp. 
+71. 
+Provozovatel ke koordinaci uvádí, že podle čl. 5 odst. 4 nařízení Komise (EU) 2017/2177 není 
+předepsán závazný postup. Provozovatel koordinoval postup zveřejnění popisu zařízení 
+služeb v roce 2020 se státní organizací Správa železnic v e-mailové komunikaci, a tvrdí, že 
+obě společnosti mají na svých stránkách zveřejněnu informaci o tom, že provozovatelem 
+zařízení služeb je druhá z těchto společností, sám provozovatel má toto uvedeno ve svém 
+popisu zařízení služeb, stejně jako zde uvádí, že provozovatelem zařízení služeb jsou také 
+České dráhy. Každý z provozovatelů v žst. Brno hl. n. „rozhoduje ve vztahu k jím provozované 
+části sám a nikdo z nich není povinen tak činit ve vztahu k částem zařízení služeb ostatních 
+provozovatelů“. 
+72. 
+Postup provozovatele vůči dopravci nemůže být diskriminační také proto, že o původní 
+prostory projevil zájem pouze tento dopravce; o nové prostory neprojevil zájem nikdo, ač na 
+tuto možnost byl dopravce opakovaně upozorňován. 
+73. 
+Dále provozovatel uvedl, že součástí popisu zařízení služeb je podle čl. 4 odst. 2 písm. f) a h) 
+nařízení Komise (EU) 2017/2177 informace o postupech při podání žádosti k poskytnutí 
+služeb v zařízení služeb a o formátu takovéto žádosti. Tento popis byl v popisu zařízení služeb
+již od roku 2020 obsažen. Na tam uvedenou e-mailovou adresu žádná žádost o přidělení 
+kapacity původních či nových prostor před podáním návrhu na zahájení řízení nepřišla, tudíž 
+nemohla být odmítnuta a nemohly být splněny podmínky podle § 23d odst. 4 zákona o 
+dráhách. 
+74. 
+Provozovatel předpokládá termín ukončení rekonstrukce ke konci května 2024, zaručit to 
+ovšem nemůže. Nové prostory budou bezbariérové od okamžiku ukončení rekonstrukce.  
+75. 
+Provozovatel na závěr svého vyjádření informoval Úřad, že v současnosti probíhají mezi ním 
+a dopravcem jednání o smírném vyřešení nastalého sporu, což by mělo být i s ohledem na § 
+5 správního řádu preferované řešení nastalé situace.  
+76. 
+Úřad oznámil účastníkům řízení ukončení dokazování dne 20. 3. 2024 dopisem č. j. ÚOHS-
+10102/2024/452 a stanovil lhůtu, ve které účastníci měli možnost se k podkladům pro 
+rozhodnutí vyjádřit. 
+77. 
+Provozovatel dopisem ze dne 27. 3. 2024 shrnul své námitky – konkrétně tedy, že nejsou 
+splněny podmínky pro vedení řízení § 23d odst. 4 zákona o dráhách, že rekonstrukce 
+původních prostor není přeměnou ve smyslu čl. 15 nařízení (EU) 2017/2177, čekárna není 
+sama o sobě zařízením služeb, a že přístup k dopravci není ze strany provozovatel 
+diskriminační. 
+78. 
+[obchodní tajemství] 
+79. 
+Provozovatel v dopise dále uvedl, že je toto řízení zatíženo několika vadami. Jednak jde o 
+fakt, že Úřad měl dopravce informovat detailně o průběhu jiného, kontrolního řízení 
+s provozovatelem, v kterém si navíc vyžádal od provozovatele Smlouvu o nájmu budovy, 
+kterou ovšem následně v předmětném řízení nepoužil.  
+80. 
+Mělo se také jednat o porušení zásady rovnosti účastníků řízení ze strany Úřadu, 
+o bezdůvodné zdržováním řízení z důvodu, a nevyrozumění provozovatel o služebních 
+úkolech, v rámci kterých pořídili zaměstnanci Úřadu dne 3. 1. 2024 fotografie nových 
+prostor.  
+81. 
+Provozovatel taktéž dne 27. 3. 2024 zaslal Úřadu dopis, obsahující námitku podjatosti 
+úřední osoby vedoucího Oddělení cenové kontroly a služeb. Úřad tuto námitku vyřídil 
+usnesením č. j. ÚOHS-15802/2024/450 ze dne 17. 4. 2024, přičemž uvedená osoba nebyla 
+vyloučena z projednávání a rozhodování věci ve správním řízení vedeném Úřadem pro 
+ochranu hospodářské soutěže pod spisovou značkou ŘVP003/23. Proti tomuto usnesení 
+zaslal provozovatel dopisem ze dne 26. 4. 2024 rozklad. 
+82. 
+Provozovatel zaslal Úřadu dne 24. 4. 2024 žádost o nahlížení do spisu, které mu bylo 
+umožněno. 
+83. 
+Provozovatel dále dne 26. 4. 2024 zaslal Úřadu dopis ze dne 25. 4. 2024, označený 
+„Doplnění důkazů do sporného řízení, Doplnění stížnosti ze dne 27.03.2024“. K tomuto
+dokumentu byla přiložena e-mailová komunikace mezi právním zástupcem provozovatele, 
+JUDr. Jiřím Lojdou, LL.M. EUR., Ph.D., a Ing. Michalem Gottwaldem, zaměstnancem 
+provozovatele. Provozovatel jí ve vztahu k novým prostorám dokládá, že „Dveře pro 
+vozíčkáře, matky s kočárky atd. vybavené automatickým pohonem na obousměrnou 
+fotobuňku jsou vypnuté a zablokované pokladnou/přepážkou.“ (jedná se o přepážku 
+dopravce), a že „Staniční rozhlas je instalován, je funkční, ale na žádost RJ byl odpojen.“  
+84. 
+Provozovatel dále dne 29. 5. 2024 zaslal Úřadu dopis ze dne 28. 5. 2024. K dopisu je 
+přiložena nedatovaná fotografie, která dokládá, že cestující využívají čekárnu a prodejní 
+místo v nových prostorách v rozsahu nikoli menším než v prostorách původních. Zároveň 
+provozovatel žádá, aby byli účastníci řízení opětovně vyzváni k seznámení se s podklady pro 
+rozhodnutí a pokud nebudou důkazy některým z účastníků doplněny, žádá provozovatel, aby 
+již bylo řízení ukončeno. 
+85. 
+Úřad dne 12. 6. 2024 zaslal účastníkům řízení oznámení o ukončení dokazování II. a stanovil 
+lhůtu, ve které měli účastníci možnost se k podkladům pro rozhodnutí vyjádřit. 
+86. 
+Provozovatel reagoval dne 24. 6. 2024 zasláním Vyjádření se k podkladům rozhodnutí, ve 
+kterém shrnuje své dosavadní argumenty, zejména uvedl, že nejsou splněny podmínky 
+řízení, neboť v rámci žst. Brno hl. n. dopravce služby čekárny čerpá v prostoru čekárny na 
+prvním nástupišti, přičemž po dokončení revitalizace na základě Dohody o dalším postupu 
+bude dopravci umožněno získat přístup do čekárny v původním umístění. 
+ 
+Situace v žst. Brno hl. n. v roce 2024 
+87. 
+Prvním dnem jízdního řádu pro období 2023/24 byl 10. 12. 2023. Podle zjištění Úřadu se 
+čekárna a prodejní místo dopravce ke dni 3. 1. 2024 nacházely v nových prostorách. Původní 
+prostory byly nepřístupné a vstupní dveře do tohoto prostoru byly vybaveny oznámením, že 
+prostory jsou z technických důvodů uzavřeny a čekárna byla dočasně přesunuta do nových 
+prostor.  
+88. 
+Při kontrole webových stránek provozovatel dne 8. 2. 2024 bylo v záložce Volné prostory 
+uvedeno Zařízení služeb Železniční stanice Brno hl. nádraží – provozní součásti, kterými byly 
+Čekárna pro cestující (čekárna) a Prostory pro služby prodeje cestovních a rezervačních 
+dokladů (pokladny).  
+89. 
+V této záložce byl ve formátu PDF ke stažení Popis zařízení služeb pro část Železniční stanice 
+Brno hl. nádraží, publikovaný dne 31. 7. 2020, ve znění změny č. 006 účinné od 22. 12. 2023. 
+Tento popis obsahuje kromě zmíněných provozních součástí navíc Společné prostory 
+nádražní budovy. 
+90. 
+Z dopisu dopravce ze dne 23. 2. 2024 vyplývá, že dopravce měl povinnost vyklidit původní 
+prostory do 20. 12. 2023 a nové prostory využívá od 18. 12. 2023, a to na základě smlouvy
+uzavřené dne 18. 12. 2023, konkrétně pak Podnájemní smlouvy na nové prostory, která byla 
+přílohou zmíněného dopisu. Zároveň dopravce spolu se zmíněným dopisem doložil také 
+Dohodu o dalším postupu z 15. 12. 2023, kde je stanoven postup mezi stranami, a dále 
+Smlouvu o podnájmu na původní prostory za komerční nájemné ze dne 18. 12. 2023.  
+Shrnutí argumentů účastníků řízení 
+Argumenty dopravce  
+91. 
+Celá žst. Brno hl. n. je zařízením služeb, a proto je postup provozovatele diskriminační, když 
+neumožňuje dopravci požádat si ve stanici o prostory umožňující shodný přístup pro všechny 
+dopravce a jeho klienty. Klienti se navíc často rozhodují až na místě, kterým spojem a s jakým 
+dopravcem pojedou.  
+92. 
+Při přidělování prostor určených jako (provozní součásti) zařízení služeb má jejich 
+provozovatel zohlednit, zda nedojde k jejich přidělení diskriminačním způsobem; musí proto 
+zároveň posuzovat, kde a za jakých podmínek jsou v daném zařízení služeb poskytovány 
+obdobné prostory dalším dopravcům.  
+93. 
+Jsou-li volné prostory pro umístění pokladny nebo čekárny s pokladnou v zóně, kde tyto 
+služby již nabízejí ostatní dopravci, mají být tyto prostory přednostně nabídnuty dopravci, 
+který má přidělenu kapacitu dopravní cesty a má o uvedené služby zájem. 
+94. 
+Diskriminační je navíc i samotná výpověď Smlouvy o podnájmu původních prostor, jelikož 
+provozovatel zaslal výpověď až poté, co dopravce odmítl diskriminačně umístěné nové 
+prostory. 
+ 
+Argumenty provozovatele 
+95. 
+Čekárna a prodejní místo jako provozní součást zařízení služeb nemusí být podle vyhlášky č. 
+76/2017 Sb. na nádraží vůbec provozována. Jelikož nemůže dopravce požadovat existenci 
+této provozní součásti, už vůbec nemůže požadovat její konkrétní umístění v rámci žst. Brno 
+hl. n. 
+96. 
+Nové prostory dopravce neznevýhodňují. Výměra je podobná jako u původních prostor a je 
+srovnatelná, popř. větší než u jiných čekáren dopravce v jiných stanicích. Dodatečná 
+docházková vzdálenost od původních do nových prostor není významná a v jiných stanicích 
+jsou klienti dopravce nuceni ujít k čekárnám delší vzdálenosti. Navíc dopravce nemá čekárnu 
+v každé stanici, kterou obsluhuje. 
+97. 
+Nařízení Komise (EU) 2017/2177 v čl. 4 odst. 2 písm. f) a h) uvádí, že součástí popisu zařízení 
+služeb je informace o postupech při podání žádosti k poskytnutí služeb v zařízení služeb a o 
+formátu takovéto žádosti. Žádost má být podle popisu zařízení služeb provozovateli zaslána
+na e-mailovou adresu uvedenou v popisu. Jelikož dopravce nepožádal o kapacitu nových 
+prostor v souladu s uvedeným postupem, jeho výzva k poskytnutí služby nemohla být 
+odmítnuta, a tedy nebyly splněny podmínky § 23d odst. 4 zákona o dráhách pro podání 
+žádosti podle § 23d Úřadu. 
+98. 
+Každý z provozovatelů v žst. Brno hl. n. rozhoduje ve vztahu k jím provozované části sám, a 
+nikdo z nich není povinen tak činit ve vztahu k částem zařízení služeb ostatních 
+provozovatelů. 
+99. 
+Provozovatel nemůže diskriminovat dopravce, když ten je jediným zájemcem o prostory 
+provozované provozovatelem. 
+100. 
+Úřad zdržoval řízení z důvodu snahy získat Smlouvu o nájmu budovy v úplném znění v jiném 
+řízení, ale tuto smlouvu nakonec mezi důkazní materiály nevložil.  
+101. 
+Úřad provozovatele nevyrozuměl o služebních úkolech, v rámci kterých pořídili dne 13. 2. 
+2024 fotografie nových prostor. Provozovateli navíc není jasné, proč tyto fotografie nepořídil 
+sám dopravce, když ve sporném řízení leží důkazní břemeno především na účastnících. Úřad 
+tedy porušil zásadu rovnosti účastníků řízení ve prospěch dopravce. 
+102. 
+Samotný dopravce ztěžuje přístup starším občanům, matkám s kočárky a zdravotně 
+postiženým osobám tím, že pokladním pultem zablokoval automaticky otvírané dveře, které 
+tam jsou právě pro tyto osoby umístěné.   
+Stanovisko Úřadu 
+K doplnění dokazování 
+103. 
+Dopravce zaslal Úřadu dne 22. 4. 2024 dopis, v němž mimo jiné navrhoval doplnění 
+dokazování ve formě provedení místní šetření s cílem ověřit u pracovníků dopravce, že 
+dostupnost nových prostor je pro cestující složitější. Úřad k tomu konstatuje, že toto 
+doplnění dokazování neprovedl, neboť má za to, že by navrhované místní šetření ke zjištění 
+skutkového stavu nijak nepřispělo.  
+104. 
+V předmětném správním řízení se uplatňuje zásada vyšetřovací, kdy podklady pro rozhodnutí 
+v souladu s § 50 odst. 2 a odst. 3 správního řádu opatřuje v první řadě správní orgán. To však 
+neznamená, že by Úřad podklady a důkazy, které svědčí ve prospěch jednotlivých účastníků 
+řízení, neměl zjišťovat a brát v úvahu, neboť v duchu zásady materiální pravdy, která je 
+vyjádřena v § 3 správního řádu ve spojení s § 50 odst. 3 téhož zákona, postupuje správní 
+orgán tak, aby byl zjištěn stav věci, o němž nejsou důvodné pochybnosti, a zjišťuje všechny 
+rozhodné okolnosti svědčící ve prospěch i neprospěch účastníků řízení. Nadto je Úřad dále 
+vázán zásadou volného hodnocení důkazů, kdy by měl ve smyslu § 50 odst. 4 správního řádu 
+hodnotit podklady, zejména důkazy, podle své úvahy, přičemž by měl pečlivě přihlížet ke 
+všemu, co vyšlo v řízení najevo, včetně toho, co uvedli účastníci řízení. Konečně podle § 52
+správního řádu mají účastníci řízení označovat důkazy na podporu svých tvrzení, přičemž 
+správní orgán není těmito návrhy vázán, vždy však provede důkazy, které jsou potřebné ke 
+zjištění stavu věci. Jedná se rovněž o jedno ze základních procesních práv účastníků řízení 
+vtělené do § 36 odst. 1 správního řádu, podle kterého jsou účastníci řízení oprávněni 
+navrhovat důkazy a činit jiné návrhy po celou dobu řízení až do vydání rozhodnutí. 
+105. 
+Správní orgán však není povinen provádět všechny účastníky navrhované důkazy, ale jen ty, 
+které jsou potřebné ke zjištění stavu věci. Ústavní soud v této souvislosti judikoval, že (cit.): 
+„neakceptování důkazního návrhu obviněného lze co do věcného obsahu odůvodnění založit 
+toliko třemi důvody: Prvním je argument, podle něhož tvrzená skutečnost, k jejímuž ověření 
+nebo vyvrácení je navrhován důkaz, nemá relevantní souvislost s předmětem řízení. Dalším 
+je argument, podle kterého důkaz není s to ani ověřit ani vyvrátit tvrzenou skutečnost čili ve 
+vazbě na toto tvrzení nedisponuje vypovídací potencí. Konečně třetím je pak nadbytečnost 
+důkazu, tj. argument, podle něhož určité tvrzení, k jehož ověření nebo vyvrácení je důkaz 
+navrhován, bylo již v dosavadním řízení bez důvodných pochybností (s praktickou jistotou) 
+ověřeno nebo vyvráceno.“  
+106. 
+Úřad na základě volné úvahy v souladu s § 52 správního řádu tedy v tomto případě dospěl k 
+závěru, že dopravcem navrhované místní šetření není s to ani ověřit ani vyvrátit tvrzenou 
+skutečnost, rozhovor se zaměstnanci dopravce by do správního řízení přinesl pouze jejich 
+názor na nastalou situaci, který ale nemůže být brán jako objektivní dokreslení skutkového 
+stavu. Tento důkazní návrh tak naplnil druhý důvod pro neakceptování důkazního návrhu 
+účastníků řízení podle výše uvedeného judikátu Ústavního soudu, a Úřad jej tedy neprovedl. 
+ 
+Povinnosti provozovatele zařízení služeb 
+107. 
+Podle § 23d odst. 1 zákona o dráhách provozovatel zařízení služeb poskytuje dopravcům 
+prostřednictvím tohoto zařízení služby bezprostředně související s provozováním drážní 
+dopravy nediskriminačním způsobem za cenu sjednanou podle cenových předpisů. Podle 
+odstavce 2 téhož ustanovení pak provozovatel zařízení služeb zpřístupní osobě, která na 
+dotčené dráze přiděluje kapacitu, alespoň 60 dnů přede dnem zveřejnění prohlášení o dráze 
+cenu za poskytované služby a podmínky poskytování služeb. Odstavec 3 téhož ustanovení 
+pak ukládá povinnost poskytnout tyto služby bez zbytečného odkladu a v čase odpovídajícím 
+jejich povaze a cíli. 
+108. 
+Výjimky z tohoto ustanovení umožňuje odstavec 3 téhož ustanovení za předpokladu, že 
+stejná služba bude poskytnuta v jiném zařízení služeb nebo nemůže-li poskytnout tyto služby 
+z důvodu naplnění provozního objemu zařízení služeb či došlo-li k rozporu požadavku na 
+poskytnutí služby s technickými nebo provozními podmínkami poskytování služeb. V tomto 
+případě se jedná o výčet taxativní, tedy nejsou přípustné žádné další výjimky vyjma výše 
+uvedených. Podmínky přístupu a pravidla pro přidělení kapacity pak detailně upravuje
+prováděcí nařízení Komise (EU) 2017/2177 o přístupu k zařízením služeb a k službám 
+souvisejícím s železniční dopravou. 
+109. 
+Železniční stanice Brno hl. n. je zařízením služeb podle § 2 odst. 9 zákona o dráhách. Toto 
+ustanovení obsahuje demonstrativní výčet zařízení služeb, který je § 3 odst. 1 vyhlášky č. 
+76/2017 Sb. konkretizován. Využití veškerých prostor tedy podléhá § 23d zákona o dráhách 
+a nařízení Komise (EU) 2017/2177. Pokud jsou prostory součástí zařízení služeb, tedy 
+železniční stanice, a navíc jsou jako zařízení služeb užívány, jsou bezpochyby jejich 
+provozovatelem zvláště určeny k poskytování služeb ve smyslu § 2 odst. 9 zákona o dráhách.  
+110. 
+Výše uvedené povinnosti platí pro každého provozovatele zařízení služeb. Při plnění 
+povinností provozovatele zařízení služeb nelze přihlížet k tomu, která společnost je 
+vlastníkem či provozovatelem konkrétních prostor. Stejně tak není důležité, zda má být 
+uživatelem zařízení služeb dopravce, který současně plní funkci vlastníka či provozovatele, 
+nebo jiný dopravce. 
+ 
+Posouzení nových a stávajících prostor čekárny a prodejního místa 
+111. Členění železniční stanice na tzv. provozní součásti je uvedeno v § 3 odst. 1 vyhlášky č. 76/2017 
+Sb. Dopravce uvedl, že RegioJet Lounge v žst. Brno hl. n. sloužilo a slouží zároveň jako čekárna 
+i jako prodejní místo, podle vyhlášky č. 76/2017 Sb. tedy spadá pod písm. c) čekárny pro 
+cestující a písm. g) prostory pro služby prodeje cestovních a rezervačních dokladů. Úřadu je 
+situační plán žst. Brno hl. n. znám. 
+112. Skutečná plocha nových prostor sdělená provozovatelem činí 133,2 m2, jak plyne z čl. I. 
+odst. 1 dokumentu Podnájemní smlouva na nové prostory, která byla doložena přípisem ze 
+dne 23. 2. 2024, plocha původních prostor pak 142,88 m2, jak plyne z čl. I. odst. 1 dokumentu 
+Smlouva o podnájmu na původní prostory za komerční nájemné, která byla doložena přípisem 
+ze dne 23. 2. 2024. Došlo sice ke zmenšení plochy prostoru o cca 10 m2, tj. cca 7 %, podle 
+názoru Úřadu se ovšem nejedná o natolik výrazný rozdíl, aby nutil dopravce zásadním 
+způsobem upravovat a omezovat činnost čekárny a prodejního místa. 
+113. K tvrzení provozovatele, že Českým dráhám stačí čekárna o rozloze 50 m2 (reálně 66,57 m2, viz 
+výše), a že provozovatel dopravci nabídl prostory s větší plochou, Úřad připomíná, že České 
+dráhy nabízí služby ČD Lounge jen vybrané části svých zákazníků. Oproti tomu dopravce své 
+služby umožňuje všem svým zákazníkům. V tomto případě se tak jedná o obchodní rozhodnutí 
+dopravce a s tím souvisí požadovaná plocha prostor ze strany dopravce. Způsob provozování 
+ČD Lounge pak je obchodním rozhodnutím Českých drah, kdy jimi užívané prostory nejsou 
+předmětem pronájmu provozovatele, a rozhodnutí o rozsahu prostor mohlo být případně 
+ovlivněno požadavkem zisku z pronájmu zbytkových prostor v žst. Brno hl. n. Uvedené tvrzení 
+provozovatele tedy není relevantní.
+114. Ke sdělené výměře nových a stávajících prostor Úřad shrnuje, že podle Smlouvy o nájmu 
+budovy vycházela platba za původní prostory na [obchodní tajemství] Kč bez DPH měsíčně (viz 
+výše), což při výše uvedené ploše [obchodní tajemství]m2 odpovídalo ceně [obchodní 
+tajemství] Kč/m2 za nájem i služby; podle oznámení o změně činí nová cena za původní 
+prostory [obchodní tajemství] Kč/m2 (tj. nárůst o cca [obchodní tajemství] %). Nové prostory 
+mají skutečnou plochu 133,2 m2, při ceně uvedené v oznámení o změně [obchodní tajemství] 
+Kč/m2 (tj. nárůst o cca [obchodní tajemství] %) pak měsíční cena celkově vychází na [obchodní 
+tajemství] Kč bez DPH měsíčně. Tyto částky zahrnují měsíční cenu podnájmu a zálohu na 
+úhradu za plnění poskytovaná v souvislosti s užíváním prostor (cenu služeb). 
+115. Stav nových prostor je vizuálně odpovídající právě dokončené rekonstrukci a využití prostor 
+čekárny a prodejního místa tak nijak neomezuje. 
+116. Přístup do čekárny a prodejního místa dopravce v nových prostorách je nyní možný pouze 
+dveřmi z prvního nástupiště. Tato poloha je navíc dále od vstupu do budovy žst. Brno hl. n. 
+Zároveň nejsou nové prostory ve srovnání s původními prostory viditelné po vstupu do 
+budovy. Samotné umístění nových prostor čekárny dopravce je pro tento účel poněkud 
+nevhodné, a to hned z několika důvodů. Prvním důvodem je, že umístění má potenciál mít vliv 
+na celkové vnímání cestujících ohledně výběru konkrétního dopravce, a tím přivodit negativní 
+reklamu chybějící sebeprezentace. Toto umístění je s to u cestujících vyvolat pocit, že 
+konkrétní dopravce například službu již neposkytuje, případně je poskytuje ve snížené kvalitě. 
+Poloha čekárny tak má potenciál ohrozit ekonomické hledisko dopravce a nepřímo tak ovlivnit 
+jeho zisk, a to i přesto, že informace o přesunu čekárny je vyznačena na původních prostorách 
+v podobě informativního sdělení. 
+117. Úřad na základě uvedeného posouzení nových prostor považuje jejich plochu a stav za 
+adekvátní pro provozování čekárny a prodejního místa, jejich fyzické umístění je ovšem pro 
+dopravce podstatně méně výhodné ve srovnání s původními prostory a ve srovnání 
+s umístěním čekárny konkurenčního dopravce Českých drah. Kromě toho je umístění na 
+prvním nástupišti mnohem méně výhodné pro cestující, kteří cestují spojem, který je 
+vypravován z jiného než prvního nástupiště.  
+118. V daném případě je situace specifická tím, že předmětné zařízení služeb jako celek provozuje 
+více subjektů, konkrétně provozovatel a druhý provozovatel České dráhy, který je nadto 
+vlastníkem budovy žst. Brno hl. n. Provozovatel České dráhy provozuje menšinovou část 
+zařízení služeb, nicméně provozuje zejména tu část zařízení služeb, která je zároveň 
+společností České dráhy v pozici dopravce využívána právě jako zařízení služeb v podobě 
+čekárny pro cestující a prodeje jízdních dokladů. Zařízení služeb může provozovat více 
+subjektů. To uvádí mimo jiné bod 8 preambule nařízení Komise (EU) 2017/2177: „Za 
+rozhodování o podmínkách přístupu k zařízení služeb, přidělování kapacity v zařízení služeb 
+a dodávání služeb souvisejících s železniční dopravou v zařízení mohou být odpovědné různé
+subjekty. V takových případech je nutné považovat všechny dotčené subjekty za provozovatele 
+zařízení služeb ve smyslu směrnice 2012/34/EU.“  
+119. Článek 5 odst. 4 tohoto nařízení pak stanoví povinnosti provozovatelů zařízení služeb v případě 
+zařízení služeb provozovaného několika provozovateli. Provozování zařízení služeb více 
+provozovateli zároveň však nemůže být realizováno diskriminačním způsobem vůči 
+kterémukoli dopravci. Tedy ani skutečnost, že faktické prostory využívané dopravcem České 
+dráhy, jako jejich čekárna, nejsou provozovány přímo provozovatelem BNSD, nemůže být k tíži 
+dopravce, který je ve smluvním vztahu právě s provozovatelem, a tato skutečnost nemůže být 
+diskriminační vůči tomuto jinému dopravci, v tomto případě vůči žadateli. 
+120. Podle bodu 18 preambule a čl. 15 nařízení Komise (EU) 2017/2177, ve spojení s čl. 13. odst. 6 
+nařízení Komise (EU) 2017/2177 a přílohou II směrnice 2012/34/EU, vyplývá vlastníkovi 
+zařízení služeb, které nebylo využíváno po dobu nejméně dvou po sobě jdoucích let, povinnost 
+zařídit provozování tohoto zařízení alespoň částečně, ledaže by tento provozovatel prokázal, 
+že probíhající proces přeměny brání využití tohoto zařízení kterýmkoliv železničním podnikem. 
+121. Taktéž podle § 23e zákona o dráhách, doloží-li dopravce vlastníku zařízení služeb, které není 
+po dobu alespoň 2 let provozováno, potřebu opakovaného poskytování služeb 
+prostřednictvím tohoto zařízení, zajistí vlastník v přiměřené lhůtě jeho provozování. To 
+neplatí, jestliže vlastník provádí na zařízení služeb úpravy znemožňující jeho využívání k 
+poskytování služeb, nebo nenalezl provozovatele zařízení služeb ani prostřednictvím veřejné 
+nabídky nebo veřejné soutěže o nejvhodnější nabídku na provozování zařízení služeb. 
+122. Pokud se tedy jakýkoli subjekt (v tomto případě provozovatel) rozhodne provozovat zařízení 
+služeb, musí počítat s tím, že je s tím svázána řada povinností. To platí i pro provozní součást 
+zařízení služeb, neboť platí-li něco pro celek, musí to platit i pro jeho součást. Změnu umístění 
+zařízení služeb (či jeho provozní součásti) lze podle názoru Úřadu odůvodnit pouze vážnými 
+důvody, které jsou nezávislé na vůli jejich provozovatele. K těmto důvodům se neřadí snaha 
+o přeměnu prostor provozní součásti na prostory komerční. Jak totiž vyplývá z výše uvedeného 
+výpočtu (stejně jako z důkazů předložených účastníky řízení), provozovatel je rozhodnut 
+z původních prostor dopravce de facto vytvořit komerční prostory a pronajímat je dopravci 
+v tomto režimu za komerční cenu. Není tedy možné původní prostory přeměnit na prostory 
+komerční, resp. obecně je využívat jiným způsobem, pokud je ze strany dopravců zájem o 
+využití daných prostor jako zařízení služeb. 
+123. Původní prostory čekárny a zařízení služeb byly dopravcem bezpochyby využívány jako 
+provozní součást zařízení služeb, jak plyne ze Smlouvy o podnájmu původních prostor ze dne 
+14. 3. 2018, dále z dokumentu Rozhodnutí Drážního úřadu, sekce stavební, územní odbor 
+Olomouc ze dne 1. 11. 2018, sp. zn.: MO-SDO0143/18-9/Nv, č.j.: DUCR-63524/18/Nv (dále též 
+„Rozhodnutí drážního úřadu“), vše doloženo přílohou podání dopravce ze dne 4. 8. 2023. Dále 
+uvedené plyne také z faktického provozu dopravce uvedených prostor, jak dopravce popsal ve 
+svých vyjádřeních ze dne 4. 8. 2023 nebo také ze dne 20. 11. 2023 a dále z podkladů
+doložených dopravcem např. v podobě dokumentu nazvaného “porovnání vstupy Brno 
+Lounge“, který byl přílohou podání ze dne 19. 4. 2024. V neposlední řadě uvedené plyne také 
+z obsahu webových stránek dopravce, kdy služby v podobě čekárny pro cestující prezentuje 
+svým zákazníkům v sekci služby – čekárny/lounge. 
+124. V prostorách žst. Brno hl. n. (zařízení služeb) provozují čekárny (provozní součásti) dva 
+subjekty. Jedná se o provozovatele, který provozuje čekárnu a prodejní místa dopravce 
+(nejprve v původních, nyní v nových prostorách), a o České dráhy, které provozují svoji 
+čekárnu pro potřeby své činnosti dopravce. Provozovatel a České dráhy jsou jako 
+provozovatelé provozních součástí žst. Brno hl. n. zároveň provozovateli žst. Brno hl. n. Dalším 
+provozovatelem zařízení služeb žst. Brno hl. n. je státní organizace Správa železnic, která ale 
+neprovozuje čekárny ani prodejní místa. 
+125. Podle § 23d odst. 1 zákona o dráhách poskytuje provozovatel zařízení služeb dopravcům 
+prostřednictvím tohoto zařízení služby nediskriminačním způsobem. Uvedená povinnost se 
+vztahuje na všechny provozovatele daného zařízení služeb, proto pokud je těchto 
+provozovatelů několik, je tato povinnost uložena všem těmto provozovatelům. Právo na 
+nediskriminační přístup tedy mají všichni dopravci, kteří žádají o poskytnutí služeb v daném 
+zařízení služeb, a to bez ohledu jak na počet provozovatelů daného zařízení, tak na to, u 
+kterého z provozovatelů konkrétní dopravce žádal o poskytnutí služeb. 
+126. V případě čekáren v žst. Brno hl. n. se tedy tato povinnost vztahuje na provozovatele a České 
+dráhy. Daná situace je poněkud nestandardní v tom, že část zařízení služeb provozuje a 
+poskytuje provozovatel, zatímco dílčí část zařízení služeb provozují a poskytují České dráhy. 
+Nadto České dráhy tuto dílčí část, kterou provozují, také zároveň fakticky pro svou vlastní 
+potřebu jako zařízení služeb užívají. To však neznamená, že by České dráhy měly být 
+z posuzování diskriminačního jednání vyjmuty. Naopak zákaz diskriminace dopravců je třeba 
+vztáhnout i na prostory provozované dopravcem České dráhy. 
+127. Prostory čekárny Českých drah jsou umístěny v pravé části budovy žst. Brno hl. n. a téměř 
+naproti původním prostorám dopravce. Jedná se o místo lépe viditelné a snáze a rychleji 
+dostupné ve srovnání s novými prostory dopravce. Jak je uvedeno výše, jedná se o prostory 
+výrazně menší, než nové či původní prostory dopravce, což odpovídá i jejich využití, které je 
+cílené jen pro část klientů Českých drah. Prostory čekárny Českých drah jsou lépe situovány a 
+je z nich lepší přístup na jednotlivá nástupiště žst. Brno hl. n.  
+128. V daném případě je tak třeba uzavřít, že není možné, aby provozovatel sám ze své vůle 
+přesunul prostory zařízení služeb pouze jednoho z dopravců na úkor atraktivity, prestižnosti a 
+dostupnosti těchto prostor zařízení služeb pro zákazníky tohoto dopravce. Zejména toto není 
+možné za situace, kdy ostatním dopravcům zůstaly prostory zařízení služeb zachovány 
+v kvalitě a dostupnosti původních prostor zařízení služeb. Tímto by vznikal nepoměr mezi 
+dopravci a jednalo by se tak o diskriminaci jednoho dopravce vůči ostatním dopravcům.
+129. K otázce využití čekárny cestujícími k výběru dopravce před cestou dopravce považuje 
+umístění čekárny a prodejního místa za znevýhodňující ve srovnání s konkurenčními Českými 
+dráhami. Podle jeho názoru se cestující často rozhodují až na místě, s kterým dopravcem 
+pojedou, a do svého rozhodnutí zahrnují i služby poskytované dopravci v železničních 
+stanicích. Následkem přesunu jeho prodejního místa na první nástupiště přestane být pro část 
+cestujících alternativou, jelikož ti po vstupu do budovy uvidí pouze čekárnu Českých drah. 
+130. Podle provozovatele je tento argument nedůvodný. Argumentuje tím, že většina cestujících 
+se rozhoduje předem, v jaký čas a kterým vlakem pojede, a často si už z domova i kupují 
+jízdenky. Cestující si navíc obvykle kupují jízdenky v pokladnách, nikoli v čekárnách, a dopravce 
+má v hlavní hale své pokladny dostupné na stejném místě, jako České dráhy. 
+131. Úřad zde částečně souhlasí s argumenty obou účastníků. Úřad zastává názor, že někteří 
+cestující si skutečně vybírají dopravce až ve stanici na základě služeb čekárny, reálný vliv ale 
+není možné a pro potřeby tohoto řízení ani nutné vyčíslit. Je však třeba doplnit, že čekárna 
+dopravce je velmi často využívána cestujícími v podobě rodin s dětmi, případně ženami 
+zejména ve večerních hodinách, kdy volba konkrétního dopravce, a to i při nákupu cestovních 
+dokladů z domova, může být ovlivněna právě skutečností, že některým dopravcem může být 
+poskytnut doprovodný servis právě v podobě čekárny na konkrétním (lépe dostupném) místě. 
+Cestující tak mohou trávit dobu do odjezdu spoje v prostorách dopravce zdarma bez nutnosti 
+vynakládat další cestovní výdaje např. v podobě útraty v restauračním zařízení či kavárně 
+apod. 
+132. K argumentu, že čekárna dopravce v žst. Praha hl. n. je menší než v žst. Brno hl. n., ačkoli je 
+Praha větším městem než Brno, Úřad uvádí, že rozhodující v případě čekárny není velikost 
+města ani možnosti dané drážní budovy, ve které se nachází. Podstatná je skutečnost, aby byl 
+přístup ke službám poskytnut jednotlivým dopravcům nediskriminačním způsobem za 
+regulovanou cenu v souladu se zákonem. Navíc neexistuje zákonná povinnost vztahovat 
+velikost čekárny ke geografické velikosti či počtu obyvatel konkrétní obce. 
+133. Na základě provedeného srovnání nových a stávajících prostor došel Úřad k názoru, že 
+přesun čekárny a prodejního místa dopravce nebyl vynucen vážnými důvody (viz výše), ale 
+pouze snahou provozovatele přeměnit původní prostory na prostory komerční. 
+134. Tento přesun zároveň znevýhodnil dopravce jako subjekt provozující drážní dopravu mimo jiné 
+v žst. Brno hl. n. Tímto přesunem došlo a nadále dochází k diskriminaci dopravce. Provozovatel 
+tím porušuje své povinnosti, které mu ukládá § 23d odst. 1 zákona o dráhách.  
+135. Služby zařízení služeb může podle bodu 8 preambule a čl. 5 odst. 4 nařízení Komise (EU) 
+2017/2177 poskytovat více provozovatelů zařízení služeb. Skutečnost, že provozovatel 
+v předmětném řízení není provozovatelem čekárny Českých drah, není relevantní vzhledem 
+k obecné povinnosti poskytovat služby prostřednictvím zařízení služeb nediskriminačně podle 
+§ 23d odst. 1 větě první zákona o dráhách, neboť provozovatel má povinnost tuto skutečnost
+naopak zohlednit, a při přerozdělování kapacity zařízení služeb musí zohlednit toto kritérium 
+ve vztahu ke všem ostatním provozovatelům zařízení služeb.  
+136. Provozovatel má objektivně možnost poskytnout dopravci původní prostory, není naopak 
+oprávněn zrušit provozní součást zařízení služeb v původních prostorách, ani původní prostory 
+přeměnit bez dalšího na prostory komerční.  
+137. Úřad tak přesun čekárny a prodejního místa dopravce do nových prostor považuje za jeho 
+znevýhodnění v žst. Brno hl. n. ve srovnání s jiným dopravcem, který má v této stanici rovněž 
+čekárnu. Provozovatel je tedy povinen tento stav napravit a uzavřít s dopravcem smlouvu 
+na původní prostory v souladu se zákonem o drahách a nařízením Komise (EU) 2017/2177. 
+ 
+K tvrzené diskriminaci dopravce výpovědí Smlouvy o podnájmu původních prostor  
+138. Dopravce považuje za diskriminační i samotnou výpověď Smlouvy o podnájmu původních 
+prostor.  
+139. Podle provozovatele ovšem nutnost podání výpovědi vyplývá i z pravomocného rozhodnutí 
+ŘVP001/20. V něm Úřad uvedl, že jelikož se kapacita dráhy přiděluje pouze pro příslušný jízdní 
+řád, i kapacitu zařízení služeb je možné přidělit pouze pro příslušný jízdní řád. Smlouva 
+o podnájmu původních prostor byla ale uzavřena na dobu neurčitou. Úřad s tímto 
+argumentem provozovatele souhlasí.  
+140. Úřad navíc dodává, že v čl. IX. odst. 2 písm. c) Smlouvy o podnájmu původních prostor se 
+smluvní strany dohodly, že smlouvu lze ukončit mimo jiné výpovědí bez udání důvodu.  
+141. Námitku dopravce o diskriminační povaze výpovědi bez udání důvodu Úřad považuje za 
+nedůvodnou. 
+ 
+K právu dopravce podat žádost podle § 23d zákona o dráhách 
+142. Podle provozovatele nepodal dopravce Úřadu žádost podle § 23d zákona o dráhách, jelikož 
+nepožádal o kapacitu nových prostor v souladu s popisem zařízení služeb, zveřejněným 
+provozovatelem. Proto jeho výzva k poskytnutí služby nemohla být odmítnuta.  
+143. Dopravce požádal o přístup k této provozní součásti prostřednictvím datové zprávy. Úřad 
+uznává, že tento postup není v souladu s postupem uvedeným v popisu zařízení služeb 
+provozovatele. Námitku provozovatele ovšem Úřad považuje za nedůvodnou, jelikož svým 
+následným postupem, v podobě následného zahájení komunikace s dopravcem, která vyústila 
+do uzavření Smlouvy o podnájmu na původní prostory za komerční nájemné, provozovatel 
+konkludentně uznal výzvu dopravce k poskytnutí služeb jako žádost podle čl. 8 nařízení Komise 
+(EU) 2017/2177.
+K námitce nesplnění podmínky řízení 
+144. Provozovatel reagoval dne 24. 6. 2024 zasláním Vyjádření se k podkladům rozhodnutí, ve 
+kterém mimo jiné uvedl, že nejsou splněny podmínky řízení, neboť v rámci železniční stanice 
+Brno hl. n. dopravce služby čekárny čerpá v prostoru čekárny na prvním nástupišti, přičemž po 
+dokončení revitalizace na základě Dohody o dalším postupu bude dopravci umožněno získat 
+přístup do čekárny v původním umístění. 
+145. Uvedená skutečnost není pro účely posouzení důvodnosti podané žádosti dopravce 
+relevantní. Žádost dopravce byla podána zcela legitimně a důvodně, neboť ze strany 
+provozovatele došlo k odejmutí práva dopravce k provozování čekárny a prodejního místa 
+v rozporu s požadavkem dopravce podle uzavřené Smlouvy o podnájmu původních prostor. 
+Skutečnost, že v průběhu tohoto řízení docházelo také k jednání mezi provozovatelem a 
+dopravcem, kdy mezi stranami došlo k vyjasnění některých požadavků a souladnému postupu 
+v některých dílčích otázkách, sama o sobě neznamená, že byl vztah mezi stranami zcela 
+narovnán. Naopak dopravce jako navrhovatel na svém návrhu dále trvá a žádá o rozhodnutí 
+ve věci, kdy bude stav mezi stranami narovnán zcela, zejména ve vztahu k dílčím otázkám, 
+které nebyly smluvně mezi stranami dosud vyřešeny, případně částečně vyřešeny sice byly, 
+nicméně nikoli v souladu s právními předpisy či požadavky dopravce. Je zřejmé, že dopravce 
+zejména Smlouvu o podnájmu na původní prostory za komerční nájemné uzavřel z důvodu, že 
+si chtěl zajistit návrat do původních prostor, nicméně i přes uzavření této smlouvy nesouhlasí 
+zejména s cenou za podnájem předmětných prostor, což plyne také z vyjádření dopravce, 
+konkrétně z vyjádření ze dne 23. 2. 2024. V daném případě je požadavek dopravce na 
+poskytnutí původních prostor za regulované nájemné zcela legitimní a v souladu se zákonem, 
+a to zejména v souladu s § 23d odst. 1 zákona o dráhách, když podle zmíněného ustanovení, 
+věta první: „Provozovatel zařízení služeb poskytuje dopravcům prostřednictvím tohoto zařízení 
+služby bezprostředně související s provozováním drážní dopravy nediskriminačním způsobem 
+za cenu sjednanou podle cenových předpisů“. K otázce cenové regulace se Úřad 
+v podrobnostech vyjádřil v části III. Odůvodnění tohoto rozhodnutí. S ohledem na uvedené tak 
+není možné pronajímat dopravci prostory sloužící jako zařízení služeb za komerční cenu, nýbrž 
+je nutno tyto prostory pronajímat výhradně za cenu sjednanou podle cenových předpisů.  
+Vyloučení odkladného účinku 
+146. Podle § 85 odst. 2 písm. a) a § 152 správního řádu může správní orgán vyloučit odkladný účinek 
+rozkladu, jestliže to naléhavě vyžaduje veřejný zájem.  
+147. Podle § 23d odst. 1 zákona o dráhách poskytuje provozovatel zařízení služeb dopravcům 
+prostřednictvím tohoto zařízení služby bezprostředně související s provozováním drážní 
+dopravy nediskriminačním způsobem za cenu sjednanou podle cenových předpisů. Podle §
+23d odst. 3 zákona o dráhách provozovatel zařízení služeb poskytuje tyto služby bez 
+zbytečného odkladu a v čase odpovídajícím jejich povaze a cíli.  
+148. Vzhledem k výše uvedenému je třeba předejít stavu, kdy by došlo k porušení této povinnosti, 
+např. aby smlouvy byly uzavírány opožděně, popř. nebyly v období předmětného jízdního řádu 
+uzavřeny vůbec. Je povinností Úřadu využít všechny možnosti, které k nastolení žádoucího 
+stavu povedou. Postup provozovatele je nepřijatelný, neboť omezuje dopravcům přístup ke 
+službám. Je třeba zajistit dopravcům přístup k zařízení služeb v souladu s platnými předpisy v 
+adekvátních lhůtách a v adekvátním rozsahu.  
+149. Ochrana veřejného zájmu je zakotvena v § 2 odst. 4 správního řádu. Veřejný zájem je třeba 
+interpretovat jako přístupný všem a také jako ochranu základních práv. V daném případě je 
+veřejný zájem dán zejména potřebou zajistit, aby všichni dopravci měli nediskriminační přístup 
+k zařízení služeb, aby toto jejich právo nebylo žádným způsobem narušeno či ohroženo, a aby 
+nedocházelo ke zvýhodňování některých subjektů na trhu železniční dopravy. Spravedlivá 
+hospodářská soutěž je nezbytnou podmínkou svobodného tržního podnikání, čímž ovlivňuje 
+celkové ekonomické a faktické dopady na společnost.  
+150. Tím, že byl dopravce neoprávněně přesunut do nových prostor jednostranným rozhodnutím 
+provozovatele, byl nediskriminační přístup k zařízení služeb vůči všem dopravcům narušen, a 
+toto právo bylo dopravci odejmuto. Tímto postupem byla narušena hospodářská soutěž. Tím 
+je narušen i veřejný zájem na fungování svobodné a spravedlivé hospodářské soutěže a na 
+tom, aby nedocházelo ke zvýhodňování jednoho dopravce oproti ostatním dopravcům. 
+151. Zároveň je v daném případě dán naléhavý právní zájem na odstranění škodlivého stavu, neboť 
+dochází k uzavírání smluv obdobného typu a obsahu zpravidla na dobu platnosti jízdního řádu. 
+S ohledem na vývoj situace v žst. Brno hl. n., kdy mezi stranami není možno docílit souladného 
+stavu smluvně bez nutnosti koordinace ze strany Úřadu, a s ohledem na to, že doba platnosti 
+jízdního řádu je již ve své polovině, je nutno situaci řešit promptně, neboť se jedná o přímé 
+ohrožení veřejného zájmu. Tato situace je tak výjimečná, že je nutno aktuální stav napravit 
+neprodleně, a to i s ohledem na skutečnost, že podle provozovatelem sdělených časových 
+odhadů by již měla rekonstrukce původních prostor cílit do své závěrečné fáze.  
+152. Dopravce by tak měl v aktuálním období započít užívání původních prostor po rekonstrukci, 
+kdy práva a povinnosti mezi provozovatelem a dopravcem nejsou potřebným a zákonným 
+způsobem dosud upravena. Tyto je tak nutno upravit neprodleně, aby bylo možno plynule 
+navázat na poskytování služeb souvisejících s dopravou zákazníkům dopravce bez dalšího 
+ohrožení či porušení veřejného zájmu. 
+153. Dosažení tohoto cíle je ve veřejném zájmu i v souladu s cíli směrnice 2012/34/EU. Podle článku 
+56 odst. 1 písm. f) směrnice 2012/34/EU, upravujícího funkce regulačního subjektu, aniž je 
+dotčen čl. 46 odst. 6, má žadatel právo podat stížnost regulačnímu subjektu, pokud se 
+domnívá, že se s ním nejedná poctivě, že je diskriminován nebo jinak poškozen. Zejména může
+podat žádost o přezkum rozhodnutí přijatých provozovatelem infrastruktury nebo případně 
+železničním podnikem nebo provozovatelem zařízení služeb, která se týkají kromě jiného 
+úpravy přístupu podle článků 10 až 13, tedy i přístupu ke službám. Podle odstavce 9 prvního 
+pododstavce téhož článku směrnice 2012/34/EU regulační subjekt rozhoduje o všech 
+stížnostech a přijímá opatření k nápravě situace.  
+154. Takovým vhodným opatřením k nápravě nežádoucího vývoje v přístupu ke službám a 
+zařízením služeb i k nápravě situace je podle správního řádu i vyloučení odkladného účinku 
+rozkladu. Vyloučení odkladného účinku rozkladu má za následek účinnost rozhodnutí bez 
+ohledu na jeho právní moc. Rozhodnutí se stane doručením provozovateli vykonatelným. 
+155. Proto Úřad rozhodl o vyloučení odkladného účinku výroku I. tohoto rozhodnutí.  
+Závěr 
+159. Provozovatel odmítl dopravci poskytnout službu provozní součásti žst. Brno hl. n. a následně 
+de facto změnil dopravcem požadované původní prostory na prostory komerční. Dopravce 
+poté, co byla provozovatelem odmítnuta jeho výzva k poskytnutí služby, postupoval podáním 
+žádosti o přístup v souladu s § 23d odst. 4 zákona o dráhách. Vzhledem k výše popsanému 
+dospěl Úřad k závěru, že provozovatel určil dopravci nové prostory v žst. Brno hl. n. v rozporu 
+s § 23d odst. 1 zákona o dráhách.  
+160. Výše nájmu uvedených prostor podléhá cenové regulaci zákona o cenách, jelikož cenová 
+regulace platí pro užití zařízení služeb a poskytování služeb pro účely bezprostředně 
+související s provozováním drážní dopravy podle § 23d odst. 1 zákona o drahách. Při 
+samotném stanovení regulovaných cen lze vycházet pouze z kalkulací regulovaných cen. Do 
+těchto kalkulací regulovaných cen lze promítnout pouze ekonomicky oprávněné náklady 
+doložitelné z účetnictví související výlučně s regulovaným zbožím. Nelze tak na daný smluvní 
+vztah aplikovat nájemné ve výši nájemného obvyklého pro komerční prostory. 
+161. Předmětem sporu je uzavření smlouvy k poskytnutí stejného rozsahu služeb, jaký měl 
+provozovatel poskytovat dopravci už dříve Smlouvou o podnájmu původních prostor, resp. 
+v rozsahu následně stanoveném mezi účastníky uzavřením Smlouvy o podnájmu na původní 
+prostory za komerční nájemné. Uzavření smlouvy požadovaného obsahu není proto nijak 
+náročné a nevymyká se běžným a rutinním činnostem provozovatele. Proto je stanovená lhůta 
+pro uzavření smlouvy vztahující se k době platnosti jízdního řádu 2023/2024 přiměřená. 
+Uzavření smlouvy je možné provést běžným administrativním způsobem. Navíc oba účastníci 
+řízení disponují datovými schránkami, takže uzavření smlouvy může být otázkou několika málo 
+hodin. Z těchto důvodů Úřad rozhodl tak, jak je uvedeno ve výroku I. tohoto rozhodnutí. 
+162. Úřad samozřejmě chápe, že po dobu revitalizace nemohou být původní prostory dopravcem 
+využívány, a tedy nezpochybňuje dočasné přesunutí čekárny a prodejního místa do nových 
+prostor na nezbytně nutnou dobu potřebnou pro skončení revitalizace části budovy žst. Brno
+hl. n. Tento stav je ovšem akceptovatelný jen do skončení revitalizace původních prostor, což 
+konečně provozovatel a dopravce dočasně vyřešili uzavřením Podnájemní smlouvy na nové 
+prostory, a dále též upravili svůj vzájemný postup Dohodou o dalším postupu. 
+163. Úřad proto podle § 23d odst. 4 zákona o dráhách rozhodl tak, jak je uvedeno ve výroku I. 
+tohoto rozhodnutí, a uložil provozovateli uzavřít s dopravcem smlouvu umožňující tyto 
+služby poskytnout, a to za regulované nájemné stanovené v souladu s cenovými předpisy. 
+164. Ve vztahu k předmětu podnájmu Úřad uvádí, že mezi stranami došlo v průběhu tohoto řízení 
+ke změně rozsahu předmětu podnájmu. Podle Smlouvy o podnájmu původních prostor byly 
+předmětem podnájmu prostory specifikované jako místnosti č. OP082, OP083, OP084, OP085, 
+OP086, OP087, OP088 a část příjezdové haly OP080. Naproti tomu ve Smlouvě o podnájmu na 
+původní prostory za komerční nájemné jsou předmětem podnájmu prostory specifikované 
+jako místnosti č. OP082, OP083, OP084, OP085, OP086, OP087, OP088. Tedy ve Smlouvě o 
+podnájmu na původní prostory za komerční nájemné není uveden prostor – část příjezdové 
+haly OP080 o výměře 7,30 m2. Z uzavřené smluvní dokumentace (tj. z Podnájemní smlouvy na 
+nové prostory, Dohody o dalším postupu, Smlouvy o podnájmu na původní prostory za 
+komerční nájemné) neplyne, zda je uvedené dáno úmyslem či opomenutím. Z vyjádření 
+dopravce ze dne 28. 6. 2024 však plyne, že má nadále zájem i o tento prostor. Tuto část tak 
+Úřad ponechává na smluvní volnosti stran, pakliže by dopravce o uvedené prostory již neměl 
+nadále zájem. 
+ 

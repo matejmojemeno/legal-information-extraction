@@ -1,0 +1,29 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "1 Nt 206_2007.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Nt 206_2007.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.433483+00:00",
+  "citations": [
+    {
+      "task_id": "1 Nt 206_2007.txt::section::627::12",
+      "finding_id": "1",
+      "citation_text": "§ 163a",
+      "citation_type": "section",
+      "start_char": 627,
+      "end_char": 633,
+      "law_id": "140/1961 Sb.",
+      "law_name_text": "tr. zák.",
+      "declared_alias_text": "tr. zák.",
+      "classification": "czech_resolved",
+      "confidence": 0.95,
+      "detail_number": "163a",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

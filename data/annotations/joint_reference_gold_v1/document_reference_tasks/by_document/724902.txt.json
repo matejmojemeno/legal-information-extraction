@@ -1,0 +1,237 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "724902.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/724902.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.218749+00:00",
+  "tasks": [
+    {
+      "task_id": "724902.txt::docref::2632::69",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 2632,
+      "snippet_doc_start": 2372,
+      "snippet_doc_end": 2892,
+      "snippet_text": "a 1541-1546), 12 656 m2 (Vackova 1535-1540).\n5.\nŽalobci podali proti prvostupňovému rozhodnutí odvolání.  Žalovaný rozhodnutím ze dne \n22. 6. 2022 prvostupňové rozhodnutí potvrdil. Toto rozhodnutí však zrušil Městský soud \nv Praze rozsudkem ze dne 1. 2. 2024, č. j. 14 A 79/2022-107. Městský soud shledal toto \nrozhodnutí částečně nepřezkoumatelným, konkrétně ohledně otázky, zda záměr splňuje \npodmínky pro umístění převýšené stavby v oddílu 7b) odst. 4 Přílohy č. 1 k územnímu \nplánu. Ostatní žalobní body shledal nedů",
+      "predicted_reference": {
+        "reference_text": "č. j. 14 A 79/2022-107",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 79/2022-107",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2632,
+        "raw_end": 2654,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Městského soudu",
+        "context": "40). 5. Žalobci podali proti prvostupňovému rozhodnutí odvolání.  Žalovaný rozhodnutím ze dne  22. 6. 2022 prvostupňové rozhodnutí potvrdil. Toto rozhodnutí však zrušil Městský soud  v Praze rozsudkem ze dne 1. 2. 2024, č. j. 14 A 79/2022-107. Městský soud shledal toto  rozhodnutí částečně nepřezkoumatelným, konkrétně ohledně otázky, zda záměr splňuje  podmínky pro umístění převýšené stavby v oddílu 7b) odst. 4 Přílohy č. 1 k územnímu  plánu. Ostatní žalobní"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 14 A 79/2022-107",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "14 A 79/2022-107",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::docref::5920::70",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 5920,
+      "snippet_doc_start": 5660,
+      "snippet_doc_end": 6180,
+      "snippet_text": "atelnost pro nedostatek důvodů musí být vykládána ve \nsvém skutečném smyslu, tj. jako nemožnost přezkoumat určité rozhodnutí pro nemožnost \nzjistit v něm jeho obsah nebo důvody, pro které bylo vydáno (srov. usnesení rozšířeného \nsenátu NSS ze dne 19. 2. 2008, č. j. 7 Afs 212/2006-76). Zrušení správního rozhodnutí pro \nnepřezkoumatelnost je vyhrazeno těm nejzávažnějším vadám správních rozhodnutí, kdy pro \nabsenci důvodů či pro nesrozumitelnost skutečně nelze správní rozhodnutí meritorně \npřezkoumat. Na odůvodnění ro",
+      "predicted_reference": {
+        "reference_text": "č. j. 7 Afs 212/2006-76",
+        "reference_prefix": "č. j.",
+        "reference_body": "7 Afs 212/2006-76",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 5920,
+        "raw_end": 5943,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "vykládána ve  svém skutečném smyslu, tj. jako nemožnost přezkoumat určité rozhodnutí pro nemožnost  zjistit v něm jeho obsah nebo důvody, pro které bylo vydáno (srov. usnesení rozšířeného  senátu NSS ze dne 19. 2. 2008, č. j. 7 Afs 212/2006-76). Zrušení správního rozhodnutí pro  nepřezkoumatelnost je vyhrazeno těm nejzávažnějším vadám správních rozhodnutí, kdy pro  absenci důvodů či pro nesrozumitelnost skutečně nelze správní rozhodnutí meritorně  přezkoumat."
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 7 Afs 212/2006-76",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "7 Afs 212/2006-76",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::docref::6673::71",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 6673,
+      "snippet_doc_start": 6413,
+      "snippet_doc_end": 6933,
+      "snippet_text": "í, \nproč nepovažuje argumentaci účastníka za správnou, byť výslovně v odůvodnění rozhodnutí \nnereaguje na všechny myslitelné aspekty vznesené námitky a dopustí se dílčího nedostatku \nodůvodnění (viz např. rozsudek Nejvyššího správního soudu ze dne 17. 1. 2013 č. j. 1 Afs \n92/2012-45, bod 28). \n14. Městský soud je i názoru, že napadené rozhodnutí není v této části nezákonné. Žalovaný \npřesvědčivě vysvětlil, jak záměr zapadá do stávající struktury a urbanistické kompozice \nlokality. Již v předchozím zrušujícím rozsud",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 Afs 92/2012-45",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 Afs 92/2012-45",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 6673,
+        "raw_end": 6696,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "a za správnou, byť výslovně v odůvodnění rozhodnutí  nereaguje na všechny myslitelné aspekty vznesené námitky a dopustí se dílčího nedostatku  odůvodnění (viz např. rozsudek Nejvyššího správního soudu ze dne 17. 1. 2013 č. j. 1 Afs  92/2012-45, bod 28).  14. Městský soud je i názoru, že napadené rozhodnutí není v této části nezákonné. Žalovaný  přesvědčivě vysvětlil, jak záměr zapadá do stávající struktury a urbanistické kompozice  lokality. Již v předchozím "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 Afs 92/2012-45",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 Afs 92/2012-45",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::docref::8769::72",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 8769,
+      "snippet_doc_start": 8509,
+      "snippet_doc_end": 9029,
+      "snippet_text": "ou \nhodnotou. \n17. Žalovanému také nelze vyčítat, že v napadeném rozhodnutí odkazoval na sousední objekt, \nkterý měl v dané době platné územní a stavební rozhodnutí. Tato rozhodnutí byla totiž \nměstským soudem zrušena až následně rozsudkem ze dne 14. 5. 2024, č. j. 14 A 41/2022‑209. \nA to z jiných důvodů než zrušení předchozího rozhodnutí žalovaného ohledně tohoto \nzáměru. Územní rozhodnutí sousedního záměru městský soud zrušil pro nesprávně \nstanovenou výškovou hladinu. V nyní posuzovaném případě však žalovaný výš",
+      "predicted_reference": {
+        "reference_text": "č. j. 14 A 41/2022",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 41/2022",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 8769,
+        "raw_end": 8787,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": null,
+        "context": " vyčítat, že v napadeném rozhodnutí odkazoval na sousední objekt,  který měl v dané době platné územní a stavební rozhodnutí. Tato rozhodnutí byla totiž  městským soudem zrušena až následně rozsudkem ze dne 14. 5. 2024, č. j. 14 A 41/2022‑209.  A to z jiných důvodů než zrušení předchozího rozhodnutí žalovaného ohledně tohoto  záměru. Územní rozhodnutí sousedního záměru městský soud zrušil pro nesprávně  stanovenou výškovou hladinu. V nyní posuzovaném pří"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 14 A 41/2022",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "14 A 41/2022-209",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::docref::11856::73",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 11856,
+      "snippet_doc_start": 11596,
+      "snippet_doc_end": 12116,
+      "snippet_text": "žských stavebních předpisů poté platí, že stavby se umisťují v souladu s \nvýškovou regulací stanovenou podle § 25.\n21. Městský soud se již stanovením výškové hladiny v dané lokalitě i podle Pražských stavebních \npředpisů zabýval v rozsudku ze dne 14. 5. 2024, č. j. 14 A 41/2022‑209. Zde dospěl k závěru, \nže převládající okolní zástavbu je nutné charakterizovat ve výškové hladině VI (16 – 26 m), \nnikoli v hladině VII (21 – 40 m), jelikož v celé žalovaným ohraničené lokalitě jen dvě stavby, \na to jen v jejich malé čá",
+      "predicted_reference": {
+        "reference_text": "č. j. 14 A 41/2022",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 41/2022",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 11856,
+        "raw_end": 11874,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Městského soudu",
+        "context": "e stavby se umisťují v souladu s  výškovou regulací stanovenou podle § 25. 21. Městský soud se již stanovením výškové hladiny v dané lokalitě i podle Pražských stavebních  předpisů zabýval v rozsudku ze dne 14. 5. 2024, č. j. 14 A 41/2022‑209. Zde dospěl k závěru,  že převládající okolní zástavbu je nutné charakterizovat ve výškové hladině VI (16 – 26 m),  nikoli v hladině VII (21 – 40 m), jelikož v celé žalovaným ohraničené lokalitě jen dvě stavby,  a t"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 14 A 41/2022",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "14 A 41/2022-209",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "724902.txt::docref::13360::74",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 13360,
+      "snippet_doc_start": 13100,
+      "snippet_doc_end": 13620,
+      "snippet_text": " předchozím žalobním bodu tento závěr \nžalovaného neshledal vadným. Z tohoto důvodu je záměr také v souladu s Pražskými \nstavebními předpisy. Žalovaný tento soulad fakticky zkoumal a dospěl ke správnému závěru. \n24. Tím je dán podstatný rozdíl oproti rozsudku č. j. 14 A 41/2022‑209, kterého se dovolávají \nžalobci. Tam městský soud rozhodnutí žalovaného zrušil, protože žalovaný neřešil umístění \npřevýšené stavby, neboť dosud vycházel z nesprávného východiska, že okolní zástavba \ndosahuje výškové hladiny VII (bod 58 ",
+      "predicted_reference": {
+        "reference_text": "č. j. 14 A 41/2022",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 41/2022",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 13360,
+        "raw_end": 13378,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": null,
+        "context": "alovaného neshledal vadným. Z tohoto důvodu je záměr také v souladu s Pražskými  stavebními předpisy. Žalovaný tento soulad fakticky zkoumal a dospěl ke správnému závěru.  24. Tím je dán podstatný rozdíl oproti rozsudku č. j. 14 A 41/2022‑209, kterého se dovolávají  žalobci. Tam městský soud rozhodnutí žalovaného zrušil, protože žalovaný neřešil umístění  převýšené stavby, neboť dosud vycházel z nesprávného východiska, že okolní zástavba  dosahuje výškov"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 14 A 41/2022",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "14 A 41/2022-209",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2067 @@
+{
+  "reviewed_path": "data/annotations/joint_reference_gold_v1/document_reference_link_review_v1/joint_document_reference_link_review_v1.jsonl",
+  "self_identifiers_path": "data/final_runs/thesis_final_v1/document_references/document_self_identifiers.jsonl",
+  "not_in_corpus_row_count": 49,
+  "priority_counts": {
+    "high": 18,
+    "low": 23,
+    "medium": 6,
+    "skip": 2
+  },
+  "likely_source_counts": {
+    "ns": 29,
+    "nss": 7,
+    "uohs": 11
+  },
+  "suspicion_counts": {
+    "exact_candidate_multiple": 1,
+    "no_candidate_found": 34,
+    "outside_priority_scope": 2,
+    "strong_fuzzy_candidate": 12
+  },
+  "audited_rows": [
+    {
+      "task_id": "609828.txt::docref::418::58",
+      "source_document_id": "609828.txt",
+      "source_document_source": "nss",
+      "reference_text": "sp. zn. S 19/05",
+      "reference_body": "S 19/05",
+      "court_hint": "OÚPR",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:corrected_2026-03-29_bare_S19_05_is_not_supported_as_exact_uohs_link; OUPR/Magistrat context, old prefilled UOHS link removed from gold",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "exact_candidate_multiple",
+      "exact_candidates": [
+        {
+          "source": "uohs",
+          "document_id": "pis24980.txt",
+          "identifier_text": "S019/05-4013/05-OOHS",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/uohs/pis24980.txt",
+          "source_iri": "https://uohs.gov.cz/cs/hospodarska-soutez/sbirky-rozhodnuti/detail-5459.html",
+          "match_method": "body_uohs_root",
+          "match_key": "S192005",
+          "body_variant": "S 19/05"
+        },
+        {
+          "source": "uohs",
+          "document_id": "pis23302.txt",
+          "identifier_text": "VZ/S019/05",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/uohs/pis23302.txt",
+          "source_iri": "https://uohs.gov.cz/cs/verejne-zakazky/sbirky-rozhodnuti/detail-5309.html",
+          "match_method": "body_uohs_root",
+          "match_key": "S192005",
+          "body_variant": "S 19/05"
+        }
+      ],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::20220::88",
+      "source_document_id": "2016_S0551.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č. j. 62 Af 41/2010-72",
+      "reference_body": "62 Af 41/2010-72",
+      "court_hint": "Krajského soudu v Brně",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to external court decision 62 Af 41/2010-72 not represented in current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "medium",
+      "reason_flags": [
+        "lower administrative court style case number"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "nss",
+          "document_id": "548494.txt",
+          "identifier_text": "22 Af 41/2010",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/548494.txt",
+          "source_iri": null,
+          "score": 0.9876,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "548495.txt",
+          "identifier_text": "22 Af 41/2010",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/548495.txt",
+          "source_iri": null,
+          "score": 0.9876,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "569308.txt",
+          "identifier_text": "62 Af 10/2010",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/569308.txt",
+          "source_iri": null,
+          "score": 0.9876,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "716491.txt",
+          "identifier_text": "62 Af 41/2021",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/716491.txt",
+          "source_iri": null,
+          "score": 0.9876,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "562789.txt",
+          "identifier_text": "62 Af 42/2010",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/562789.txt",
+          "source_iri": null,
+          "score": 0.9876,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "421339.txt",
+          "identifier_text": "62 Af 10/2018 - 72",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/421339.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/421339",
+          "score": 0.9535,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "705613.txt",
+          "identifier_text": "62 Af 34/2020 - 72",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/705613.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/705613",
+          "score": 0.9535,
+          "body_variant": "62 Af 41/2010-72"
+        },
+        {
+          "source": "nss",
+          "document_id": "710001.txt",
+          "identifier_text": "62 A 41/2022",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/710001.txt",
+          "source_iri": null,
+          "score": 0.9457,
+          "body_variant": "62 Af 41/2010-72"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::24788::92",
+      "source_document_id": "2016_S0551.txt",
+      "source_document_source": "uohs",
+      "reference_text": "čj. 62 Ca 77/2008-45",
+      "reference_body": "62 Ca 77/2008-45",
+      "court_hint": "Krajského soudu v Brně",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to external court decision 62 Ca 77/2008-45 not represented in current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "medium",
+      "reason_flags": [
+        "lower administrative court style case number"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "nss",
+          "document_id": "569335.txt",
+          "identifier_text": "62 Cad 77/2009 - 34",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/569335.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/569335",
+          "score": 0.93,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "559151.txt",
+          "identifier_text": "62 Ca 86/2008",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/559151.txt",
+          "source_iri": null,
+          "score": 0.9186,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "559152.txt",
+          "identifier_text": "62 Ca 86/2008",
+          "identifier_kind": "cislo_jednaci",
+          "origin": "repeated_header_line",
+          "document_path": "data/imports/parent_bucket_texts/nss/559152.txt",
+          "source_iri": null,
+          "score": 0.9186,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "673817.txt",
+          "identifier_text": "62 A 17/2020 - 45",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/673817.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/673817",
+          "score": 0.9179,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "433351.txt",
+          "identifier_text": "62 A 72/2018 - 45",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/433351.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/433351",
+          "score": 0.9179,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "615583.txt",
+          "identifier_text": "2 Afs 77/2008 - 65",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/615583.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/615583",
+          "score": 0.8947,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "614091.txt",
+          "identifier_text": "2 Azs 77/2008 - 54",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/614091.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/614091",
+          "score": 0.8947,
+          "body_variant": "62 Ca 77/2008-45"
+        },
+        {
+          "source": "nss",
+          "document_id": "562374.txt",
+          "identifier_text": "5 Ca 374/2008 - 45",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/562374.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/562374",
+          "score": 0.8947,
+          "body_variant": "62 Ca 77/2008-45"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::3468::28",
+      "source_document_id": "23 cdo 1135_2022_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "č. j. 21 Co 123/2020-294",
+      "reference_body": "21 Co 123/2020-294",
+      "court_hint": "Krajského soudu v Brně",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to external appellate court decision 21 Co 123/2020-294 not represented in current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 123_2006.txt",
+          "identifier_text": "21 Cdo 123/2006",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 123_2006.txt",
+          "source_iri": null,
+          "score": 0.9179,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 137_2020.txt",
+          "identifier_text": "21 Cdo 137/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 137_2020.txt",
+          "source_iri": null,
+          "score": 0.9179,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 138_2020.txt",
+          "identifier_text": "21 Cdo 138/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 138_2020.txt",
+          "source_iri": null,
+          "score": 0.9179,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 323_2020.txt",
+          "identifier_text": "21 Cdo 323/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 323_2020.txt",
+          "source_iri": null,
+          "score": 0.9179,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 713_2020.txt",
+          "identifier_text": "21 Cdo 713/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 713_2020.txt",
+          "source_iri": null,
+          "score": 0.9179,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 1027_2020.txt",
+          "identifier_text": "21 Cdo 1027/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 1027_2020.txt",
+          "source_iri": null,
+          "score": 0.8947,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 1135_2020.txt",
+          "identifier_text": "21 Cdo 1135/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 1135_2020.txt",
+          "source_iri": null,
+          "score": 0.8947,
+          "body_variant": "21 Co 123/2020-294"
+        },
+        {
+          "source": "ns",
+          "document_id": "21 Cdo 1137_2020.txt",
+          "identifier_text": "21 Cdo 1137/2020",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/21 Cdo 1137_2020.txt",
+          "source_iri": null,
+          "score": 0.8947,
+          "body_variant": "21 Co 123/2020-294"
+        }
+      ]
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::9158::40",
+      "source_document_id": "29 odo 1019_2006_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "sp. \nzn. 20 Cdo 91/99",
+      "reference_body": "20 Cdo 91/99",
+      "court_hint": "Nejvyššího soudu",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to older Nejvyšší soud civil decision not represented in current corpus snapshot",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 931_99.txt",
+          "identifier_text": "20 Cdo 931/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 931_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACA1A451E495028BC1257A4E00674B9A?openDocument",
+          "score": 1.09,
+          "body_variant": "20 Cdo 91/99"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 991_99.txt",
+          "identifier_text": "20 Cdo 991/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 991_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C66BD5EE5615488C1257A4E006A8F4E?openDocument",
+          "score": 1.09,
+          "body_variant": "20 Cdo 91/99"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 1391_99.txt",
+          "identifier_text": "20 Cdo 1391/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 1391_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB2B7C8EA89AA257C1257A4E0068785B?openDocument",
+          "score": 1.0531,
+          "body_variant": "20 Cdo 91/99"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 1916_99.txt",
+          "identifier_text": "20 Cdo 1916/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 1916_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21F7D534C932A40AC1257A4E00687A93?openDocument",
+          "score": 1.0531,
+          "body_variant": "20 Cdo 91/99"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 1921_99.txt",
+          "identifier_text": "20 Cdo 1921/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 1921_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CC48CA22C7414557C1257A4E0065937F?openDocument",
+          "score": 1.0531,
+          "body_variant": "20 Cdo 91/99"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 2091_99.txt",
+          "identifier_text": "20 Cdo 2091/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 2091_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CED5285F34580F17C1257A4E0065D703?openDocument",
+          "score": 1.0531,
+          "body_variant": "20 Cdo 91/99"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Cdo 2931_99.txt",
+          "identifier_text": "20 Cdo 2931/99",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Cdo 2931_99.txt",
+          "source_iri": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/810D661ECFE7BBA2C1257A4E0067983D?openDocument",
+          "score": 1.0531,
+          "body_variant": "20 Cdo 91/99"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::docref::1624::42",
+      "source_document_id": "30 cdo 1354_2006_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "č.j. 22 Co 412/2005-98",
+      "reference_body": "22 Co 412/2005-98",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Krajský soud v Hradci Králové appellate judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 1412_2005.txt",
+          "identifier_text": "22 Cdo 1412/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 1412_2005.txt",
+          "source_iri": null,
+          "score": 0.9785,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "20 Co 412_2005.txt",
+          "identifier_text": "20 Co 412/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/20 Co 412_2005.txt",
+          "source_iri": null,
+          "score": 0.9687,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 410_2005.txt",
+          "identifier_text": "22 Cdo 410/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 410_2005.txt",
+          "source_iri": null,
+          "score": 0.9425,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 412_2010.txt",
+          "identifier_text": "22 Cdo 412/2010",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 412_2010.txt",
+          "source_iri": null,
+          "score": 0.9425,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 413_2005.txt",
+          "identifier_text": "22 Cdo 413/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 413_2005.txt",
+          "source_iri": null,
+          "score": 0.9425,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 429_2005.txt",
+          "identifier_text": "22 Cdo 429/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 429_2005.txt",
+          "source_iri": null,
+          "score": 0.9425,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 492_2005.txt",
+          "identifier_text": "22 Cdo 492/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 492_2005.txt",
+          "source_iri": null,
+          "score": 0.9425,
+          "body_variant": "22 Co 412/2005-98"
+        },
+        {
+          "source": "ns",
+          "document_id": "22 Cdo 842_2005.txt",
+          "identifier_text": "22 Cdo 842/2005",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/22 Cdo 842_2005.txt",
+          "source_iri": null,
+          "score": 0.9425,
+          "body_variant": "22 Co 412/2005-98"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::docref::418::68",
+      "source_document_id": "621783.txt",
+      "source_document_source": "nss",
+      "reference_text": "sp. zn. 6 Ca 172/2008",
+      "reference_body": "6 Ca 172/2008",
+      "court_hint": "Městského soudu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze file 6 Ca 172/2008 is outside current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "medium",
+      "reason_flags": [
+        "lower administrative court style case number"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "nss",
+          "document_id": "561741.txt",
+          "identifier_text": "6 Ca 312/2008 - 39",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/561741.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/561741",
+          "score": 0.9042,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "613363.txt",
+          "identifier_text": "6 As 12/2008 - 73",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/613363.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/613363",
+          "score": 0.8633,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "563168.txt",
+          "identifier_text": "18 Cad 172/2008 - 61",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/563168.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/563168",
+          "score": 0.8573,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "556661.txt",
+          "identifier_text": "30 Ca 172/2008 - 251",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/556661.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/556661",
+          "score": 0.8573,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "611204.txt",
+          "identifier_text": "6 Ads 12/2008 - 54",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/611204.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/611204",
+          "score": 0.8397,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "611076.txt",
+          "identifier_text": "6 Ads 17/2008 - 34",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/611076.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/611076",
+          "score": 0.8397,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "614426.txt",
+          "identifier_text": "6 Ads 17/2008 - 41",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/614426.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/614426",
+          "score": 0.8397,
+          "body_variant": "6 Ca 172/2008"
+        },
+        {
+          "source": "nss",
+          "document_id": "615661.txt",
+          "identifier_text": "6 Ads 72/2008 - 65",
+          "identifier_kind": "unknown",
+          "origin": "parent_metadata_name",
+          "document_path": "data/imports/parent_bucket_texts/nss/615661.txt",
+          "source_iri": "https://vyhledavac.nssoud.cz/DokumentDetail/Index/615661",
+          "score": 0.8397,
+          "body_variant": "6 Ca 172/2008"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::docref::140::49",
+      "source_document_id": "7 tdo 1449_2003_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "sp. zn. 8 To 357/2002",
+      "reference_body": "8 To 357/2002",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Městský soud v Praze criminal appellate file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "7 Tdo 357_2002.txt",
+          "identifier_text": "7 Tdo 357/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/7 Tdo 357_2002.txt",
+          "source_iri": null,
+          "score": 1.0489,
+          "body_variant": "8 To 357/2002"
+        },
+        {
+          "source": "ns",
+          "document_id": "8 To 59_2002.txt",
+          "identifier_text": "8 To 59/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/8 To 59_2002.txt",
+          "source_iri": null,
+          "score": 1.04,
+          "body_variant": "8 To 357/2002"
+        },
+        {
+          "source": "ns",
+          "document_id": "33 Odo 357_2002.txt",
+          "identifier_text": "33 Odo 357/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/33 Odo 357_2002.txt",
+          "source_iri": null,
+          "score": 0.9457,
+          "body_variant": "8 To 357/2002"
+        },
+        {
+          "source": "ns",
+          "document_id": "8 To 220_2002.txt",
+          "identifier_text": "8 To 220/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/8 To 220_2002.txt",
+          "source_iri": null,
+          "score": 0.9292,
+          "body_variant": "8 To 357/2002"
+        },
+        {
+          "source": "ns",
+          "document_id": "3 To 8_2002.txt",
+          "identifier_text": "3 To 8/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/3 To 8_2002.txt",
+          "source_iri": null,
+          "score": 0.91,
+          "body_variant": "8 To 357/2002"
+        },
+        {
+          "source": "ns",
+          "document_id": "8 Cmo 254_2002.txt",
+          "identifier_text": "8 Cmo 254/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/8 Cmo 254_2002.txt",
+          "source_iri": null,
+          "score": 0.9007,
+          "body_variant": "8 To 357/2002"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tvo 8_2002.txt",
+          "identifier_text": "11 Tvo 8/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tvo 8_2002.txt",
+          "source_iri": null,
+          "score": 0.8523,
+          "body_variant": "8 To 357/2002"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::117::8",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 4 To 111/2003",
+      "reference_body": "4 To 111/2003",
+      "court_hint": "Vrchního soudu",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Vrchní soud v Olomouci criminal file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "4 Tz 111_2003.txt",
+          "identifier_text": "4 Tz 111/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 111_2003.txt",
+          "source_iri": null,
+          "score": 1.1231,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "3 Tdo 111_2003.txt",
+          "identifier_text": "3 Tdo 111/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/3 Tdo 111_2003.txt",
+          "source_iri": null,
+          "score": 1.0489,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 To 61_2003.txt",
+          "identifier_text": "4 To 61/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 To 61_2003.txt",
+          "source_iri": null,
+          "score": 1.04,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 11_2003.txt",
+          "identifier_text": "4 Tz 11/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 11_2003.txt",
+          "source_iri": null,
+          "score": 1.04,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 101_2003.txt",
+          "identifier_text": "4 Tz 101/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 101_2003.txt",
+          "source_iri": null,
+          "score": 1.0062,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 110_2003.txt",
+          "identifier_text": "4 Tz 110/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 110_2003.txt",
+          "source_iri": null,
+          "score": 1.0062,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 112_2003.txt",
+          "identifier_text": "4 Tz 112/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 112_2003.txt",
+          "source_iri": null,
+          "score": 1.0062,
+          "body_variant": "4 To 111/2003"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 113_2003.txt",
+          "identifier_text": "4 Tz 113/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 113_2003.txt",
+          "source_iri": null,
+          "score": 1.0062,
+          "body_variant": "4 To 111/2003"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::4221::13",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č. j. 4 To 54/2003-1280",
+      "reference_body": "4 To 54/2003-1280",
+      "court_hint": "Vrchního soudu",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Vrchní soud v Olomouci appellate judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "4 Tz 54_2003.txt",
+          "identifier_text": "4 Tz 54/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 54_2003.txt",
+          "source_iri": null,
+          "score": 0.9286,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 To 54_2014.txt",
+          "identifier_text": "4 To 54/2014",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 To 54_2014.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 54_2002.txt",
+          "identifier_text": "4 Tz 54/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 54_2002.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 54_2008.txt",
+          "identifier_text": "4 Tz 54/2008",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 54_2008.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tdo 54_2013.txt",
+          "identifier_text": "4 Tdo 54/2013",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tdo 54_2013.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tdo 54_2016.txt",
+          "identifier_text": "4 Tdo 54/2016",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tdo 54_2016.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tdo 54_2022.txt",
+          "identifier_text": "4 Tdo 54/2022",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tdo 54_2022.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "4 To 54/2003-1280"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tdo 54_2023.txt",
+          "identifier_text": "4 Tdo 54/2023",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tdo 54_2023.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "4 To 54/2003-1280"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::4982::15",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č. j. 4 To 111/2003-1355",
+      "reference_body": "4 To 111/2003-1355",
+      "court_hint": "Vrchního soudu",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Vrchní soud v Olomouci appellate judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "4 Tz 111_2003.txt",
+          "identifier_text": "4 Tz 111/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 111_2003.txt",
+          "source_iri": null,
+          "score": 0.9442,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "3 Tdo 111_2003.txt",
+          "identifier_text": "3 Tdo 111/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/3 Tdo 111_2003.txt",
+          "source_iri": null,
+          "score": 0.88,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 To 61_2003.txt",
+          "identifier_text": "4 To 61/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 To 61_2003.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 11_2003.txt",
+          "identifier_text": "4 Tz 11/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 11_2003.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 101_2003.txt",
+          "identifier_text": "4 Tz 101/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 101_2003.txt",
+          "source_iri": null,
+          "score": 0.8397,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 110_2003.txt",
+          "identifier_text": "4 Tz 110/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 110_2003.txt",
+          "source_iri": null,
+          "score": 0.8397,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 112_2003.txt",
+          "identifier_text": "4 Tz 112/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 112_2003.txt",
+          "source_iri": null,
+          "score": 0.8397,
+          "body_variant": "4 To 111/2003-1355"
+        },
+        {
+          "source": "ns",
+          "document_id": "4 Tz 113_2003.txt",
+          "identifier_text": "4 Tz 113/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/4 Tz 113_2003.txt",
+          "source_iri": null,
+          "score": 0.8397,
+          "body_variant": "4 To 111/2003-1355"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::172::20",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č.j. 11 To 60/97-2030",
+      "reference_body": "11 To 60/97-2030",
+      "court_hint": "Vrchního soudu v Praze",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Vrchní soud v Praze appellate judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "11 Tdo 60_2003.txt",
+          "identifier_text": "11 Tdo 60/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tdo 60_2003.txt",
+          "source_iri": null,
+          "score": 0.93,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tvo 60_2002.txt",
+          "identifier_text": "11 Tvo 60/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tvo 60_2002.txt",
+          "source_iri": null,
+          "score": 0.93,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tvo 60_2004.txt",
+          "identifier_text": "11 Tvo 60/2004",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tvo 60_2004.txt",
+          "source_iri": null,
+          "score": 0.93,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2002.txt",
+          "identifier_text": "11 Td 60/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2002.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2008.txt",
+          "identifier_text": "11 Td 60/2008",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2008.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2009.txt",
+          "identifier_text": "11 Td 60/2009",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2009.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2010.txt",
+          "identifier_text": "11 Td 60/2010",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2010.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tcu 60_2000.txt",
+          "identifier_text": "11 Tcu 60/2000",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 60_2000.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "11 To 60/97-2030"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::4126::23",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č.j. 1 1 To G0/97-2030",
+      "reference_body": "11 To 60/97-2030",
+      "court_hint": "Vrchního soudu v Praze",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:OCR-variant reference to Vrchní soud v Praze appellate judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "strong_fuzzy_candidate",
+      "exact_candidates": [],
+      "fuzzy_candidates": [
+        {
+          "source": "ns",
+          "document_id": "11 Tdo 60_2003.txt",
+          "identifier_text": "11 Tdo 60/2003",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tdo 60_2003.txt",
+          "source_iri": null,
+          "score": 0.93,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tvo 60_2002.txt",
+          "identifier_text": "11 Tvo 60/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tvo 60_2002.txt",
+          "source_iri": null,
+          "score": 0.93,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tvo 60_2004.txt",
+          "identifier_text": "11 Tvo 60/2004",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tvo 60_2004.txt",
+          "source_iri": null,
+          "score": 0.93,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2002.txt",
+          "identifier_text": "11 Td 60/2002",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2002.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2008.txt",
+          "identifier_text": "11 Td 60/2008",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2008.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2009.txt",
+          "identifier_text": "11 Td 60/2009",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2009.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Td 60_2010.txt",
+          "identifier_text": "11 Td 60/2010",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Td 60_2010.txt",
+          "source_iri": null,
+          "score": 0.8886,
+          "body_variant": "11 To 60/97-2030"
+        },
+        {
+          "source": "ns",
+          "document_id": "11 Tcu 60_2000.txt",
+          "identifier_text": "11 Tcu 60/2000",
+          "identifier_kind": "spisova_znacka",
+          "origin": "filename_ns",
+          "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 60_2000.txt",
+          "source_iri": null,
+          "score": 0.8633,
+          "body_variant": "11 To 60/97-2030"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::2874::83",
+      "source_document_id": "2016_S0551.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č. j.: MVS-2059/2016",
+      "reference_body": "MVS-2059/2016",
+      "court_hint": "zadavatele",
+      "decision_kind_hint": "dopis",
+      "review_note": "manual_v1:zadavatel outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "uohs source document fallback"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::1533::38",
+      "source_document_id": "29 odo 1019_2006_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "sp. zn. 28 Cm 52/2003",
+      "reference_body": "28 Cm 52/2003",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze commercial proceeding outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::3810::39",
+      "source_document_id": "29 odo 1019_2006_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "sp. zn. 28 \nCm 52/2003",
+      "reference_body": "28 Cm 52/2003",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze commercial proceeding outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::964::37",
+      "source_document_id": "29 odo 1019_2006_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "č. j. 30 Cm 46/2004-29",
+      "reference_body": "30 Cm 46/2004-29",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Městský soud v Praze commercial file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::docref::67::41",
+      "source_document_id": "30 cdo 1354_2006_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "č.j. 6 C 245/2004-70",
+      "reference_body": "6 C 245/2004-70",
+      "court_hint": "soudu prvního stupně",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Okresní soud v Pardubicích civil judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::docref::333::43",
+      "source_document_id": "30 cdo 1363_2022_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "č. j. \n15 C 127/2017-158",
+      "reference_body": "15 C 127/2017-158",
+      "court_hint": "Obvodního soudu",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Obvodní soud pro Prahu 1 civil judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::docref::280::50",
+      "source_document_id": "7 tdo 1449_2003_openElement.txt",
+      "source_document_source": "ns",
+      "reference_text": "sp. zn. 7 T 15/2002",
+      "reference_body": "7 T 15/2002",
+      "court_hint": "Obvodního soudu pro Prahu 2",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Obvodní soud pro Prahu 2 criminal file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::105::1",
+      "source_document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 28 Ca 209/95",
+      "reference_body": "28 Ca 209/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Městský soud v Praze file 28 Ca 209/95 is outside current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "medium",
+      "reason_flags": [
+        "lower administrative court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::252::2",
+      "source_document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č.j. Vl-5500/93/Je",
+      "reference_body": "V1-5500/93/Je",
+      "court_hint": "Katastrálního úřadu P.",
+      "decision_kind_hint": "rozhodnutí",
+      "review_note": "manual_v1:Katastrální úřad file reference outside current corpus",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::6809::3",
+      "source_document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 28 Ca 209/95",
+      "reference_body": "28 Ca 209/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze file 28 Ca 209/95 is outside current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "medium",
+      "reason_flags": [
+        "lower administrative court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::7511::4",
+      "source_document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 28 Ca 209/95",
+      "reference_body": "28 Ca 209/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze file 28 Ca 209/95 is outside current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "medium",
+      "reason_flags": [
+        "lower administrative court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::docref::7669::5",
+      "source_document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č.j. V1-5500/93/Je",
+      "reference_body": "V1-5500/93/Je",
+      "court_hint": "Katastrálního úřadu P.",
+      "decision_kind_hint": "rozhodnutí",
+      "review_note": "manual_v1:Katastrální úřad file reference outside current corpus",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::docref::360::7",
+      "source_document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 24 C 76/95",
+      "reference_body": "24 C 76/95",
+      "court_hint": "Obvodního soudu pro Prahu 4",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Obvodní soud pro Prahu 4 civil file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::docref::90::6",
+      "source_document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "čj. 36 Co 13/97 - 24",
+      "reference_body": "36 Co 13/97 - 24",
+      "court_hint": "Městského soudu",
+      "decision_kind_hint": "usnesení",
+      "review_note": "manual_v1:reference to Městský soud v Praze appellate file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "ns agenda or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::1620::11",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 43 T 3/2001",
+      "reference_body": "43 T 3/2001",
+      "court_hint": "Krajského soudu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Krajský soud v Brně criminal file 43 T 3/2001 is outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::194::9",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 43 T 3/2001",
+      "reference_body": "43 T 3/2001",
+      "court_hint": "Krajského soudu",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Krajský soud v Brně criminal file 43 T 3/2001 is outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::3218::12",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č. j. 43 T 3/2001-1261",
+      "reference_body": "43 T 3/2001-1261",
+      "court_hint": "Krajského soudu",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Krajský soud v Brně criminal judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::4357::14",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "č. j. 43 T 3/2001-1321",
+      "reference_body": "43 T 3/2001-1321",
+      "court_hint": "Krajského soudu",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Krajský soud v Brně criminal judgment outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::592::10",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 34 Cm 139/2002",
+      "reference_body": "34 Cm 139/2002",
+      "court_hint": "Krajského soudu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Krajský soud v Brně commercial file 34 Cm 139/2002 is outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::docref::6628::19",
+      "source_document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 34 Cm 139/2002",
+      "reference_body": "34 Cm 139/2002",
+      "court_hint": "Krajského soudu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Krajský soud v Brně commercial file 34 Cm 139/2002 is outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::1377::22",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn",
+      "reference_body": "46 T 2/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze criminal file 46 T 2/95, outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::14795::26",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 46 T 2/95",
+      "reference_body": "46 T 2/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze criminal file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::421::21",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 46 T 2/95",
+      "reference_body": "46 T 2/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Městský soud v Praze criminal file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::6790::24",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 46 T 2/95",
+      "reference_body": "46 T 2/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "rozsudek",
+      "review_note": "manual_v1:reference to Městský soud v Praze criminal file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::docref::6889::25",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "sp. zn. 46 T 2/95",
+      "reference_body": "46 T 2/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:reference to Městský soud v Praze criminal file outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::gap::1386::2",
+      "source_document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source_document_source": "nalus",
+      "reference_text": "46 T 2/95",
+      "reference_body": "46 T 2/95",
+      "court_hint": "Městského soudu v Praze",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:bare criminal case file 46 T 2/95 refers outside current corpus",
+      "likely_sources": [
+        "ns"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "lower civil/criminal court style case number"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis6543.txt::docref::1119::104",
+      "source_document_id": "pis6543.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. 26/7/99/205",
+      "reference_body": "26/7/99/205",
+      "court_hint": "",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:zadavatel outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "uohs source document fallback"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis6543.txt::docref::2417::106",
+      "source_document_id": "pis6543.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. P 29/99-150/938/99-jl",
+      "reference_body": "P 29/99-150/938/99-jl",
+      "court_hint": "Úřadu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:UOHS outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis6543.txt::docref::2498::107",
+      "source_document_id": "pis6543.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. P 29/99-150/1332/99-jl",
+      "reference_body": "P 29/99-150/1332/99-jl",
+      "court_hint": "",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:UOHS outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "uohs source document fallback"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis6543.txt::docref::657::100",
+      "source_document_id": "pis6543.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. P 29/99-150/938/99-jl",
+      "reference_body": "P 29/99-150/938/99-jl",
+      "court_hint": "Úřadu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:UOHS outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis6543.txt::docref::702::101",
+      "source_document_id": "pis6543.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. P 29/99-150/1037/99-jl",
+      "reference_body": "P 29/99-150/1037/99-jl",
+      "court_hint": "Úřadu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:UOHS outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis6543.txt::docref::749::102",
+      "source_document_id": "pis6543.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. P 29/99-150/1332/99-jl",
+      "reference_body": "P 29/99-150/1332/99-jl",
+      "court_hint": "Úřadu",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:UOHS outgoing letter reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "uohs-style body or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis8046.txt::docref::1349::109",
+      "source_document_id": "pis8046.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. 157-161/2001",
+      "reference_body": "157-161/2001",
+      "court_hint": "",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:outgoing municipal notice reference, not represented as a corpus target document",
+      "likely_sources": [
+        "uohs"
+      ],
+      "priority": "low",
+      "reason_flags": [
+        "uohs source document fallback"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "pis8046.txt::docref::4731::110",
+      "source_document_id": "pis8046.txt",
+      "source_document_source": "uohs",
+      "reference_text": "č.j. 2 A 5/99",
+      "reference_body": "2 A 5/99",
+      "court_hint": "Vrchního soudu v Olomouci",
+      "decision_kind_hint": "rozhodnutí",
+      "review_note": "manual_v1:reference to external court decision 2 A 5/99 not represented in current corpus",
+      "likely_sources": [
+        "nss"
+      ],
+      "priority": "high",
+      "reason_flags": [
+        "nss agenda or court hint"
+      ],
+      "suspicion": "no_candidate_found",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "237253.txt::docref::119::57",
+      "source_document_id": "237253.txt",
+      "source_document_source": "nss",
+      "reference_text": "č. j. OAM-1804/VL-11-C10-2003",
+      "reference_body": "OAM-1804/VL-11-C10-2003",
+      "court_hint": "",
+      "decision_kind_hint": "rozhodnutí",
+      "review_note": "manual_v1:Ministry of Interior administrative decision reference, not represented as a corpus target document",
+      "likely_sources": [],
+      "priority": "skip",
+      "reason_flags": [],
+      "suspicion": "outside_priority_scope",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    },
+    {
+      "task_id": "621783.txt::docref::261::67",
+      "source_document_id": "621783.txt",
+      "source_document_source": "nss",
+      "reference_text": "sp. zn. 0801923",
+      "reference_body": "0801923",
+      "court_hint": "",
+      "decision_kind_hint": "",
+      "review_note": "manual_v1:administrative case-file reference of Czech Environmental Inspectorate, not a target decision in our corpus",
+      "likely_sources": [],
+      "priority": "skip",
+      "reason_flags": [],
+      "suspicion": "outside_priority_scope",
+      "exact_candidates": [],
+      "fuzzy_candidates": []
+    }
+  ]
+}

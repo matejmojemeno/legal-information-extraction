@@ -1,0 +1,1216 @@
+{
+  "result_count": 882,
+  "decision_counts_by_type": {
+    "docref_link": {
+      "agree": 108,
+      "disagree": 3,
+      "uncertain": 1
+    },
+    "docref_span": {
+      "agree": 100,
+      "disagree": 12
+    },
+    "law": {
+      "agree": 643,
+      "disagree": 15
+    }
+  },
+  "decision_counts_by_source": {
+    "nalus": {
+      "agree": 148,
+      "uncertain": 1,
+      "disagree": 5
+    },
+    "ns": {
+      "agree": 251,
+      "disagree": 10
+    },
+    "nss": {
+      "agree": 150,
+      "disagree": 9
+    },
+    "uohs": {
+      "agree": 302,
+      "disagree": 6
+    }
+  },
+  "issue_counts": {
+    "none": 851,
+    "availability_disagreement": 3,
+    "insufficient_evidence": 1,
+    "false_positive": 4,
+    "span_boundary": 14,
+    "wrong_target": 5,
+    "wrong_classification": 2,
+    "wrong_law_id": 1,
+    "other": 1
+  },
+  "manual_review_count": 31,
+  "manual_review_rows": [
+    {
+      "audit_task_id": "docref_link::609828.txt::3283",
+      "audit_task_type": "docref_link",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "sp. zn. 3 Ao 1/2007",
+        "start_char": 3283,
+        "end_char": 3302,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "3 Ao 1/2007",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu"
+      },
+      "current_gold": {
+        "target_availability": "unknown",
+        "link_scope": "unknown",
+        "target_document_id": null,
+        "review_note": "manual_v2:in-corpus NSS proceeding with multiple exact candidates (3 Ao 1/2007 - 44, -91, -210); the local text names the proceeding but does not safely choose one target"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "availability_disagreement",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": "same_proceeding_only",
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The gold review_note states 'in-corpus NSS proceeding with multiple exact candidates (3 Ao 1/2007 - 44, -91, -210); the local text names the proceeding but does not safely choose one target'. This description perfectly matches the definition of 'same_proceeding_only', where a reference points to a proceeding with multiple documents in the corpus and the context does not disambiguate. The current label 'unknown' is inconsistent with this evidence.",
+        "manual_review_note": "The gold review note provides clear evidence that this reference points to a proceeding with multiple documents in the corpus, which should be labeled 'same_proceeding_only', not 'unknown'. Please update the availability label."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777838196,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_link::724902.txt::5920",
+      "audit_task_type": "docref_link",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "č. j. 7 Afs 212/2006-76",
+        "start_char": 5920,
+        "end_char": 5943,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "7 Afs 212/2006-76",
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího správního soudu"
+      },
+      "current_gold": {
+        "target_availability": "exact_in_corpus",
+        "link_scope": "exact_decision",
+        "target_document_id": "610906.txt",
+        "review_note": "manual_v2:accepted exact NSS link; the source context gives NSS and the date 19. 2. 2008, which matches 7 Afs 212/2006 in the production corpus even though the trailing decision number differs in metadata"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "availability_disagreement",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": "same_proceeding_only",
+        "suggested_target_document_id": "610906.txt",
+        "confidence": 1.0,
+        "evidence": "The reference text cites 'č. j. 7 Afs 212/2006-76', but the gold target metadata for document '610906.txt' shows the identifier '7 Afs 212/2006 - 74'. While the proceeding root ('7 Afs 212/2006') and decision date ('19. 2. 2008') match the context, the specific document suffix differs. This points to a document from the same proceeding, not the exact document cited.",
+        "manual_review_note": "The current gold label is 'exact_in_corpus', but there is a mismatch between the cited suffix '-76' and the target's suffix '-74'. Based on audit instructions, this should be 'same_proceeding_only'. Please review if this level of discrepancy is acceptable for an exact match."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777838327,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_link::GetText.aspx_sz_2-111-04.txt::5131",
+      "audit_task_type": "docref_link",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "reference": {
+        "reference_text": "č. j. 8 Tdo 332/2004-1417",
+        "start_char": 5131,
+        "end_char": 5156,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "8 Tdo 332/2004-1417",
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího soudu"
+      },
+      "current_gold": {
+        "target_availability": "exact_in_corpus",
+        "link_scope": "exact_decision",
+        "target_document_id": "8 Tdo 332_2004.txt",
+        "review_note": "manual_v2:accepted exact NS link; the source context gives Nejvyšší soud and the date 17. 6. 2004, which matches 8 Tdo 332/2004 in the production corpus though the tail -1417 is absent from metadata"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "availability_disagreement",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": "same_proceeding_only",
+        "suggested_target_document_id": "8 Tdo 332_2004.txt",
+        "confidence": 1.0,
+        "evidence": "The reference text 'č. j. 8 Tdo 332/2004-1417' is more specific than the identifier of the gold target, '8 Tdo 332/2004', as provided in the metadata. The reference includes the tail '-1417' which is absent in the target's judicate name. Based on the audit instructions, when the cited identifier is more specific than the candidate identifier, the correct label is 'same_proceeding_only'.",
+        "manual_review_note": "The current gold availability is 'exact_in_corpus', but the reference is more specific than the target's identifier. Please review if 'same_proceeding_only' is the more appropriate label here."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777838551,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_link::GetText.aspx_sz_1-293-96.txt::6809",
+      "audit_task_type": "docref_link",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "reference": {
+        "reference_text": "sp. zn. 28 Ca 209/95",
+        "start_char": 6809,
+        "end_char": 6829,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Ca 209/95",
+        "decision_kind_hint": "",
+        "court_hint": "Městského soudu v Praze"
+      },
+      "current_gold": {
+        "target_availability": "not_in_corpus",
+        "link_scope": "not_in_corpus",
+        "target_document_id": null,
+        "review_note": "manual_v1:reference to Městský soud v Praze file 28 Ca 209/95 is outside current corpus"
+      },
+      "result": {
+        "audit_decision": "uncertain",
+        "issue_type": "insufficient_evidence",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 0.8,
+        "evidence": "The current gold label is `not_in_corpus` for the reference `sp. zn. 28 Ca 209/95`. However, the list of `candidate_targets` is empty. The audit instructions state that an empty candidate list indicates a retrieval failure and is not sufficient evidence on its own to conclude that a document is not in the corpus. Without any candidates or metadata, I cannot verify the gold label.",
+        "manual_review_note": "The candidate list for this reference is empty. Please manually search the corpus for `sp. zn. 28 Ca 209/95` from the Municipal Court in Prague to determine if the `not_in_corpus` label is correct or if this was a system retrieval error."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777838408,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::2016_S0551.txt::5159",
+      "audit_task_type": "docref_span",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "reference": {
+        "reference_text": "sp. zn. S551/2016/VZ",
+        "start_char": 5159,
+        "end_char": 5179,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "S551/2016/VZ",
+        "decision_kind_hint": "",
+        "court_hint": "Úřadu"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:uohs_case_reference"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "false_positive",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The text states that the Office initiated administrative proceedings under the file number 'sp. zn. S551/2016/VZ'. This file number corresponds directly to the document's own ID, '2016_S0551.txt'. As per the audit instructions, the current document's own identifier is out of scope and should not be annotated as a document reference.",
+        "manual_review_note": "This appears to be a self-reference. The file number S551/2016 is the identifier for the current proceeding and document. Please confirm that this should be treated as a false positive."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777838939,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::23 cdo 1135_2022_openElement.txt::83",
+      "audit_task_type": "docref_span",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "reference_text": "č. j.",
+        "start_char": 83,
+        "end_char": 88,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Okresního soudu ve Znojmě"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:ocr_truncated_docref"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span is \"č. j.\", but it is immediately followed by the number \"7\". The number is part of the case file identifier and should be included in the span. The correct span should be \"č. j. 7\".",
+        "manual_review_note": "The annotation only covers the prefix 'č. j.'. Please review and extend the span to include the subsequent number '7', which is part of the case file number."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839104,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::29 icdo 2_2022_openElement.txt::3225",
+      "audit_task_type": "docref_span",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "reference_text": "sen. zn. 29 ICdo 13/2021. \n10",
+        "start_char": 3225,
+        "end_char": 3254,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "sen. zn.",
+        "reference_body": "29 ICdo 13/2021",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího soudu"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:trimmed_sentence_number"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span \"sen. zn. 29 ICdo 13/2021. \\n10\" includes the number of the following paragraph, \"10\", which is extraneous to the case file number.",
+        "manual_review_note": "The span is incorrect as it includes the number of the next paragraph ('10'). The span should be shortened to end after '2021' or the period following it."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839260,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::29 icdo 2_2022_openElement.txt::44",
+      "audit_task_type": "docref_span",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "reference_text": "č. j",
+        "start_char": 44,
+        "end_char": 48,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "74 ICm XY",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu v Brně"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:anonymized_case_number"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span `č. j` only covers the prefix of the case number. The full reference in the text is `č. j 74 ICm XY`. The span should be extended to include the entire identifier.",
+        "manual_review_note": "The annotation only captures the prefix 'č. j.'. Please review and extend the span to cover the full case number, which appears to be 'č. j 74 ICm XY'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839213,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::29 icdo 2_2022_openElement.txt::778",
+      "audit_task_type": "docref_span",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "reference_text": "č. j.",
+        "start_char": 778,
+        "end_char": 783,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "74 ICm XY, 13 VSOL XY (KSBR 27 INS XY)",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Vrchního soudu v Olomouci"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:anonymized_combined_case_number"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span 'č. j.' only covers the prefix for the case number. The full reference, based on the surrounding text 'Vrchní soud v Olomouci rozsudkem ze dne 5. října 2021, č. j. 74 ICm XY, 13 VSOL XY (KSBR 27 INS XY):', should include the entire case number that follows.",
+        "manual_review_note": "The annotation span is too short. It should be extended to cover the full case number 'č. j. 74 ICm XY, 13 VSOL XY (KSBR 27 INS XY)'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839226,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::609828.txt::3759",
+      "audit_task_type": "docref_span",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "sp. zn. 4 Ao 2/2007",
+        "start_char": 3759,
+        "end_char": 3778,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "4 Ao 2/2007",
+        "decision_kind_hint": "",
+        "court_hint": "Nejvyššího správního soudu"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:nss_case_reference"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "false_positive",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The context phrase 'o projednávané věci vedené pod sp. zn. 4 Ao 2/2007' translates to 'on the matter being heard under file no. 4 Ao 2/2007'. This indicates that the reference is to the current document itself, which is out of scope according to the audit instructions.",
+        "manual_review_note": "Please verify that the phrase 'projednávané věci vedené pod' marks a self-reference. If so, this annotation is a false positive and should be removed."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839486,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::609828.txt::9988",
+      "audit_task_type": "docref_span",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "3 Ao 1/2007",
+        "start_char": 9988,
+        "end_char": 9999,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "",
+        "reference_body": "3 Ao 1/2007",
+        "decision_kind_hint": "",
+        "court_hint": "Nejvyššího správního soudu"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:bare_nss_reference"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "false_positive",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The reference '3 Ao 1/2007' appears to be the case number of the current document. The document header states the proposal was received on 12. 1. 2007, which matches the year in the case number. The context discusses the opinion of the extended panel in this specific case ('ve věci 3 Ao 1/2007'). According to the audit instructions, the current document's own identifier is out of scope.",
+        "manual_review_note": "Please verify that '3 Ao 1/2007' is the case number for the source document '609828.txt'. If it is a self-reference, it should be marked as a false positive."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839532,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::724902.txt::11856",
+      "audit_task_type": "docref_span",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "č. j. 14 A 41/2022",
+        "start_char": 11856,
+        "end_char": 11874,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 41/2022-209",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Městského soudu v Praze"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:court_decision_reference"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The text immediately following the annotated span is '‑209'. This is part of the full case number ('číslo jednací'). The annotation should be extended to include it. The full reference in the text is 'č. j. 14 A 41/2022‑209'.",
+        "manual_review_note": "Please review whether the span should be extended to include the trailing '-209', which appears to be part of the case number."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839633,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::724902.txt::13360",
+      "audit_task_type": "docref_span",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "č. j. 14 A 41/2022",
+        "start_char": 13360,
+        "end_char": 13378,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 41/2022-209",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Městského soudu v Praze"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:court_decision_reference"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span is 'č. j. 14 A 41/2022', but the text immediately following it is '‑209'. The full case file number appears to be 'č. j. 14 A 41/2022‑209'. The annotation is therefore incomplete.",
+        "manual_review_note": "The annotation appears to have truncated the case file number. The text reads '...roti rozsudku č. j. 14 A 41/2022‑209, kterého se dovolávají...'. Please review whether the span should be extended to include '‑209'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839645,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::724902.txt::8769",
+      "audit_task_type": "docref_span",
+      "document_id": "724902.txt",
+      "source": "nss",
+      "reference": {
+        "reference_text": "č. j. 14 A 41/2022",
+        "start_char": 8769,
+        "end_char": 8787,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č. j.",
+        "reference_body": "14 A 41/2022-209",
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Městského soudu v Praze"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:court_decision_reference"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span 'č. j. 14 A 41/2022' is incomplete. The context shows the full reference is 'č. j. 14 A 41/2022‑209'. The text immediately following the annotated span is '‑209.', which is part of the file number and should be included in the span.",
+        "manual_review_note": "The annotated span appears to be a partial file number. The text immediately following it is '‑209.', which seems to be the rest of the identifier. Please review whether the span should be extended to include '‑209'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839621,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::GetText.aspx_sz_3-444-97.txt::1377",
+      "audit_task_type": "docref_span",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "reference": {
+        "reference_text": "sp. zn",
+        "start_char": 1377,
+        "end_char": 1383,
+        "reference_type": "spisova_znacka",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "46 T 2/95",
+        "decision_kind_hint": "",
+        "court_hint": "Městského soudu v Praze"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:ocr_normalized_docref"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span `sp. zn` only captures the prefix of the file number. The context shows the full reference is `sp. zn . 46 T 2/95`. The span should be extended to include the entire identifier.",
+        "manual_review_note": "The current span only covers the prefix 'sp. zn'. Please review and extend the span to include the full file number 'sp. zn . 46 T 2/95'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777839882,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "docref_span::pis6543.txt::911",
+      "audit_task_type": "docref_span",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "reference": {
+        "reference_text": "č.j. S 113/99-150/1747/99-jl",
+        "start_char": 911,
+        "end_char": 939,
+        "reference_type": "cislo_jednaci",
+        "reference_prefix": "č.j.",
+        "reference_body": "S 113/99-150/1747/99-jl",
+        "decision_kind_hint": "",
+        "court_hint": "Úřadu"
+      },
+      "current_gold": {
+        "classification": "document_reference",
+        "note": "manual_v1:uohs_docref"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "false_positive",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 0.95,
+        "evidence": "The text states: 'Zahájení správního řízení oznámil orgán dohledu zadavateli... dopisem č.j. S 113/99-150/1747/99-jl'. This indicates that the referenced file number is for the letter that initiated the very administrative proceeding being discussed in the current document. According to the audit instructions, 'the current document's own identifier are out of scope'. This reference appears to be the identifier for the current case, making it a false positive.",
+        "manual_review_note": "Please verify if 'č.j. S 113/99-150/1747/99-jl' is the file number of the current proceeding. If so, it should be considered a false positive as per the instructions regarding self-references."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777840021,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::2016_S0551.txt::15383::section",
+      "audit_task_type": "law",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "reference": {
+        "citation_text": "§ 56",
+        "citation_type": "section",
+        "start_char": 15383,
+        "end_char": 15387,
+        "detail_number": null,
+        "detail_odst": [
+          "3",
+          "5"
+        ],
+        "detail_pism": [
+          "a",
+          "c"
+        ]
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "137/2006 Sb.",
+        "law_name_text": "zákon o veřejných zakázkách",
+        "declared_alias_text": "zákon",
+        "note": "manual_v1:verejne_zakazky_2006"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_target",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span '§ 56' at character 15383 is immediately followed by 'odst. 3 písm. a) zákona'. The gold annotation incorrectly includes details from other nearby citations, listing 'odst: [\"3\", \"5\"]' and 'pism: [\"a\", \"c\"]'. The correct details for this specific instance are odst. 3, pism. a).",
+        "manual_review_note": "The gold annotation appears to have incorrectly aggregated details (odst., pism.) from multiple nearby mentions of § 56. Please verify if the details for this specific citation instance should be only 'odst. 3 písm. a)'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777840897,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::2016_S0551.txt::22510::section",
+      "audit_task_type": "law",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "reference": {
+        "citation_text": "§ 56",
+        "citation_type": "section",
+        "start_char": 22510,
+        "end_char": 22514,
+        "detail_number": null,
+        "detail_odst": [
+          "3",
+          "5"
+        ],
+        "detail_pism": [
+          "a"
+        ]
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "137/2006 Sb.",
+        "law_name_text": "zákon o veřejných zakázkách",
+        "declared_alias_text": "zákon",
+        "note": "manual_v1:verejne_zakazky_2006"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_target",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The context contains two distinct citations: \"§ 56 odst. 5 zákona\" and \"§ 56 odst. 3 písm. a) zákona\". The current annotation for the first instance of \"§ 56\" incorrectly merges the details from both citations, listing `detail_odst: [\"3\", \"5\"]` and `detail_pism: [\"a\"]`. The correct details for the annotated span should only be `odst. 5`.",
+        "manual_review_note": "This annotation appears to incorrectly merge details from two separate citations within the same sentence: `§ 56 odst. 5` and `§ 56 odst. 3 písm. a)`. The annotation should be corrected to only reflect the details of the first citation (`odst. 5`), and a separate annotation should be created for the second citation."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777841038,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::2016_S0551.txt::6888::section",
+      "audit_task_type": "law",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "reference": {
+        "citation_text": "§ 2",
+        "citation_type": "section",
+        "start_char": 6888,
+        "end_char": 6891,
+        "detail_number": null,
+        "detail_odst": [
+          "1",
+          "2"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "137/2006 Sb.",
+        "law_name_text": "zákon o veřejných zakázkách",
+        "declared_alias_text": "zákon",
+        "note": "manual_v1:verejne_zakazky_2006"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_target",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated citation is \"§ 2 zákona\". The gold annotation includes `detail_odst: [\"1\", \"2\"]`. However, these details are not part of this specific citation. The context shows that `odst. 1` and `odst. 2` are cited in separate, subsequent sentences: \"18. Podle § 2 odst. 1 zákona...\" and \"19. Podle § 2 odst. 2...\". The details from these later citations appear to have been incorrectly aggregated into the annotation for the first, more general citation.",
+        "manual_review_note": "The annotation for the text \"§ 2\" incorrectly includes details for `odst. 1` and `odst. 2`. These details are derived from separate citations in the following paragraphs (18 and 19). Please review whether the `detail_odst` should be removed from this specific annotation."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777840712,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::23 cdo 1135_2022_openElement.txt::12089::section",
+      "audit_task_type": "law",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "citation_text": "§ 85",
+        "citation_type": "section",
+        "start_char": 12089,
+        "end_char": 12093,
+        "detail_number": null,
+        "detail_odst": [],
+        "detail_pism": [
+          "j"
+        ]
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "128/2000 Sb.",
+        "law_name_text": "zákon o obcích",
+        "declared_alias_text": "zákon o obcích",
+        "note": "manual_v1:zakon_o_obcich"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_target",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotation at character 12089 is for the text \"§ 85\". However, the parsed details of the reference incorrectly include `detail_pism: [\"j\"]`. The text at this specific location does not mention any letter ('písmeno'). A nearby, but distinct, citation in the context reads \"[např. § 85 písm. j)]\", which may have caused the error.",
+        "manual_review_note": "The annotation incorrectly includes `písm. j)`. The text at the specified location is only \"§ 85\". Please review and remove the incorrect detail from the reference."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777841969,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::237253.txt::1511::article",
+      "audit_task_type": "law",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "reference": {
+        "citation_text": "čl. 65",
+        "citation_type": "article",
+        "start_char": 1511,
+        "end_char": 1517,
+        "detail_number": "65",
+        "detail_odst": [],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "non_citation",
+        "law_id": null,
+        "law_name_text": "Příručka procedur a kritérií pro přiznání postavení uprchlíka",
+        "declared_alias_text": null,
+        "note": "manual_v1:methodological_handbook"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_classification",
+        "suggested_classification": "foreign",
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The text \"čl. 65\" is explicitly linked to the document \"metodologické Příručky procedur a kritérií pro přiznání postavení uprchlíka\". This constitutes a citation to a specific provision of a document, even if it's not a formal Czech law. Therefore, classifying it as 'non_citation' is incorrect. The document appears to be an international or methodological text, making 'foreign' the appropriate classification.",
+        "manual_review_note": "The annotation incorrectly classifies a clear citation to an article of a handbook as 'non_citation'. Please change the classification to 'foreign'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777842432,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::29 odo 1019_2006_openElement.txt::1273::section",
+      "audit_task_type": "law",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "citation_text": "§ 83",
+        "citation_type": "section",
+        "start_char": 1273,
+        "end_char": 1277,
+        "detail_number": null,
+        "detail_odst": [],
+        "detail_pism": [
+          "d"
+        ]
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "99/1963 Sb.",
+        "law_name_text": "občanský soudní řád",
+        "declared_alias_text": "o. s. ř.",
+        "note": "manual_v1:osr"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span \"§ 83\" is part of a more specific citation in the text: \"§ 83 odst. 2 písm. d) zák. č. 99/1963 Sb., občanského soudního řádu\". While the law ID is correct for the section, the annotation span is incomplete and should likely cover the entire reference.",
+        "manual_review_note": "The annotation only captures the section number, but the full reference in the text is \"§ 83 odst. 2 písm. d)\". Please check if the span should be extended to include the paragraph and letter."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777842865,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::29 odo 1019_2006_openElement.txt::2077::section",
+      "audit_task_type": "law",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "citation_text": "§ 183c",
+        "citation_type": "section",
+        "start_char": 2077,
+        "end_char": 2083,
+        "detail_number": null,
+        "detail_odst": [
+          "5"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "513/1991 Sb.",
+        "law_name_text": "obchodní zákoník",
+        "declared_alias_text": "obch. zák.",
+        "note": "manual_v1:obch_zak"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span is \"§ 183c\", but the full reference in the text is \"§ 183c odst. 5 obch. zák.\". The annotation incorrectly omits \"odst. 5\" from the span, even though it correctly parses this detail into the `detail_odst` field.",
+        "manual_review_note": "The annotated span for the citation is \"§ 183c\", but the text immediately following it is \"odst. 5\". The `detail_odst` field correctly captures this, but the span itself is incomplete. Please review whether the span should be extended to \"§ 183c odst. 5\"."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777842902,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::30 cdo 1354_2006_openElement.txt::11726::section",
+      "audit_task_type": "law",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "citation_text": "§ 159a",
+        "citation_type": "section",
+        "start_char": 11726,
+        "end_char": 11732,
+        "detail_number": null,
+        "detail_odst": [
+          "3",
+          "4"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "99/1963 Sb.",
+        "law_name_text": "občanský soudní řád",
+        "declared_alias_text": "o.s.ř.",
+        "note": "manual_v1:osr"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_target",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated citation is '§ 159a', which is immediately followed by 'o.s.ř. odst. 3'. This indicates a reference to paragraph 3 only. The current gold annotation incorrectly includes paragraph 4, which belongs to a separate, subsequent citation ('Podle ustanovení § 159a o.s.ř. odst. 4...').",
+        "manual_review_note": "The annotation incorrectly specifies `detail_odst` as ['3', '4']. Based on the context, this specific citation refers only to paragraph 3. Please verify and correct the target details."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777843844,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::30 cdo 1354_2006_openElement.txt::7933::section",
+      "audit_task_type": "law",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "citation_text": "§ 237",
+        "citation_type": "section",
+        "start_char": 7933,
+        "end_char": 7938,
+        "detail_number": null,
+        "detail_odst": [
+          "1"
+        ],
+        "detail_pism": [
+          "a",
+          "b"
+        ]
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "99/1963 Sb.",
+        "law_name_text": "občanský soudní řád",
+        "declared_alias_text": "o.s.ř.",
+        "note": "manual_v1:osr"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span '§ 237' is an incomplete part of the full citation present in the text, which is '§ 237 odst. 1 písm. b) o.s.ř.'.",
+        "manual_review_note": "The annotation only covers the section number, but the text contains a more specific reference including paragraph and letter ('§ 237 odst. 1 písm. b) o.s.ř.'). The span should be extended to cover the full citation. The classification and law_id are correct for the full citation."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777843579,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::30 cdo 1354_2006_openElement.txt::8624::section",
+      "audit_task_type": "law",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "reference": {
+        "citation_text": "§ 242",
+        "citation_type": "section",
+        "start_char": 8624,
+        "end_char": 8629,
+        "detail_number": null,
+        "detail_odst": [
+          "3"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "99/1963 Sb.",
+        "law_name_text": "občanský soudní řád",
+        "declared_alias_text": "o.s.ř.",
+        "note": "manual_v1:osr"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated span is '§ 242', but the extracted details include 'odst. 3'. The text immediately following the span is ' odst. 3 o.s.ř.)'. This indicates that the full citation is '§ 242 odst. 3' and the annotated span is incomplete.",
+        "manual_review_note": "The annotation span covers only '§ 242', but the extracted details include 'odst. 3', which is found in the text immediately following the span. Please review whether the span should be extended to include 'odst. 3'."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777843670,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::609828.txt::9470::section",
+      "audit_task_type": "law",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "reference": {
+        "citation_text": "§ 71",
+        "citation_type": "section",
+        "start_char": 9470,
+        "end_char": 9474,
+        "detail_number": null,
+        "detail_odst": [
+          "4"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "non_citation",
+        "law_id": null,
+        "law_name_text": null,
+        "declared_alias_text": null,
+        "note": "manual_v1:nss_rules_of_procedure"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_classification",
+        "suggested_classification": "czech_resolved",
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The text immediately following the citation span is 'odst. 4 jednacího řádu Nejvyššího správního soudu', which explicitly names the legal document being cited. Therefore, the classification 'non_citation' is incorrect.",
+        "manual_review_note": "The current classification is 'non_citation', but the context clearly identifies the citation as belonging to the 'jednací řád Nejvyššího správního soudu' (Rules of Procedure of the Supreme Administrative Court). This should be re-classified as 'czech_resolved' and the appropriate law_id should be assigned."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777844413,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::GetText.aspx_sz_1-293-96.txt::2724::section",
+      "audit_task_type": "law",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "reference": {
+        "citation_text": "§ 5",
+        "citation_type": "section",
+        "start_char": 2724,
+        "end_char": 2727,
+        "detail_number": null,
+        "detail_odst": [
+          "3"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "265/1992 Sb.",
+        "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+        "declared_alias_text": "zákon č. 265/1992 Sb.",
+        "note": "manual_v1:katastralni_vklady"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "wrong_law_id",
+        "suggested_classification": "czech_resolved",
+        "suggested_law_id": "90/1996 Sb.",
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The text immediately following the citation is \"odst. 3 zákona č. 90/1996 Sb.\". This explicitly links the reference \"§ 5\" to law 90/1996 Sb., not 265/1992 Sb. as annotated in the current gold label.",
+        "manual_review_note": "The current gold annotation assigns law_id 265/1992 Sb. However, the surrounding text states '...vycházel z ustanovení § 5 odst. 3 zákona č. 90/1996 Sb.', which clearly indicates the law is 90/1996 Sb. Please review."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777846229,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::GetText.aspx_sz_1-293-96.txt::6529::section",
+      "audit_task_type": "law",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "reference": {
+        "citation_text": "§ 5",
+        "citation_type": "section",
+        "start_char": 6529,
+        "end_char": 6532,
+        "detail_number": null,
+        "detail_odst": [
+          "3"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "265/1992 Sb.",
+        "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+        "declared_alias_text": "zákon č. 265/1992 Sb.",
+        "note": "manual_v1:katastralni_vklady"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "other",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The provided reference object specifies `detail_odst: [\"3\"]`. However, the text at the specified location is '...§ 5 odst. 1 zákona č. 265/1992 Sb...'. While the law_id is correct for this location, the parsed details in the reference object are inconsistent with the source text.",
+        "manual_review_note": "The reference object's `detail_odst` is '3', which contradicts the source text 'odst. 1' at the annotation's location. Please verify if the annotation is misplaced (it might belong to an earlier mention of '§ 5 odst. 3') or if only the parsed details are incorrect."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777846409,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::GetText.aspx_sz_3-444-97.txt::4414::section",
+      "audit_task_type": "law",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "reference": {
+        "citation_text": "§ 21",
+        "citation_type": "section",
+        "start_char": 4414,
+        "end_char": 4418,
+        "detail_number": "211",
+        "detail_odst": [
+          "2"
+        ],
+        "detail_pism": [
+          "a"
+        ]
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "141/1961 Sb.",
+        "law_name_text": "trestní řád",
+        "declared_alias_text": "trestního řádu",
+        "note": "manual_v1:ocr_normalized_trestni_rad"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated citation_text is '§ 21', but the text in the document is '§ 211 odst. 2 písm. a trestního řádu'. The annotation span is too short and omits '1 odst. 2 písm. a'. While the parser correctly identified the section number as '211' in the details, the span itself is incorrect.",
+        "manual_review_note": "The annotation span is incorrect. The text is '§ 211 odst. 2 písm. a'. Please adjust the span to cover the full reference."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777846942,
+      "api_error": null
+    },
+    {
+      "audit_task_id": "law::pis7143.txt::15939::section",
+      "audit_task_type": "law",
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "reference": {
+        "citation_text": "§ 8a",
+        "citation_type": "section",
+        "start_char": 15939,
+        "end_char": 15943,
+        "detail_number": "8a",
+        "detail_odst": [
+          "2"
+        ],
+        "detail_pism": []
+      },
+      "current_gold": {
+        "classification": "czech_resolved",
+        "law_id": "63/1991 Sb.",
+        "law_name_text": "zákona",
+        "declared_alias_text": "zákon",
+        "note": "manual_v1:competition_alias"
+      },
+      "result": {
+        "audit_decision": "disagree",
+        "issue_type": "span_boundary",
+        "suggested_classification": null,
+        "suggested_law_id": null,
+        "suggested_target_availability": null,
+        "suggested_target_document_id": null,
+        "confidence": 1.0,
+        "evidence": "The annotated text is \"§ 8a\", but the text immediately following it is \" odst. 2 zákona\". The full citation is \"§ 8a odst. 2\". The gold label correctly identifies `detail_odst` as `[\"2\"]`, but this information comes from outside the annotated span. The span should be extended to cover the full reference.",
+        "manual_review_note": "The annotation span for \"§ 8a\" is too short. The context is \"Dle ustanovení § 8a odst. 2 zákona\". Please review and extend the span to include \"odst. 2\"."
+      },
+      "model": "gemini-2.5-pro",
+      "temperature": 0.0,
+      "timestamp_unix": 1777847842,
+      "api_error": null
+    }
+  ]
+}

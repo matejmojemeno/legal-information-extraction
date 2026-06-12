@@ -1,0 +1,26 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "2021_S0666.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2021_S0666.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.416178+00:00",
+  "references": [
+    {
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "task_id": "2021_S0666.txt::docref::8723::97",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. 1 Afs 106/2012",
+      "start_char": 8723,
+      "end_char": 8745,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "1 Afs 106/2012",
+      "decision_kind_hint": "rozsudek",
+      "court_hint": "Nejvyššího správního soudu",
+      "confidence": 0.99,
+      "note": "manual_v1:court_decision_reference"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "output": "data/annotations/llm_challenge_eval/llm_trial_set_v1.json",
+  "total_entries": 18,
+  "route_counts": {
+    "czech_hard": 13,
+    "foreign_easy": 5
+  },
+  "include_empty_gold": false
+}

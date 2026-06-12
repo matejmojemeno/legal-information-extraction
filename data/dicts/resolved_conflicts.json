@@ -1,0 +1,164 @@
+{
+    "OSŘ": {
+        "resolved_law_id": "99/1963 Sb.",
+        "reason": "The alias \"OSŘ\" stands for \"Občanský soudní řád\" (Civil Procedure Code). Law ID 99/1963 Sb. is explicitly named \"Občanský soudní řád\". Law ID 30/2000 Sb. is an amendment to 99/1963 Sb., not the code itself. Therefore, 99/1963 Sb. is the canonical and universally understood modern law represented by the alias \"OSŘ\", despite numerous amendments over time.",
+        "candidates": {
+            "30/2000 Sb.": 2,
+            "99/1963 Sb.": 1
+        }
+    },
+    "ZKV": {
+        "resolved_law_id": null,
+        "reason": "The alias \"ZKV\" historically and unambiguously referred to \"Zákon o konkursu a vyrovnání\" (Law No. 328/1991 Sb.). However, this law was repealed and replaced by the Insolvency Act (zákon č. 182/2006 Sb.) in 2008. Following the instruction to identify a \"canonical, modern law\" and to reject old, superseded laws (as exemplified by the 'občanský zákoník' example, where the old 40/1964 Sb. is rejected in favor of 89/2012 Sb.), neither 328/1991 Sb. nor its amendment 12/1998 Sb. qualify as a modern, currently applicable law that this alias would represent today. Therefore, none of the candidates are appropriate.",
+        "candidates": {
+            "328/1991 Sb.": 3,
+            "12/1998 Sb.": 1
+        }
+    },
+    "zákon o azylu": {
+        "resolved_law_id": "325/1999 Sb.",
+        "reason": "The alias \"zákon o azylu\" directly and explicitly matches the official short title of law 325/1999 Sb., which is \"Zákon o azylu\". Although 283/1991 Sb. has a higher frequency, its official name \"Zákon České národní rady o Policii České republiky\" is unrelated to asylum. The other candidates are either unrelated or are amending laws, not the primary law on asylum itself. Therefore, 325/1999 Sb. is the canonical law for this alias.",
+        "candidates": {
+            "325/1999 Sb.": 33,
+            "283/1991 Sb.": 39,
+            "283/1999 Sb.": 1,
+            "2/2002 Sb.": 1,
+            "352/1999 Sb.": 1
+        }
+    },
+    "občanský zákoník": {
+        "resolved_law_id": "89/2012 Sb.",
+        "reason": "The alias \"občanský zákoník\" (Civil Code) in contemporary Czech legal discourse almost exclusively refers to the current Civil Code, Act No. 89/2012 Sb., which came into effect on January 1, 2014. While Act No. 40/1964 Sb. was the previous Civil Code, it is no longer in force and would only be referenced in historical contexts or for specific transitional provisions. For a modern, canonical reference, 89/2012 Sb. is the clear choice.",
+        "candidates": {
+            "89/2012 Sb.": 9,
+            "40/1964 Sb.": 6
+        }
+    },
+    "s. ř.": {
+        "resolved_law_id": "500/2004 Sb.",
+        "reason": "The abbreviation \"s. ř.\" stands for \"správní řád\" (Administrative Procedure Code). While 71/1967 Sb. was an older Administrative Procedure Code, it has been repealed. In modern Czech legal discourse, when \"správní řád\" or its abbreviation \"s. ř.\" is used without further specification, it refers to the currently valid Administrative Procedure Code, which is 500/2004 Sb. Therefore, 500/2004 Sb. is the indisputable canonical modern law represented by this alias.",
+        "candidates": {
+            "71/1967 Sb.": 1,
+            "500/2004 Sb.": 1
+        }
+    },
+    "zákon o odpovědnosti státu": {
+        "resolved_law_id": "82/1998 Sb.",
+        "reason": "The alias \"zákon o odpovědnosti státu\" (Law on state liability) directly and unambiguously refers to Act No. 82/1998 Sb., which is titled \"Zákon o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem...\". This law is the primary legal regulation governing state liability in the Czech Republic. Act No. 358/1992 Sb. is about notaries and their activities, and its inclusion as a candidate is likely due to the fact that Act No. 82/1998 Sb. also amended it, leading to a spurious association. However, the alias itself does not refer to the Notarial Code. Therefore, 82/1998 Sb. is the indisputable canonical law.",
+        "candidates": {
+            "358/1992 Sb.": 1,
+            "82/1998 Sb.": 2
+        }
+    },
+    "daňový řád": {
+        "resolved_law_id": "280/2009 Sb.",
+        "reason": "The alias \"daňový řád\" directly and unequivocally refers to Law ID 280/2009 Sb., which is officially named \"Zákon daňový řád\". This is the current and canonical tax code in the Czech Republic. While 337/1992 Sb. was a predecessor law concerning tax administration, it is not officially called \"daňový řád\" and is no longer in force as the primary tax code. The other candidates are clearly not laws or are unrelated to the alias.",
+        "candidates": {
+            "280/2009 Sb.": 19,
+            "337/1992 Sb.": 10,
+            "250/2009 Sb.": 1,
+            "208/2009 Sb.": 1
+        }
+    },
+    "Sbírka rozhodnutí": {
+        "resolved_law_id": null,
+        "reason": "The alias \"Sbírka rozhodnutí\" (Collection of Decisions) is a generic descriptive term for a compilation of legal decisions, such as court rulings or administrative decisions. It is not an alias for a specific, single law. The provided candidates are individual rulings (Nálezy Ústavního soudu), not a \"collection\" in the sense of a published compilation, nor does the alias uniquely refer to any single law. Therefore, it is not possible to identify one indisputable canonical law that this alias represents.",
+        "candidates": {
+            "144/2002 Sb.": 1,
+            "216/1999 Sb.": 1
+        }
+    },
+    "Úmluva": {
+        "resolved_law_id": null,
+        "reason": "The alias \"Úmluva\" is a generic term meaning \"Convention\" or \"Treaty\". While 209/1992 Sb. (the European Convention on Human Rights) is a very significant convention and has the highest frequency among the candidates, the term \"Úmluva\" alone is not specific enough to unambiguously refer to only this single law in all contexts. There are numerous other conventions in Czech law, as evidenced by the other candidates (e.g., European Convention on Extradition, European Convention on Mutual Assistance in Criminal Matters). Therefore, the alias is too broad and context-dependent to resolve to a single canonical law.",
+        "candidates": {
+            "549/1992 Sb.": 1,
+            "209/1992 Sb.": 7,
+            "550/1992 Sb.": 1,
+            "68/1970 Sb.": 1,
+            "108/2004 Sb.": 1
+        }
+    },
+    "zákoník práce": {
+        "resolved_law_id": "262/2006 Sb.",
+        "reason": "The alias \"zákoník práce\" (Labour Code) refers to the current Labour Code in the Czech Republic. While 65/1965 Sb. was an older Labour Code, 262/2006 Sb. is the modern and currently effective Labour Code. Following the instruction to choose the indisputable canonical, modern law, 262/2006 Sb. is the correct choice, similar to how 'občanský zákoník' refers to 89/2012 Sb. and not the older 40/1964 Sb.",
+        "candidates": {
+            "65/1965 Sb.": 1,
+            "262/2006 Sb.": 2
+        }
+    },
+    "daň": {
+        "resolved_law_id": null,
+        "reason": "The alias \"daň\" is a generic Czech word meaning \"tax\". While 586/1992 Sb. is an Act on Income Taxes, the term \"daň\" itself is too broad and can refer to numerous different tax laws (e.g., VAT, property tax, excise tax, etc.), not just income tax. Therefore, it does not uniquely identify a single, canonical law.",
+        "candidates": {
+            "177/1996 Sb.": 1,
+            "586/1992 Sb.": 1
+        }
+    },
+    "zákon o zaměstnanosti": {
+        "resolved_law_id": "435/2004 Sb.",
+        "reason": "The alias \"zákon o zaměstnanosti\" directly and unambiguously refers to Law No. 435/2004 Sb., which is officially titled \"Zákon o zaměstnanosti\". This is the current and canonical law on employment in the Czech Republic. Law No. 9/1991 Sb. is an older, superseded regulation, and Law No. 261/2021 Sb. is an amending law, not the primary employment act itself.",
+        "candidates": {
+            "435/2004 Sb.": 5,
+            "261/2021 Sb.": 1,
+            "9/1991 Sb.": 3
+        }
+    },
+    "zákon o státní kontrole": {
+        "resolved_law_id": "552/1991 Sb.",
+        "reason": "The alias \"zákon o státní kontrole\" directly and unambiguously refers to Law ID 552/1991 Sb., which is officially named \"Zákon České národní rady o státní kontrole\". The other candidate, 230/2006 Sb., is an amending law primarily concerning the state statistical service, not state control, and therefore does not match the alias.",
+        "candidates": {
+            "552/1991 Sb.": 2,
+            "230/2006 Sb.": 1
+        }
+    },
+    "katastrální zákon": {
+        "resolved_law_id": "256/2013 Sb.",
+        "reason": "The alias \"katastrální zákon\" explicitly appears in the official names of both candidate laws. However, 256/2013 Sb. is the current and modern law governing the real estate cadastre in the Czech Republic, having superseded the older 344/1992 Sb. When referred to without further specification in contemporary legal texts, \"katastrální zákon\" unambiguously refers to the currently valid law, which is 256/2013 Sb.",
+        "candidates": {
+            "344/1992 Sb.": 1,
+            "256/2013 Sb.": 1
+        }
+    },
+    "prováděcí vyhláška": {
+        "resolved_law_id": null,
+        "reason": "The alias \"prováděcí vyhláška\" translates to \"implementing decree\" and is a generic term for a type of legal regulation that specifies details for the execution of a higher-level law. There are numerous such decrees in the Czech legal system, each implementing a different primary law. All provided candidates are examples of implementing decrees for specific acts. The alias does not refer to one specific, canonical law, but rather describes a category of legal norms. Therefore, it is ambiguous and context-dependent.",
+        "candidates": {
+            "505/2006 Sb.": 1,
+            "388/2011 Sb.": 1,
+            "328/2015 Sb.": 1
+        }
+    },
+    "Statut": {
+        "resolved_law_id": null,
+        "reason": "The term \"Statut\" is a generic Czech word meaning \"statute\", \"charter\", or \"bylaw\". It is not a specific or canonical alias for any particular law. While Law ID 131/2000 Sb. (Act on the Capital City of Prague) deals with the concept of a \"Statut\" for Prague, the law itself is not commonly referred to by this generic term. Neither of the candidate laws is indisputably or universally known by the alias \"Statut\". Therefore, the alias is too broad and context-dependent to resolve to a single, canonical law.",
+        "candidates": {
+            "55/2000 Sb.": 1,
+            "131/2000 Sb.": 1
+        }
+    },
+    "zákon č.": {
+        "resolved_law_id": null,
+        "reason": "The alias \"zákon č.\" literally translates to \"Act No.\" or \"Law No.\" It is a generic prefix used in the citation of any Czech law (e.g., \"zákon č. 89/2012 Sb.\"). It does not refer to a specific law itself, but rather introduces the number and year of a law. Therefore, it cannot be resolved to any single canonical law ID.",
+        "candidates": {
+            "63/1991 Sb.": 1,
+            "137/2006 Sb.": 1
+        }
+    },
+    "novela zákona": {
+        "resolved_law_id": null,
+        "reason": "The alias \"novela zákona\" translates to \"amendment to the law\" and is a generic descriptive phrase, not a specific legal abbreviation or alias for a particular law. It can refer to any law that amends another law. Therefore, it cannot indisputably represent one canonical law ID among the candidates or any other law.",
+        "candidates": {
+            "40/2015 Sb.": 1,
+            "134/2016 Sb.": 2
+        }
+    },
+    "zákon ve znění pozdějších předpisů": {
+        "resolved_law_id": null,
+        "reason": "The alias \"zákon ve znění pozdějších předpisů\" translates to \"law as amended by later regulations\" or \"law as subsequently amended.\" This is a generic legal phrase used to indicate that a particular law should be considered with all its subsequent amendments. It is not an alias or abbreviation for a specific law itself, but rather a descriptive clause that can apply to any law that has undergone amendments. Therefore, it cannot be mapped to a single, canonical Law ID.",
+        "candidates": {
+            "41/2004 Sb.": 1,
+            "253/2005 Sb.": 1
+        }
+    }
+}

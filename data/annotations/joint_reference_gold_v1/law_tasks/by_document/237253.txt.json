@@ -1,0 +1,709 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.172794+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "237253.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/237253.txt",
+  "task_count": 23,
+  "tasks": [
+    {
+      "task_id": "237253.txt::section_or_article::164::337",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 428,
+      "snippet_text": " :\nRozhodnutím Ministerstva vnitra, odboru azylové a migrační politiky (dále \njen „správní orgán“), ze dne 7. 5. 2003, č. j. OAM-1804/VL-11-C10-2003, byla dle ust. § 16 \nodst. 1 písm. g) zákona č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii \nČeské republiky, ve znění pozdějších předpisů (dále jen „zákon o azylu“), zamítnuta žádost \nstěžovatelky o udělení azylu jako zjevně nedůvodná.\nProti tomuto rozhodn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona č. 325/1999 Sb., o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::law_id_mention::197::338",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "325/1999 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 469,
+      "snippet_text": " :\nRozhodnutím Ministerstva vnitra, odboru azylové a migrační politiky (dále \njen „správní orgán“), ze dne 7. 5. 2003, č. j. OAM-1804/VL-11-C10-2003, byla dle ust. § 16 \nodst. 1 písm. g) zákona č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii \nČeské republiky, ve znění pozdějších předpisů (dále jen „zákon o azylu“), zamítnuta žádost \nstěžovatelky o udělení azylu jako zjevně nedůvodná.\nProti tomuto rozhodnutí podala stěžovatelka žalobu, která byl",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "325/1999 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákon o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::law_id_mention::239::339",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "283/1991 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 511,
+      "snippet_text": " :\nRozhodnutím Ministerstva vnitra, odboru azylové a migrační politiky (dále \njen „správní orgán“), ze dne 7. 5. 2003, č. j. OAM-1804/VL-11-C10-2003, byla dle ust. § 16 \nodst. 1 písm. g) zákona č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii \nČeské republiky, ve znění pozdějších předpisů (dále jen „zákon o azylu“), zamítnuta žádost \nstěžovatelky o udělení azylu jako zjevně nedůvodná.\nProti tomuto rozhodnutí podala stěžovatelka žalobu, která byla zamítnuta napadeným \nrozhodnutím krajské",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "283/1991 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "283/1991 Sb.",
+          "law_name_text": "zákona o Policii České republiky",
+          "declared_alias_text": "Policii České republiky",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:policie_cr_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::736::340",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 103",
+      "snippet_doc_start": 476,
+      "snippet_doc_end": 1001,
+      "snippet_text": "nuta napadeným \nrozhodnutím krajského soudu, protože soud dospěl k závěru, že rozhodnutí bylo vydáno \nna základě úplně zjištěného stavu věci a v souladu s právními předpisy. \nVe včas podané kasační stížnosti namítla stěžovatelka stížní důvody obsažené v ust. \n§ 103 odst. 1 písm. a), b) a d) zákona č. 150/2002 Sb., soudního řádu správního, ve znění \npozdějších předpisů (dále jen „s. ř. s.“). Má za to, že krajský soud nesprávným způsobem \nposoudil právní otázku, zda je možno na její případ vztáhnout ust. § 16 odst. 1 písm",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 103",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "zákona č. 150/2002 Sb., soudního řádu správního",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "103",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b",
+            "d"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::law_id_mention::778::341",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "150/2002 Sb.",
+      "snippet_doc_start": 518,
+      "snippet_doc_end": 1050,
+      "snippet_text": "u, protože soud dospěl k závěru, že rozhodnutí bylo vydáno \nna základě úplně zjištěného stavu věci a v souladu s právními předpisy. \nVe včas podané kasační stížnosti namítla stěžovatelka stížní důvody obsažené v ust. \n§ 103 odst. 1 písm. a), b) a d) zákona č. 150/2002 Sb., soudního řádu správního, ve znění \npozdějších předpisů (dále jen „s. ř. s.“). Má za to, že krajský soud nesprávným způsobem \nposoudil právní otázku, zda je možno na její případ vztáhnout ust. § 16 odst. 1 písm. g)\nzákona o azylu, neboť stěžovatelka byla ve s",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "150/2002 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "soudní řád správní",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::984::342",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 724,
+      "snippet_doc_end": 1248,
+      "snippet_text": "ené v ust. \n§ 103 odst. 1 písm. a), b) a d) zákona č. 150/2002 Sb., soudního řádu správního, ve znění \npozdějších předpisů (dále jen „s. ř. s.“). Má za to, že krajský soud nesprávným způsobem \nposoudil právní otázku, zda je možno na její případ vztáhnout ust. § 16 odst. 1 písm. g)\nzákona o azylu, neboť stěžovatelka byla ve své domovské zemi napadána manželem \nalkoholikem, který byl součástí zločineckých struktur. Z tohoto důvodu se neobrátila \nna policii, neboť by se tím její situace jen zhoršila. Stěžovatelka je přesv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::1310::343",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 12",
+      "snippet_doc_start": 1050,
+      "snippet_doc_end": 1574,
+      "snippet_text": "vé domovské zemi napadána manželem \nalkoholikem, který byl součástí zločineckých struktur. Z tohoto důvodu se neobrátila \nna policii, neboť by se tím její situace jen zhoršila. Stěžovatelka je přesvědčena, že je zde dán \ndůvod, aby jí byl udělen azyl dle ust. § 12 písm. b) zákona o azylu, neboť patří do sociální \nskupiny nečlenů zločineckých struktur, přičemž je právě z tohoto důvodu pronásledována \na domovský stát tuto situaci toleruje. Upozornila dále na čl. 65 metodologické Příručky \nprocedur a kritérií pro přiznání",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 12",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "12",
+          "detail_odst": [],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::1511::344",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 65",
+      "snippet_doc_start": 1251,
+      "snippet_doc_end": 1777,
+      "snippet_text": "ena, že je zde dán \ndůvod, aby jí byl udělen azyl dle ust. § 12 písm. b) zákona o azylu, neboť patří do sociální \nskupiny nečlenů zločineckých struktur, přičemž je právě z tohoto důvodu pronásledována \na domovský stát tuto situaci toleruje. Upozornila dále na čl. 65 metodologické Příručky \nprocedur a kritérií pro přiznání postavení uprchlíka. Namítla, že správní orgán provedl \nnedostatečným způsobem dokazování a nerespektoval situaci stěžovatelky, která jako \nžadatelka o azyl měla jen velmi omezené možnosti pro zajištění",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 65",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "non_citation",
+          "law_id": null,
+          "law_name_text": "Příručka procedur a kritérií pro přiznání postavení uprchlíka",
+          "declared_alias_text": "",
+          "detail_number": "65",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.95,
+          "note": "manual_v1:methodological_handbook"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::2090::345",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 47",
+      "snippet_doc_start": 1830,
+      "snippet_doc_end": 2354,
+      "snippet_text": "krajský soud byl povinen přezkoumat, zda napadené \nrozhodnutí správního orgánu netrpělo procesní vadou. Stěžovatelka se domnívá, že se správní \norgán dopustil porušení správního řádu minimálně tím, že jeho rozhodnutí neodpovídá \npro nedostatek odůvodnění ust. § 47 odst. 3 správního řádu. Stěžovatelka dále nesouhlasí \nse způsobem, jakým správní orgán rozhodl o neexistenci překážek vycestování, neboť \nnepovažuje svůj návrat do domovské země za bezpečný, a to s ohledem na chybějící ochranu \nze strany policie. Hrozí jí též",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 47",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "71/1967 Sb.",
+          "law_name_text": "správního řádu",
+          "declared_alias_text": "správní řád",
+          "detail_number": "47",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::3023::346",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 12",
+      "snippet_doc_start": 2763,
+      "snippet_doc_end": 3287,
+      "snippet_text": "m vyjádření popřel oprávněnost kasační stížnosti s tím, že jak \njeho rozhodnutí, tak i rozhodnutí soudu bylo vydáno v souladu s právními předpisy, neboť \nv případě stěžovatelky nebyly zjištěny žádné skutečnosti svědčící o tom, že by se daly \npodřadit pod ust. § 12 zákona o azylu. Proto správní orgán shledal naplnění dikce ust. § 16 \nodst. 1 písm. g) zákona o azylu a z tohoto důvodu považuje námitky stěžovatelky \nza irelevantní. Navrhl nepřiznání odkladného účinku kasační stížnosti a její zamítnutí. \nZe správního spisu,",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 12",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "12",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::3092::347",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 2832,
+      "snippet_doc_end": 3356,
+      "snippet_text": "rozhodnutí, tak i rozhodnutí soudu bylo vydáno v souladu s právními předpisy, neboť \nv případě stěžovatelky nebyly zjištěny žádné skutečnosti svědčící o tom, že by se daly \npodřadit pod ust. § 12 zákona o azylu. Proto správní orgán shledal naplnění dikce ust. § 16 \nodst. 1 písm. g) zákona o azylu a z tohoto důvodu považuje námitky stěžovatelky \nza irelevantní. Navrhl nepřiznání odkladného účinku kasační stížnosti a její zamítnutí. \nZe správního spisu, který soudu předložil správní orgán, vyplynuly následující \npodstatn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::4183::348",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 103",
+      "snippet_doc_start": 3923,
+      "snippet_doc_end": 4448,
+      "snippet_text": " problémy s policií nebo jinými státními orgány v zemi původu \na nikdy se aktivně neúčastnila politického života. \nNejvyšší správní soud přezkoumal na základě kasační stížnosti napadený rozsudek \na dospěl k závěru, že kasační stížnost není důvodná.\nPodle ust. § 103 odst. 1 písm. a) s. ř. s. lze kasační stížnost podat pouze z důvodu \nnezákonnosti spočívající v nesprávném posouzení právní otázky soudem v předcházejícím \nřízení.\nDle ust. § 103 odst. 1 písm. b) s. ř. s. kasační stížnost lze podat pouze z důvodu \ntvrzené vad",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 103",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "103",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::4362::349",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 103",
+      "snippet_doc_start": 4102,
+      "snippet_doc_end": 4627,
+      "snippet_text": "padený rozsudek \na dospěl k závěru, že kasační stížnost není důvodná.\nPodle ust. § 103 odst. 1 písm. a) s. ř. s. lze kasační stížnost podat pouze z důvodu \nnezákonnosti spočívající v nesprávném posouzení právní otázky soudem v předcházejícím \nřízení.\nDle ust. § 103 odst. 1 písm. b) s. ř. s. kasační stížnost lze podat pouze z důvodu \ntvrzené vady řízení spočívající v tom, že skutková podstata, z níž správní orgán v napadeném \nrozhodnutí vycházel, nemá oporu ve spisech nebo je s nimi v rozporu, nebo že při jejím\nzjišťován",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 103",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "103",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::5256::350",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 28",
+      "snippet_doc_start": 4996,
+      "snippet_doc_end": 5520,
+      "snippet_text": "ovení lze kasační stížnost podat pouze z důvodu \nnepřezkoumatelnosti spočívající v nesrozumitelnosti nebo nedostatku důvodů rozhodnutí, \npopřípadě v jiné vadě řízení před soudem, mohla-li mít taková vada za následek nezákonné \nrozhodnutí o věci samé.\nDle ust. § 28 zákona o azylu pokud bude rozhodnuto o neudělení nebo odnětí azylu, \nministerstvo v rozhodnutí uvede, zda se na cizince vztahuje překážka vycestování.\nPodle § 109 odst. 4 s. ř. s. ke skutečnostem, které stěžovatel uplatnil poté, kdy bylo \nvydáno napadené rozh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 28",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "28",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::5418::351",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 109",
+      "snippet_doc_start": 5158,
+      "snippet_doc_end": 5683,
+      "snippet_text": "ení před soudem, mohla-li mít taková vada za následek nezákonné \nrozhodnutí o věci samé.\nDle ust. § 28 zákona o azylu pokud bude rozhodnuto o neudělení nebo odnětí azylu, \nministerstvo v rozhodnutí uvede, zda se na cizince vztahuje překážka vycestování.\nPodle § 109 odst. 4 s. ř. s. ke skutečnostem, které stěžovatel uplatnil poté, kdy bylo \nvydáno napadené rozhodnutí, Nejvyšší správní soud nepřihlíží.\nS ohledem na skutečnost, že stěžovatelka uvádí jako právní důvod kasační stížnosti \nust. § 103 odst. 1 písm. a) s. ř. s.,",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 109",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "109",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::5651::352",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 103",
+      "snippet_doc_start": 5391,
+      "snippet_doc_end": 5916,
+      "snippet_text": "řekážka vycestování.\nPodle § 109 odst. 4 s. ř. s. ke skutečnostem, které stěžovatel uplatnil poté, kdy bylo \nvydáno napadené rozhodnutí, Nejvyšší správní soud nepřihlíží.\nS ohledem na skutečnost, že stěžovatelka uvádí jako právní důvod kasační stížnosti \nust. § 103 odst. 1 písm. a) s. ř. s., je třeba se nejprve vyjádřit k dopadu tohoto ustanovení. \nNesprávné posouzení právní otázky spočívá v tom, že na správně zjištěný skutkový stav \nje aplikován nesprávný právní závěr, popř. je sice aplikován správný právní názor, \nale",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 103",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "103",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::6347::353",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 6087,
+      "snippet_doc_end": 6611,
+      "snippet_text": "ylového řízení vůbec netvrdila, že by byla pronásledována, naopak bylo nade \nvší pochybnost prokázáno, že důvody, pro které podala žádost o azyl, jsou ryze \nekonomického charakteru, správní orgán nepochybil, když žádost stěžovatelky posuzoval \nv relaci k ust. § 16 odst. 1 písm. g) zákona o azylu, tedy mimo jiné neprováděl dokazování, \nkteré by mělo za cíl prokázat, že stěžovatelka byla v zemi původu pronásledována ve smyslu \nzákona o azylu. Nejvyšší správní soud v této souvislosti považuje za vhodné zdůraznit, \nže to b",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::6925::354",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 6665,
+      "snippet_doc_end": 7189,
+      "snippet_text": " řízení povinnost uvést veškeré \nrelevantní skutečnosti. Jestliže se však tato omezila pouze na prohlášení, že „měla problémy \ns manželem, do České republiky odjela pracovat, a že si zde chce legalizovat pobyt“, je více \nnež zřejmé, že tak naplnila dikci ust. § 16 odst. 1 písm. g) zákona o azylu, a proto správní \norgán nepochybil, když žádost stěžovatelky pro existenci důvodů vylučujících udělení azylu \nzamítl. Shodně se lze vyjádřit i o posouzení žaloby stěžovatelky krajským soudem. \nVzhledem k okolnosti, že stěžovate",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::7248::355",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 103",
+      "snippet_doc_start": 6988,
+      "snippet_doc_end": 7513,
+      "snippet_text": "pochybil, když žádost stěžovatelky pro existenci důvodů vylučujících udělení azylu \nzamítl. Shodně se lze vyjádřit i o posouzení žaloby stěžovatelky krajským soudem. \nVzhledem k okolnosti, že stěžovatelka dále uvedla jako právní důvody kasační \nstížnosti ust. § 103 odst. 1 písm. b) a d) s. ř. s., je třeba se také vyjádřit k dopadu těchto \nustanovení. Skutková podstata je se spisy v rozporu, pokud skutkový materiál ve spisu \nobsažený, jinak dostačující k učinění správného skutkového závěru, vede k jiným skutkovým \nzávěrů",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 103",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "103",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b",
+            "d"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::9453::356",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 28",
+      "snippet_doc_start": 9193,
+      "snippet_doc_end": 9717,
+      "snippet_text": " zásadou, která ovládá soudní přezkum ve správním \nsoudnictví. \nK poukazu stěžovatelky na fakt, že krajský soud se zcela nedostatečně vypořádal \ns tvrzením správního orgánu o neexistenci překážek vycestování, Nejvyšší správní soud \nuvádí, že s ohledem na ust. § 28 zákona o azylu nebylo v případě stěžovatelky vůbec \no překážkách vycestování rozhodováno, proto jsou její veškerá tvrzení v tom, že splnila \npodmínky pro přiznání překážek vycestování, právně irelevantní. \nPorovnáním obsahu kasační stížnosti a obsahu žaloby d",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 28",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "28",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::9827::357",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 109",
+      "snippet_doc_start": 9567,
+      "snippet_doc_end": 10092,
+      "snippet_text": "kerá tvrzení v tom, že splnila \npodmínky pro přiznání překážek vycestování, právně irelevantní. \nPorovnáním obsahu kasační stížnosti a obsahu žaloby dospěl Nejvyšší správní soud \nk závěru, že dalšími stížními námitkami stěžovatelky se nemůže s ohledem na ust. § 109 \nodst. 4 s. ř. s. zabývat, a to pro jejich novost. \nStěžovatelka podala návrh, aby byl kasační stížnosti přiznán odkladný účinek \ndle ust. § 107 s. ř. s. Nejvyšší správní soud o návrhu nerozhodl, neboť má za to, že pro takové \nrozhodnutí odpadl vydáním merito",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 109",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "109",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::9972::358",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 107",
+      "snippet_doc_start": 9712,
+      "snippet_doc_end": 10237,
+      "snippet_text": "oby dospěl Nejvyšší správní soud \nk závěru, že dalšími stížními námitkami stěžovatelky se nemůže s ohledem na ust. § 109 \nodst. 4 s. ř. s. zabývat, a to pro jejich novost. \nStěžovatelka podala návrh, aby byl kasační stížnosti přiznán odkladný účinek \ndle ust. § 107 s. ř. s. Nejvyšší správní soud o návrhu nerozhodl, neboť má za to, že pro takové \nrozhodnutí odpadl vydáním meritorního rozhodnutí důvod.\nVýrok o náhradě nákladů řízení se opírá o ustanovení § 60 odst. 1, větu první, s. ř. s., \ndle kterého nestanoví-li tento ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 107",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "107",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "237253.txt::section_or_article::10169::359",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 60",
+      "snippet_doc_start": 9909,
+      "snippet_doc_end": 10433,
+      "snippet_text": "h, aby byl kasační stížnosti přiznán odkladný účinek \ndle ust. § 107 s. ř. s. Nejvyšší správní soud o návrhu nerozhodl, neboť má za to, že pro takové \nrozhodnutí odpadl vydáním meritorního rozhodnutí důvod.\nVýrok o náhradě nákladů řízení se opírá o ustanovení § 60 odst. 1, větu první, s. ř. s., \ndle kterého nestanoví-li tento zákon jinak, má účastník, který měl ve věci plný úspěch, právo \nna náhradu nákladů řízení před soudem, které důvodně vynaložil, proti účastníkovi, \nkterý ve věci úspěch neměl. Stěžovatelka v soudn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 60",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "60",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    }
+  ]
+}

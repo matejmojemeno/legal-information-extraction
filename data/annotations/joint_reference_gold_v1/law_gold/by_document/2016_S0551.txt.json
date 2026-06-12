@@ -1,0 +1,1386 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "2016_S0551.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2016_S0551.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.421233+00:00",
+  "citations": [
+    {
+      "task_id": "2016_S0551.txt::section_or_article::78::468",
+      "finding_id": "1",
+      "citation_text": "§ 112",
+      "citation_type": "section",
+      "start_char": 78,
+      "end_char": 83,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::law_id_mention::95::469",
+      "finding_id": "1",
+      "citation_text": "137/2006 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 95,
+      "end_char": 107,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon o veřejných zakázkách",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::2369::470",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 2369,
+      "end_char": 2373,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [
+        "a",
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::law_id_mention::2401::471",
+      "finding_id": "1",
+      "citation_text": "137/2006 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 2401,
+      "end_char": 2413,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon o veřejných zakázkách",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::3044::472",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 3044,
+      "end_char": 3048,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::3801::473",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 3801,
+      "end_char": 3805,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3",
+        "5"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::3829::474",
+      "finding_id": "1",
+      "citation_text": "čl. 5",
+      "citation_type": "article",
+      "start_char": 3829,
+      "end_char": 3834,
+      "law_id": null,
+      "law_name_text": null,
+      "declared_alias_text": null,
+      "classification": "non_citation",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:bid_docs_article",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::4007::475",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 4007,
+      "end_char": 4011,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3",
+        "5"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::4482::476",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 4482,
+      "end_char": 4485,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::4620::477",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 4620,
+      "end_char": 4624,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::5320::478",
+      "finding_id": "1",
+      "citation_text": "§ 116",
+      "citation_type": "section",
+      "start_char": 5320,
+      "end_char": 5325,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::5937::479",
+      "finding_id": "1",
+      "citation_text": "§ 113",
+      "citation_type": "section",
+      "start_char": 5937,
+      "end_char": 5942,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::6352::480",
+      "finding_id": "1",
+      "citation_text": "§ 112",
+      "citation_type": "section",
+      "start_char": 6352,
+      "end_char": 6357,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::6864::481",
+      "finding_id": "1",
+      "citation_text": "§ 2",
+      "citation_type": "section",
+      "start_char": 6864,
+      "end_char": 6867,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::6888::482",
+      "finding_id": "1",
+      "citation_text": "§ 2",
+      "citation_type": "section",
+      "start_char": 6888,
+      "end_char": 6891,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006;audit_v1:removed_neighbor_details",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::7026::483",
+      "finding_id": "1",
+      "citation_text": "§ 2",
+      "citation_type": "section",
+      "start_char": 7026,
+      "end_char": 7029,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::7765::484",
+      "finding_id": "1",
+      "citation_text": "čl. 99",
+      "citation_type": "article",
+      "start_char": 7765,
+      "end_char": 7771,
+      "law_id": "1/1993 Sb.",
+      "law_name_text": "Ústava České republiky",
+      "declared_alias_text": "Ústava České republiky",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:ustava",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::law_id_mention::7782::485",
+      "finding_id": "1",
+      "citation_text": "1/1993 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 7782,
+      "end_char": 7792,
+      "law_id": "1/1993 Sb.",
+      "law_name_text": "Ústava České republiky",
+      "declared_alias_text": "Ústava České republiky",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:ustava_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::7880::486",
+      "finding_id": "1",
+      "citation_text": "§ 2",
+      "citation_type": "section",
+      "start_char": 7880,
+      "end_char": 7883,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "2"
+      ],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::8143::487",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 8143,
+      "end_char": 8146,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::8304::488",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 8304,
+      "end_char": 8308,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::9818::489",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 9818,
+      "end_char": 9822,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::10275::490",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 10275,
+      "end_char": 10279,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::10497::491",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 10497,
+      "end_char": 10502,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::11590::492",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 11590,
+      "end_char": 11593,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::13275::493",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 13275,
+      "end_char": 13278,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::14705::494",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 14705,
+      "end_char": 14709,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::14972::495",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 14972,
+      "end_char": 14976,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a",
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::15253::496",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 15253,
+      "end_char": 15257,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3",
+        "5"
+      ],
+      "detail_pism": [
+        "a",
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::15383::497",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 15383,
+      "end_char": 15387,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006;audit_v1:corrected_local_details",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::16543::498",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 16543,
+      "end_char": 16547,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::16826::499",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 16826,
+      "end_char": 16830,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::17503::500",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 17503,
+      "end_char": 17507,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::18013::501",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 18013,
+      "end_char": 18017,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::18809::502",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 18809,
+      "end_char": 18813,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::19790::503",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 19790,
+      "end_char": 19795,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::20327::504",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 20327,
+      "end_char": 20332,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::20387::505",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 20387,
+      "end_char": 20392,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::21582::506",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 21582,
+      "end_char": 21587,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22214::507",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 22214,
+      "end_char": 22219,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22305::508",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 22305,
+      "end_char": 22309,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3",
+        "5"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22333::509",
+      "finding_id": "1",
+      "citation_text": "čl. 5",
+      "citation_type": "article",
+      "start_char": 22333,
+      "end_char": 22338,
+      "law_id": null,
+      "law_name_text": null,
+      "declared_alias_text": null,
+      "classification": "non_citation",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:bid_docs_article",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::22510::510",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 22510,
+      "end_char": 22514,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006;audit_v1:corrected_local_details",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::23239::511",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 23239,
+      "end_char": 23242,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::27233::512",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 27233,
+      "end_char": 27237,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::27735::513",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 27735,
+      "end_char": 27739,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::28671::514",
+      "finding_id": "1",
+      "citation_text": "§ 48",
+      "citation_type": "section",
+      "start_char": 28671,
+      "end_char": 28675,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::28947::515",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 28947,
+      "end_char": 28952,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::29060::516",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 29060,
+      "end_char": 29063,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::29209::517",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 29209,
+      "end_char": 29213,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::29885::518",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 29885,
+      "end_char": 29890,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30178::519",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 30178,
+      "end_char": 30183,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30333::520",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 30333,
+      "end_char": 30337,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3",
+        "5"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30361::521",
+      "finding_id": "1",
+      "citation_text": "čl. 5",
+      "citation_type": "article",
+      "start_char": 30361,
+      "end_char": 30366,
+      "law_id": null,
+      "law_name_text": null,
+      "declared_alias_text": null,
+      "classification": "non_citation",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:bid_docs_article",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::30538::522",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 30538,
+      "end_char": 30542,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3",
+        "5"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::31077::523",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 31077,
+      "end_char": 31082,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::31255::524",
+      "finding_id": "1",
+      "citation_text": "§ 6",
+      "citation_type": "section",
+      "start_char": 31255,
+      "end_char": 31258,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::31393::525",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 31393,
+      "end_char": 31397,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::32008::526",
+      "finding_id": "1",
+      "citation_text": "§ 121",
+      "citation_type": "section",
+      "start_char": 32008,
+      "end_char": 32013,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::32342::527",
+      "finding_id": "1",
+      "citation_text": "§ 121",
+      "citation_type": "section",
+      "start_char": 32342,
+      "end_char": 32347,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::34957::528",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 34957,
+      "end_char": 34962,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::35000::529",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 35000,
+      "end_char": 35005,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::35456::530",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 35456,
+      "end_char": 35461,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::35604::531",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 35604,
+      "end_char": 35609,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::36572::532",
+      "finding_id": "1",
+      "citation_text": "§ 121",
+      "citation_type": "section",
+      "start_char": 36572,
+      "end_char": 36577,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "2016_S0551.txt::section_or_article::37406::533",
+      "finding_id": "1",
+      "citation_text": "§ 56",
+      "citation_type": "section",
+      "start_char": 37406,
+      "end_char": 37410,
+      "law_id": "137/2006 Sb.",
+      "law_name_text": "zákon o veřejných zakázkách",
+      "declared_alias_text": "zákon",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:verejne_zakazky_2006",
+      "snippet_warnings": []
+    }
+  ]
+}

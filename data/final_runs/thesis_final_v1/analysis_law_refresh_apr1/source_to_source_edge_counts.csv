@@ -1,0 +1,17 @@
+source,target,occurrence_count,exact_occurrence_count,same_proceeding_occurrence_count
+nss,nss,1100737,1100737,0
+ns,ns,523673,523673,0
+nalus,nalus,335828,335828,0
+ns,nalus,222835,222835,0
+nss,nalus,141042,141042,0
+uohs,uohs,36151,25547,10604
+nalus,ns,28807,28807,0
+uohs,nss,28151,28151,0
+nalus,nss,15747,15747,0
+nss,ns,15556,15556,0
+nss,uohs,5198,4199,999
+ns,nss,3493,3493,0
+uohs,nalus,2035,2035,0
+uohs,ns,626,626,0
+nalus,uohs,185,141,44
+ns,uohs,92,71,21

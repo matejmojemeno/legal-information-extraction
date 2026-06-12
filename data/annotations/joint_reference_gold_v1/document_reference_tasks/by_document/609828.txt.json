@@ -1,0 +1,392 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "609828.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/609828.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.208593+00:00",
+  "tasks": [
+    {
+      "task_id": "609828.txt::docref::418::58",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 418,
+      "snippet_doc_start": 158,
+      "snippet_doc_end": 678,
+      "snippet_text": "ačila „Úpravu \nsměrné části územního plánu města B. v k. ú. I., lokalita východně od ulice Č.“ (dále jen \n„úprava směrné části“), kterou provedl odbor územního plánování a rozvoje Magistrátu města \nBrna (dále jen „OÚPR“) dne 5. 9. 2005, zn. OÚPR/V-436/05/Jaš, sp. zn. S 19/05. Aktivní \nlegitimaci k návrhu dovozovala z titulu vlastnictví obytné nemovitosti, která leží \nv bezprostřední blízkosti chystané výstavby H. m. Dále poukazovala na ustanovení čl. 2 \nodst. 5 Aarhuské úmluvy a na to, že byla účastníkem územního ř",
+      "predicted_reference": {
+        "reference_text": "sp. zn. S 19/05",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "S 19/05",
+        "reference_type": "spisova_znacka",
+        "raw_start": 418,
+        "raw_end": 433,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "nu města B. v k. ú. I., lokalita východně od ulice Č.“ (dále jen  „úprava směrné části“), kterou provedl odbor územního plánování a rozvoje Magistrátu města  Brna (dále jen „OÚPR“) dne 5. 9. 2005, zn. OÚPR/V-436/05/Jaš, sp. zn. S 19/05. Aktivní  legitimaci k návrhu dovozovala z titulu vlastnictví obytné nemovitosti, která leží  v bezprostřední blízkosti chystané výstavby H. m. Dále poukazovala na ustanovení čl. 2  odst. 5 Aarhuské úmluvy a na to, že b"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. S 19/05",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "S 19/05",
+          "decision_kind_hint": "",
+          "court_hint": "OÚPR",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::2201::59",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 2201,
+      "snippet_doc_start": 1941,
+      "snippet_doc_end": 2461,
+      "snippet_text": "měnu územního plánu v jeho směrné části na základě urbanistické \nstudie a pochybil i při způsobu jejího provedení. Uvedené pochybení vedlo k tomu, \nže v dané lokalitě byla rozhodnutím stavebního úřadu umístěna stavba „H. m. B.“. \nUsnesením ze dne 30. 1. 2007, č. j. 4 Ao 2/2007 – 46, předložil čtvrtý senát \nNejvyššího správního soudu věc rozšířenému senátu, neboť při předběžném posouzení věci \ndospěl k závěru, že úprava směrné části územně plánovací dokumentace není opatřením \nobecné povahy. Tento názor však byl v r",
+      "predicted_reference": {
+        "reference_text": "č. j. 4 Ao 2/2007 – 46",
+        "reference_prefix": "č. j.",
+        "reference_body": "4 Ao 2/2007 – 46",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2201,
+        "raw_end": 2223,
+        "decision_kind_hint": "usnesení",
+        "court_hint": null,
+        "context": "na základě urbanistické  studie a pochybil i při způsobu jejího provedení. Uvedené pochybení vedlo k tomu,  že v dané lokalitě byla rozhodnutím stavebního úřadu umístěna stavba „H. m. B.“.  Usnesením ze dne 30. 1. 2007, č. j. 4 Ao 2/2007 – 46, předložil čtvrtý senát  Nejvyššího správního soudu věc rozšířenému senátu, neboť při předběžném posouzení věci  dospěl k závěru, že úprava směrné části územně plánovací dokumentace není opatřením  obecné povahy. Tento "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 4 Ao 2/2007 – 46",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "4 Ao 2/2007 – 46",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::2596::60",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 2596,
+      "snippet_doc_start": 2336,
+      "snippet_doc_end": 2856,
+      "snippet_text": "\ndospěl k závěru, že úprava směrné části územně plánovací dokumentace není opatřením \nobecné povahy. Tento názor však byl v rozporu s předchozí judikaturou Nejvyššího správního \nsoudu, který vyplýval z usnesení Nejvyššího správního soudu ze dne 30. 11. 2006, \nč. j. 2 Ao 2/2006 – 62, a to v té části odůvodnění, která se týkala výkladu § 29 stavebního \nzákona č. 50/1976 Sb., a dále z usnesení téhož soudu ze dne 24. 1. 2007, č. j. \n3 Ao 2/2007 - 42, ve kterém dospěl soud k závěru, že změna směrné části územního plánu ",
+      "predicted_reference": {
+        "reference_text": "č. j. 2 Ao 2/2006 – 62",
+        "reference_prefix": "č. j.",
+        "reference_body": "2 Ao 2/2006 – 62",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2596,
+        "raw_end": 2618,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": " územně plánovací dokumentace není opatřením  obecné povahy. Tento názor však byl v rozporu s předchozí judikaturou Nejvyššího správního  soudu, který vyplýval z usnesení Nejvyššího správního soudu ze dne 30. 11. 2006,  č. j. 2 Ao 2/2006 – 62, a to v té části odůvodnění, která se týkala výkladu § 29 stavebního  zákona č. 50/1976 Sb., a dále z usnesení téhož soudu ze dne 24. 1. 2007, č. j.  3 Ao 2/2007 - 42, ve kterém dospěl soud k závěru, že změna směrné čás"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 2 Ao 2/2006 – 62",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "2 Ao 2/2006 – 62",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::2762::61",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 2762,
+      "snippet_doc_start": 2502,
+      "snippet_doc_end": 3022,
+      "snippet_text": " správního \nsoudu, který vyplýval z usnesení Nejvyššího správního soudu ze dne 30. 11. 2006, \nč. j. 2 Ao 2/2006 – 62, a to v té části odůvodnění, která se týkala výkladu § 29 stavebního \nzákona č. 50/1976 Sb., a dále z usnesení téhož soudu ze dne 24. 1. 2007, č. j. \n3 Ao 2/2007 - 42, ve kterém dospěl soud k závěru, že změna směrné části územního plánu je \nopatřením obecné povahy. \nČtvrtý senát při předložení této věci rozšířenému senátu vycházel z toho, že územně \nplánovací dokumentace schválená podle stavebního zá",
+      "predicted_reference": {
+        "reference_text": "č. j. 3 Ao 2/2007 - 42",
+        "reference_prefix": "č. j.",
+        "reference_body": "3 Ao 2/2007 - 42",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2762,
+        "raw_end": 2785,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "sení Nejvyššího správního soudu ze dne 30. 11. 2006,  č. j. 2 Ao 2/2006 – 62, a to v té části odůvodnění, která se týkala výkladu § 29 stavebního  zákona č. 50/1976 Sb., a dále z usnesení téhož soudu ze dne 24. 1. 2007, č. j.  3 Ao 2/2007 - 42, ve kterém dospěl soud k závěru, že změna směrné části územního plánu je  opatřením obecné povahy.  Čtvrtý senát při předložení této věci rozšířenému senátu vycházel z toho, že územně  plánovací dokumentace schválená po"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 3 Ao 2/2007 - 42",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "3 Ao 2/2007 - 42",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::3283::62",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 3283,
+      "snippet_doc_start": 3023,
+      "snippet_doc_end": 3543,
+      "snippet_text": "ona č. 50/1976 Sb. je opatřením \nobecné povahy ve smyslu § 101a zákona č. 150/2002 Sb., soudní řád správní, ve znění \npozdějších předpisů (dále jen „s. ř. s.“).\nRozšířenému senátu však byla v téže době třetím senátem Nejvyššího správního soudu \npředložena věc sp. zn. 3 Ao 1/2007 (návrh na zrušení Územního plánu velkého \núzemního celku B1., schváleného usnesením Zastupitelstva Jihomoravského kraje ze dne \n9. 11. 2006, č. 921/06/214) s názorem, že územní plán vůbec není opatřením obecné povahy \nve smyslu ustanovení §",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 3 Ao 1/2007",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "3 Ao 1/2007",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3283,
+        "raw_end": 3302,
+        "decision_kind_hint": null,
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "povahy ve smyslu § 101a zákona č. 150/2002 Sb., soudní řád správní, ve znění  pozdějších předpisů (dále jen „s. ř. s.“). Rozšířenému senátu však byla v téže době třetím senátem Nejvyššího správního soudu  předložena věc sp. zn. 3 Ao 1/2007 (návrh na zrušení Územního plánu velkého  územního celku B1., schváleného usnesením Zastupitelstva Jihomoravského kraje ze dne  9. 11. 2006, č. 921/06/214) s názorem, že územní plán vůbec není opatřením obecné povahy  v"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 3 Ao 1/2007",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "3 Ao 1/2007",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::3759::63",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 3759,
+      "snippet_doc_start": 3499,
+      "snippet_doc_end": 4019,
+      "snippet_text": "třením obecné povahy \nve smyslu ustanovení § 101a s. ř. s.\nZ výše uvedeného vyplývá, že obě sporné otázky předložené rozšířenému senátu \nse týkaly územních plánů schválených podle stavebního zákona č. 50/1976 Sb. Pro rozhodnutí \no projednávané věci vedené pod sp. zn. 4 Ao 2/2007 však bylo rozhodující posouzení \ntoho, zda vůbec bylo možno územní plány schválené podle stavebního zákona č. 50/1976 Sb. \npovažovat za opatření obecné povahy. Dospělo-li by se totiž k závěru, že tyto územní plány \nnebylo možno považovat za",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 4 Ao 2/2007",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "4 Ao 2/2007",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3759,
+        "raw_end": 3778,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": null,
+        "context": "ní § 101a s. ř. s. Z výše uvedeného vyplývá, že obě sporné otázky předložené rozšířenému senátu  se týkaly územních plánů schválených podle stavebního zákona č. 50/1976 Sb. Pro rozhodnutí  o projednávané věci vedené pod sp. zn. 4 Ao 2/2007 však bylo rozhodující posouzení  toho, zda vůbec bylo možno územní plány schválené podle stavebního zákona č. 50/1976 Sb.  považovat za opatření obecné povahy. Dospělo-li by se totiž k závěru, že tyto územní plány  neby"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 4 Ao 2/2007",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "4 Ao 2/2007",
+          "decision_kind_hint": "",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::4529::64",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 4529,
+      "snippet_doc_start": 4269,
+      "snippet_doc_end": 4789,
+      "snippet_text": "ření obecné povahy považována ani jeho část, označovaná jako směrná.\nPrávní otázku, zda lze územní plán schválený podle stavebního zákona č. 50/1976 Sb. \npovažovat za opatření obecné povahy, řešil rozšířený senát Nejvyššího správního soudu \nve věci vedené pod sp. zn. 3 Ao 1/2007, týkající návrhu na zrušení Územního plánu velkého \núzemního celku B1., schváleného usnesením Zastupitelstva Jihomoravského kraje ze dne \n9. 11. 2006, č. 921/06/214. Rozšířený senát usnesením ze dne 13. 3. 2007, č. j. 3 Ao 1/2007 –\n 44, náv",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 3 Ao 1/2007",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "3 Ao 1/2007",
+        "reference_type": "spisova_znacka",
+        "raw_start": 4529,
+        "raw_end": 4548,
+        "decision_kind_hint": null,
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "ást, označovaná jako směrná. Právní otázku, zda lze územní plán schválený podle stavebního zákona č. 50/1976 Sb.  považovat za opatření obecné povahy, řešil rozšířený senát Nejvyššího správního soudu  ve věci vedené pod sp. zn. 3 Ao 1/2007, týkající návrhu na zrušení Územního plánu velkého  územního celku B1., schváleného usnesením Zastupitelstva Jihomoravského kraje ze dne  9. 11. 2006, č. 921/06/214. Rozšířený senát usnesením ze dne 13. 3. 2007, č. j. 3"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 3 Ao 1/2007",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "3 Ao 1/2007",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::4761::65",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4761,
+      "snippet_doc_start": 4501,
+      "snippet_doc_end": 5021,
+      "snippet_text": "o soudu \nve věci vedené pod sp. zn. 3 Ao 1/2007, týkající návrhu na zrušení Územního plánu velkého \núzemního celku B1., schváleného usnesením Zastupitelstva Jihomoravského kraje ze dne \n9. 11. 2006, č. 921/06/214. Rozšířený senát usnesením ze dne 13. 3. 2007, č. j. 3 Ao 1/2007 –\n 44, návrh odmítl a rozhodl dále, že žádný z účastníků nemá právo na náhradu nákladů řízení. \nDospěl totiž k závěru, že Územní plán velkého územního celku B1. není opatřením obecné \npovahy a není zde dána pravomoc soudu podle § 4 odst. 2 pí",
+      "predicted_reference": {
+        "reference_text": "č. j. 3 Ao 1/2007 – 44",
+        "reference_prefix": "č. j.",
+        "reference_body": "3 Ao 1/2007 – 44",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4761,
+        "raw_end": 4784,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "rozšířeného senátu",
+        "context": " 1/2007, týkající návrhu na zrušení Územního plánu velkého  územního celku B1., schváleného usnesením Zastupitelstva Jihomoravského kraje ze dne  9. 11. 2006, č. 921/06/214. Rozšířený senát usnesením ze dne 13. 3. 2007, č. j. 3 Ao 1/2007 –  44, návrh odmítl a rozhodl dále, že žádný z účastníků nemá právo na náhradu nákladů řízení.  Dospěl totiž k závěru, že Územní plán velkého územního celku B1. není opatřením obecné  povahy a není zde dána pravomoc soudu pod"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 3 Ao 1/2007 – 44",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "3 Ao 1/2007 – 44",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::docref::5451::66",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 5451,
+      "snippet_doc_start": 5191,
+      "snippet_doc_end": 5711,
+      "snippet_text": "m nedostatkem podmínek řízení a návrh byl proto \npodle § 46 odst. 1 písm. a) s. ř. s. odmítnut. \nZ odůvodnění posledně citovaného usnesení vyplývá, že rozšířený senát se na rozdíl \nod dosavadní judikatury vyjádřené např. v rozsudku Nejvyššího správního soudu \nč. j. 1 Ao 1/2006 - 74 ze dne 18. 7. 2006, postavil na stanovisko, že odpověď na otázku,\nco lze považovat za opatření obecné povahy, je třeba hledat v zákoně č. 500/2004 Sb. \n(dále též „nový správní řád“), v jeho části šesté. Z ustanovení § 171 tohoto zákona \n",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 Ao 1/2006 - 74",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 Ao 1/2006 - 74",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 5451,
+        "raw_end": 5473,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "l proto  podle § 46 odst. 1 písm. a) s. ř. s. odmítnut.  Z odůvodnění posledně citovaného usnesení vyplývá, že rozšířený senát se na rozdíl  od dosavadní judikatury vyjádřené např. v rozsudku Nejvyššího správního soudu  č. j. 1 Ao 1/2006 - 74 ze dne 18. 7. 2006, postavil na stanovisko, že odpověď na otázku, co lze považovat za opatření obecné povahy, je třeba hledat v zákoně č. 500/2004 Sb.  (dále též „nový správní řád“), v jeho části šesté. Z ustanovení § 1"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 Ao 1/2006 - 74",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 Ao 1/2006 - 74",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "609828.txt::gap::9988::1",
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "candidate_prefix": "",
+      "candidate_start": 9988,
+      "snippet_doc_start": 9728,
+      "snippet_doc_end": 10259,
+      "snippet_text": "návrhu nebo o zastavení řízení rozšířený senát. Předkládající \nčtvrtý senát neučinil spornou otázku, zda lze územní plán schválený podle stavebního zákona \nč. 50/1976 Sb. považovat za opatření obecné povahy, nicméně názor vyslovený rozšířeným \nsenátem ve věci 3 Ao 1/2007 v kontextu výše uvedeného znamená, že návrh podaný \nnavrhovatelkou měl být odmítnut, proto jej odmítl přímo rozšířený senát Nejvyššího \nsprávního soudu.\nO náhradě nákladů řízení rozhodl rozšířený senát tak, že žádný z účastníků \nnemá právo na jejich náhradu, ",
+      "predicted_reference": {
+        "reference_text": "3 Ao 1/2007",
+        "reference_prefix": "",
+        "reference_body": "3 Ao 1/2007",
+        "reference_type": "spisova_znacka",
+        "raw_start": 9988,
+        "raw_end": 9999,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "návrhu nebo o zastavení řízení rozšířený senát. Předkládající čtvrtý senát neučinil spornou otázku, zda lze územní plán schválený podle stavebního zákona č. 50/1976 Sb. považovat za opatření obecné povahy, nicméně názor vyslovený rozšířeným senátem ve věci 3 Ao 1/2007 v kontextu výše uvedeného znamená, že návrh podaný navrhovatelkou měl být odmítnut, proto jej odmítl přímo rozšířený senát Nejvyššího správního soudu. O náhradě nákladů řízení rozhodl rozšířený senát tak, že žádný z účastníků nemá právo na jejich náhradu,"
+      },
+      "task_origin": "supplement_extraction_extraction_presence_check",
+      "llm_route": "extraction_presence_check",
+      "candidate_category": "bare_court_case",
+      "candidate_targets": [],
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "3 Ao 1/2007",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "",
+          "reference_body": "3 Ao 1/2007",
+          "decision_kind_hint": "",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.98,
+          "note": "manual_v1:bare_nss_reference"
+        }
+      ]
+    }
+  ]
+}

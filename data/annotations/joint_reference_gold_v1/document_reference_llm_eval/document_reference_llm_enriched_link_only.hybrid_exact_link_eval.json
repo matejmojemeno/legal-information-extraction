@@ -1,0 +1,42 @@
+{
+  "predicted_path": "data/annotations/joint_reference_gold_v1/document_reference_llm_eval/document_reference_llm_enriched_link_only.hybrid_links.jsonl",
+  "gold_paths": [
+    "data/annotations/joint_reference_gold_v1/document_reference_link_gold_v1/joint_document_reference_exact_link_gold_v1.jsonl"
+  ],
+  "gold_link_count": 46,
+  "scoped_predicted_link_count": 44,
+  "true_positive_link_count": 44,
+  "exact_recall": 0.9565217391304348,
+  "scoped_precision": 1.0,
+  "scoped_recall": 0.9565217391304348,
+  "scoped_f1": 0.9777777777777777,
+  "wrong_target_occurrence_count": 0,
+  "missing_occurrence_count": 2,
+  "gold_by_target_source": {
+    "nalus": 3,
+    "ns": 8,
+    "nss": 29,
+    "unknown": 6
+  },
+  "gold_by_link_method": {
+    "body_exact": 40,
+    "manual_review": 6
+  },
+  "missing_occurrences": [
+    {
+      "source_document_id": "30 cdo 1363_2022_openElement.txt",
+      "raw_start": 1491,
+      "gold_targets": [
+        "28 Cdo 232_2021- III..txt"
+      ]
+    },
+    {
+      "source_document_id": "30 cdo 1363_2022_openElement.txt",
+      "raw_start": 3250,
+      "gold_targets": [
+        "28 Cdo 232_2021- III..txt"
+      ]
+    }
+  ],
+  "wrong_target_occurrences": []
+}

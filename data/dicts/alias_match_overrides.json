@@ -1,0 +1,26 @@
+{
+  "PřesZ": {
+    "match_mode": "exact"
+  },
+  "Ústava": {
+    "match_mode": "inflect"
+  },
+  "Listina": {
+    "match_mode": "inflect"
+  },
+  "Úmluva": {
+    "match_mode": "inflect"
+  },
+  "občanský zákoník": {
+    "match_mode": "inflect"
+  },
+  "obč. zák.": {
+    "match_mode": "exact"
+  },
+  "obč. zák": {
+    "match_mode": "exact"
+  },
+  "zákon o Ústavním soudu": {
+    "match_mode": "inflect"
+  }
+}

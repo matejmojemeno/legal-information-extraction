@@ -1,0 +1,313 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "2013_R184_2.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2013_R184_2.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.226585+00:00",
+  "tasks": [
+    {
+      "task_id": "2013_R184_2.txt::docref::3313::75",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 3313,
+      "snippet_doc_start": 3053,
+      "snippet_doc_end": 3573,
+      "snippet_text": "ly zadávány samostatně, tvořily nadlimitní \nveřejnou zakázku. Z tohoto důvodu Úřad zahájil ve věci přezkoumání úkonů zadavatele  \npři zadávání veřejné zakázky správní řízení z úřední povinnosti.   \nNapadené rozhodnutí \n7. \nDne 6. 6. 2013 vydal Úřad rozhodnutí č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn (dále \njen „napadené rozhodnutí“), v jehož výroku I. zkonstatoval, že se zadavatel dopustil \nspáchání správního deliktu dle § 120 odst. 1 písm. a) zákona tím, že nedodržel postup \nstanovený v § 16 odst. 2 písm. b) záko",
+      "predicted_reference": {
+        "reference_text": "č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+        "reference_prefix": "č. j.",
+        "reference_body": "ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 3313,
+        "raw_end": 3354,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": "Úřadu",
+        "context": "ní  veřejnou zakázku. Z tohoto důvodu Úřad zahájil ve věci přezkoumání úkonů zadavatele   při zadávání veřejné zakázky správní řízení z úřední povinnosti.    Napadené rozhodnutí  7.  Dne 6. 6. 2013 vydal Úřad rozhodnutí č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn (dále  jen „napadené rozhodnutí“), v jehož výroku I. zkonstatoval, že se zadavatel dopustil  spáchání správního deliktu dle § 120 odst. 1 písm. a) zákona tím, že nedodržel postup  stanovený v § 16 odst. 2 písm. b) zákon"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::7563::76",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 7563,
+      "snippet_doc_start": 7303,
+      "snippet_doc_end": 7823,
+      "snippet_text": "itními veřejnými zakázkami ve výši 5 857 000 Kč bez DPH, \nposoudil Úřad sporné dodávky, jakožto nadlimitní veřejnou zakázku, neboť jejich souhrnná \nhodnota činila 30 610 198,40 Kč bez DPH. \n14. \nVe smyslu rozsudku Nejvyššího správního soudu ze dne 27. 6. 2007 č. j. 2 Afs 198/2006-69, \ndle nějž „zadáním jedné veřejné zakázky, spočívající v plnění stejného nebo srovnatelného \ndruhu, je nutno rozumět i souhrn jednotlivých zadání určitých relativně samostatných plnění, \ntýkajících se plnění spolu úzce souvisejících zej",
+      "predicted_reference": {
+        "reference_text": "č. j. 2 Afs 198/2006-69",
+        "reference_prefix": "č. j.",
+        "reference_body": "2 Afs 198/2006-69",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 7563,
+        "raw_end": 7586,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": " 000 Kč bez DPH,  posoudil Úřad sporné dodávky, jakožto nadlimitní veřejnou zakázku, neboť jejich souhrnná  hodnota činila 30 610 198,40 Kč bez DPH.  14.  Ve smyslu rozsudku Nejvyššího správního soudu ze dne 27. 6. 2007 č. j. 2 Afs 198/2006-69,  dle nějž „zadáním jedné veřejné zakázky, spočívající v plnění stejného nebo srovnatelného  druhu, je nutno rozumět i souhrn jednotlivých zadání určitých relativně samostatných plnění,  týkajících se plnění spolu úzce "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 2 Afs 198/2006-69",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "2 Afs 198/2006-69",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::13154::77",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 13154,
+      "snippet_doc_start": 12894,
+      "snippet_doc_end": 13414,
+      "snippet_text": "vního trestání \nje dostatečná a kvalitní konkretizace skutku, na jehož základě došlo ke spáchání správního \ndeliktu. Tuto zásadu však Úřad dle zadavatele porušil, zadavatel v této souvislosti odkazuje \nna rozsudek Nejvyššího správního soudu ze dne 15. 1. 2008 č. j. 2 As 34/2006-73. \n28. \nZ výše uvedeného dle zadavatele vyplývá, že napadené rozhodnutí trpí nedostatkem \nnáležitého popisu skutku a tedy vadou nepřezkoumatelnosti. \n29. \nDále je zadavatel přesvědčen o nezákonnosti sankce, jež mu byla uložena na základě \n",
+      "predicted_reference": {
+        "reference_text": "č. j. 2 As 34/2006-73",
+        "reference_prefix": "č. j.",
+        "reference_body": "2 As 34/2006-73",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 13154,
+        "raw_end": 13175,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": " konkretizace skutku, na jehož základě došlo ke spáchání správního  deliktu. Tuto zásadu však Úřad dle zadavatele porušil, zadavatel v této souvislosti odkazuje  na rozsudek Nejvyššího správního soudu ze dne 15. 1. 2008 č. j. 2 As 34/2006-73.  28.  Z výše uvedeného dle zadavatele vyplývá, že napadené rozhodnutí trpí nedostatkem  náležitého popisu skutku a tedy vadou nepřezkoumatelnosti.  29.  Dále je zadavatel přesvědčen o nezákonnosti sankce, jež mu byla u"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 2 As 34/2006-73",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "2 As 34/2006-73",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:admin_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::15771::78",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 15771,
+      "snippet_doc_start": 15511,
+      "snippet_doc_end": 16031,
+      "snippet_text": "9 odst. 2 správního řádu přezkoumal soulad napadeného \nrozhodnutí s právními předpisy a jeho správnost v rozsahu námitek uvedených v rozkladu, \na s přihlédnutím k návrhu rozkladové komise dospěl k následujícímu závěru. \n37. \nÚřad \ntím, \nže \nsvým \nrozhodnutím \nč. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn  \nze dne 6. 6. 2013, kterým rozhodl o spáchání správního deliktu dle § 120 odst. 1 písm. a) \nzákona zadavatelem, nerozhodl správně a v souladu se zákonem. V další části odůvodnění \ntohoto rozhodnutí budou v podrobnoste",
+      "predicted_reference": {
+        "reference_text": "č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+        "reference_prefix": "č. j.",
+        "reference_body": "ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 15771,
+        "raw_end": 15812,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": "Úřadu",
+        "context": "ad napadeného  rozhodnutí s právními předpisy a jeho správnost v rozsahu námitek uvedených v rozkladu,  a s přihlédnutím k návrhu rozkladové komise dospěl k následujícímu závěru.  37.  Úřad  tím,  že  svým  rozhodnutím  č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn   ze dne 6. 6. 2013, kterým rozhodl o spáchání správního deliktu dle § 120 odst. 1 písm. a)  zákona zadavatelem, nerozhodl správně a v souladu se zákonem. V další části odůvodnění  tohoto rozhodnutí budou v podrobnostec"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::18419::79",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 18419,
+      "snippet_doc_start": 18159,
+      "snippet_doc_end": 18679,
+      "snippet_text": "uzovat vymezení předmětu veřejné \nzakázky zadavatelem, ačkoli pouze zadavatel zná nejlépe vlastní potřeby a tudíž je i nejlépe \nschopen předmět veřejné zakázky definovat, je podstatný názor Krajského soudu v Brně, \nvyjádřený v jeho rozsudku ze dne 1. 11. 2012 č. j. 62 Af 57/2011-96. Dle tohoto rozsudku \nnemůže Úřad rezignovat na přezkum vymezení předmětu veřejné zakázky s tím, že by \nmechanicky převzal zadavatelovu představu o tom, jaké plnění hodlá poptávat, „konkrétně \njaké plnění „naváže“ na jiné plnění a poptáv",
+      "predicted_reference": {
+        "reference_text": "č. j. 62 Af 57/2011-96",
+        "reference_prefix": "č. j.",
+        "reference_body": "62 Af 57/2011-96",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 18419,
+        "raw_end": 18441,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "y zadavatelem, ačkoli pouze zadavatel zná nejlépe vlastní potřeby a tudíž je i nejlépe  schopen předmět veřejné zakázky definovat, je podstatný názor Krajského soudu v Brně,  vyjádřený v jeho rozsudku ze dne 1. 11. 2012 č. j. 62 Af 57/2011-96. Dle tohoto rozsudku  nemůže Úřad rezignovat na přezkum vymezení předmětu veřejné zakázky s tím, že by  mechanicky převzal zadavatelovu představu o tom, jaké plnění hodlá poptávat, „konkrétně  jaké plnění „naváže“ na ji"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 62 Af 57/2011-96",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "62 Af 57/2011-96",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:admin_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::19603::80",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 19603,
+      "snippet_doc_start": 19343,
+      "snippet_doc_end": 19863,
+      "snippet_text": "e vztahu k samotnému předmětu veřejné zakázky, k němuž lze  \nv zadávacím řízení podávat jednu nabídku jako k celku. \n42. \nPokud jde o tzv. skrytou diskriminaci, obsahem tohoto pojmu se podrobně zabýval Nejvyšší \nsprávní soud ve svém rozsudku ze dne 5. 6. 2008 č. j. 1 Afs 20/2008-152, přičemž objasnil \nzákladní rozdíly mezi diskriminací zjevnou a skrytou. Ačkoli se tento rozsudek zabýval \npůsobením skryté diskriminace v rámci vymezení minimální úrovně kvalifikačních \npředpokladů, jsou jeho závěry plně aplikovatelné ",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 Afs 20/2008-152",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 Afs 20/2008-152",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 19603,
+        "raw_end": 19626,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "kázky, k němuž lze   v zadávacím řízení podávat jednu nabídku jako k celku.  42.  Pokud jde o tzv. skrytou diskriminaci, obsahem tohoto pojmu se podrobně zabýval Nejvyšší  správní soud ve svém rozsudku ze dne 5. 6. 2008 č. j. 1 Afs 20/2008-152, přičemž objasnil  základní rozdíly mezi diskriminací zjevnou a skrytou. Ačkoli se tento rozsudek zabýval  působením skryté diskriminace v rámci vymezení minimální úrovně kvalifikačních  předpokladů, jsou jeho závěry pl"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 Afs 20/2008-152",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 Afs 20/2008-152",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::19976::81",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 19976,
+      "snippet_doc_start": 19716,
+      "snippet_doc_end": 20236,
+      "snippet_text": "rozsudek zabýval \npůsobením skryté diskriminace v rámci vymezení minimální úrovně kvalifikačních \npředpokladů, jsou jeho závěry plně aplikovatelné na jakékoli další postupy zadavatele \nv zadávacím řízení (shodně viz rozsudek Krajského soudu ze dne 1. 11. 2012 č. j.  \n62 Af 57/2011-96: „Dodržení zásad podle § 6 zákona, a tedy i zásady zákazu diskriminace, je \npro zadavatele povinností základní a obecnou. Dodržet zásadu zákazu diskriminace podle  \n§ 6 zákona, včetně zákazu diskriminace skryté, je třeba v průběhu celé",
+      "predicted_reference": {
+        "reference_text": "č. j. 62 Af 57/2011-96",
+        "reference_prefix": "č. j.",
+        "reference_body": "62 Af 57/2011-96",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 19976,
+        "raw_end": 20000,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "iminace v rámci vymezení minimální úrovně kvalifikačních  předpokladů, jsou jeho závěry plně aplikovatelné na jakékoli další postupy zadavatele  v zadávacím řízení (shodně viz rozsudek Krajského soudu ze dne 1. 11. 2012 č. j.   62 Af 57/2011-96: „Dodržení zásad podle § 6 zákona, a tedy i zásady zákazu diskriminace, je  pro zadavatele povinností základní a obecnou. Dodržet zásadu zákazu diskriminace podle   § 6 zákona, včetně zákazu diskriminace skryté, je třeb"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 62 Af 57/2011-96",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "62 Af 57/2011-96",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:admin_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::docref::21067::82",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 21067,
+      "snippet_doc_start": 20807,
+      "snippet_doc_end": 21327,
+      "snippet_text": "poptávané zadavatelem, \nbylo-li by poptáváno odděleně, splnit za podmínek efektivní soutěže. Podmínkou přitom je, \naby takové oddělené plnění bylo vůbec možné (rovněž tento závěr je obsažen ve shora \nuvedeném rozsudku Krajského soudu v Brně ze dne 1. 11. 2012 č. j. 62 Af 57/2011-96).  \n44. \nV souvislosti s otázkou oddělitelnosti sporných dodávek, resp. služeb, je možné vycházet \nz přehledu těchto dodávek a služeb, který zadavatel uvedl ve svém vyjádření ze dne  \n9. 7. 2012. Již z takto schematicky provedeného výčtu",
+      "predicted_reference": {
+        "reference_text": "č. j. 62 Af 57/2011-96",
+        "reference_prefix": "č. j.",
+        "reference_body": "62 Af 57/2011-96",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 21067,
+        "raw_end": 21089,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "váno odděleně, splnit za podmínek efektivní soutěže. Podmínkou přitom je,  aby takové oddělené plnění bylo vůbec možné (rovněž tento závěr je obsažen ve shora  uvedeném rozsudku Krajského soudu v Brně ze dne 1. 11. 2012 č. j. 62 Af 57/2011-96).   44.  V souvislosti s otázkou oddělitelnosti sporných dodávek, resp. služeb, je možné vycházet  z přehledu těchto dodávek a služeb, který zadavatel uvedl ve svém vyjádření ze dne   9. 7. 2012. Již z takto schematicky"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 62 Af 57/2011-96",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "62 Af 57/2011-96",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:admin_case_reference"
+        }
+      ]
+    }
+  ]
+}

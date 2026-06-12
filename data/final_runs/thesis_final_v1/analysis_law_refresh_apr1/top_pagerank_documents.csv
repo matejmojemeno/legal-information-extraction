@@ -1,0 +1,16 @@
+document_id,document_path,source,display_identifier,decision_year,pagerank,exact_indegree,exact_incoming_occurrences
+3-23-93.txt,data/imports/parent_bucket_texts/nalus/3-23-93.txt,nalus,III. ÚS 23/93,1994,0.011924011519381774,3360,3439
+3-84-94.txt,data/imports/parent_bucket_texts/nalus/3-84-94.txt,nalus,III. ÚS 84/94,1995,0.008114449088321781,8573,9036
+241727.txt,data/imports/parent_bucket_texts/nss/241727.txt,nss,1 Azs 13/2006 - 39,2006,0.0020324740388395156,6741,7462
+3-224-98.txt,data/imports/parent_bucket_texts/nalus/3-224-98.txt,nalus,III. ÚS 224/98,1999,0.0018795910972694684,2164,2206
+31 Nd 200_2012.txt,data/imports/parent_bucket_texts/ns/31 Nd 200_2012.txt,ns,31 Nd 200/2012,2012,0.001858538622637689,3399,3715
+Pl-16-93.txt,data/imports/parent_bucket_texts/nalus/Pl-16-93.txt,nalus,Pl. ÚS 16/93,1994,0.001847327370660342,226,270
+4-73-03.txt,data/imports/parent_bucket_texts/nalus/4-73-03.txt,nalus,IV. ÚS 73/03,2004,0.0017425369173375636,7977,8390
+3-150-93.txt,data/imports/parent_bucket_texts/nalus/3-150-93.txt,nalus,III. ÚS 150/93,1994,0.0017326244473543381,1189,1215
+239280.txt,data/imports/parent_bucket_texts/nss/239280.txt,nss,2 Ads 58/2003 - 75,2003,0.0017224406362032626,5822,6095
+4-252-95.txt,data/imports/parent_bucket_texts/nalus/4-252-95.txt,nalus,IV. ÚS 252/95,1996,0.0016777856054710268,6,7
+3-142-98.txt,data/imports/parent_bucket_texts/nalus/3-142-98.txt,nalus,III. ÚS 142/98,1998,0.0015667452941063177,126,138
+29 Cdo 2394_2013.txt,data/imports/parent_bucket_texts/ns/29 Cdo 2394_2013.txt,ns,29 Cdo 2394/2013,2013,0.0015639783258376142,8016,9094
+29 NSCR 55_2013.txt,data/imports/parent_bucket_texts/ns/29 NSCR 55_2013.txt,ns,29 NSCR 55/2013,2013,0.0015529788658250022,4038,4648
+4-565-02.txt,data/imports/parent_bucket_texts/nalus/4-565-02.txt,nalus,IV. ÚS 565/02,2003,0.001547054100260751,197,211
+3-114-93.txt,data/imports/parent_bucket_texts/nalus/3-114-93.txt,nalus,III. ÚS 114/93,1994,0.0015104790887016317,41,46

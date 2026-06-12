@@ -1,0 +1,85 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "GetText.aspx_sz_1-432-97.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.161852+00:00",
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::docref::90::6",
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "candidate_prefix": "čj.",
+      "candidate_start": 90,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 350,
+      "snippet_text": "\nStěžovatel napadl ústavní stížností usnesení Městského soudu v Praze ze dne 14. 4. 1997, čj. 36 Co 13/97 - 24, kterým bylo odmítnuto jeho odvolání proti usnesení o zastavení soudního řízení. K tomu došlo ve sporu Č.A.D., proti A.G., o zaplaceni Kč 12 251,- jako náhrady škody způsobené zaměstnancem, v usnesení Obvodního soudu pro Prahu 4 ze dne 30.",
+      "predicted_reference": {
+        "reference_text": "čj. 36 Co 13/97 - 24",
+        "reference_prefix": "čj.",
+        "reference_body": "36 Co 13/97 - 24",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 90,
+        "raw_end": 110,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Městského soudu",
+        "context": " Stěžovatel napadl ústavní stížností usnesení Městského soudu v Praze ze dne 14. 4. 1997, čj. 36 Co 13/97 - 24, kterým bylo odmítnuto jeho odvolání proti usnesení o zastavení soudního řízení. K tomu došlo ve sporu Č.A.D., proti A.G., o zaplaceni Kč 12 251,- jako náhrady škody způsobené zaměstnancem, v usnesení Obvodního soudu pr"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čj. 36 Co 13/97 - 24",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "čj.",
+          "reference_body": "36 Co 13/97 - 24",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Městského soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::docref::360::7",
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 360,
+      "snippet_doc_start": 100,
+      "snippet_doc_end": 620,
+      "snippet_text": "13/97 - 24, kterým bylo odmítnuto jeho odvolání proti usnesení o zastavení soudního řízení. K tomu došlo ve sporu Č.A.D., proti A.G., o zaplaceni Kč 12 251,- jako náhrady škody způsobené zaměstnancem, v usnesení Obvodního soudu pro Prahu 4 ze dne 30. 5. 1995, sp. zn. 24 C 76/95, který tak učinil proto, že žalobce ani na výzvu soudu nezaplatil soudní poplatek ve výši Kč 492,--.\n1 ÚS 432/97\nStěžovatel se odvolává na to, že v souvislosti s kupní smlouvou mezi FNM a Č., , Praha., došlo k přechodu některých práv a povin",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 24 C 76/95",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "24 C 76/95",
+        "reference_type": "spisova_znacka",
+        "raw_start": 360,
+        "raw_end": 378,
+        "decision_kind_hint": "usnesení",
+        "court_hint": null,
+        "context": "dvolání proti usnesení o zastavení soudního řízení. K tomu došlo ve sporu Č.A.D., proti A.G., o zaplaceni Kč 12 251,- jako náhrady škody způsobené zaměstnancem, v usnesení Obvodního soudu pro Prahu 4 ze dne 30. 5. 1995, sp. zn. 24 C 76/95, který tak učinil proto, že žalobce ani na výzvu soudu nezaplatil soudní poplatek ve výši Kč 492,--. 1 ÚS 432/97 Stěžovatel se odvolává na to, že v souvislosti s kupní smlouvou mezi FNM a Č., , Praha., došlo k přechodu "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 24 C 76/95",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "24 C 76/95",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Obvodního soudu pro Prahu 4",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "23 cdo 1135_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.416429+00:00",
+  "references": [
+    {
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::83::27",
+      "classification": "document_reference",
+      "reference_text": "č. j.",
+      "start_char": 83,
+      "end_char": 88,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č. j.",
+      "reference_body": "",
+      "decision_kind_hint": "rozsudek",
+      "court_hint": "Okresního soudu ve Znojmě",
+      "confidence": 0.83,
+      "note": "manual_v1:ocr_truncated_docref"
+    },
+    {
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::3468::28",
+      "classification": "document_reference",
+      "reference_text": "č. j. 21 Co 123/2020-294",
+      "start_char": 3468,
+      "end_char": 3492,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č. j.",
+      "reference_body": "21 Co 123/2020-294",
+      "decision_kind_hint": "rozsudek",
+      "court_hint": "Krajského soudu v Brně",
+      "confidence": 0.99,
+      "note": "manual_v1:ns_case_reference"
+    },
+    {
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::9490::29",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. III. ÚS 721/2000",
+      "start_char": 9490,
+      "end_char": 9514,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "III. ÚS 721/2000",
+      "decision_kind_hint": "nález",
+      "court_hint": "Ústavního soudu",
+      "confidence": 0.99,
+      "note": "manual_v1:us_case_reference"
+    }
+  ]
+}

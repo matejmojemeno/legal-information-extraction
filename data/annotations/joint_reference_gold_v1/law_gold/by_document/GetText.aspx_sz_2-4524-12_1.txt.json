@@ -1,0 +1,86 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.425894+00:00",
+  "citations": [
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::section_or_article::184::74",
+      "finding_id": "1",
+      "citation_text": "§ 36",
+      "citation_type": "section",
+      "start_char": 184,
+      "end_char": 188,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákona o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "36",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_explicit",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::section_or_article::895::75",
+      "finding_id": "1",
+      "citation_text": "§ 36",
+      "citation_type": "section",
+      "start_char": 895,
+      "end_char": 899,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákona č. 182/1993 Sb., zákon o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "36",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_a_nasl",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::law_id_mention::918::76",
+      "finding_id": "1",
+      "citation_text": "182/1993 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 918,
+      "end_char": 930,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákon o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-4524-12_1.txt::section_or_article::1088::77",
+      "finding_id": "1",
+      "citation_text": "§ 36",
+      "citation_type": "section",
+      "start_char": 1088,
+      "end_char": 1092,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákona o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "36",
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_multiple_odst",
+      "snippet_warnings": []
+    }
+  ]
+}

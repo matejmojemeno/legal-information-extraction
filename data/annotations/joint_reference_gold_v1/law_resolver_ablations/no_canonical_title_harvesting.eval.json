@@ -1,0 +1,1594 @@
+{
+  "generated_at_utc": "2026-05-03T22:58:40.049522+00:00",
+  "gold_documents": 25,
+  "gold_stats": {
+    "total_findings": 658,
+    "by_type": {
+      "article": 29,
+      "other_normative": 126,
+      "section": 503
+    },
+    "by_classification": {
+      "czech_resolved": 634,
+      "foreign_law": 12,
+      "non_citation": 12
+    },
+    "supported_types": [
+      "article",
+      "other_normative",
+      "section"
+    ],
+    "supported_findings": 658,
+    "supported_positive_findings": 646,
+    "supported_non_citation_findings": 12,
+    "unsupported_other_normative_findings": 0
+  },
+  "prediction_stats": {
+    "total_occurrences": 664,
+    "duplicate_same_anchor_occurrences": 0,
+    "resolved_occurrences": 621,
+    "unresolved_occurrences": 43,
+    "resolver_stages": {
+      "Filtered: Non-Statutory Collection": 1,
+      "Law ID Mention": 125,
+      "Level 1: Direct Match": 54,
+      "Level 2: Explicit Anaphora": 12,
+      "Level 2A: Section Anaphora": 1,
+      "Level 3: Implicit Generic Reference": 130,
+      "Level 3B: Citation Chain Carryover": 26,
+      "Level 3C: Backward Context Carryover": 8,
+      "Level 5: Local Dictionary ('OdpŠk')": 1,
+      "Level 5: Local Dictionary ('o. s. ř.')": 37,
+      "Level 5: Local Dictionary ('obch. zák.')": 15,
+      "Level 5: Local Dictionary ('obč. zák.')": 2,
+      "Level 5: Local Dictionary ('přestupkový zákon')": 4,
+      "Level 5: Local Dictionary ('s. ř. s.')": 11,
+      "Level 5: Local Dictionary ('správní řád')": 4,
+      "Level 5: Local Dictionary ('tr. z.')": 7,
+      "Level 5: Local Dictionary ('zákon o azylu')": 8,
+      "Level 5: Local Dictionary ('zákon o obcích')": 22,
+      "Level 6: Global Dictionary ('Listina základních práv a svobod')": 5,
+      "Level 6: Global Dictionary ('ZVZ')": 2,
+      "Level 6: Global Dictionary ('insolvenční zákon')": 7,
+      "Level 6: Global Dictionary ('o. s. ř.')": 51,
+      "Level 6: Global Dictionary ('občanský soudní řád')": 2,
+      "Level 6: Global Dictionary ('s. ř. s.')": 18,
+      "Level 6: Global Dictionary ('správní řád')": 4,
+      "Level 6: Global Dictionary ('stavební zákon')": 1,
+      "Level 6: Global Dictionary ('tr. zák.')": 9,
+      "Level 6: Global Dictionary ('tr. ř.')": 23,
+      "Level 6: Global Dictionary ('tr. řád')": 2,
+      "Level 6: Global Dictionary ('trestní zákon')": 2,
+      "Level 6: Global Dictionary ('trestní řád')": 2,
+      "Level 6: Global Dictionary ('zákon o azylu')": 8,
+      "Level 6: Global Dictionary ('zákon o veřejných zakázkách')": 2,
+      "Level 6: Global Dictionary ('zákona o Ústavním soudu')": 3,
+      "Level 6: Global Dictionary ('zákoník práce')": 1,
+      "Level 6: Global Dictionary ('Ústava')": 4,
+      "Level 7: Unresolved": 43,
+      "Typed: Foreign Law": 7
+    }
+  },
+  "metrics": {
+    "supported_anchor_detection": {
+      "tp": 658,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.991,
+      "recall": 1.0,
+      "f1": 0.9955
+    },
+    "supported_positive_citation_presence": {
+      "tp": 646,
+      "fp": 17,
+      "fn": 0,
+      "precision": 0.9744,
+      "recall": 1.0,
+      "f1": 0.987
+    },
+    "matched_supported_classification_accuracy": {
+      "correct": 605,
+      "total": 658,
+      "accuracy": 0.9195,
+      "confusion": {
+        "czech_resolved": {
+          "czech_resolved": 597,
+          "czech_unresolved": 37
+        },
+        "foreign_law": {
+          "czech_resolved": 4,
+          "czech_unresolved": 1,
+          "foreign_law": 7
+        },
+        "non_citation": {
+          "czech_resolved": 7,
+          "czech_unresolved": 4,
+          "non_citation": 1
+        }
+      }
+    },
+    "czech_resolved_law_accuracy": {
+      "correct": 577,
+      "total": 634,
+      "accuracy": 0.9101
+    },
+    "detail_accuracy_on_supported_positives": {
+      "total": 646,
+      "number_exact": 0.4706,
+      "odst_exact": 0.9272,
+      "pism_exact": 0.9443,
+      "full_exact": 0.4644
+    }
+  },
+  "error_taxonomy": {
+    "counts": {
+      "foreign_law_not_typed_explicitly": 5,
+      "gold_non_citation_predicted_as_citation": 11,
+      "spurious_predicted_anchor": 6,
+      "wrong_classification": 53,
+      "wrong_detail_number": 342,
+      "wrong_detail_odst": 47,
+      "wrong_detail_pism": 36,
+      "wrong_law_id": 57
+    },
+    "examples": {
+      "wrong_detail_number": [
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 112",
+            "citation_type": "section",
+            "start_char": 169,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::169::423"
+          },
+          "prediction": {
+            "citation_text": "§ 112",
+            "citation_type": "section",
+            "raw_start": 169,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 1: Direct Match",
+            "confidence": 0.99,
+            "parsed_detail": {
+              "number": "112"
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 120",
+            "citation_type": "section",
+            "start_char": 2836,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "1"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::2836::425"
+          },
+          "prediction": {
+            "citation_text": "§ 120",
+            "citation_type": "section",
+            "raw_start": 2836,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "120",
+              "odst": [
+                "1"
+              ],
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 2896,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::2896::426"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 2896,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 6",
+            "citation_type": "section",
+            "start_char": 2923,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::2923::427"
+          },
+          "prediction": {
+            "citation_text": "§ 6",
+            "citation_type": "section",
+            "raw_start": 2923,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "6"
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 120",
+            "citation_type": "section",
+            "start_char": 3479,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "1"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::3479::428"
+          },
+          "prediction": {
+            "citation_text": "§ 120",
+            "citation_type": "section",
+            "raw_start": 3479,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "120",
+              "odst": [
+                "1"
+              ],
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        }
+      ],
+      "wrong_detail_pism": [
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 2896,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::2896::426"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 2896,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 10090,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::10090::435"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 10090,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 31771,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::31771::456"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 31771,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 31850,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::31850::457"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 31850,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 31966,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2013_R184_2.txt::section_or_article::31966::458"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 31966,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ],
+              "pism": [
+                "a",
+                "b"
+              ]
+            }
+          }
+        }
+      ],
+      "wrong_detail_odst": [
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 9",
+            "citation_type": "section",
+            "start_char": 17160,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::17160::446"
+          },
+          "prediction": {
+            "citation_text": "§ 9",
+            "citation_type": "section",
+            "raw_start": 17160,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "9",
+              "odst": [
+                "1"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "§ 56",
+            "citation_type": "section",
+            "start_char": 3801,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "3",
+              "5"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2016_S0551.txt::section_or_article::3801::473"
+          },
+          "prediction": {
+            "citation_text": "§ 56",
+            "citation_type": "section",
+            "raw_start": 3801,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "56",
+              "odst": [
+                "5"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "§ 56",
+            "citation_type": "section",
+            "start_char": 4007,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "3",
+              "5"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "2016_S0551.txt::section_or_article::4007::475"
+          },
+          "prediction": {
+            "citation_text": "§ 56",
+            "citation_type": "section",
+            "raw_start": 4007,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "56",
+              "odst": [
+                "3"
+              ],
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "§ 2",
+            "citation_type": "section",
+            "start_char": 6864,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "1",
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::6864::481"
+          },
+          "prediction": {
+            "citation_text": "§ 2",
+            "citation_type": "section",
+            "raw_start": 6864,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 2: Explicit Anaphora",
+            "confidence": 0.9,
+            "parsed_detail": {
+              "number": "2"
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "§ 2",
+            "citation_type": "section",
+            "start_char": 6888,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::6888::482"
+          },
+          "prediction": {
+            "citation_text": "§ 2",
+            "citation_type": "section",
+            "raw_start": 6888,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 2: Explicit Anaphora",
+            "confidence": 0.9,
+            "parsed_detail": {
+              "number": "2",
+              "odst": [
+                "1"
+              ]
+            }
+          }
+        }
+      ],
+      "wrong_classification": [
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 8",
+            "citation_type": "section",
+            "start_char": 27684,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::27684::453"
+          },
+          "prediction": {
+            "citation_text": "§ 8",
+            "citation_type": "section",
+            "raw_start": 27684,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "8"
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 32288,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::32288::460"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 32288,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 121",
+            "citation_type": "section",
+            "start_char": 37156,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::37156::464"
+          },
+          "prediction": {
+            "citation_text": "§ 121",
+            "citation_type": "section",
+            "raw_start": 37156,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "121",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "start_char": 3829,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::3829::474"
+          },
+          "prediction": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "raw_start": 3829,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3B: Citation Chain Carryover",
+            "confidence": 0.72,
+            "parsed_detail": {
+              "number": "5",
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "start_char": 22333,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::22333::509"
+          },
+          "prediction": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "raw_start": 22333,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3B: Citation Chain Carryover",
+            "confidence": 0.72,
+            "parsed_detail": {
+              "number": "5",
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        }
+      ],
+      "wrong_law_id": [
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 8",
+            "citation_type": "section",
+            "start_char": 27684,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::27684::453"
+          },
+          "prediction": {
+            "citation_text": "§ 8",
+            "citation_type": "section",
+            "raw_start": 27684,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "8"
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "start_char": 32288,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::32288::460"
+          },
+          "prediction": {
+            "citation_text": "§ 16",
+            "citation_type": "section",
+            "raw_start": 32288,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "16",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2013_R184_2.txt",
+          "gold": {
+            "citation_text": "§ 121",
+            "citation_type": "section",
+            "start_char": 37156,
+            "classification": "czech_resolved",
+            "law_id": "137/2006 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "2013_R184_2.txt::section_or_article::37156::464"
+          },
+          "prediction": {
+            "citation_text": "§ 121",
+            "citation_type": "section",
+            "raw_start": 37156,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "121",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "23 cdo 1135_2022_openElement.txt",
+          "gold": {
+            "citation_text": "§ 237",
+            "citation_type": "section",
+            "start_char": 5533,
+            "classification": "czech_resolved",
+            "law_id": "99/1963 Sb.",
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::5533::110"
+          },
+          "prediction": {
+            "citation_text": "§ 237",
+            "citation_type": "section",
+            "raw_start": 5533,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "287/2018 Sb.",
+            "resolver_stage": "Level 5: Local Dictionary ('o. s. ř.')",
+            "confidence": 0.93,
+            "parsed_detail": {
+              "number": "237"
+            }
+          }
+        },
+        {
+          "document_id": "23 cdo 1135_2022_openElement.txt",
+          "gold": {
+            "citation_text": "§ 241",
+            "citation_type": "section",
+            "start_char": 8125,
+            "classification": "czech_resolved",
+            "law_id": "99/1963 Sb.",
+            "detail_number": null,
+            "detail_odst": [
+              "1"
+            ],
+            "detail_pism": [],
+            "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::8125::117"
+          },
+          "prediction": {
+            "citation_text": "§ 241",
+            "citation_type": "section",
+            "raw_start": 8125,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "287/2018 Sb.",
+            "resolver_stage": "Level 5: Local Dictionary ('o. s. ř.')",
+            "confidence": 0.93,
+            "parsed_detail": {
+              "number": "241",
+              "odst": [
+                "1"
+              ]
+            }
+          }
+        }
+      ],
+      "spurious_predicted_anchor": [
+        {
+          "document_id": "2013_R184_2.txt"
+        },
+        {
+          "document_id": "2016_S0551.txt"
+        },
+        {
+          "document_id": "2016_S0551.txt"
+        },
+        {
+          "document_id": "2016_S0551.txt"
+        },
+        {
+          "document_id": "724902.txt"
+        }
+      ],
+      "gold_non_citation_predicted_as_citation": [
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "start_char": 3829,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::3829::474"
+          },
+          "prediction": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "raw_start": 3829,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3B: Citation Chain Carryover",
+            "confidence": 0.72,
+            "parsed_detail": {
+              "number": "5",
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "start_char": 22333,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::22333::509"
+          },
+          "prediction": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "raw_start": 22333,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3B: Citation Chain Carryover",
+            "confidence": 0.72,
+            "parsed_detail": {
+              "number": "5",
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "2016_S0551.txt",
+          "gold": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "start_char": 30361,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "2016_S0551.txt::section_or_article::30361::521"
+          },
+          "prediction": {
+            "citation_text": "čl. 5",
+            "citation_type": "article",
+            "raw_start": 30361,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "137/2006 Sb.",
+            "resolver_stage": "Level 3B: Citation Chain Carryover",
+            "confidence": 0.72,
+            "parsed_detail": {
+              "number": "5",
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "237253.txt",
+          "gold": {
+            "citation_text": "čl. 65",
+            "citation_type": "article",
+            "start_char": 1511,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": "65",
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "237253.txt::section_or_article::1511::344"
+          },
+          "prediction": {
+            "citation_text": "čl. 65",
+            "citation_type": "article",
+            "raw_start": 1511,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "325/1999 Sb.",
+            "resolver_stage": "Level 3C: Backward Context Carryover",
+            "confidence": 0.7,
+            "parsed_detail": {
+              "number": "65"
+            }
+          }
+        },
+        {
+          "document_id": "29 icdo 2_2022_openElement.txt",
+          "gold": {
+            "citation_text": "106/2013 Sb.",
+            "citation_type": "other_normative",
+            "start_char": 3019,
+            "classification": "non_citation",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "29 icdo 2_2022_openElement.txt::law_id_mention::3019::160"
+          },
+          "prediction": {
+            "citation_text": "106/2013 Sb.",
+            "citation_type": "other_normative",
+            "raw_start": 3019,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "106/2013 Sb.",
+            "resolver_stage": "Law ID Mention",
+            "confidence": 0.99,
+            "parsed_detail": {}
+          }
+        }
+      ],
+      "foreign_law_not_typed_explicitly": [
+        {
+          "document_id": "231833.txt",
+          "gold": {
+            "citation_text": "čl. 8",
+            "citation_type": "article",
+            "start_char": 453,
+            "classification": "foreign_law",
+            "law_id": null,
+            "detail_number": "8",
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "231833.txt::section_or_article::453::324"
+          },
+          "prediction": {
+            "citation_text": "čl. 8",
+            "citation_type": "article",
+            "raw_start": 453,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "325/1999 Sb.",
+            "resolver_stage": "Level 6: Global Dictionary ('zákon o azylu')",
+            "confidence": 0.86,
+            "parsed_detail": {
+              "number": "8"
+            }
+          }
+        },
+        {
+          "document_id": "231833.txt",
+          "gold": {
+            "citation_text": "čl. 3",
+            "citation_type": "article",
+            "start_char": 619,
+            "classification": "foreign_law",
+            "law_id": null,
+            "detail_number": "3",
+            "detail_odst": [],
+            "detail_pism": [],
+            "task_id": "231833.txt::section_or_article::619::326"
+          },
+          "prediction": {
+            "citation_text": "čl. 3",
+            "citation_type": "article",
+            "raw_start": 619,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "325/1999 Sb.",
+            "resolver_stage": "Level 6: Global Dictionary ('zákon o azylu')",
+            "confidence": 0.86,
+            "parsed_detail": {
+              "number": "3"
+            }
+          }
+        },
+        {
+          "document_id": "609828.txt",
+          "gold": {
+            "citation_text": "čl. 2",
+            "citation_type": "article",
+            "start_char": 609,
+            "classification": "foreign_law",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [
+              "5"
+            ],
+            "detail_pism": [],
+            "task_id": "609828.txt::section_or_article::609::360"
+          },
+          "prediction": {
+            "citation_text": "čl. 2",
+            "citation_type": "article",
+            "raw_start": 609,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "2",
+              "odst": [
+                "5"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "609828.txt",
+          "gold": {
+            "citation_text": "čl. 2",
+            "citation_type": "article",
+            "start_char": 7306,
+            "classification": "foreign_law",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [],
+            "detail_pism": [
+              "e",
+              "g"
+            ],
+            "task_id": "609828.txt::section_or_article::7306::384"
+          },
+          "prediction": {
+            "citation_text": "čl. 2",
+            "citation_type": "article",
+            "raw_start": 7306,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "183/2006 Sb.",
+            "resolver_stage": "Level 3: Implicit Generic Reference",
+            "confidence": 0.62,
+            "parsed_detail": {
+              "number": "2",
+              "pism": [
+                "e",
+                "g"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "609828.txt",
+          "gold": {
+            "citation_text": "čl. 9",
+            "citation_type": "article",
+            "start_char": 7372,
+            "classification": "foreign_law",
+            "law_id": null,
+            "detail_number": null,
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "609828.txt::section_or_article::7372::385"
+          },
+          "prediction": {
+            "citation_text": "čl. 9",
+            "citation_type": "article",
+            "raw_start": 7372,
+            "label": "czech_resolved",
+            "predicted_classification": "czech_resolved",
+            "resolved_law_id": "183/2006 Sb.",
+            "resolver_stage": "Level 6: Global Dictionary ('stavební zákon')",
+            "confidence": 0.86,
+            "parsed_detail": {
+              "number": "9",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "per_document": [
+    {
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "gold_total": 45,
+      "gold_supported": 45,
+      "gold_supported_positive": 45,
+      "predicted_occurrences": 46,
+      "matched_supported": 45,
+      "missing_supported": 0,
+      "spurious_predictions": 1,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "gold_total": 66,
+      "gold_supported": 66,
+      "gold_supported_positive": 63,
+      "predicted_occurrences": 69,
+      "matched_supported": 66,
+      "missing_supported": 0,
+      "spurious_predictions": 3,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "gold_total": 29,
+      "gold_supported": 29,
+      "gold_supported_positive": 29,
+      "predicted_occurrences": 29,
+      "matched_supported": 29,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "gold_total": 50,
+      "gold_supported": 50,
+      "gold_supported_positive": 50,
+      "predicted_occurrences": 50,
+      "matched_supported": 50,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "gold_total": 8,
+      "gold_supported": 8,
+      "gold_supported_positive": 8,
+      "predicted_occurrences": 8,
+      "matched_supported": 8,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "gold_total": 15,
+      "gold_supported": 15,
+      "gold_supported_positive": 14,
+      "predicted_occurrences": 15,
+      "matched_supported": 15,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "gold_total": 23,
+      "gold_supported": 23,
+      "gold_supported_positive": 22,
+      "predicted_occurrences": 23,
+      "matched_supported": 23,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "gold_total": 27,
+      "gold_supported": 27,
+      "gold_supported_positive": 24,
+      "predicted_occurrences": 27,
+      "matched_supported": 27,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+      "gold_total": 50,
+      "gold_supported": 50,
+      "gold_supported_positive": 50,
+      "predicted_occurrences": 50,
+      "matched_supported": 50,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "gold_total": 52,
+      "gold_supported": 52,
+      "gold_supported_positive": 51,
+      "predicted_occurrences": 52,
+      "matched_supported": 52,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "gold_total": 9,
+      "gold_supported": 9,
+      "gold_supported_positive": 9,
+      "predicted_occurrences": 9,
+      "matched_supported": 9,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "609828.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/609828.txt",
+      "gold_total": 37,
+      "gold_supported": 37,
+      "gold_supported_positive": 35,
+      "predicted_occurrences": 37,
+      "matched_supported": 37,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "gold_total": 6,
+      "gold_supported": 6,
+      "gold_supported_positive": 6,
+      "predicted_occurrences": 6,
+      "matched_supported": 6,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "gold_total": 25,
+      "gold_supported": 25,
+      "gold_supported_positive": 25,
+      "predicted_occurrences": 25,
+      "matched_supported": 25,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "724902.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/724902.txt",
+      "gold_total": 20,
+      "gold_supported": 20,
+      "gold_supported_positive": 20,
+      "predicted_occurrences": 21,
+      "matched_supported": 20,
+      "missing_supported": 0,
+      "spurious_predictions": 1,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "GetText.aspx_sz_1-256-2000.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-256-2000.txt",
+      "gold_total": 3,
+      "gold_supported": 3,
+      "gold_supported_positive": 3,
+      "predicted_occurrences": 3,
+      "matched_supported": 3,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "gold_total": 55,
+      "gold_supported": 55,
+      "gold_supported_positive": 55,
+      "predicted_occurrences": 55,
+      "matched_supported": 55,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "gold_total": 3,
+      "gold_supported": 3,
+      "gold_supported_positive": 3,
+      "predicted_occurrences": 3,
+      "matched_supported": 3,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "gold_total": 12,
+      "gold_supported": 12,
+      "gold_supported_positive": 12,
+      "predicted_occurrences": 12,
+      "matched_supported": 12,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "GetText.aspx_sz_2-4524-12_1.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-4524-12_1.txt",
+      "gold_total": 4,
+      "gold_supported": 4,
+      "gold_supported_positive": 4,
+      "predicted_occurrences": 4,
+      "matched_supported": 4,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "gold_total": 23,
+      "gold_supported": 23,
+      "gold_supported_positive": 22,
+      "predicted_occurrences": 24,
+      "matched_supported": 23,
+      "missing_supported": 0,
+      "spurious_predictions": 1,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "gold_total": 40,
+      "gold_supported": 40,
+      "gold_supported_positive": 40,
+      "predicted_occurrences": 40,
+      "matched_supported": 40,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "gold_total": 9,
+      "gold_supported": 9,
+      "gold_supported_positive": 9,
+      "predicted_occurrences": 9,
+      "matched_supported": 9,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "gold_total": 24,
+      "gold_supported": 24,
+      "gold_supported_positive": 24,
+      "predicted_occurrences": 24,
+      "matched_supported": 24,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "gold_total": 23,
+      "gold_supported": 23,
+      "gold_supported_positive": 23,
+      "predicted_occurrences": 23,
+      "matched_supported": 23,
+      "missing_supported": 0,
+      "spurious_predictions": 0,
+      "duplicate_anchor_predictions": 0
+    }
+  ],
+  "alias_source": "audited+seeded+derived+ambiguous+overrides",
+  "gold_input": "data/annotations/joint_reference_gold_v1/law_gold/joint_law_reference_gold_v1.jsonl",
+  "ablation_variant": "no_canonical_title_harvesting"
+}

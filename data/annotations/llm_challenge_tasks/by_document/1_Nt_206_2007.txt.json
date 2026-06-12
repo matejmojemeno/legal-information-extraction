@@ -1,0 +1,52 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.226120+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 Nt 206_2007.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Nt 206_2007.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 Nt 206_2007.txt::section::627::12",
+      "document_id": "1 Nt 206_2007.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Nt 206_2007.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 163a",
+      "snippet_doc_start": 367,
+      "snippet_doc_end": 893,
+      "snippet_text": "Návrh byl odůvodněn tím, že 26. 4. 2006 zahájil policejní orgán Útvaru odhalování \nkorupce a finanční kriminality Služby kriminální policie a vyšetřování Policie ČR, Expozitury \nČeské Budějovice, trestní řízení ve věci trestných činů zločinného spolčení podle § 163a odst. 1, \npletich při veřejné soutěži a veřejné dražbě podle § 128a odst. 1, odst. 2 písm. a), odst. 3, \npřijímání úplatků podle § 160 odst. 1, odst. 2, odst. 3 písm. a), písm. b), podplácení podle § 161 \nodst. 1, odst. 2 písm. a) tr. zák., porušování závazný",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 163a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. zák.",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "163a",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.95,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 Nt 206_2007.txt::627:633:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": [
+          "141/1961 Sb."
+        ]
+      }
+    }
+  ]
+}

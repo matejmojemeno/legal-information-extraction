@@ -1,0 +1,29 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "0 Ts 43_2012.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 43_2012.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.432137+00:00",
+  "citations": [
+    {
+      "task_id": "0 Ts 43_2012.txt::section::5994::2",
+      "finding_id": "1",
+      "citation_text": "§ 205",
+      "citation_type": "section",
+      "start_char": 5994,
+      "end_char": 5999,
+      "law_id": "40/2009 Sb.",
+      "law_name_text": "tr. zákoníku",
+      "declared_alias_text": "tr. zákoníku",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "205",
+      "detail_odst": [
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

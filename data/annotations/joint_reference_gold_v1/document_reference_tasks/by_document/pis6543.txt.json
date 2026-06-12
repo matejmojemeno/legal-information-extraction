@@ -1,0 +1,313 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "pis6543.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis6543.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.240984+00:00",
+  "tasks": [
+    {
+      "task_id": "pis6543.txt::docref::657::100",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 657,
+      "snippet_doc_start": 397,
+      "snippet_doc_end": 917,
+      "snippet_text": " pořádkové pokuty městu Rosice, Palackého \nnám. 13, 665 01 Rosice, zastoupeném Mgr. Pavlem Polanským, starostou města Rosic (dále \njen „zadavatel“), a to z důvodu neposkytnutí požadovaných podkladů, jejichž předložení \norgán dohledu požadoval opakovaně dopisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999, \nč.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999. \nZahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným \núčastníkem správního řízení, dopisem č.j. S",
+      "predicted_reference": {
+        "reference_text": "č.j. P 29/99-150/938/99-jl",
+        "reference_prefix": "č.j.",
+        "reference_body": "P 29/99-150/938/99-jl",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 657,
+        "raw_end": 683,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "o  nám. 13, 665 01 Rosice, zastoupeném Mgr. Pavlem Polanským, starostou města Rosic (dále  jen „zadavatel“), a to z důvodu neposkytnutí požadovaných podkladů, jejichž předložení  orgán dohledu požadoval opakovaně dopisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999,  č.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999.  Zahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným  účastníkem správního řízení, "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. P 29/99-150/938/99-jl",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "P 29/99-150/938/99-jl",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.98,
+          "note": "manual_v1:uohs_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::702::101",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 702,
+      "snippet_doc_start": 442,
+      "snippet_doc_end": 962,
+      "snippet_text": "m. 13, 665 01 Rosice, zastoupeném Mgr. Pavlem Polanským, starostou města Rosic (dále \njen „zadavatel“), a to z důvodu neposkytnutí požadovaných podkladů, jejichž předložení \norgán dohledu požadoval opakovaně dopisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999, \nč.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999. \nZahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným \núčastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a \nso",
+      "predicted_reference": {
+        "reference_text": "č.j. P 29/99-150/1037/99-jl",
+        "reference_prefix": "č.j.",
+        "reference_body": "P 29/99-150/1037/99-jl",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 702,
+        "raw_end": 729,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "avlem Polanským, starostou města Rosic (dále  jen „zadavatel“), a to z důvodu neposkytnutí požadovaných podkladů, jejichž předložení  orgán dohledu požadoval opakovaně dopisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999,  č.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999.  Zahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným  účastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. P 29/99-150/1037/99-jl",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "P 29/99-150/1037/99-jl",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.98,
+          "note": "manual_v1:uohs_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::749::102",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 749,
+      "snippet_doc_start": 489,
+      "snippet_doc_end": 1009,
+      "snippet_text": "olanským, starostou města Rosic (dále \njen „zadavatel“), a to z důvodu neposkytnutí požadovaných podkladů, jejichž předložení \norgán dohledu požadoval opakovaně dopisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999, \nč.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999. \nZahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným \núčastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a \nsoučasně stanovil lhůtu, ve které se mohl vyjádři",
+      "predicted_reference": {
+        "reference_text": "č.j. P 29/99-150/1332/99-jl",
+        "reference_prefix": "č.j.",
+        "reference_body": "P 29/99-150/1332/99-jl",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 749,
+        "raw_end": 776,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "en „zadavatel“), a to z důvodu neposkytnutí požadovaných podkladů, jejichž předložení  orgán dohledu požadoval opakovaně dopisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999,  č.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999.  Zahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným  účastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a  současně stanovil lhůtu, ve které se"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. P 29/99-150/1332/99-jl",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "P 29/99-150/1332/99-jl",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.98,
+          "note": "manual_v1:uohs_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::911::103",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 911,
+      "snippet_doc_start": 651,
+      "snippet_doc_end": 1171,
+      "snippet_text": "opisy č.j. P 29/99-150/938/99-jl ze dne 5.5.1999, \nč.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999. \nZahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným \núčastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a \nsoučasně stanovil lhůtu, ve které se mohl vyjádřit ke skutečnostem, které budou podkladem \npro rozhodnutí. Zadavatel k podkladům pro rozhodnutí uvedl v dopise č.j. 26/7/99/205 ze dne \n26.7.1999 mj. následující: ",
+      "predicted_reference": {
+        "reference_text": "č.j. S 113/99-150/1747/99-jl",
+        "reference_prefix": "č.j.",
+        "reference_body": "S 113/99-150/1747/99-jl",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 911,
+        "raw_end": 939,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "5.5.1999,  č.j. P 29/99-150/1037/99-jl ze dne 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999.  Zahájení správního řízení oznámil orgán dohledu zadavateli, který je jediným  účastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a  současně stanovil lhůtu, ve které se mohl vyjádřit ke skutečnostem, které budou podkladem  pro rozhodnutí. Zadavatel k podkladům pro rozhodnutí uvedl v dopise č.j. 26/7/99/205 ze dne  26.7.1999 mj. n"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. S 113/99-150/1747/99-jl",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "S 113/99-150/1747/99-jl",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::1119::104",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 1119,
+      "snippet_doc_start": 859,
+      "snippet_doc_end": 1379,
+      "snippet_text": "rý je jediným \núčastníkem správního řízení, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a \nsoučasně stanovil lhůtu, ve které se mohl vyjádřit ke skutečnostem, které budou podkladem \npro rozhodnutí. Zadavatel k podkladům pro rozhodnutí uvedl v dopise č.j. 26/7/99/205 ze dne \n26.7.1999 mj. následující: „Výběrové řízení v roce 1998 pro nás zajišťovala smluvně \nf. ORGIP, spol. s r. o., Pražská 76, 679 61 Letovice. Bylo třeba její pomoci při přípravě \npodkladů. Dále nebylo jasné, které všechny materiály je tře",
+      "predicted_reference": {
+        "reference_text": "č.j. 26/7/99/205",
+        "reference_prefix": "č.j.",
+        "reference_body": "26/7/99/205",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 1119,
+        "raw_end": 1135,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": null,
+        "context": "ní, dopisem č.j. S 113/99-150/1747/99-jl ze dne 19.7.1999 a  současně stanovil lhůtu, ve které se mohl vyjádřit ke skutečnostem, které budou podkladem  pro rozhodnutí. Zadavatel k podkladům pro rozhodnutí uvedl v dopise č.j. 26/7/99/205 ze dne  26.7.1999 mj. následující: „Výběrové řízení v roce 1998 pro nás zajišťovala smluvně  f. ORGIP, spol. s r. o., Pražská 76, 679 61 Letovice. Bylo třeba její pomoci při přípravě  podkladů. Dále nebylo jasné, které "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. 26/7/99/205",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "26/7/99/205",
+          "decision_kind_hint": "",
+          "court_hint": "",
+          "confidence": 0.97,
+          "note": "manual_v1:incoming_letter_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::1649::105",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 1649,
+      "snippet_doc_start": 1389,
+      "snippet_doc_end": 1909,
+      "snippet_text": " a dodat, aby podklady \npro přezkoumání byly kompletní“. \nK vyjádření zadavatele orgán dohledu konstatuje, že ve všech dopisech, jimiž žádal \nzadavatele o materiály vztahující se ke konkrétním veřejným zakázkám, šetřeným v rámci \nsprávního řízení vedeného pod č.j. S 114/99-150, požadoval mj. „zaslání kompletní \ndokumentace o zadání těchto veřejných zakázek (§ 2 písm. j) zákona), t.j. originálů všech \nmateriálů, které byly zpracovány v souvislosti“ s jejich zadáváním. Orgán dohledu tedy zcela \nkonkrétně odkazoval na",
+      "predicted_reference": {
+        "reference_text": "č.j. S 114/99-150",
+        "reference_prefix": "č.j.",
+        "reference_body": "S 114/99-150",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 1649,
+        "raw_end": 1666,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "byly kompletní“.  K vyjádření zadavatele orgán dohledu konstatuje, že ve všech dopisech, jimiž žádal  zadavatele o materiály vztahující se ke konkrétním veřejným zakázkám, šetřeným v rámci  správního řízení vedeného pod č.j. S 114/99-150, požadoval mj. „zaslání kompletní  dokumentace o zadání těchto veřejných zakázek (§ 2 písm. j) zákona), t.j. originálů všech  materiálů, které byly zpracovány v souvislosti“ s jejich zadáváním. Orgán dohledu tedy zcela "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. S 114/99-150",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "S 114/99-150",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.97,
+          "note": "manual_v1:uohs_proceeding_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::2417::106",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 2417,
+      "snippet_doc_start": 2157,
+      "snippet_doc_end": 2677,
+      "snippet_text": "veřejné zakázky je odpovědný pouze zadavatel a nezáleží tedy na tom, zda výkonem \nzadavatelských činností ve smyslu § 69 zákona zadavatel pověřil jinou osobu. \nPoněvadž zadavatel požadované podklady nepředložil ani v původně stanovené lhůtě \nstanovené dopisem č.j. P 29/99-150/938/99-jl ze dne 5.5.1999 do 14.5.1999, ani po dvou\n17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999), byla mu pořádková pokuta uložena \nv maximální možné výši t.j. 10 000,− Kč (deset tisíc korun českých). \nDohled nad dodržováním zákon",
+      "predicted_reference": {
+        "reference_text": "č.j. P 29/99-150/938/99-jl",
+        "reference_prefix": "č.j.",
+        "reference_body": "P 29/99-150/938/99-jl",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2417,
+        "raw_end": 2443,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "atel a nezáleží tedy na tom, zda výkonem  zadavatelských činností ve smyslu § 69 zákona zadavatel pověřil jinou osobu.  Poněvadž zadavatel požadované podklady nepředložil ani v původně stanovené lhůtě  stanovené dopisem č.j. P 29/99-150/938/99-jl ze dne 5.5.1999 do 14.5.1999, ani po dvou 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999), byla mu pořádková pokuta uložena  v maximální možné výši t.j. 10 000,− Kč (deset tisíc korun českých).  Dohled nad dod"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. P 29/99-150/938/99-jl",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "P 29/99-150/938/99-jl",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.98,
+          "note": "manual_v1:uohs_docref_repeat"
+        }
+      ]
+    },
+    {
+      "task_id": "pis6543.txt::docref::2498::107",
+      "document_id": "pis6543.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 2498,
+      "snippet_doc_start": 2238,
+      "snippet_doc_end": 2758,
+      "snippet_text": "\nzadavatelských činností ve smyslu § 69 zákona zadavatel pověřil jinou osobu. \nPoněvadž zadavatel požadované podklady nepředložil ani v původně stanovené lhůtě \nstanovené dopisem č.j. P 29/99-150/938/99-jl ze dne 5.5.1999 do 14.5.1999, ani po dvou\n17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999), byla mu pořádková pokuta uložena \nv maximální možné výši t.j. 10 000,− Kč (deset tisíc korun českých). \nDohled nad dodržováním zákona podle § 52 zákona spočívá mimo jiné i v kontrole \npostupů zadavatelů  při zadáv",
+      "predicted_reference": {
+        "reference_text": "č.j. P 29/99-150/1332/99-jl",
+        "reference_prefix": "č.j.",
+        "reference_body": "P 29/99-150/1332/99-jl",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2498,
+        "raw_end": 2525,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": null,
+        "context": "zákona zadavatel pověřil jinou osobu.  Poněvadž zadavatel požadované podklady nepředložil ani v původně stanovené lhůtě  stanovené dopisem č.j. P 29/99-150/938/99-jl ze dne 5.5.1999 do 14.5.1999, ani po dvou 17.5.1999 a č.j. P 29/99-150/1332/99-jl ze dne 11.6.1999), byla mu pořádková pokuta uložena  v maximální možné výši t.j. 10 000,− Kč (deset tisíc korun českých).  Dohled nad dodržováním zákona podle § 52 zákona spočívá mimo jiné i v kontrole  postupů zadavate"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. P 29/99-150/1332/99-jl",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "P 29/99-150/1332/99-jl",
+          "decision_kind_hint": "",
+          "court_hint": "",
+          "confidence": 0.98,
+          "note": "manual_v1:uohs_docref_repeat"
+        }
+      ]
+    }
+  ]
+}

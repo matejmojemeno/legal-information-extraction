@@ -1,0 +1,49 @@
+{% if ai_job %}
+<section class="ai-status-panel{% if ai_job.status == 'running' or ai_job.status == 'pending' %} is-active{% endif %}" data-ai-status="{{ ai_job.status }}">
+  <div class="ai-status-copy">
+    <p class="eyebrow">BRL Review</p>
+    <h2>AI-assisted review is {% if ai_job.status == 'completed' %}complete{% elif ai_job.status == 'failed' %}unavailable{% else %}running{% endif %}.</h2>
+    <p class="hero-text">
+      {% if ai_job.status == 'completed' %}
+      The SPP result has been updated with BRL review for hard law-reference and decision-reference cases.
+      {% elif ai_job.status == 'failed' %}
+      The SPP result is still available, but BRL review stopped before completion.
+      {% else %}
+      The SPP result is already visible. BRL is now reviewing difficult law-reference and decision-reference cases in the background.
+      {% endif %}
+    </p>
+  </div>
+  <div class="ai-status-metrics">
+    <div class="ai-metric-card">
+      <span class="stat-label">Status</span>
+      <strong class="stat-value ai-status-value">
+        {% if ai_job.status == 'running' or ai_job.status == 'pending' %}
+        <span class="ai-spinner" aria-hidden="true"></span>
+        {{ ai_job.status|capitalize }}
+        {% else %}
+        {{ ai_job.status|capitalize }}
+        {% endif %}
+      </strong>
+    </div>
+    <div class="ai-metric-card">
+      <span class="stat-label">Reviewed cases</span>
+      <strong class="stat-value">{{ ai_job.processed }} / {{ ai_job.total }}</strong>
+    </div>
+    {% if ai_job.law %}
+    <div class="ai-metric-card">
+      <span class="stat-label">Law cases</span>
+      <strong class="stat-value">{{ ai_job.law.processed }} / {{ ai_job.law.total }}</strong>
+    </div>
+    {% endif %}
+    {% if ai_job.document %}
+    <div class="ai-metric-card">
+      <span class="stat-label">Decision cases</span>
+      <strong class="stat-value">{{ ai_job.document.processed }} / {{ ai_job.document.total }}</strong>
+    </div>
+    {% endif %}
+    {% if ai_job.error %}
+    <div class="ai-error-box">{{ ai_job.error }}</div>
+    {% endif %}
+  </div>
+</section>
+{% endif %}

@@ -1,0 +1,1477 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.170918+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "23 cdo 1135_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+  "task_count": 50,
+  "tasks": [
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::2069::101",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 558",
+      "snippet_doc_start": 1809,
+      "snippet_doc_end": 2334,
+      "snippet_text": " dne 25. 8. 2009, \npřičemž vrácení zálohy bylo postupitelem a dlužníkem dohodnuto na 30. 6. 2016.    \nSoud prvního stupně při právním posouzením dospěl k závěru, že předmětná dohoda o \nsplatnosti závazku obsahovala uznání závazku co do důvodu a výše ve smyslu § 558 zákona č. \n40/1964 Sb., občanský zákoník, ve znění účinném do 31. 12. 2013, (dále jen „obč. zák.“); \nnejednalo se o pouhé prodloužení splatnosti pohledávky, jak tvrdil žalobce. Soud prvního stupně \nnásledně s odkazem na právní úpravu zákona č. 128/2000 Sb., o",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 558",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::2086::102",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "40/1964 Sb.",
+      "snippet_doc_start": 1826,
+      "snippet_doc_end": 2357,
+      "snippet_text": " \npřičemž vrácení zálohy bylo postupitelem a dlužníkem dohodnuto na 30. 6. 2016.    \nSoud prvního stupně při právním posouzením dospěl k závěru, že předmětná dohoda o \nsplatnosti závazku obsahovala uznání závazku co do důvodu a výše ve smyslu § 558 zákona č. \n40/1964 Sb., občanský zákoník, ve znění účinném do 31. 12. 2013, (dále jen „obč. zák.“); \nnejednalo se o pouhé prodloužení splatnosti pohledávky, jak tvrdil žalobce. Soud prvního stupně \nnásledně s odkazem na právní úpravu zákona č. 128/2000 Sb., o obcích (obecní zřízení",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "40/1964 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "občanský zákoník",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::2319::103",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "128/2000 Sb.",
+      "snippet_doc_start": 2059,
+      "snippet_doc_end": 2591,
+      "snippet_text": "ve smyslu § 558 zákona č. \n40/1964 Sb., občanský zákoník, ve znění účinném do 31. 12. 2013, (dále jen „obč. zák.“); \nnejednalo se o pouhé prodloužení splatnosti pohledávky, jak tvrdil žalobce. Soud prvního stupně \nnásledně s odkazem na právní úpravu zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění \núčinném do 31. 12. 2013, (dále jen „zákon o obcích“), a na judikaturu Ústavního soudu uzavřel, \nže předmětná dohoda o splatnosti závazku představovala právní úkon, k němuž byl nutný souhlas \nzastupitelstva obce podle § 85",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "128/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::2587::104",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 2327,
+      "snippet_doc_end": 2851,
+      "snippet_text": " Sb., o obcích (obecní zřízení), ve znění \núčinném do 31. 12. 2013, (dále jen „zákon o obcích“), a na judikaturu Ústavního soudu uzavřel, \nže předmětná dohoda o splatnosti závazku představovala právní úkon, k němuž byl nutný souhlas \nzastupitelstva obce podle § 85 písm. h) zákona o obcích, neboť obsahem úkonu bylo uznání \nzávazku co do důvodu a výše a dohoda o splatnosti s lhůtou splatnosti delší než 18 měsíců. \nVzhledem k tomu, že dohoda nikdy nebyla zastupitelstvem žalované obce projednána ani \nschválena, je od počát",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::2869::105",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 41",
+      "snippet_doc_start": 2609,
+      "snippet_doc_end": 3133,
+      "snippet_text": " obcích, neboť obsahem úkonu bylo uznání \nzávazku co do důvodu a výše a dohoda o splatnosti s lhůtou splatnosti delší než 18 měsíců. \nVzhledem k tomu, že dohoda nikdy nebyla zastupitelstvem žalované obce projednána ani \nschválena, je od počátku neplatná podle § 41 zákona o obcích. Podle soudu prvního stupně tak \npočala běžet promlčecí lhůta na vydání plnění z bezdůvodného obohacení dne 1. 7. 2010, neboť \nprávní důvod plnění odpadl k tomuto datu (zamýšlená kupní smlouva měla být uzavřena \nnejpozději 30. 6. 2010). Nárok ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 41",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::3280::106",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 107",
+      "snippet_doc_start": 3020,
+      "snippet_doc_end": 3545,
+      "snippet_text": "vní důvod plnění odpadl k tomuto datu (zamýšlená kupní smlouva měla být uzavřena \nnejpozději 30. 6. 2010). Nárok žalobce uplatněný u soudu dne 1. 6. 2018 tak soud prvního stupně \nshledal promlčeným, neboť uplynula subjektivní i objektivní promlčecí doba podle § 107 odst. 1 \na 2 obč. zák., a žalobu s ohledem na námitku promlčení vznesenou žalovaným zamítl. \nK odvolání žalobce Krajský soud v Brně jako soud odvolací rozsudkem ze dne 21. 9. \n2021, č. j. 21 Co 123/2020-294, potvrdil ve výroku I rozsudek soudu prvního stupně,",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 107",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::4157::107",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 107",
+      "snippet_doc_start": 3897,
+      "snippet_doc_end": 4422,
+      "snippet_text": "é kupní smlouvy (do 30. \n6. 2010), lze dovodit, že až do 30. 6. 2011 bylo možné podat žalobu na nahrazení projevu vůle; \nnestalo-li se tak, právní důvod k plnění předchůdce žalobce odpadl a k datu 30. 6. 2011 tak došlo\nsubjektivní i objektivní promlčecí doba (§ 107 obč. zák.) běžet dne 1. 7. 2011.  \nOdvolací soud shodně se soudem prvního stupně dospěl k závěru, že předmětnou \ndohodu o splatnosti závazku lze považovat za majetkoprávní úkon, o němž je rozhodování \nvyhrazeno zastupitelstvu obce a lze ji podřadit pod § 85 p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 107",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::4416::108",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 4156,
+      "snippet_doc_end": 4680,
+      "snippet_text": "(§ 107 obč. zák.) běžet dne 1. 7. 2011.  \nOdvolací soud shodně se soudem prvního stupně dospěl k závěru, že předmětnou \ndohodu o splatnosti závazku lze považovat za majetkoprávní úkon, o němž je rozhodování \nvyhrazeno zastupitelstvu obce a lze ji podřadit pod § 85 písm. h) zákona o obcích, který \nzastupitelstvu vyhrazuje rozhodování o dohodách o splátkách s lhůtou splatnosti delší než 18 \nměsíců. Odvolací soud svůj závěr odůvodnil tím, že byla-li v době uzavření dohody (19. 8. 2011) \nposunuta splatnost nároku na vydání",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::5153::109",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 41",
+      "snippet_doc_start": 4893,
+      "snippet_doc_end": 5417,
+      "snippet_text": " zda mohlo být plněno ve více \nsplátkách, ani na tom, zda obec vystupovala v postavení věřitele či dlužníka, neboť uvedené \nzákonná úprava nerozlišovala. Vzhledem k tomu, že dohoda nebyla schválena zastupitelstvem, \njedná se o od počátku neplatný právní úkon (§ 41 odst. 2 zákona o obcích), přičemž je neplatný \njako celek. Odvolací soud se tak neztotožnil s názorem žalobce, že se mělo jednat jen o změnu v \nobsahu závazku – prodloužení splatnosti. Odvolací soud proto shodně se soudem prvního stupně \nshledal nárok žalobce",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 41",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::5533::110",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 5273,
+      "snippet_doc_end": 5798,
+      "snippet_text": "e mělo jednat jen o změnu v \nobsahu závazku – prodloužení splatnosti. Odvolací soud proto shodně se soudem prvního stupně \nshledal nárok žalobce promlčeným. \nRozsudek odvolacího soudu napadl žalobce včasně podaným dovoláním, jehož \npřípustnost spatřoval podle § 237 o. s. ř. v tom, že napadené rozhodnutí spočívá na řešení otázky, \nzda lze uzavření dohody, kterou se pouze oddaluje splatnost závazku, považovat za \nmajetkoprávní úkon, o němž je rozhodování vyhrazeno zastupitelstvu obce. Dovolatel uvedl, že \njde o otázku, kt",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::5973::111",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 5713,
+      "snippet_doc_end": 6237,
+      "snippet_text": "ž je rozhodování vyhrazeno zastupitelstvu obce. Dovolatel uvedl, že \njde o otázku, která v rozhodovací praxi dovolacího soudu dosud nebyla vyřešena. Namítal, že \nodvolací soud uvedenou otázku posoudil nesprávně, neboť dohodu o splatnosti závazku podřadil \npod § 85 písm. h) zákona o obcích. Za nesprávný rovněž považoval závěr odvolacího soudu, že \nnezáleží na tom, mohla-li být učiněna splátka jediná nebo mohlo být plněno ve více splátkách, \nani na tom, zda obec vystupovala jako věřitel či jako dlužník. Předmětná dohoda ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::6273::112",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 6013,
+      "snippet_doc_end": 6537,
+      "snippet_text": "vný rovněž považoval závěr odvolacího soudu, že \nnezáleží na tom, mohla-li být učiněna splátka jediná nebo mohlo být plněno ve více splátkách, \nani na tom, zda obec vystupovala jako věřitel či jako dlužník. Předmětná dohoda podle \ndovolatele vůbec nespadá pod § 85 písm. h) zákona o obcích, neboť nešlo o dohodu o splátkách; \nšlo toliko o odložení splatnosti závazku jako celku, na což citované ustanovení nedopadá. Nadto \nje podle názoru dovolatele potřeba vykládat § 85 písm. h) zákona o obcích tak, že se vztahuje \npouze ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::6480::113",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 6220,
+      "snippet_doc_end": 6744,
+      "snippet_text": "Předmětná dohoda podle \ndovolatele vůbec nespadá pod § 85 písm. h) zákona o obcích, neboť nešlo o dohodu o splátkách; \nšlo toliko o odložení splatnosti závazku jako celku, na což citované ustanovení nedopadá. Nadto \nje podle názoru dovolatele potřeba vykládat § 85 písm. h) zákona o obcích tak, že se vztahuje \npouze na situace, v nichž obec vystupuje na straně věřitele. Smyslem citovaného ustanovení je \npodle dovolatele ochrana obce před právním jednáním, které odloží navrácení poskytnutých \nfinančního prostředků do obe",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::7082::114",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 6822,
+      "snippet_doc_end": 7346,
+      "snippet_text": "a poskytována také obci v postavení dlužníka, neboť posunutí splatnosti existujícího \nzávazku může být obci jedině ku prospěchu. Podle dovolatele tak předmětná dohoda o splatnosti \nzávazku není dohodou o splátkách s lhůtou splatnosti delší než 18 měsíců podle § 85 písm. h) \nzákona o obcích a nelze ji podřadit ani pod žádnou jinou pravomoc zastupitelstva obce. \nDovolatel proto navrhl, aby dovolací soud napadené rozhodnutí zrušil a věc vrátil odvolacímu \nsoudu k dalšímu řízení. \nŽalovaný ve vyjádření k dovolání uvedl, že",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::7438::115",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 7178,
+      "snippet_doc_end": 7702,
+      "snippet_text": "obce. \nDovolatel proto navrhl, aby dovolací soud napadené rozhodnutí zrušil a věc vrátil odvolacímu \nsoudu k dalšímu řízení. \nŽalovaný ve vyjádření k dovolání uvedl, že soudy obou stupňů věc správně posoudily a \nsprávně podřadily dohodu ze dne 19. 8. 2011 pod § 85 písm. h) zákona o obcích, u něhož je \nnerozhodné, zda obec vystupovala v postavení věřitele či dlužníka; právně významná je pro \naplikaci tohoto ustanovení délka splatnosti závazku. Žalovaný dále shrnul skutkový stav věci a \nzdůraznil, že obec ve svém účetnic",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::8013::116",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "287/2018 Sb.",
+      "snippet_doc_start": 7753,
+      "snippet_doc_end": 8285,
+      "snippet_text": "ala žádný \nzávazek dle dohody o splatnosti závazku ze dne 19. 8. 2011. Žalovaný navrhl, aby dovolací soud \ndovolání žalobce zamítl a uložil mu náhradu nákladů dovolacího řízení. \nNejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č.\n287/2018 Sb.), dále jen „o. s. ř.“. Po zjištění, že dovolání včas podala osoba oprávněná \nzastoupená advokátem (§ 241 odst. 1 o. s. ř.), Nejvyšší soud posuzoval, zda je dovolání \npřípustné. \nPodle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "287/2018 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "287/2018 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::8125::117",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 241",
+      "snippet_doc_start": 7865,
+      "snippet_doc_end": 8390,
+      "snippet_text": "ání žalobce zamítl a uložil mu náhradu nákladů dovolacího řízení. \nNejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č.\n287/2018 Sb.), dále jen „o. s. ř.“. Po zjištění, že dovolání včas podala osoba oprávněná \nzastoupená advokátem (§ 241 odst. 1 o. s. ř.), Nejvyšší soud posuzoval, zda je dovolání \npřípustné. \nPodle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému \nrozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí \nzávisí na v",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 241",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::8210::118",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 7950,
+      "snippet_doc_end": 8475,
+      "snippet_text": "volacím řízení postupoval a o dovolání rozhodl podle zákona č.\n287/2018 Sb.), dále jen „o. s. ř.“. Po zjištění, že dovolání včas podala osoba oprávněná \nzastoupená advokátem (§ 241 odst. 1 o. s. ř.), Nejvyšší soud posuzoval, zda je dovolání \npřípustné. \nPodle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému \nrozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí \nzávisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud \nod",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::9069::119",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n85",
+      "snippet_doc_start": 8809,
+      "snippet_doc_end": 9334,
+      "snippet_text": "řešena otázka, zda k dohodě o splatnosti závazku uzavřené mezi obcí jako \ndlužníkem a druhou stranou jako věřitelem obsahující uznání závazku co do důvodu a výše a \ndohodu o odložení splatnosti závazku o několik let, je třeba souhlas zastupitelstva obce podle § \n85 písm. h) zákona o obcích. \nDovolání však není důvodné. \nPodle § 85 písm. h) zákona o obcích je zastupitelstvu obce dále vyhrazeno rozhodování \no dohodách o splátkách s lhůtou splatnosti delší než 18 měsíců. \nPodle § 41 odst. 2 zákona o obcích právní úkony, kt",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::9137::120",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 8877,
+      "snippet_doc_end": 9401,
+      "snippet_text": "jako \ndlužníkem a druhou stranou jako věřitelem obsahující uznání závazku co do důvodu a výše a \ndohodu o odložení splatnosti závazku o několik let, je třeba souhlas zastupitelstva obce podle § \n85 písm. h) zákona o obcích. \nDovolání však není důvodné. \nPodle § 85 písm. h) zákona o obcích je zastupitelstvu obce dále vyhrazeno rozhodování \no dohodách o splátkách s lhůtou splatnosti delší než 18 měsíců. \nPodle § 41 odst. 2 zákona o obcích právní úkony, které vyžadují schválení zastupitelstva \nobce, popřípadě rady obce, j",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::9289::121",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 41",
+      "snippet_doc_start": 9029,
+      "snippet_doc_end": 9553,
+      "snippet_text": "třeba souhlas zastupitelstva obce podle § \n85 písm. h) zákona o obcích. \nDovolání však není důvodné. \nPodle § 85 písm. h) zákona o obcích je zastupitelstvu obce dále vyhrazeno rozhodování \no dohodách o splátkách s lhůtou splatnosti delší než 18 měsíců. \nPodle § 41 odst. 2 zákona o obcích právní úkony, které vyžadují schválení zastupitelstva \nobce, popřípadě rady obce, jsou bez tohoto schválení od počátku neplatné. \nÚstavní soud v nálezu ze dne 10. 7. 2001, sp. zn. III. ÚS 721/2000, formuloval obecná \nvýchodiska, z nich",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 41",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::9838::122",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 36a",
+      "snippet_doc_start": 9578,
+      "snippet_doc_end": 10103,
+      "snippet_text": "osouzení, zda byl k soukromoprávnímu jednání \nstarosty obce nezbytný souhlas zastupitelstva. Ústavní soud uvedl, že starosta obce nemůže \nvytvářet sám vůli obce, ale pouze může tuto vůli navenek sdělovat a projevovat. Rozhodnutí \nobecního zastupitelstva podle § 36a zákona č. 367/1990 Sb., ve znění pozdějších předpisů, je \ntřeba v daných souvislostech považovat za zákonem stanovenou podmínku právního úkonu \n(condicio legis). Jakkoli tedy obecné právní vědomí přisuzuje starostovi obce rozsáhlá \noprávnění, opak byl a je sk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 36a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "367/1990 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon č. 367/1990 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::9854::123",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "367/1990 Sb.",
+      "snippet_doc_start": 9594,
+      "snippet_doc_end": 10126,
+      "snippet_text": "l k soukromoprávnímu jednání \nstarosty obce nezbytný souhlas zastupitelstva. Ústavní soud uvedl, že starosta obce nemůže \nvytvářet sám vůli obce, ale pouze může tuto vůli navenek sdělovat a projevovat. Rozhodnutí \nobecního zastupitelstva podle § 36a zákona č. 367/1990 Sb., ve znění pozdějších předpisů, je \ntřeba v daných souvislostech považovat za zákonem stanovenou podmínku právního úkonu \n(condicio legis). Jakkoli tedy obecné právní vědomí přisuzuje starostovi obce rozsáhlá \noprávnění, opak byl a je skutečností. Starosta obc",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "367/1990 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "367/1990 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon č. 367/1990 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_zakon_o_obcich_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::10523::124",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 36a",
+      "snippet_doc_start": 10263,
+      "snippet_doc_end": 10788,
+      "snippet_text": "dy obce. Obce jsou veřejnoprávními korporacemi a pokud jednají ve věcech práva \nsoukromého, nelze tvoření a projevy jejich vůle mechanicky posuzovat stejně, jako by šlo např. o \nobchodní společnosti. Vzhledem k tomu, že oprávnění obecního zastupitelstva podle § 36a \nzákona č. 367/1990 Sb., ve znění pozdějších předpisů, bylo zákonem taxativně vymezeno a \nzároveň výhradní, nemohou být třetí osoby při právních úkonech podle uvedeného ustanovení na \npochybách, že o takovém právním úkonu musí napřed kladně rozhodnout obecní ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 36a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "367/1990 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon č. 367/1990 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::10540::125",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "367/1990 Sb.",
+      "snippet_doc_start": 10280,
+      "snippet_doc_end": 10812,
+      "snippet_text": "u veřejnoprávními korporacemi a pokud jednají ve věcech práva \nsoukromého, nelze tvoření a projevy jejich vůle mechanicky posuzovat stejně, jako by šlo např. o \nobchodní společnosti. Vzhledem k tomu, že oprávnění obecního zastupitelstva podle § 36a \nzákona č. 367/1990 Sb., ve znění pozdějších předpisů, bylo zákonem taxativně vymezeno a \nzároveň výhradní, nemohou být třetí osoby při právních úkonech podle uvedeného ustanovení na \npochybách, že o takovém právním úkonu musí napřed kladně rozhodnout obecní zastupitelstvo. \nUvedený",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "367/1990 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "367/1990 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon č. 367/1990 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_zakon_o_obcich_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::10879::126",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "367/1990 \nSb.",
+      "snippet_doc_start": 10619,
+      "snippet_doc_end": 11152,
+      "snippet_text": "zároveň výhradní, nemohou být třetí osoby při právních úkonech podle uvedeného ustanovení na \npochybách, že o takovém právním úkonu musí napřed kladně rozhodnout obecní zastupitelstvo. \nUvedený nález Ústavního soudu se vztahoval k dnes již zrušenému zákonu č. 367/1990 \nSb., který byl později nahrazen novým zákonem o obcích (č. 128/2000 Sb.), o jehož aplikaci jde \nv řešeném případě. Závěry Ústavního soudu jsou relevantní i v režimu nové úpravy, což mimo \njiné vyplývá přímo z citovaného nálezu. Zákon o obcích v § 85 vyjmenovává p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "367/1990 \nSb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "367/1990 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon č. 367/1990 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_zakon_o_obcich_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::10948::127",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "128/2000 Sb.",
+      "snippet_doc_start": 10688,
+      "snippet_doc_end": 11220,
+      "snippet_text": "uvedeného ustanovení na \npochybách, že o takovém právním úkonu musí napřed kladně rozhodnout obecní zastupitelstvo. \nUvedený nález Ústavního soudu se vztahoval k dnes již zrušenému zákonu č. 367/1990 \nSb., který byl později nahrazen novým zákonem o obcích (č. 128/2000 Sb.), o jehož aplikaci jde \nv řešeném případě. Závěry Ústavního soudu jsou relevantní i v režimu nové úpravy, což mimo \njiné vyplývá přímo z citovaného nálezu. Zákon o obcích v § 85 vyjmenovává právní úkony, k \nnimž je nezbytný souhlas zastupitelstva obce. Při po",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "128/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::11134::128",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 10874,
+      "snippet_doc_end": 11398,
+      "snippet_text": "u č. 367/1990 \nSb., který byl později nahrazen novým zákonem o obcích (č. 128/2000 Sb.), o jehož aplikaci jde \nv řešeném případě. Závěry Ústavního soudu jsou relevantní i v režimu nové úpravy, což mimo \njiné vyplývá přímo z citovaného nálezu. Zákon o obcích v § 85 vyjmenovává právní úkony, k \nnimž je nezbytný souhlas zastupitelstva obce. Při posuzování, zda schválení určitého \nmajetkoprávního úkonu obsaženého ve výčtu v § 85 zákona o obcích spadá do pravomoci \nzastupitelstva, není rozhodující, jak je právní úkon označe",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::11298::129",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 11038,
+      "snippet_doc_end": 11562,
+      "snippet_text": "ntní i v režimu nové úpravy, což mimo \njiné vyplývá přímo z citovaného nálezu. Zákon o obcích v § 85 vyjmenovává právní úkony, k \nnimž je nezbytný souhlas zastupitelstva obce. Při posuzování, zda schválení určitého \nmajetkoprávního úkonu obsaženého ve výčtu v § 85 zákona o obcích spadá do pravomoci \nzastupitelstva, není rozhodující, jak je právní úkon označen; podstatný je jeho obsah (srov. \nFurek, A. Komentář k § 85. In: Potěšil, L., Furek, A., Hejč, D., Chmelík, V., Rigel, F., Škop, J.\nV případě § 85 písm. h) zákona ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::11454::130",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 11194,
+      "snippet_doc_end": 11718,
+      "snippet_text": "astupitelstva obce. Při posuzování, zda schválení určitého \nmajetkoprávního úkonu obsaženého ve výčtu v § 85 zákona o obcích spadá do pravomoci \nzastupitelstva, není rozhodující, jak je právní úkon označen; podstatný je jeho obsah (srov. \nFurek, A. Komentář k § 85. In: Potěšil, L., Furek, A., Hejč, D., Chmelík, V., Rigel, F., Škop, J.\nV případě § 85 písm. h) zákona o obcích, podle něhož zastupitelstvo rozhoduje o \ndohodách o splátkách s lhůtou splatnosti delší než 18 měsíců, je nerozhodné, zda obec vystupuje \njako věři",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::11541::131",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 11281,
+      "snippet_doc_end": 11805,
+      "snippet_text": "eného ve výčtu v § 85 zákona o obcích spadá do pravomoci \nzastupitelstva, není rozhodující, jak je právní úkon označen; podstatný je jeho obsah (srov. \nFurek, A. Komentář k § 85. In: Potěšil, L., Furek, A., Hejč, D., Chmelík, V., Rigel, F., Škop, J.\nV případě § 85 písm. h) zákona o obcích, podle něhož zastupitelstvo rozhoduje o \ndohodách o splátkách s lhůtou splatnosti delší než 18 měsíců, je nerozhodné, zda obec vystupuje \njako věřitel nebo jako dlužník. Zákonodárce u právních úkonů vypočtených v § 85 rozlišuje \núkony",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::11784::132",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 11524,
+      "snippet_doc_end": 12048,
+      "snippet_text": "op, J.\nV případě § 85 písm. h) zákona o obcích, podle něhož zastupitelstvo rozhoduje o \ndohodách o splátkách s lhůtou splatnosti delší než 18 měsíců, je nerozhodné, zda obec vystupuje \njako věřitel nebo jako dlužník. Zákonodárce u právních úkonů vypočtených v § 85 rozlišuje \núkony, u nichž je podstatné, v postavení jaké strany úkonu obec vystupuje, a u nich výslovně \npostavení obce uvádí [např. § 85 písm. j)], a úkony, které spadají do pravomoci zastupitelstva \nbez ohledu na to, v jakém postavení v nich obec vystupuje.",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::11922::133",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 11662,
+      "snippet_doc_end": 12186,
+      "snippet_text": " 18 měsíců, je nerozhodné, zda obec vystupuje \njako věřitel nebo jako dlužník. Zákonodárce u právních úkonů vypočtených v § 85 rozlišuje \núkony, u nichž je podstatné, v postavení jaké strany úkonu obec vystupuje, a u nich výslovně \npostavení obce uvádí [např. § 85 písm. j)], a úkony, které spadají do pravomoci zastupitelstva \nbez ohledu na to, v jakém postavení v nich obec vystupuje. Lze tak uzavřít, že u právních úkonů \nv § 85, u nichž zákonodárce výslovně nespecifikuje postavení obce, je tato skutečnost \nnerozhodná. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "j"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::12089::134",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 11829,
+      "snippet_doc_end": 12353,
+      "snippet_text": "v postavení jaké strany úkonu obec vystupuje, a u nich výslovně \npostavení obce uvádí [např. § 85 písm. j)], a úkony, které spadají do pravomoci zastupitelstva \nbez ohledu na to, v jakém postavení v nich obec vystupuje. Lze tak uzavřít, že u právních úkonů \nv § 85, u nichž zákonodárce výslovně nespecifikuje postavení obce, je tato skutečnost \nnerozhodná. Z uvedeného vyplývá, že zákon do výlučné pravomoci zastupitelstva svěřuje nejen \nrozhodnutí o dohodách, podle nichž mělo být obci plněno ve splátkách s lhůtou splatnos",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "j"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::12451::135",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 12191,
+      "snippet_doc_end": 12715,
+      "snippet_text": "deného vyplývá, že zákon do výlučné pravomoci zastupitelstva svěřuje nejen \nrozhodnutí o dohodách, podle nichž mělo být obci plněno ve splátkách s lhůtou splatnosti delší \nnež 18 měsíců, ale i dohody, podle nichž měla obec sama plnit (viz Furek, A. Komentář k § 85. \nIn: Potěšil, L., Furek, A., Hejč, D., Chmelík, V., Rigel, F., Škop, J. Zákon o obcích. Komentář. 1. \nvydání. Praha: C. H. Beck, 2019, 862 s.).  \nSmyslem a účelem úpravy svěřující do výlučné pravomoci zastupitelstva rozhodování o \ndohodách o splátkách s lhůt",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::12966::136",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 12706,
+      "snippet_doc_end": 13230,
+      "snippet_text": "ch s lhůtou splatnosti delší než 18 měsíců je zamezit tomu, aby starosta obce \nbez souhlasu zastupitelstva zavázal obec k plnění (či k přijímání) splátek v delším časovém \nhorizontu. Stěžejní roli pro posouzení, zda určitá dohoda o plnění spadá pod ustanovení § 85 \npísm. h) zákona o obcích, tak hraje zejména podmínka splatnosti delší než 18 měsíců. Uvedený \nzávěr podporuje i komentářová literatura, podle níž smyslem této úpravy je mimo jiné \nzohlednění vazby příjmů nebo výdajů obce na rozpočet obce, jehož schvalování r",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::13250::137",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 84",
+      "snippet_doc_start": 12990,
+      "snippet_doc_end": 13514,
+      "snippet_text": "obcích, tak hraje zejména podmínka splatnosti delší než 18 měsíců. Uvedený \nzávěr podporuje i komentářová literatura, podle níž smyslem této úpravy je mimo jiné \nzohlednění vazby příjmů nebo výdajů obce na rozpočet obce, jehož schvalování rovněž náleží \npodle § 84 odst. 2 písm. b) zastupitelstvu obce (srov. Furek, A. Komentář k § 85. In: Potěšil, L., \nFurek, A., Hejč, D., Chmelík, V., Rigel, F., Škop, J. Zákon o obcích. Komentář. 1. vydání. Praha:  H. Beck, 2019, 862 s.). S ohledem na uvedený smysl a účel úpravy je pro",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 84",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::13320::138",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 13060,
+      "snippet_doc_end": 13584,
+      "snippet_text": "dený \nzávěr podporuje i komentářová literatura, podle níž smyslem této úpravy je mimo jiné \nzohlednění vazby příjmů nebo výdajů obce na rozpočet obce, jehož schvalování rovněž náleží \npodle § 84 odst. 2 písm. b) zastupitelstvu obce (srov. Furek, A. Komentář k § 85. In: Potěšil, L., \nFurek, A., Hejč, D., Chmelík, V., Rigel, F., Škop, J. Zákon o obcích. Komentář. 1. vydání. Praha:  H. Beck, 2019, 862 s.). S ohledem na uvedený smysl a účel úpravy je proto rovněž \nnerozhodné, zda šlo o dohodu o plnění v jedné splátce či ví",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::13858::139",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n85",
+      "snippet_doc_start": 13598,
+      "snippet_doc_end": 14123,
+      "snippet_text": "rozhodující vliv má \npředevším kritérium časové (tj. splatnost delší než 18 měsíců). \nPři aplikaci výše shrnutých východisek na projednávaný případ je třeba uzavřít, že \nsoudy obou stupňů správně podřadily předmětnou dohodu o splatnosti závazku pod ustanovení § \n85 písm. h) zákona o obcích. Jednalo se totiž o dohodu o splátce s lhůtou splatnosti delší než 18 \nměsíců, přičemž ze shrnutí výše vyplývá, že nebylo rozhodné označení dohody, nýbrž její obsah. \nStejně tak v případě aplikace § 85 písm. h) zákona o obcích nehraje",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14086::140",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 85",
+      "snippet_doc_start": 13826,
+      "snippet_doc_end": 14350,
+      "snippet_text": "latnosti závazku pod ustanovení § \n85 písm. h) zákona o obcích. Jednalo se totiž o dohodu o splátce s lhůtou splatnosti delší než 18 \nměsíců, přičemž ze shrnutí výše vyplývá, že nebylo rozhodné označení dohody, nýbrž její obsah. \nStejně tak v případě aplikace § 85 písm. h) zákona o obcích nehraje roli, zda obec vystupovala v \ndohodě na straně dlužníka či na straně věřitele. Počet splátek je také nerozhodný, neboť stěžejní \nje s ohledem smysl a účel úpravy kritérium časové (splatnost delší než 18 měsíců). Vzhledem k \nab",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 85",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14468::141",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 41",
+      "snippet_doc_start": 14208,
+      "snippet_doc_end": 14732,
+      "snippet_text": " splátek je také nerozhodný, neboť stěžejní \nje s ohledem smysl a účel úpravy kritérium časové (splatnost delší než 18 měsíců). Vzhledem k \nabsenci souhlasu zastupitelstva obce s předmětnou dohodou soudy správně dospěly k závěru o \njejí absolutní neplatnosti (§ 41 odst. 2 zákona o obcích). \nZ výše uvedeného vyplývá, že napadené rozhodnutí odvolacího soudu je správné. \nNejvyšší soud proto dovolání žalobce podle § 243d odst. 1 písm. a) o. s. ř. zamítl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 41",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "128/2000 Sb.",
+          "law_name_text": "zákon o obcích",
+          "declared_alias_text": "zákon o obcích",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:zakon_o_obcich"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14622::142",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243d",
+      "snippet_doc_start": 14362,
+      "snippet_doc_end": 14888,
+      "snippet_text": "su zastupitelstva obce s předmětnou dohodou soudy správně dospěly k závěru o \njejí absolutní neplatnosti (§ 41 odst. 2 zákona o obcích). \nZ výše uvedeného vyplývá, že napadené rozhodnutí odvolacího soudu je správné. \nNejvyšší soud proto dovolání žalobce podle § 243d odst. 1 písm. a) o. s. ř. zamítl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 ods",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243d",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14732::143",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243b",
+      "snippet_doc_start": 14472,
+      "snippet_doc_end": 14998,
+      "snippet_text": " odst. 2 zákona o obcích). \nZ výše uvedeného vyplývá, že napadené rozhodnutí odvolacího soudu je správné. \nNejvyšší soud proto dovolání žalobce podle § 243d odst. 1 písm. a) o. s. ř. zamítl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušáln",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14751::144",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 142",
+      "snippet_doc_start": 14491,
+      "snippet_doc_end": 15016,
+      "snippet_text": "bcích). \nZ výše uvedeného vyplývá, že napadené rozhodnutí odvolacího soudu je správné. \nNejvyšší soud proto dovolání žalobce podle § 243d odst. 1 písm. a) o. s. ř. zamítl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 142",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14881::145",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 1",
+      "snippet_doc_start": 14621,
+      "snippet_doc_end": 15144,
+      "snippet_text": " § 243d odst. 1 písm. a) o. s. ř. zamítl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní \nslužby podle § 13 odst. 4 uvedené vyhlášky, při připočtení náhrady za 21% daň z přidané \nhodnoty ve výši 3 9",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 1",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14905::146",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 14645,
+      "snippet_doc_end": 15168,
+      "snippet_text": " o. s. ř. zamítl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní \nslužby podle § 13 odst. 4 uvedené vyhlášky, při připočtení náhrady za 21% daň z přidané \nhodnoty ve výši 3 906 Kč podle § 137 odst. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::14919::147",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 7",
+      "snippet_doc_start": 14659,
+      "snippet_doc_end": 15182,
+      "snippet_text": "tl. \nVýrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní \nslužby podle § 13 odst. 4 uvedené vyhlášky, při připočtení náhrady za 21% daň z přidané \nhodnoty ve výši 3 906 Kč podle § 137 odst. 3 o. s. ř, cel",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 7",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::law_id_mention::14943::148",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "177/1996 Sb.",
+      "snippet_doc_start": 14683,
+      "snippet_doc_end": 15203,
+      "snippet_text": "ladů dovolacího řízení je odůvodněn ustanoveními § 243b o. s. ř. a \n§ 142 odst. 1 o. s. ř. Náklady procesně úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní \nslužby podle § 13 odst. 4 uvedené vyhlášky, při připočtení náhrady za 21% daň z přidané \nhodnoty ve výši 3 906 Kč podle § 137 odst. 3 o. s. ř, celkem tedy 22 506 Kč. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "177/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::15049::149",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 13",
+      "snippet_doc_start": 14789,
+      "snippet_doc_end": 15203,
+      "snippet_text": "ě úspěšného žalovaného sestávají z odměny za zastupování \nadvokátem ve výši 18 300 Kč podle § 1 odst. 2 věty první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní \nslužby podle § 13 odst. 4 uvedené vyhlášky, při připočtení náhrady za 21% daň z přidané \nhodnoty ve výši 3 906 Kč podle § 137 odst. 3 o. s. ř, celkem tedy 22 506 Kč. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 13",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "177/1996 Sb.",
+          "law_name_text": "advokátní tarif",
+          "declared_alias_text": "advokátní tarif",
+          "detail_number": "",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:advokatni_tarif"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::section_or_article::15156::150",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 137",
+      "snippet_doc_start": 14896,
+      "snippet_doc_end": 15203,
+      "snippet_text": "y první, § 6 odst. 1 a § 7 bodu 6 vyhlášky č. \n177/1996 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní \nslužby podle § 13 odst. 4 uvedené vyhlášky, při připočtení náhrady za 21% daň z přidané \nhodnoty ve výši 3 906 Kč podle § 137 odst. 3 o. s. ř, celkem tedy 22 506 Kč. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 137",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    }
+  ]
+}

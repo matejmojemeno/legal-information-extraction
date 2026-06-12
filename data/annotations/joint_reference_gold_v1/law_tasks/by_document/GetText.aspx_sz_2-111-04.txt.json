@@ -1,0 +1,381 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.180152+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "GetText.aspx_sz_2-111-04.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+  "task_count": 12,
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::272::62",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 36",
+      "snippet_doc_start": 12,
+      "snippet_doc_end": 538,
+      "snippet_text": "ou ústavní stížností se stěžovatel domáhá zrušení usnesení Vrchního soudu v Olomouci ze dne 2. 12. 2003, sp. zn. 4 To 111/2003, a rozsudku Krajského soudu v Brně ze dne 11. 9. 2003, sp. zn. 43 T 3/2001, a tvrdí, že jimi bylo porušeno jeho základní právo podle čl. 36 odst. 1 Listiny základních práv a svobod. Zároveň stěžovatel požádal o odklad vykonatelnosti rozhodnutí.\nStěžovatel obecným soudům vytýká, že se nijak nevypořádaly s jeho argumentací o neexistenci subjektivní stránky trestného činu na jeho straně a nevyhodnot",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 36",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "czech_resolved",
+          "law_id": "2/1993 Sb.",
+          "law_name_text": "Listiny základních práv a svobod",
+          "declared_alias_text": "Listina",
+          "detail_number": "36",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:listina"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::1751::63",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 1491,
+      "snippet_doc_end": 2016,
+      "snippet_text": "Krajské státní zastupitelství v Brně se postavení vedlejšího účastníka řízení vzdalo.\nZ vyžádaného spisu Krajského soudu v Brně, sp. zn. 43 T 3/2001, Ústavní soud zjistil, že proti stěžovateli bylo vedeno trestní stíhání pro pokus trestného činu podvodu podle § 250 odst. 1 a 4 zákona č. 140/1961 Sb., trestního zákona, ve znění pozdějších předpisů (dále jen \"tr. z.\"). Toho se měl dopustit tím, že předstíral vloupání do skladových prostor obchodní společnosti BFP, a odcizení počítačových komponentů v celkové hodnotě 370.2",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "zákona č. 140/1961 Sb., trestního zákona",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::law_id_mention::1779::64",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "140/1961 Sb.",
+      "snippet_doc_start": 1519,
+      "snippet_doc_end": 2051,
+      "snippet_text": "í v Brně se postavení vedlejšího účastníka řízení vzdalo.\nZ vyžádaného spisu Krajského soudu v Brně, sp. zn. 43 T 3/2001, Ústavní soud zjistil, že proti stěžovateli bylo vedeno trestní stíhání pro pokus trestného činu podvodu podle § 250 odst. 1 a 4 zákona č. 140/1961 Sb., trestního zákona, ve znění pozdějších předpisů (dále jen \"tr. z.\"). Toho se měl dopustit tím, že předstíral vloupání do skladových prostor obchodní společnosti BFP, a odcizení počítačových komponentů v celkové hodnotě 370.227 USD, a poté se jako jednatel a s",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "140/1961 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::2262::65",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 2002,
+      "snippet_doc_end": 2527,
+      "snippet_text": " hodnotě 370.227 USD, a poté se jako jednatel a společník uvedené společnosti pokusil vylákat pojistné plnění z tohoto titulu na obchodní společnosti Allianz pojišťovna. Dále bylo proti stěžovateli vedeno trestní stíhání pro pokus trestného činu podvodu podle § 250 odst. 1 a 4 tr. z., jehož se měl dopustit tím, že jako jednatel a společník obchodní společnosti BFP vyhotovil, na podkladě uzavřené smlouvy o obchodním zastoupení a budoucí kupní smlouvy uzavřené s obchodní společností Multiservis, celkem 79 leasingových sml",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::2820::66",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 2560,
+      "snippet_doc_end": 3085,
+      "snippet_text": "chž nákup předstíral od obchodní společnosti Bona, jejímž byl jediným jednatelem a společníkem, a následně obchodní společnosti Multiservis vyfakturoval prodejní ceny. Konečně  bylo  proti  stěžovateli  vedeno  trestní  stíhání  pro  trestný čin podvodu podle § 250 odst. 1 a odst. 3 písm. b) tr. z. Toho se měl dopustit tím, že dne 5. 11. 1998 celkem 8x vybral z účtu obchodní společnosti BFP  částku 30.000 Kč, přestože neměl na účtu složeny finanční prostředky v potřebné výši, a měl povolen týdenní debetní limit ve výši ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::3318::67",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 3058,
+      "snippet_doc_end": 3583,
+      "snippet_text": "enní debetní limit ve výši 30.000 Kč, a vzniklý debet 238.758,11 Kč Investiční a poštovní bance neuhradil.\nRozsudkem Krajského soudu v Brně ze dne 11. 3. 2003, č. j. 43 T 3/2001-1261, byl stěžovatel uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a 3 písm. b) tr. z., kterého se dopustil fakturováním neexistujícího zboží obchodní společnosti Multiservis, a dále trestného činu podvodu podle § 250 odst. 1 a 2 tr. z., kterého se dopustil vybráním svého nekrytého účtu do nepřípustného debetu. Za to",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::3477::68",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 3217,
+      "snippet_doc_end": 3742,
+      "snippet_text": " č. j. 43 T 3/2001-1261, byl stěžovatel uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a 3 písm. b) tr. z., kterého se dopustil fakturováním neexistujícího zboží obchodní společnosti Multiservis, a dále trestného činu podvodu podle § 250 odst. 1 a 2 tr. z., kterého se dopustil vybráním svého nekrytého účtu do nepřípustného debetu. Za to mu byl uložen úhrnný trest odnětí svobody v trvání 2 1/2 roku se zařazením do věznice s dozorem, zákaz činnosti spočívající v zákazu provozování obchodní činn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::4462::69",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 4202,
+      "snippet_doc_end": 4727,
+      "snippet_text": "ze dne 1. 7. 2003, č. j. 4 To 54/2003-1280, byl v napadené části rozsudek soudu prvého stupně zrušen. Rozsudkem Krajského soudu v Brně ze dne 11. 9. 2003, č. j. 43 T 3/2001-1321, byl stěžovatel opět uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a odst. 3 písm. b) tr. z. dílem ve stádiu pokusu, a dále z trestného činu podvodu podle § 250 odst. 1 a 2 tr. z., a za to mu byl uložen trest odnětí svobody 2 1/2 roku se zařazením do věznice s dozorem, zákaz činnosti spočívající v zákazu provozování ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::4564::70",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 4304,
+      "snippet_doc_end": 4829,
+      "snippet_text": "Rozsudkem Krajského soudu v Brně ze dne 11. 9. 2003, č. j. 43 T 3/2001-1321, byl stěžovatel opět uznán vinným jednak ze spáchání trestného činu podvodu podle § 250 odst. 1 a odst. 3 písm. b) tr. z. dílem ve stádiu pokusu, a dále z trestného činu podvodu podle § 250 odst. 1 a 2 tr. z., a za to mu byl uložen trest odnětí svobody 2 1/2 roku se zařazením do věznice s dozorem, zákaz činnosti spočívající v zákazu provozování obchodní činnosti koupě zboží za účelem jeho dalšího prodeje, a zákazu zprostředkovatelské činnosti na",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::7662::71",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250",
+      "snippet_doc_start": 7402,
+      "snippet_doc_end": 7927,
+      "snippet_text": "ytýkaným jednáním mělo dojít k obohacení obchodní společnosti BFP a nikoliv stěžovatele, jak je uváděno v popisu skutkové věty, lze tuto námitku mít z ústavněprávního pohledu za zjevně neopodstatněnou. K naplnění skutkové podstaty trestného činu podvodu podle § 250 tr. z. totiž může dojít jednak v důsledku obohacení pachatele, ale i osoby od něj odlišné.\nVýši trestu pak obecné soudy nestaví ani výlučně ani převážně na skutečnosti, že se stěžovatel vytýkaného jednání dopustil v době, kdy proti němu bylo vedeno jiné trest",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "tr. z.",
+          "declared_alias_text": "tr. z.",
+          "detail_number": "250",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:trestni_zakon_alias_general"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::section_or_article::8408::72",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 43",
+      "snippet_doc_start": 8148,
+      "snippet_doc_end": 8672,
+      "snippet_text": "uhé to byla dosavadní bezúhonnost stěžovatele a nižší stupeň jeho narušenosti (str. 15 usnesení odvolacího soudu).\nZe shora vyložených důvodů byla ústavní stížnost mimo ústní jednání bez přítomnosti účastníků řízení odmítnuta jako zjevně neopodstatněná, podle § 43 odst. 2 písm. a) zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů.\nStěžovatelem podaný návrh na odložení vykonatelnosti rozhodnutí má akcesorickou povahu, tj. sdílí osud ústavní stížnosti. Pokud byla ústavní stížnost odmítnuta, jak uvede",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 43",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákona č. 182/1993 Sb., o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "43",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_2-111-04.txt::law_id_mention::8440::73",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/1993 Sb.",
+      "snippet_doc_start": 8180,
+      "snippet_doc_end": 8712,
+      "snippet_text": "t stěžovatele a nižší stupeň jeho narušenosti (str. 15 usnesení odvolacího soudu).\nZe shora vyložených důvodů byla ústavní stížnost mimo ústní jednání bez přítomnosti účastníků řízení odmítnuta jako zjevně neopodstatněná, podle § 43 odst. 2 písm. a) zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů.\nStěžovatelem podaný návrh na odložení vykonatelnosti rozhodnutí má akcesorickou povahu, tj. sdílí osud ústavní stížnosti. Pokud byla ústavní stížnost odmítnuta, jak uvedeno shora, je odmítnutím ústavní stížnost",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_law_id"
+        }
+      ]
+    }
+  ]
+}

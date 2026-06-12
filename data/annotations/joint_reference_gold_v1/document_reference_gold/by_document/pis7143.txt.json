@@ -1,0 +1,26 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "pis7143.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis7143.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.418145+00:00",
+  "references": [
+    {
+      "document_id": "pis7143.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "task_id": "pis7143.txt::docref::2722::108",
+      "classification": "document_reference",
+      "reference_text": "č.j. S 41A/99-220/1074",
+      "start_char": 2722,
+      "end_char": 2744,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č.j.",
+      "reference_body": "S 41A/99-220/1074",
+      "decision_kind_hint": "rozhodnutí",
+      "court_hint": "Úřadu",
+      "confidence": 0.99,
+      "note": "manual_v1:uohs_docref"
+    }
+  ]
+}

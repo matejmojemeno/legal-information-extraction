@@ -1,0 +1,43 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "621783.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/621783.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.417259+00:00",
+  "references": [
+    {
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "task_id": "621783.txt::docref::261::67",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. 0801923",
+      "start_char": 261,
+      "end_char": 276,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "0801923",
+      "decision_kind_hint": "",
+      "court_hint": "",
+      "confidence": 0.9,
+      "note": "manual_v1:administrative_case_file"
+    },
+    {
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "task_id": "621783.txt::docref::418::68",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. 6 Ca 172/2008",
+      "start_char": 418,
+      "end_char": 439,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "6 Ca 172/2008",
+      "decision_kind_hint": "",
+      "court_hint": "Městského soudu",
+      "confidence": 0.99,
+      "note": "manual_v1:structured_docref"
+    }
+  ]
+}

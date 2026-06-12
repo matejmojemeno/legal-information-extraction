@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}Analysis Result{% endblock %}
+
+{% block content %}
+<header class="result-header">
+  <div>
+    <p class="eyebrow">Analysis Result</p>
+    <h1>{{ result.document_name }}</h1>
+    <p class="hero-text">Inline highlighting shows where the system detected law references and decision references.</p>
+  </div>
+  <a class="secondary-link" href="/">Analyze another PDF</a>
+</header>
+
+<div id="stats-row-container">
+  {% include "partials/stats_row.html" %}
+</div>
+
+<div id="ai-status-container" data-result-id="{{ result_id or '' }}">
+  {% include "partials/ai_status.html" %}
+</div>
+
+<section class="filter-row">
+  <button class="filter-chip active" data-filter="all" type="button">All</button>
+  <button class="filter-chip" data-filter="law_reference" type="button">Law references</button>
+  <button class="filter-chip" data-filter="document_reference" type="button">Decision references</button>
+</section>
+
+<section class="result-layout" id="result-layout" data-ai-job-status="{% if ai_job %}{{ ai_job.status }}{% else %}disabled{% endif %}">
+  <div id="text-panel-container">
+    {% include "partials/text_panel.html" %}
+  </div>
+
+  <aside class="side-panel">
+    <div class="side-group">
+      <h2>Detected references</h2>
+      <p class="side-hint">Click an item to jump to the highlighted occurrence.</p>
+    </div>
+
+    <div class="side-group" id="law-reference-group">
+      <h3>Law references</h3>
+      <div id="law-reference-list-container">
+        {% include "partials/law_reference_list.html" %}
+      </div>
+    </div>
+
+    <div class="side-group" id="document-reference-group">
+      <h3>Decision references</h3>
+      <div id="document-reference-list-container">
+        {% include "partials/document_reference_list.html" %}
+      </div>
+    </div>
+  </aside>
+</section>
+{% endblock %}

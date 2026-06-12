@@ -1,0 +1,70 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "GetText.aspx_sz_1-256-2000.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-256-2000.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.425102+00:00",
+  "citations": [
+    {
+      "task_id": "GetText.aspx_sz_1-256-2000.txt::law_id_mention::508::1",
+      "finding_id": "1",
+      "citation_text": "182/1993 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 508,
+      "end_char": 520,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákon o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-256-2000.txt::section_or_article::825::2",
+      "finding_id": "1",
+      "citation_text": "§ 43",
+      "citation_type": "section",
+      "start_char": 825,
+      "end_char": 829,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "zákona o Ústavním soudu",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "43",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:ustavni_soud_explicit",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-256-2000.txt::section_or_article::1368::3",
+      "finding_id": "1",
+      "citation_text": "§ 43",
+      "citation_type": "section",
+      "start_char": 1368,
+      "end_char": 1372,
+      "law_id": "182/1993 Sb.",
+      "law_name_text": "citovaného zákona",
+      "declared_alias_text": "zákon o Ústavním soudu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "43",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a",
+        "b"
+      ],
+      "note": "manual_v1:ustavni_soud_anaphora",
+      "snippet_warnings": []
+    }
+  ]
+}

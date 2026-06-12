@@ -1,0 +1,23 @@
+{
+  "run_root": "data/final_runs/thesis_final_v1",
+  "original_manifest_path": "data/final_runs/thesis_final_v1/run_manifest.json",
+  "original_links_path": "data/final_runs/thesis_final_v1/document_references/document_reference_links.jsonl",
+  "original_unresolved_path": "data/final_runs/thesis_final_v1/document_references/document_reference_unresolved.jsonl",
+  "exact_links_path": "data/final_runs/thesis_final_v1/document_references/document_reference_links_exact_only.jsonl",
+  "non_exact_links_path": "data/final_runs/thesis_final_v1/document_references/document_reference_non_exact_link_rows.jsonl",
+  "exact_only_unresolved_path": "data/final_runs/thesis_final_v1/document_references/document_reference_unresolved_exact_only.jsonl",
+  "original_occurrences": 4280705,
+  "original_linked": 2460156,
+  "original_unresolved": 1731782,
+  "exact_only_linked": 2448488,
+  "reclassified_non_exact_links": 11668,
+  "exact_only_unresolved": 1743450,
+  "non_exact_scope_counts": {
+    "same_proceeding": 11668
+  },
+  "notes": [
+    "Original full-run artifacts were left unchanged.",
+    "Exact-only unresolved rows combine the original unresolved export with rows reclassified from non-exact deterministic links.",
+    "The exact-only export matches the exact-link-only thesis framing without requiring a full corpus rerun."
+  ]
+}

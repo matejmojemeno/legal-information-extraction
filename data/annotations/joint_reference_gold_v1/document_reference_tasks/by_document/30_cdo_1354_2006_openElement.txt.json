@@ -1,0 +1,85 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "30 cdo 1354_2006_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.190798+00:00",
+  "tasks": [
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::docref::67::41",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 67,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 327,
+      "snippet_text": " :  \n \nOkresní soud v Pardubicích rozsudkem ze dne 9. května 2005, č.j. 6 C 245/2004-70, \nzamítl žalobu, aby žalovaná byla povinna zaplatit panu K. P., částku 31.797,- Kč \ns 3% úrokem z prodlení od 30. 9. 2004 do zaplacení (výrok I.). Současně rozhodl, \nže žádný z účastníků nemá právo na náhradu nákladů řízení (výrok II.). Ža",
+      "predicted_reference": {
+        "reference_text": "č.j. 6 C 245/2004-70",
+        "reference_prefix": "č.j.",
+        "reference_body": "6 C 245/2004-70",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 67,
+        "raw_end": 87,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Okresního soudu",
+        "context": " :     Okresní soud v Pardubicích rozsudkem ze dne 9. května 2005, č.j. 6 C 245/2004-70,  zamítl žalobu, aby žalovaná byla povinna zaplatit panu K. P., částku 31.797,- Kč  s 3% úrokem z prodlení od 30. 9. 2004 do zaplacení (výrok I.). Současně rozhodl,  že žádný z účastníků nemá právo na náhradu nákladů ří"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. 6 C 245/2004-70",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "6 C 245/2004-70",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "soudu prvního stupně",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::docref::1624::42",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 1624,
+      "snippet_doc_start": 1364,
+      "snippet_doc_end": 1884,
+      "snippet_text": "obkyně tedy nevznikl vůči \nní nárok na náhradu této škody a z tohoto důvodu také žalovaná nemá povinnost \npojistného plnění. Soud prvního stupně proto žalobu zamítl.   \n \nK odvolání žalobkyně Krajský soud v Hradci Králové rozsudkem ze dne 15. listopadu \n2005, č.j. 22 Co 412/2005-98, rozsudek soudu prvního stupně potvrdil (výrok I.) \na současně rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího \nřízení (výrok II.). Na rozdíl od soudu prvního stupně dospěl k odlišnému právnímu \nzávěru, že uplatněn",
+      "predicted_reference": {
+        "reference_text": "č.j. 22 Co 412/2005-98",
+        "reference_prefix": "č.j.",
+        "reference_body": "22 Co 412/2005-98",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 1624,
+        "raw_end": 1646,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "áhradu této škody a z tohoto důvodu také žalovaná nemá povinnost  pojistného plnění. Soud prvního stupně proto žalobu zamítl.      K odvolání žalobkyně Krajský soud v Hradci Králové rozsudkem ze dne 15. listopadu  2005, č.j. 22 Co 412/2005-98, rozsudek soudu prvního stupně potvrdil (výrok I.)  a současně rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího  řízení (výrok II.). Na rozdíl od soudu prvního stupně dospěl k odlišnému právnímu  z"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. 22 Co 412/2005-98",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "22 Co 412/2005-98",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    }
+  ]
+}

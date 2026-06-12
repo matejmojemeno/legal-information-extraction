@@ -1,0 +1,75 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "621783.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/621783.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.212259+00:00",
+  "tasks": [
+    {
+      "task_id": "621783.txt::docref::261::67",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 261,
+      "snippet_doc_start": 1,
+      "snippet_doc_end": 521,
+      "snippet_text": ": \nŽalobou na ochranu proti nečinnosti správního orgánu doručenou městskému \nsoudu dne 25. 4. 2008 se žalobce domáhal vydání rozsudku, že žalovaný je povinen vydat \nve věci původně vedené Českou inspekcí životního prostředí, Oblastního inspektorátu \nPraha pod sp. zn. 0801923 rozhodnutí o podaném odvolání ze dne 10. 2. 2008, a to do pěti \ndnů od právní moci rozsudku. \nMěstský soud v Praze, který věc projednává pod sp. zn. 6 Ca 172/2008, v souladu \ns ustanovením § 8 odst. 5 zákona č. 150/2002 Sb., soudního řádu správ",
+      "predicted_reference": null,
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 0801923",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "0801923",
+          "decision_kind_hint": "",
+          "court_hint": "",
+          "confidence": 0.9,
+          "note": "manual_v1:administrative_case_file"
+        }
+      ]
+    },
+    {
+      "task_id": "621783.txt::docref::418::68",
+      "document_id": "621783.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/621783.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 418,
+      "snippet_doc_start": 158,
+      "snippet_doc_end": 678,
+      "snippet_text": " vydat \nve věci původně vedené Českou inspekcí životního prostředí, Oblastního inspektorátu \nPraha pod sp. zn. 0801923 rozhodnutí o podaném odvolání ze dne 10. 2. 2008, a to do pěti \ndnů od právní moci rozsudku. \nMěstský soud v Praze, který věc projednává pod sp. zn. 6 Ca 172/2008, v souladu \ns ustanovením § 8 odst. 5 zákona č. 150/2002 Sb., soudního řádu správního, ve znění \npozdějších předpisů (dále jen „s. ř. s.“), předložil dne 24. 5. 2011 Nejvyššímu správnímu \nsoudu spisový materiál s podáním žalobce ze dne 10",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 6 Ca 172/2008",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "6 Ca 172/2008",
+        "reference_type": "spisova_znacka",
+        "raw_start": 418,
+        "raw_end": 439,
+        "decision_kind_hint": null,
+        "court_hint": "Městského soudu",
+        "context": "spekcí životního prostředí, Oblastního inspektorátu  Praha pod sp. zn. 0801923 rozhodnutí o podaném odvolání ze dne 10. 2. 2008, a to do pěti  dnů od právní moci rozsudku.  Městský soud v Praze, který věc projednává pod sp. zn. 6 Ca 172/2008, v souladu  s ustanovením § 8 odst. 5 zákona č. 150/2002 Sb., soudního řádu správního, ve znění  pozdějších předpisů (dále jen „s. ř. s.“), předložil dne 24. 5. 2011 Nejvyššímu správnímu  soudu spisový materiál s podání"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 6 Ca 172/2008",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "6 Ca 172/2008",
+          "decision_kind_hint": "",
+          "court_hint": "Městského soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    }
+  ]
+}

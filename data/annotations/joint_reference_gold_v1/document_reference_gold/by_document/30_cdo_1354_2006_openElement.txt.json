@@ -1,0 +1,43 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "30 cdo 1354_2006_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.416867+00:00",
+  "references": [
+    {
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "task_id": "30 cdo 1354_2006_openElement.txt::docref::67::41",
+      "classification": "document_reference",
+      "reference_text": "č.j. 6 C 245/2004-70",
+      "start_char": 67,
+      "end_char": 87,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č.j.",
+      "reference_body": "6 C 245/2004-70",
+      "decision_kind_hint": "rozsudek",
+      "court_hint": "soudu prvního stupně",
+      "confidence": 0.99,
+      "note": "manual_v1:ns_case_reference"
+    },
+    {
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "task_id": "30 cdo 1354_2006_openElement.txt::docref::1624::42",
+      "classification": "document_reference",
+      "reference_text": "č.j. 22 Co 412/2005-98",
+      "start_char": 1624,
+      "end_char": 1646,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č.j.",
+      "reference_body": "22 Co 412/2005-98",
+      "decision_kind_hint": "rozsudek",
+      "court_hint": "Městského soudu v Praze",
+      "confidence": 0.99,
+      "note": "manual_v1:ns_case_reference"
+    }
+  ]
+}

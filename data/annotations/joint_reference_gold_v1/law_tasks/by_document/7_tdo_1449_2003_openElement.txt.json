@@ -1,0 +1,802 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.177611+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "7 tdo 1449_2003_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+  "task_count": 25,
+  "tasks": [
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::179::289",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 256",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 444,
+      "snippet_text": " : \n \nObviněný D. P. Q. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti usnesení Městského soudu v  \nPraze ze dne 7. 11. 2002, sp. zn. 8 To 357/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku \nObvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k tres",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 256",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "256",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::375::290",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 224",
+      "snippet_doc_start": 115,
+      "snippet_doc_end": 640,
+      "snippet_text": "raze ze dne 7. 11. 2002, sp. zn. 8 To 357/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku \nObvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody \nna deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. zák. podmíněně odložen na zkušební dobu stanovenu podle § \n59 odst. 1 tr. zák. na dva roky. Podle § 228 odst. 1 tr. ř. mu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 224",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "224",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::415::291",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 224",
+      "snippet_doc_start": 155,
+      "snippet_doc_end": 680,
+      "snippet_text": "7/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku \nObvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody \nna deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. zák. podmíněně odložen na zkušební dobu stanovenu podle § \n59 odst. 1 tr. zák. na dva roky. Podle § 228 odst. 1 tr. ř. mu byla uložena povinnost nahradit poškoze",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 224",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "224",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::502::292",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 58",
+      "snippet_doc_start": 242,
+      "snippet_doc_end": 766,
+      "snippet_text": "soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody \nna deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. zák. podmíněně odložen na zkušební dobu stanovenu podle § \n59 odst. 1 tr. zák. na dva roky. Podle § 228 odst. 1 tr. ř. mu byla uložena povinnost nahradit poškozenému K. F. \nškodu ve výši 26.078,- Kč. \n \nPodle zjištění Obvodního soudu pro Prahu 2 s",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 58",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "58",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::575::293",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n59",
+      "snippet_doc_start": 315,
+      "snippet_doc_end": 840,
+      "snippet_text": "m byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody \nna deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. zák. podmíněně odložen na zkušební dobu stanovenu podle § \n59 odst. 1 tr. zák. na dva roky. Podle § 228 odst. 1 tr. ř. mu byla uložena povinnost nahradit poškozenému K. F. \nškodu ve výši 26.078,- Kč. \n \nPodle zjištění Obvodního soudu pro Prahu 2 se obviněný trestného činu dopustil tím, že dne 25. 10. 2001 kolem \n19:40 h",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n59",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "59",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::617::294",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 228",
+      "snippet_doc_start": 357,
+      "snippet_doc_end": 882,
+      "snippet_text": "í na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody \nna deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. zák. podmíněně odložen na zkušební dobu stanovenu podle § \n59 odst. 1 tr. zák. na dva roky. Podle § 228 odst. 1 tr. ř. mu byla uložena povinnost nahradit poškozenému K. F. \nškodu ve výši 26.078,- Kč. \n \nPodle zjištění Obvodního soudu pro Prahu 2 se obviněný trestného činu dopustil tím, že dne 25. 10. 2001 kolem \n19:40 hodin v P. řídil osobní automobil tov. zn. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 228",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "228",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::1343::295",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 1083,
+      "snippet_doc_end": 1609,
+      "snippet_text": "ím vozovku mimo vyznačený přechod z  levé strany ke směru jeho jízdy, který utrpěl \nsmrtelné zranění, jemuž dne 2. 11. 2001 v nemocnici podlehl. \n \nObviněný podal dovolání v rozsahu výroku o vině i výroku o trestu a odkázal v něm na dovolací důvody uvedené v \n§ 265b odst. 1 písm. g), l) tr. ř. Namítl, že rozhodnutí spočívá na nesprávném právním posouzení skutku, resp. jiném \nnesprávném hmotně právním posouzení. Vytkl, že Městský soud v Praze učinil chybné závěry při hodnocení \nznaleckého posudku Ing. M. V. a jeho výpověd",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g",
+            "l"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2375::296",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 2115,
+      "snippet_doc_end": 2641,
+      "snippet_text": "rostil obžaloby, případně aby napadené usnesení Městského soudu v Praze zrušil a aby tomuto soudu přikázal věc \nv potřebném rozsahu znovu projednat a rozhodnout. \n \nNejvyšší soud shledal, že dovolání bylo ve skutečnosti podáno z jiného důvodu, než je uveden v § 265b tr. ř. \n \nPodle § 265b odst. 1 písm. l) tr. ř. lze dovolání podat, jestliže bylo rozhodnuto o zamítnutí nebo odmítnutí řádného \nopravného prostředku proti rozsudku nebo usnesení uvedenému v § 265a odst. 2 písm. a) až g) tr. ř., aniž byly \nsplněny procesní pod",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2398::297",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 2138,
+      "snippet_doc_end": 2664,
+      "snippet_text": "ně aby napadené usnesení Městského soudu v Praze zrušil a aby tomuto soudu přikázal věc \nv potřebném rozsahu znovu projednat a rozhodnout. \n \nNejvyšší soud shledal, že dovolání bylo ve skutečnosti podáno z jiného důvodu, než je uveden v § 265b tr. ř. \n \nPodle § 265b odst. 1 písm. l) tr. ř. lze dovolání podat, jestliže bylo rozhodnuto o zamítnutí nebo odmítnutí řádného \nopravného prostředku proti rozsudku nebo usnesení uvedenému v § 265a odst. 2 písm. a) až g) tr. ř., aniž byly \nsplněny procesní podmínky stanovené zákonem",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "l"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2572::298",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265a",
+      "snippet_doc_start": 2312,
+      "snippet_doc_end": 2838,
+      "snippet_text": "ní bylo ve skutečnosti podáno z jiného důvodu, než je uveden v § 265b tr. ř. \n \nPodle § 265b odst. 1 písm. l) tr. ř. lze dovolání podat, jestliže bylo rozhodnuto o zamítnutí nebo odmítnutí řádného \nopravného prostředku proti rozsudku nebo usnesení uvedenému v § 265a odst. 2 písm. a) až g) tr. ř., aniž byly \nsplněny procesní podmínky stanovené zákonem pro takové rozhodnutí nebo byl v  řízení mu předcházejícím dán \ndůvod dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. \n \nK zamítnutí ani odmítnutí odvolání obviněnéh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265a",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2754::299",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 2494,
+      "snippet_doc_end": 3020,
+      "snippet_text": "ítnutí řádného \nopravného prostředku proti rozsudku nebo usnesení uvedenému v § 265a odst. 2 písm. a) až g) tr. ř., aniž byly \nsplněny procesní podmínky stanovené zákonem pro takové rozhodnutí nebo byl v  řízení mu předcházejícím dán \ndůvod dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. \n \nK zamítnutí ani odmítnutí odvolání obviněného nedošlo z procesních důvodů, tj. podle § 253 odst. 1 tr. ř., resp. \npodle § 253 odst. 3 tr. ř., a proto se na daný případ nevztahuje ta část ustanovení § 265b odst. 1 písm. l) tr. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2879::300",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 253",
+      "snippet_doc_start": 2619,
+      "snippet_doc_end": 3144,
+      "snippet_text": " \nsplněny procesní podmínky stanovené zákonem pro takové rozhodnutí nebo byl v  řízení mu předcházejícím dán \ndůvod dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. \n \nK zamítnutí ani odmítnutí odvolání obviněného nedošlo z procesních důvodů, tj. podle § 253 odst. 1 tr. ř., resp. \npodle § 253 odst. 3 tr. ř., a proto se na daný případ nevztahuje ta část ustanovení § 265b odst. 1 písm. l) tr. ř., která je \nvyjádřena dikcí „bylo rozhodnuto o zamítnutí nebo odmítnutí řádného opravného prostředku …, aniž byly splněny ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 253",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "253",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2914::301",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 253",
+      "snippet_doc_start": 2654,
+      "snippet_doc_end": 3179,
+      "snippet_text": "né zákonem pro takové rozhodnutí nebo byl v  řízení mu předcházejícím dán \ndůvod dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. \n \nK zamítnutí ani odmítnutí odvolání obviněného nedošlo z procesních důvodů, tj. podle § 253 odst. 1 tr. ř., resp. \npodle § 253 odst. 3 tr. ř., a proto se na daný případ nevztahuje ta část ustanovení § 265b odst. 1 písm. l) tr. ř., která je \nvyjádřena dikcí „bylo rozhodnuto o zamítnutí nebo odmítnutí řádného opravného prostředku …, aniž byly splněny \nprocesní podmínky stanovené zákone",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 253",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "253",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2992::302",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 2732,
+      "snippet_doc_end": 3258,
+      "snippet_text": "od dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. \n \nK zamítnutí ani odmítnutí odvolání obviněného nedošlo z procesních důvodů, tj. podle § 253 odst. 1 tr. ř., resp. \npodle § 253 odst. 3 tr. ř., a proto se na daný případ nevztahuje ta část ustanovení § 265b odst. 1 písm. l) tr. ř., která je \nvyjádřena dikcí „bylo rozhodnuto o zamítnutí nebo odmítnutí řádného opravného prostředku …, aniž byly splněny \nprocesní podmínky stanovené zákonem pro takové rozhodnutí“. \n \nOdvolání obviněného bylo zamítnuto poté, co odvola",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "l"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::3473::303",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 3213,
+      "snippet_doc_end": 3739,
+      "snippet_text": "ání obviněného bylo zamítnuto poté, co odvolací soud na jeho podkladě meritorně přezkoumal napadený \nrozsudek soudu prvního stupně. Dovolání je v tomto případě možné podat, jen byl-li v řízení napadenému \nrozhodnutí předcházejícím dán důvod dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. V souladu s touto\nPodle § 265b odst. 1 písm. g) tr. ř. lze dovolání podat, jestliže rozhodnutí spočívá na nesprávném právním posouzení \nskutku nebo jiném nesprávném hmotně právním posouzení. \n \nZ dikce citovaného ustanovení plyne",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::3534::304",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 3274,
+      "snippet_doc_end": 3800,
+      "snippet_text": "podkladě meritorně přezkoumal napadený \nrozsudek soudu prvního stupně. Dovolání je v tomto případě možné podat, jen byl-li v řízení napadenému \nrozhodnutí předcházejícím dán důvod dovolání uvedený v § 265b odst. 1 písm. a) až k) tr. ř. V souladu s touto\nPodle § 265b odst. 1 písm. g) tr. ř. lze dovolání podat, jestliže rozhodnutí spočívá na nesprávném právním posouzení \nskutku nebo jiném nesprávném hmotně právním posouzení. \n \nZ dikce citovaného ustanovení plyne, že ve vztahu ke zjištěnému skutku je možné dovoláním vytýka",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::4598::305",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 4338,
+      "snippet_doc_end": 4861,
+      "snippet_text": "áva. Na podkladě tohoto dovolacího \ndůvodu nelze proto přezkoumávat a hodnotit správnost a úplnost skutkových zjištění, na nichž je napadené \nrozhodnutí založeno, ani prověřovat úplnost provedeného dokazování a správnost hodnocení důkazů ve smyslu \nustanovení § 2 odst. 5, 6 tr. ř., poněvadž tato činnost soudu spočívá v aplikaci ustanovení procesních, nikoliv hmotně \nprávních. Současně platí, že obsah konkrétně uplatněných námitek, o něž se opírá existence určitého dovolacího \ndůvodu, musí věcně odpovídat zákonnému vym",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "2",
+          "detail_odst": [
+            "5",
+            "6"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::4900::306",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 4640,
+      "snippet_doc_end": 5166,
+      "snippet_text": "st soudu spočívá v aplikaci ustanovení procesních, nikoliv hmotně \nprávních. Současně platí, že obsah konkrétně uplatněných námitek, o něž se opírá existence určitého dovolacího \ndůvodu, musí věcně odpovídat zákonnému vymezení takového dovolacího důvodu podle § 265b tr. ř., nestačí jen \nformální odkaz na příslušné ustanovení obsahující některý z dovolacích důvodů. \n \nZ obsahu podaného dovolání vyplývá, že obviněný uplatnil toliko námitky, které směřovaly proti rozsahu \ndokazování, proti způsobu, jakým byly hodnoceny prov",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::6503::307",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 6243,
+      "snippet_doc_end": 6766,
+      "snippet_text": ", že obviněný dovolání založil na skutkových námitkách, jimiž se primárně domáhal změny \nskutkových zjištění ve svůj prospěch, a následně ze změny skutkových zjištění vyvozoval, že se trestného činu \nnedopustil. Obviněný vytýkal porušení procesních ustanovení § 2 odst. 5, 6 tr. ř., což jsou ustanovení upravující \npostup orgánů činných v trestním řízení při zjišťování skutkového stavu a při hodnocení důkazů, eventuálně \nprocesního ustanovení § 134 odst. 2 tr. ř., které upravuje náležitosti odůvodnění usnesení. Porušení",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "2",
+          "detail_odst": [
+            "5",
+            "6"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::6688::308",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 134",
+      "snippet_doc_start": 6428,
+      "snippet_doc_end": 6953,
+      "snippet_text": "restného činu \nnedopustil. Obviněný vytýkal porušení procesních ustanovení § 2 odst. 5, 6 tr. ř., což jsou ustanovení upravující \npostup orgánů činných v trestním řízení při zjišťování skutkového stavu a při hodnocení důkazů, eventuálně \nprocesního ustanovení § 134 odst. 2 tr. ř., které upravuje náležitosti odůvodnění usnesení. Porušení ustanovení \nhmotného práva při právním posouzení skutku, jak byl soudem zjištěn, však nenamítl. Vady, které napadenému \nusnesení a předcházejícímu řízení vytýkal, mají povahu vad skutkov",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 134",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "134",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7076::309",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 6816,
+      "snippet_doc_end": 7342,
+      "snippet_text": "skutku, jak byl soudem zjištěn, však nenamítl. Vady, které napadenému \nusnesení a předcházejícímu řízení vytýkal, mají povahu vad skutkových, resp. procesně právních, nikoliv hmotně \nprávních.  \n \nAčkoli tedy obviněný formálně deklaroval dovolací důvody podle § 265b odst. 1 písm. g), l) tr. ř., fakticky uplatnil \nnámitky skutkové, které nejsou způsobilé nejen tyto dovolací důvody, ale ani žádný jiný důvod dovolání podle § \n265b tr. ř. obsahově naplnit. Protože dovolání bylo podáno z jiného důvodu, než je uveden v § 265b ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g",
+            "l"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7240::310",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ \n265b",
+      "snippet_doc_start": 6980,
+      "snippet_doc_end": 7507,
+      "snippet_text": "h, nikoliv hmotně \nprávních.  \n \nAčkoli tedy obviněný formálně deklaroval dovolací důvody podle § 265b odst. 1 písm. g), l) tr. ř., fakticky uplatnil \nnámitky skutkové, které nejsou způsobilé nejen tyto dovolací důvody, ale ani žádný jiný důvod dovolání podle § \n265b tr. ř. obsahově naplnit. Protože dovolání bylo podáno z jiného důvodu, než je uveden v § 265b tr. ř., Nejvyšší \nsoud je podle § 265i odst. 1 písm. b) tr. ř. odmítl, aniž na jeho podkladě podle § 265i odst. 3 tr. ř. přezkoumal \nnapadené usnesení a řízení, jež ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ \n265b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7335::311",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265b",
+      "snippet_doc_start": 7075,
+      "snippet_doc_end": 7526,
+      "snippet_text": " § 265b odst. 1 písm. g), l) tr. ř., fakticky uplatnil \nnámitky skutkové, které nejsou způsobilé nejen tyto dovolací důvody, ale ani žádný jiný důvod dovolání podle § \n265b tr. ř. obsahově naplnit. Protože dovolání bylo podáno z jiného důvodu, než je uveden v § 265b tr. ř., Nejvyšší \nsoud je podle § 265i odst. 1 písm. b) tr. ř. odmítl, aniž na jeho podkladě podle § 265i odst. 3 tr. ř. přezkoumal \nnapadené usnesení a řízení, jež mu předcházelo. \n \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265b",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265b",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7374::312",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265i",
+      "snippet_doc_start": 7114,
+      "snippet_doc_end": 7526,
+      "snippet_text": "kticky uplatnil \nnámitky skutkové, které nejsou způsobilé nejen tyto dovolací důvody, ale ani žádný jiný důvod dovolání podle § \n265b tr. ř. obsahově naplnit. Protože dovolání bylo podáno z jiného důvodu, než je uveden v § 265b tr. ř., Nejvyšší \nsoud je podle § 265i odst. 1 písm. b) tr. ř. odmítl, aniž na jeho podkladě podle § 265i odst. 3 tr. ř. přezkoumal \nnapadené usnesení a řízení, jež mu předcházelo. \n \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265i",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265i",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7441::313",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 265i",
+      "snippet_doc_start": 7181,
+      "snippet_doc_end": 7526,
+      "snippet_text": "o dovolací důvody, ale ani žádný jiný důvod dovolání podle § \n265b tr. ř. obsahově naplnit. Protože dovolání bylo podáno z jiného důvodu, než je uveden v § 265b tr. ř., Nejvyšší \nsoud je podle § 265i odst. 1 písm. b) tr. ř. odmítl, aniž na jeho podkladě podle § 265i odst. 3 tr. ř. přezkoumal \nnapadené usnesení a řízení, jež mu předcházelo. \n \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 265i",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "265i",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    }
+  ]
+}

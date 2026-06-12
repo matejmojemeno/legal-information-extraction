@@ -1,0 +1,43 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "GetText.aspx_sz_1-432-97.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.417633+00:00",
+  "references": [
+    {
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "task_id": "GetText.aspx_sz_1-432-97.txt::docref::90::6",
+      "classification": "document_reference",
+      "reference_text": "čj. 36 Co 13/97 - 24",
+      "start_char": 90,
+      "end_char": 110,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "čj.",
+      "reference_body": "36 Co 13/97 - 24",
+      "decision_kind_hint": "usnesení",
+      "court_hint": "Městského soudu",
+      "confidence": 0.99,
+      "note": "manual_v1:structured_docref"
+    },
+    {
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "task_id": "GetText.aspx_sz_1-432-97.txt::docref::360::7",
+      "classification": "document_reference",
+      "reference_text": "sp. zn. 24 C 76/95",
+      "start_char": 360,
+      "end_char": 378,
+      "reference_type": "spisova_znacka",
+      "reference_prefix": "sp. zn.",
+      "reference_body": "24 C 76/95",
+      "decision_kind_hint": "usnesení",
+      "court_hint": "Obvodního soudu pro Prahu 4",
+      "confidence": 0.99,
+      "note": "manual_v1:structured_docref"
+    }
+  ]
+}

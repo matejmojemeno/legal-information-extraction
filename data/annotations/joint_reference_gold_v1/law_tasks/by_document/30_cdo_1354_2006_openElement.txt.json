@@ -1,0 +1,1578 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.175133+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "30 cdo 1354_2006_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+  "task_count": 52,
+  "tasks": [
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::1232::228",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 178b",
+      "snippet_doc_start": 972,
+      "snippet_doc_end": 1498,
+      "snippet_text": " byl její \nzaměstnavatel povinen uhradit částku 35.330,70 Kč letecké společnosti, ačkoliv mu \ntuto částku neuhradil jeho zákazník. Soud prvního stupně dospěl k závěru, že \nžalobkyně sice způsobila svému zaměstnavateli škodu, avšak s přihlédnutím k \nustanovení § 178b odst. 2 zákoníku práce za tuto škodu neodpovídá, neboť jde o škodu, \nkterá vyplývá z hospodářského rizika. Zaměstnavateli žalobkyně tedy nevznikl vůči \nní nárok na náhradu této škody a z tohoto důvodu také žalovaná nemá povinnost \npojistného plnění. Soud prvn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 178b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "65/1965 Sb.",
+          "law_name_text": "zákoník práce",
+          "declared_alias_text": "zákoník práce",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.95,
+          "note": "manual_v1:stary_zakonik_prace"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::2259::229",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159",
+      "snippet_doc_start": 1999,
+      "snippet_doc_end": 2524,
+      "snippet_text": "il, že by tak došlo k porušení zásad stanovených v Článku 38 odst. 2 Listiny \nzákladních práv a svobod, dle kterého každý má právo, aby jeho věc (rozuměj věc\na v jeho přítomnosti a aby se mohl vyjádřit ke všem provedeným důkazům.  \n \nMimo to, podle ustanovení § 159 odst. 1 a 4 občanského soudního řádu výrok \npravomocného rozsudku je závazný jen pro účastníky řízení a pro všechny orgány.  \n \nPro jiné osoby než účastníky je závazný jen v případech stanovených zákonem a v \nrozsahu v něm uvedeném (§ 159a odst. 2 a 3 o.s.ř.)",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::2498::230",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 2238,
+      "snippet_doc_end": 2764,
+      "snippet_text": "to, podle ustanovení § 159 odst. 1 a 4 občanského soudního řádu výrok \npravomocného rozsudku je závazný jen pro účastníky řízení a pro všechny orgány.  \n \nPro jiné osoby než účastníky je závazný jen v případech stanovených zákonem a v \nrozsahu v něm uvedeném (§ 159a odst. 2 a 3 o.s.ř.). V důsledku tohoto ustanovení, \nnení-li tedy rozhodnutí subjektivně závazné pro každého, vztahují se účinky \npravomocného rozhodnutí jen na osoby, které byly účastníky řízení. Ten, kdo nebyl \núčastníkem řízení a ani podle zákona vůči němu ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::3598::231",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "Čl. 1",
+      "snippet_doc_start": 3338,
+      "snippet_doc_end": 3863,
+      "snippet_text": "ve vztahu k této osobě \nnebylo závazné. Nebylo by tudíž vykonatelné a postrádalo by věcného významu.  \n \nPrávo pojištěného domáhat se u soudu v případě pojistné události, aby pojistitel \nzaplatil škodu přímo k rukám poškozeného, nelze dovodit ani z ustanovení Čl. 1 \nVšeobecných pojistných podmínek, které jsou součástí pojistné smlouvy uzavřené \nmezi žalobkyní a žalovanou a které stanoví právo pojištěného, aby v případě pojistné \nudálosti za něho pojistitel nahradil škodu. Tento nárok pak nevyplývá ani z \nustanovení § 82",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "Čl. 1",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "non_citation",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:insurance_terms"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::3859::232",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 822",
+      "snippet_doc_start": 3599,
+      "snippet_doc_end": 4124,
+      "snippet_text": "l. 1 \nVšeobecných pojistných podmínek, které jsou součástí pojistné smlouvy uzavřené \nmezi žalobkyní a žalovanou a které stanoví právo pojištěného, aby v případě pojistné \nudálosti za něho pojistitel nahradil škodu. Tento nárok pak nevyplývá ani z \nustanovení § 822 a § 823 obč. zák., platného do 31. 12. 2004, v době uzavírání \npojistné smlouvy, neboť poškozený nemá právo na plnění proti pojistiteli, pokud \nnestanoví zvláštní předpisy jinak. Pokud tedy pojistitel dobrovolně neplní \npoškozenému, protože jeho nárok neuznáv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 822",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::3867::233",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 3607,
+      "snippet_doc_end": 4132,
+      "snippet_text": "eobecných pojistných podmínek, které jsou součástí pojistné smlouvy uzavřené \nmezi žalobkyní a žalovanou a které stanoví právo pojištěného, aby v případě pojistné \nudálosti za něho pojistitel nahradil škodu. Tento nárok pak nevyplývá ani z \nustanovení § 822 a § 823 obč. zák., platného do 31. 12. 2004, v době uzavírání \npojistné smlouvy, neboť poškozený nemá právo na plnění proti pojistiteli, pokud \nnestanoví zvláštní předpisy jinak. Pokud tedy pojistitel dobrovolně neplní \npoškozenému, protože jeho nárok neuznává, nezbu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::4581::234",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 4321,
+      "snippet_doc_end": 4846,
+      "snippet_text": "zniká \npojištěnému, který byl povinen škodu, na kterou se vztahuje pojištění z \nodpovědnosti za škodu, zaplatit, nárok vůči pojišťovně.                \n \nProti tomuto rozsudku odvolacího soudu podala žalobkyně dovolání. Jeho přípustnost \ndovozuje z ustanovení § 237 odst. 1 písm. c) o.s.ř. a podává je zřejmě z důvodu, \nže rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci podle \nustanovení § 241a odst. 2 písm. b) o.s.ř. Zásadní právní význam spatřuje  \n \nve skutečnosti, že napadené rozhodnutí řeší v",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::4735::235",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 241a",
+      "snippet_doc_start": 4475,
+      "snippet_doc_end": 5001,
+      "snippet_text": "Proti tomuto rozsudku odvolacího soudu podala žalobkyně dovolání. Jeho přípustnost \ndovozuje z ustanovení § 237 odst. 1 písm. c) o.s.ř. a podává je zřejmě z důvodu, \nže rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci podle \nustanovení § 241a odst. 2 písm. b) o.s.ř. Zásadní právní význam spatřuje  \n \nve skutečnosti, že napadené rozhodnutí řeší v rozporu s hmotným právem otázku, zda   \nustanovení § 822 a § 823 obč. zák., ve znění platném do 31. 12. 2004, brání \npojištěnému domáhat se ve prospěch po",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 241a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::4898::236",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 822",
+      "snippet_doc_start": 4638,
+      "snippet_doc_end": 5163,
+      "snippet_text": ", \nže rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci podle \nustanovení § 241a odst. 2 písm. b) o.s.ř. Zásadní právní význam spatřuje  \n \nve skutečnosti, že napadené rozhodnutí řeší v rozporu s hmotným právem otázku, zda   \nustanovení § 822 a § 823 obč. zák., ve znění platném do 31. 12. 2004, brání \npojištěnému domáhat se ve prospěch poškozeného plnění na pojistiteli a zda může \nsoud uložit žalovanému plnit ve prospěch osoby, která nebyla účastníkem řízení.  \n \nNamítá zejména, že ustanovení Člán",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 822",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::4906::237",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 4646,
+      "snippet_doc_end": 5171,
+      "snippet_text": "zhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci podle \nustanovení § 241a odst. 2 písm. b) o.s.ř. Zásadní právní význam spatřuje  \n \nve skutečnosti, že napadené rozhodnutí řeší v rozporu s hmotným právem otázku, zda   \nustanovení § 822 a § 823 obč. zák., ve znění platném do 31. 12. 2004, brání \npojištěnému domáhat se ve prospěch poškozeného plnění na pojistiteli a zda může \nsoud uložit žalovanému plnit ve prospěch osoby, která nebyla účastníkem řízení.  \n \nNamítá zejména, že ustanovení Článku 38 od",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::5555::238",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 5295,
+      "snippet_doc_end": 5821,
+      "snippet_text": "žil a nikomu nebyly soudem ukládány povinnosti bez jeho přítomnosti a \nmožnosti vyjádření. Tato práva nemohou být ve vztahu ke K. P. nijak dotčena, neboť \nmá vždy možnost se plnění vzdát nebo je odmítnout. Předmětem této věci je právo \nžalobkyně. Z ustanovení § 159a o.s.ř. nelze dovozovat nevykonatelnost rozsudku \nukládajícího plnění k rukám a ve prospěch třetí osoby. K. P. nebude mít v řízení \no výkon rozhodnutí postavení povinného ani oprávněného. Odmítne-li plnění, bude \nto ve smyslu ustanovení § 268 písm. h) o.s.ř. d",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::5798::239",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 268",
+      "snippet_doc_start": 5538,
+      "snippet_doc_end": 6063,
+      "snippet_text": "ně. Z ustanovení § 159a o.s.ř. nelze dovozovat nevykonatelnost rozsudku \nukládajícího plnění k rukám a ve prospěch třetí osoby. K. P. nebude mít v řízení \no výkon rozhodnutí postavení povinného ani oprávněného. Odmítne-li plnění, bude \nto ve smyslu ustanovení § 268 písm. h) o.s.ř. důvodem, pro který nebude možné\n2004, má pojištěný právo, aby v případě pojistné události pojistitel za něho \nnahradil podle pojistných podmínek škodu, za kterou  pojištěný odpovídá. \nUstanovení § 823 obč. zák., ve znění platném do 31. 12. 200",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 268",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::6015::240",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 5755,
+      "snippet_doc_end": 6280,
+      "snippet_text": "e-li plnění, bude \nto ve smyslu ustanovení § 268 písm. h) o.s.ř. důvodem, pro který nebude možné\n2004, má pojištěný právo, aby v případě pojistné události pojistitel za něho \nnahradil podle pojistných podmínek škodu, za kterou  pojištěný odpovídá. \nUstanovení § 823 obč. zák., ve znění platném do 31. 12. 2004, stanoví, že škoda \nmá být vyplacena poškozenému, který se sám však výplaty náhrady škody vůči \npojistiteli domáhat nemůže. Zcela v souladu s těmito ustanoveními občanského \nzákoníku se žalobkyně jako pojištěná domá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::7172::241",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 10a",
+      "snippet_doc_start": 6912,
+      "snippet_doc_end": 7437,
+      "snippet_text": "zenému znemožněno reálně se náhrady škody domoci a pojištěnému může \nbýt odepřeno plnění z pojistné smlouvy. Žalovaná navrhla zrušení napadeného \nrozhodnutí a vrácení věci odvolacímu soudu k dalšímu řízení. \n \nNejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že \ndovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno oprávněnou \nosobou (účastníkem řízení) v zákonné lhůtě (§ 240 odst. 1 o.s.ř.) se nejprve zabýval \npřípustností dovolání. \n \nDovoláním lze napadnout pravomocná rozhodnut",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 10a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::7325::242",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 240",
+      "snippet_doc_start": 7065,
+      "snippet_doc_end": 7590,
+      "snippet_text": "utí a vrácení věci odvolacímu soudu k dalšímu řízení. \n \nNejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že \ndovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno oprávněnou \nosobou (účastníkem řízení) v zákonné lhůtě (§ 240 odst. 1 o.s.ř.) se nejprve zabýval \npřípustností dovolání. \n \nDovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon \npřipouští (§ 236 odst. 1 o.s.ř.). \n \nDovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacíh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 240",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::7484::243",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 236",
+      "snippet_doc_start": 7224,
+      "snippet_doc_end": 7749,
+      "snippet_text": "ocnému rozsudku odvolacího soudu bylo podáno oprávněnou \nosobou (účastníkem řízení) v zákonné lhůtě (§ 240 odst. 1 o.s.ř.) se nejprve zabýval \npřípustností dovolání. \n \nDovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon \npřipouští (§ 236 odst. 1 o.s.ř.). \n \nDovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího \nsoudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [§ 237 odst. \n1 písm. a) o.s.ř.], jimiž bylo potvrzeno rozhodnutí soudu prvního stupn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 236",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::7665::244",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 7405,
+      "snippet_doc_end": 7930,
+      "snippet_text": "e napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon \npřipouští (§ 236 odst. 1 o.s.ř.). \n \nDovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího \nsoudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [§ 237 odst. \n1 písm. a) o.s.ř.], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým \nsoud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) \nproto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí \nzruši",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::7933::245",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 7673,
+      "snippet_doc_end": 8198,
+      "snippet_text": "st. \n1 písm. a) o.s.ř.], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým \nsoud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) \nproto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí \nzrušil [§ 237 odst. 1 písm. b) o.s.ř.], nebo jimiž bylo potvrzeno rozhodnutí soudu \nprvního stupně, jestliže dovolání není přípustné podle ustanovení § 237 odst. 1 \npísm. b) o.s.ř. a jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí \nmá  \n \nve věci samé po pr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8075::246",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 7815,
+      "snippet_doc_end": 8340,
+      "snippet_text": "ívějším rozsudku (usnesení) \nproto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí \nzrušil [§ 237 odst. 1 písm. b) o.s.ř.], nebo jimiž bylo potvrzeno rozhodnutí soudu \nprvního stupně, jestliže dovolání není přípustné podle ustanovení § 237 odst. 1 \npísm. b) o.s.ř. a jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí \nmá  \n \nve věci samé po právní stránce zásadní význam [§ 237 odst. 1 písm. c) o.s.ř.]. \n \nDovolání tedy může být podle ustanovení § 237 odst. 1 písm. c) o.s.ř. přípustn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8227::247",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 7967,
+      "snippet_doc_end": 8492,
+      "snippet_text": "bo jimiž bylo potvrzeno rozhodnutí soudu \nprvního stupně, jestliže dovolání není přípustné podle ustanovení § 237 odst. 1 \npísm. b) o.s.ř. a jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí \nmá  \n \nve věci samé po právní stránce zásadní význam [§ 237 odst. 1 písm. c) o.s.ř.]. \n \nDovolání tedy může být podle ustanovení § 237 odst. 1 písm. c) o.s.ř. přípustné \njen tehdy, jde-li o řešení právních otázek. Dovolatel je proto oprávněn napadnout   \nrozhodnutí  odvolacího soudu,  jen z důvodu uvedeného v ustanove",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8302::248",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 8042,
+      "snippet_doc_end": 8567,
+      "snippet_text": " není přípustné podle ustanovení § 237 odst. 1 \npísm. b) o.s.ř. a jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí \nmá  \n \nve věci samé po právní stránce zásadní význam [§ 237 odst. 1 písm. c) o.s.ř.]. \n \nDovolání tedy může být podle ustanovení § 237 odst. 1 písm. c) o.s.ř. přípustné \njen tehdy, jde-li o řešení právních otázek. Dovolatel je proto oprávněn napadnout   \nrozhodnutí  odvolacího soudu,  jen z důvodu uvedeného v ustanovení § 241a odst. \n2 písm. b) o.s.ř, a je-li dovolání přípustné, též z důvodu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8495::249",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 241a",
+      "snippet_doc_start": 8235,
+      "snippet_doc_end": 8761,
+      "snippet_text": "st. 1 písm. c) o.s.ř.]. \n \nDovolání tedy může být podle ustanovení § 237 odst. 1 písm. c) o.s.ř. přípustné \njen tehdy, jde-li o řešení právních otázek. Dovolatel je proto oprávněn napadnout   \nrozhodnutí  odvolacího soudu,  jen z důvodu uvedeného v ustanovení § 241a odst. \n2 písm. b) o.s.ř, a je-li dovolání přípustné, též z důvodu uvedeného v ustanovení \n§ 241a odst. 2 písm. a) o.s.ř. (§ 242 odst. 3 o.s.ř.). Dovolací soud je při \npřezkoumání rozhodnutí odvolacího soudu zásadně vázán uplatněným dovolacím důvodem \n(§ 242 o",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 241a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a",
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8592::250",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 241a",
+      "snippet_doc_start": 8332,
+      "snippet_doc_end": 8858,
+      "snippet_text": "přípustné \njen tehdy, jde-li o řešení právních otázek. Dovolatel je proto oprávněn napadnout   \nrozhodnutí  odvolacího soudu,  jen z důvodu uvedeného v ustanovení § 241a odst. \n2 písm. b) o.s.ř, a je-li dovolání přípustné, též z důvodu uvedeného v ustanovení \n§ 241a odst. 2 písm. a) o.s.ř. (§ 242 odst. 3 o.s.ř.). Dovolací soud je při \npřezkoumání rozhodnutí odvolacího soudu zásadně vázán uplatněným dovolacím důvodem \n(§ 242 odst. 3 o.s.ř.). Přitom vychází z toho, jak jej odvolatel obsahově vymezil \n(§ 41 odst. 2 o.s.ř.).",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 241a",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a",
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8624::251",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 242",
+      "snippet_doc_start": 8364,
+      "snippet_doc_end": 8889,
+      "snippet_text": "ešení právních otázek. Dovolatel je proto oprávněn napadnout   \nrozhodnutí  odvolacího soudu,  jen z důvodu uvedeného v ustanovení § 241a odst. \n2 písm. b) o.s.ř, a je-li dovolání přípustné, též z důvodu uvedeného v ustanovení \n§ 241a odst. 2 písm. a) o.s.ř. (§ 242 odst. 3 o.s.ř.). Dovolací soud je při \npřezkoumání rozhodnutí odvolacího soudu zásadně vázán uplatněným dovolacím důvodem \n(§ 242 odst. 3 o.s.ř.). Přitom vychází z toho, jak jej odvolatel obsahově vymezil \n(§ 41 odst. 2 o.s.ř.). Z toho mimo jiné vyplývá, že d",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 242",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8754::252",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 242",
+      "snippet_doc_start": 8494,
+      "snippet_doc_end": 9019,
+      "snippet_text": " § 241a odst. \n2 písm. b) o.s.ř, a je-li dovolání přípustné, též z důvodu uvedeného v ustanovení \n§ 241a odst. 2 písm. a) o.s.ř. (§ 242 odst. 3 o.s.ř.). Dovolací soud je při \npřezkoumání rozhodnutí odvolacího soudu zásadně vázán uplatněným dovolacím důvodem \n(§ 242 odst. 3 o.s.ř.). Přitom vychází z toho, jak jej odvolatel obsahově vymezil \n(§ 41 odst. 2 o.s.ř.). Z toho mimo jiné vyplývá, že dovolací soud může při zkoumání \nsprávnosti názoru odvolacího soudu řešit jen takové právní otázky, které dovolatel \nv dovolání ozn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 242",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::8837::253",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 41",
+      "snippet_doc_start": 8577,
+      "snippet_doc_end": 9101,
+      "snippet_text": " v ustanovení \n§ 241a odst. 2 písm. a) o.s.ř. (§ 242 odst. 3 o.s.ř.). Dovolací soud je při \npřezkoumání rozhodnutí odvolacího soudu zásadně vázán uplatněným dovolacím důvodem \n(§ 242 odst. 3 o.s.ř.). Přitom vychází z toho, jak jej odvolatel obsahově vymezil \n(§ 41 odst. 2 o.s.ř.). Z toho mimo jiné vyplývá, že dovolací soud může při zkoumání \nsprávnosti názoru odvolacího soudu řešit jen takové právní otázky, které dovolatel \nv dovolání označil. Tímto dovolacím důvodem vymezené právní otázky současně musí \nmít zásadní vý",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 41",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::9404::254",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 241a",
+      "snippet_doc_start": 9144,
+      "snippet_doc_end": 9670,
+      "snippet_text": "í; za otázku určující \npřitom nelze považovat otázku, jejíž posouzení samo o sobě nemá na konečné \nrozhodnutí soudu o věci samé žádný vliv. \n \nŽalobkyně v dovolání uplatňuje dovolací důvod nesprávného právního posouzení věci \nodvolacím soudem podle ustanovení § 241a odst. 2 písm. b) o.s.ř. Vzhledem k obsahu\notázku, zda soud může uložit žalovanému plnit ve prospěch osoby, která nebyla \núčastníkem řízení, a to s poukazem na ustanovení Článku 38 odst. 2 Listiny \nzákladních práv a svobod a § 159a o.s.ř., a zda z tohoto hledi",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 241a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::9635::255",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 9375,
+      "snippet_doc_end": 9901,
+      "snippet_text": "acím soudem podle ustanovení § 241a odst. 2 písm. b) o.s.ř. Vzhledem k obsahu\notázku, zda soud může uložit žalovanému plnit ve prospěch osoby, která nebyla \núčastníkem řízení, a to s poukazem na ustanovení Článku 38 odst. 2 Listiny \nzákladních práv a svobod a § 159a o.s.ř., a zda z tohoto hlediska ustanovení  \n \n§ 822 a § 823 obč. zák., ve znění platném do 31. 12. 2004, umožňuje tudíž i \npojištěnému domáhat se ve prospěch poškozeného plnění na pojistiteli. \n \nProtože jde o otázku, která v rozhodování dovolacího soudu dos",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::9689::256",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 822",
+      "snippet_doc_start": 9429,
+      "snippet_doc_end": 9954,
+      "snippet_text": ".s.ř. Vzhledem k obsahu\notázku, zda soud může uložit žalovanému plnit ve prospěch osoby, která nebyla \núčastníkem řízení, a to s poukazem na ustanovení Článku 38 odst. 2 Listiny \nzákladních práv a svobod a § 159a o.s.ř., a zda z tohoto hlediska ustanovení  \n \n§ 822 a § 823 obč. zák., ve znění platném do 31. 12. 2004, umožňuje tudíž i \npojištěnému domáhat se ve prospěch poškozeného plnění na pojistiteli. \n \nProtože jde o otázku, která v rozhodování dovolacího soudu dosud řešena nebyla, \npřičemž její posouzení se promítá ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 822",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::9697::257",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 9437,
+      "snippet_doc_end": 9962,
+      "snippet_text": "hledem k obsahu\notázku, zda soud může uložit žalovanému plnit ve prospěch osoby, která nebyla \núčastníkem řízení, a to s poukazem na ustanovení Článku 38 odst. 2 Listiny \nzákladních práv a svobod a § 159a o.s.ř., a zda z tohoto hlediska ustanovení  \n \n§ 822 a § 823 obč. zák., ve znění platném do 31. 12. 2004, umožňuje tudíž i \npojištěnému domáhat se ve prospěch poškozeného plnění na pojistiteli. \n \nProtože jde o otázku, která v rozhodování dovolacího soudu dosud řešena nebyla, \npřičemž její posouzení se promítá nejen do",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::10092::258",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 9832,
+      "snippet_doc_end": 10357,
+      "snippet_text": "li. \n \nProtože jde o otázku, která v rozhodování dovolacího soudu dosud řešena nebyla, \npřičemž její posouzení se promítá nejen do výsledku konkrétního řízení, ale \nvýznamově zasahuje do širšího kontextu soudní praxe, je rozhodnutí odvolacího soudu \nve smyslu § 237 odst. 1 písm. c) o. s. ř. zásadně právně významné; dovolání je tudíž \npřípustné. Je-li dovolání přípustné, dovolací soud přihlédne též k případným vadám \nuvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a), b) a § 229 odst. 3 \no.s.ř., jakož i k jiným ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a",
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::10274::259",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 229",
+      "snippet_doc_start": 10014,
+      "snippet_doc_end": 10539,
+      "snippet_text": "e do širšího kontextu soudní praxe, je rozhodnutí odvolacího soudu \nve smyslu § 237 odst. 1 písm. c) o. s. ř. zásadně právně významné; dovolání je tudíž \npřípustné. Je-li dovolání přípustné, dovolací soud přihlédne též k případným vadám \nuvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a), b) a § 229 odst. 3 \no.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné \nrozhodnutí ve věci, i když nebyly v dovolání uplatněny (§ 242 odst. 3 o.s.ř.). Vady \nuvedené v ustanovení § 242 odst. 3 o.s.ř. ne",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 229",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2",
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::10289::260",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 229",
+      "snippet_doc_start": 10029,
+      "snippet_doc_end": 10554,
+      "snippet_text": "ntextu soudní praxe, je rozhodnutí odvolacího soudu \nve smyslu § 237 odst. 1 písm. c) o. s. ř. zásadně právně významné; dovolání je tudíž \npřípustné. Je-li dovolání přípustné, dovolací soud přihlédne též k případným vadám \nuvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a), b) a § 229 odst. 3 \no.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné \nrozhodnutí ve věci, i když nebyly v dovolání uplatněny (§ 242 odst. 3 o.s.ř.). Vady \nuvedené v ustanovení § 242 odst. 3 o.s.ř. nebyly dovoláním ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 229",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2",
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::10318::261",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 229",
+      "snippet_doc_start": 10058,
+      "snippet_doc_end": 10583,
+      "snippet_text": "dnutí odvolacího soudu \nve smyslu § 237 odst. 1 písm. c) o. s. ř. zásadně právně významné; dovolání je tudíž \npřípustné. Je-li dovolání přípustné, dovolací soud přihlédne též k případným vadám \nuvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a), b) a § 229 odst. 3 \no.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné \nrozhodnutí ve věci, i když nebyly v dovolání uplatněny (§ 242 odst. 3 o.s.ř.). Vady \nuvedené v ustanovení § 242 odst. 3 o.s.ř. nebyly dovoláním vytýkány a z obsahu spisu \nse",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 229",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2",
+            "3"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::10466::262",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 242",
+      "snippet_doc_start": 10206,
+      "snippet_doc_end": 10731,
+      "snippet_text": "ovolací soud přihlédne též k případným vadám \nuvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a), b) a § 229 odst. 3 \no.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné \nrozhodnutí ve věci, i když nebyly v dovolání uplatněny (§ 242 odst. 3 o.s.ř.). Vady \nuvedené v ustanovení § 242 odst. 3 o.s.ř. nebyly dovoláním vytýkány a z obsahu spisu \nse nepodávají. \n \nPrávní posouzení věci je nesprávné, jestliže odvolací soud posoudil věc podle \nprávní normy, jež na zjištěný skutkový stav nedopadá,",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 242",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::10516::263",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 242",
+      "snippet_doc_start": 10256,
+      "snippet_doc_end": 10781,
+      "snippet_text": "eným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a), b) a § 229 odst. 3 \no.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné \nrozhodnutí ve věci, i když nebyly v dovolání uplatněny (§ 242 odst. 3 o.s.ř.). Vady \nuvedené v ustanovení § 242 odst. 3 o.s.ř. nebyly dovoláním vytýkány a z obsahu spisu \nse nepodávají. \n \nPrávní posouzení věci je nesprávné, jestliže odvolací soud posoudil věc podle \nprávní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu sice správně \nurčenou nesprávně",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 242",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::11165::264",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 10905,
+      "snippet_doc_end": 11431,
+      "snippet_text": "práv a svobod každý  \nmá právo, aby jeho věc byla projednána veřejně, bez zbytečných průtahů a v jeho  \npřítomnosti, a  aby  se  mohl vyjádřit ke všem prováděným důkazům. Veřejnost může \nbýt vyloučena jen v případech stanovených zákonem. \n \n \nPodle ustanovení § 159a o.s.ř. odst. 1 nestanoví-li zákon jinak, je výrok \npravomocného rozsudku závazný jen pro účastníky řízení. \n \nPodle ustanovení § 159a o.s.ř. odst. 2 výrok pravomocného rozsudku, kterým bylo \nrozhodnuto ve věcech uvedených v § 83 odst. 2, je závazný nejen pro ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::11299::265",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 11039,
+      "snippet_doc_end": 11565,
+      "snippet_text": "vyjádřit ke všem prováděným důkazům. Veřejnost může \nbýt vyloučena jen v případech stanovených zákonem. \n \n \nPodle ustanovení § 159a o.s.ř. odst. 1 nestanoví-li zákon jinak, je výrok \npravomocného rozsudku závazný jen pro účastníky řízení. \n \nPodle ustanovení § 159a o.s.ř. odst. 2 výrok pravomocného rozsudku, kterým bylo \nrozhodnuto ve věcech uvedených v § 83 odst. 2, je závazný nejen pro účastníky řízení, \nale i pro další osoby oprávněné proti žalovanému pro tytéž nároky z téhož jednání \nnebo stavu. Zvláštní právní před",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::11396::266",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 83",
+      "snippet_doc_start": 11136,
+      "snippet_doc_end": 11660,
+      "snippet_text": "konem. \n \n \nPodle ustanovení § 159a o.s.ř. odst. 1 nestanoví-li zákon jinak, je výrok \npravomocného rozsudku závazný jen pro účastníky řízení. \n \nPodle ustanovení § 159a o.s.ř. odst. 2 výrok pravomocného rozsudku, kterým bylo \nrozhodnuto ve věcech uvedených v § 83 odst. 2, je závazný nejen pro účastníky řízení, \nale i pro další osoby oprávněné proti žalovanému pro tytéž nároky z téhož jednání \nnebo stavu. Zvláštní právní předpisy stanoví, v kterých dalších případech a  \n \nv jakém rozsahu je výrok pravomocného rozsudku ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 83",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::11726::267",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 11466,
+      "snippet_doc_end": 11992,
+      "snippet_text": "osoby oprávněné proti žalovanému pro tytéž nároky z téhož jednání \nnebo stavu. Zvláštní právní předpisy stanoví, v kterých dalších případech a  \n \nv jakém rozsahu je výrok pravomocného rozsudku závazný pro jiné osoby než účastníky \nřízení. \n \nPodle ustanovení § 159a o.s.ř. odst. 3 výrok pravomocného rozsudku, kterým bylo \nrozhodnuto o osobním stavu, je závazný pro každého. \n \nPodle ustanovení § 159a o.s.ř. odst. 4 v rozsahu, v jakém je výrok pravomocného \nrozsudku závazný pro účastníky řízení a popřípadě jiné osoby, je z",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::11862::268",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 11602,
+      "snippet_doc_end": 12128,
+      "snippet_text": "dech a  \n \nv jakém rozsahu je výrok pravomocného rozsudku závazný pro jiné osoby než účastníky \nřízení. \n \nPodle ustanovení § 159a o.s.ř. odst. 3 výrok pravomocného rozsudku, kterým bylo \nrozhodnuto o osobním stavu, je závazný pro každého. \n \nPodle ustanovení § 159a o.s.ř. odst. 4 v rozsahu, v jakém je výrok pravomocného \nrozsudku závazný pro účastníky řízení a popřípadě jiné osoby, je závazný též  \n \npro všechny orgány. \n \nPodle ustanovení § 822 obč. zák., ve znění platném do 31. 12. 2004, z pojištění \nodpovědnosti za š",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3",
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::12047::269",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 822",
+      "snippet_doc_start": 11787,
+      "snippet_doc_end": 12312,
+      "snippet_text": "o \nrozhodnuto o osobním stavu, je závazný pro každého. \n \nPodle ustanovení § 159a o.s.ř. odst. 4 v rozsahu, v jakém je výrok pravomocného \nrozsudku závazný pro účastníky řízení a popřípadě jiné osoby, je závazný též  \n \npro všechny orgány. \n \nPodle ustanovení § 822 obč. zák., ve znění platném do 31. 12. 2004, z pojištění \nodpovědnosti za škody má pojištěný právo, aby v případě pojistné události \npojistitel  \n \nza něho nahradil podle pojistných podmínek škodu, za kterou pojištěný odpovídá. \n \nPodle ustanovení § 823 obč. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 822",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::12301::270",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 12041,
+      "snippet_doc_end": 12566,
+      "snippet_text": "ovení § 822 obč. zák., ve znění platném do 31. 12. 2004, z pojištění \nodpovědnosti za škody má pojištěný právo, aby v případě pojistné události \npojistitel  \n \nza něho nahradil podle pojistných podmínek škodu, za kterou pojištěný odpovídá. \n \nPodle ustanovení § 823 obč. zák., ve znění platném do 31. 12. 2004, náhradu platí\nnestanoví-li zvláštní předpisy jinak. \n \nDovolací soud považuje právní posouzení věci odvolacím soudem dle shora citovaných \nustanovení právních norem za správné a jeho odůvodnění za přiléhavé, a prot",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::13225::271",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 12965,
+      "snippet_doc_end": 13491,
+      "snippet_text": "ení vznikají procesní práva a \npovinnosti a pouze o jeho právech se jedná, jak během řízení, tak i v jeho výsledku, \njímž je soudní rozhodnutí. Význam této zásady podtrhuje skutečnost, že se jí \nzajišťuje realizace práva na spravedlivý proces. \n \nV ustanovení § 159a o.s.ř. je vyjádřena závaznost rozhodnutí, kterou se obecně \nrozumí stav, kdy ohledně předmětu, jehož se rozhodnutí týká (objektivní meze \nzávaznosti), a osob, k nimž se vztahuje (subjektivní meze závaznosti), je třeba \nse rozhodnutím řídit s tím, že takové ch",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::13761::272",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 159a",
+      "snippet_doc_start": 13501,
+      "snippet_doc_end": 14027,
+      "snippet_text": " vynutitelné, resp. vykonatelné. \nObjektivní meze závaznosti rozhodnutí jsou dány předmětem řízení, který je vymezen \npetitem žaloby a který je vyjádřen ve výroku rozsudku. Z hlediska subjektivních \nmezí závaznosti rozhodnutí, které jsou upraveny v ustanovení § 159a o.s.ř., platí \nzásada, že rozsudek je závazný pouze pro účastníky řízení. Z uvedeného vyplývá, \nže tato zásada se v projednávané věci nutně uplatní v závěru o nevykonatelnosti \nrozhodnutí, které by zakládalo právo na plnění ve prospěch jiné osoby, než účastní",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 159a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::14127::273",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 822",
+      "snippet_doc_start": 13867,
+      "snippet_doc_end": 14392,
+      "snippet_text": "tato zásada se v projednávané věci nutně uplatní v závěru o nevykonatelnosti \nrozhodnutí, které by zakládalo právo na plnění ve prospěch jiné osoby, než účastníka \nřízení. \n \nPojištění odpovědnosti za škodu, jehož základní charakteristiku obsahuje \nustanovení § 822 ve vzájemné souvislosti s ustanovením § 823 obč. zák., ve znění \nplatném do 31. 12. 2004, plní nepochybně společensky žádoucí ochranu zájmů \npoškozených, kteří nejsou v uspokojení svých nároků na náhradu škody závislí na \nplatební schopnosti škůdce tam, kde j",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 822",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::14171::274",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 13911,
+      "snippet_doc_end": 14436,
+      "snippet_text": "atní v závěru o nevykonatelnosti \nrozhodnutí, které by zakládalo právo na plnění ve prospěch jiné osoby, než účastníka \nřízení. \n \nPojištění odpovědnosti za škodu, jehož základní charakteristiku obsahuje \nustanovení § 822 ve vzájemné souvislosti s ustanovením § 823 obč. zák., ve znění \nplatném do 31. 12. 2004, plní nepochybně společensky žádoucí ochranu zájmů \npoškozených, kteří nejsou v uspokojení svých nároků na náhradu škody závislí na \nplatební schopnosti škůdce tam, kde je jeho odpovědnost pojištěna. Přes tento záj",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::14498::275",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 823",
+      "snippet_doc_start": 14238,
+      "snippet_doc_end": 14763,
+      "snippet_text": " společensky žádoucí ochranu zájmů \npoškozených, kteří nejsou v uspokojení svých nároků na náhradu škody závislí na \nplatební schopnosti škůdce tam, kde je jeho odpovědnost pojištěna. Přes tento zájem \nvšak pojistitel podle obecné zásady upravené v ustanovení § 823 obč. zák. nevstupuje  \n \nna místo pojištěného, odpovědnost musí i nadále nést především, kdo škodu způsobil. \nÚčastníky právního vztahu z pojištění jsou zásadně pojistitel a pojištěný (event. \npojistník) a přímé právo poškozeného ve vztahu k pojistiteli může ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 823",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::14881::276",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 489",
+      "snippet_doc_start": 14621,
+      "snippet_doc_end": 15146,
+      "snippet_text": "ky právního vztahu z pojištění jsou zásadně pojistitel a pojištěný (event. \npojistník) a přímé právo poškozeného ve vztahu k pojistiteli může být založeno jen \nprávním předpisem. Vzhledem k tomu, že způsobení škody je jedním z právních důvodů \nvzniku závazků (§ 489 obč. zák.), vzniká ze způsobené škody právní vztah mezi \npoškozeným a tím, kdo mu za škodu odpovídá. Poškozený tak má právo na náhradu škody \nvůči němu. Proti jeho pojistiteli má právo požadovat plnění z pojistné události \njen v těch případech, kdy tak stanov",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 489",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "obč. zák.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::16205::277",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243b",
+      "snippet_doc_start": 15945,
+      "snippet_doc_end": 16471,
+      "snippet_text": "dek dovolacího řízení nemá žalobkyně jako neúspěšná účastnice \nprávo na náhradu nákladů tohoto řízení. Žalované, která měla v dovolacím řízení \núspěch a měla by právo na náhradu účelně vynaložených nákladů, v souvislosti  \n \ns tímto řízením náklady nevznikly (§ 243b odst. 5, § 224 odst. 1, § 142 odst. 1 \no.s.ř.). Dovolací soud proto rozhodl, že žádný z účastníků nemá právo na náhradu \nnákladů dovolacího řízení. \n \nProti tomuto rozsudku není přípustný opravný prostředek. \n \nV Brně dne 10. dubna 2008 \n \nJUDr. Karel  Podolk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "5"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::16221::278",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 224",
+      "snippet_doc_start": 15961,
+      "snippet_doc_end": 16486,
+      "snippet_text": "ízení nemá žalobkyně jako neúspěšná účastnice \nprávo na náhradu nákladů tohoto řízení. Žalované, která měla v dovolacím řízení \núspěch a měla by právo na náhradu účelně vynaložených nákladů, v souvislosti  \n \ns tímto řízením náklady nevznikly (§ 243b odst. 5, § 224 odst. 1, § 142 odst. 1 \no.s.ř.). Dovolací soud proto rozhodl, že žádný z účastníků nemá právo na náhradu \nnákladů dovolacího řízení. \n \nProti tomuto rozsudku není přípustný opravný prostředek. \n \nV Brně dne 10. dubna 2008 \n \nJUDr. Karel  Podolka, v. r. \n \npře",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 224",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1354_2006_openElement.txt::section_or_article::16236::279",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 142",
+      "snippet_doc_start": 15976,
+      "snippet_doc_end": 16498,
+      "snippet_text": "bkyně jako neúspěšná účastnice \nprávo na náhradu nákladů tohoto řízení. Žalované, která měla v dovolacím řízení \núspěch a měla by právo na náhradu účelně vynaložených nákladů, v souvislosti  \n \ns tímto řízením náklady nevznikly (§ 243b odst. 5, § 224 odst. 1, § 142 odst. 1 \no.s.ř.). Dovolací soud proto rozhodl, že žádný z účastníků nemá právo na náhradu \nnákladů dovolacího řízení. \n \nProti tomuto rozsudku není přípustný opravný prostředek. \n \nV Brně dne 10. dubna 2008 \n \nJUDr. Karel  Podolka, v. r. \n \npředseda senátu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 142",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    }
+  ]
+}

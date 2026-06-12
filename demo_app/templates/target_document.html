@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Target Document{% endblock %}
+
+{% block content %}
+<header class="result-header">
+  <div>
+    <p class="eyebrow">Linked Target</p>
+    <h1>{{ document_id }}</h1>
+    <p class="hero-text">{{ source_label }} · Local corpus preview</p>
+  </div>
+  <a class="secondary-link" href="/">Back to upload</a>
+</header>
+
+<section class="target-meta-card">
+  <p><strong>Source:</strong> {{ source_label }}</p>
+  {% if judicate_name %}
+  <p><strong>Title:</strong> {{ judicate_name }}</p>
+  {% endif %}
+  {% if decision_date_iso %}
+  <p><strong>Decision date:</strong> {{ decision_date_iso }}</p>
+  {% endif %}
+  {% if judicate_iri %}
+  <p><strong>Corpus IRI:</strong> {{ judicate_iri }}</p>
+  {% endif %}
+  <p><strong>Path:</strong> {{ target_path }}</p>
+  {% if truncated %}
+  <p><strong>Preview:</strong> Showing the first part of the target text.</p>
+  {% endif %}
+</section>
+
+<main class="text-panel target-panel">
+  <div class="text-panel-inner target-preview">{{ text_preview }}</div>
+</main>
+{% endblock %}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.180001+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "GetText.aspx_sz_1-432-97.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+  "task_count": 3,
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::section_or_article::1458::59",
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 36",
+      "snippet_doc_start": 1198,
+      "snippet_doc_end": 1724,
+      "snippet_text": "ít z toho, že Ústavní soud není běžnou třetí instancí v systému všeobecného soudnictví, nýbrž je soudním orgánem ochrany ústavnosti. V přednesené stížnosti nebylo zjištěno porušení ústavních procesních principů, zejména právo na tzv. spravedlivý proces. Pokud čl. 36 Listiny základních práv a svobod stanoví, že domáhat se svého práva lze pouze způsobem zákonem stanoveným, znamená to také, že obecným soudům je svěřeno, aby zákonem stanoveným způsobem poskytovaly ochranu právům. Pokud obecné soudy postupovaly v souladu s př",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 36",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "czech_resolved",
+          "law_id": "2/1993 Sb.",
+          "law_name_text": "Listiny základních práv a svobod",
+          "declared_alias_text": "Listina",
+          "detail_number": "36",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:listina"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::section_or_article::2297::60",
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 43",
+      "snippet_doc_start": 2037,
+      "snippet_doc_end": 2369,
+      "snippet_text": "rokázat).\nÚstavní soud musel proto dospět k závěru, že ústavní stížnost byla podána osobou k ní zjevně neoprávněnou. Soudce\n2 ÚS 432/97\nzpravodaj proto svým usnesením návrh ústavní stížnosti mimo ústní jednání bez přítomnosti účastníků řízení podle ustanovení § 43 odst. 1 písm. d) zákona č. 182/1993 Sb., o Ústavním soudu, odmítl.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 43",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákona č. 182/1993 Sb., o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "43",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "d"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-432-97.txt::law_id_mention::2329::61",
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/1993 Sb.",
+      "snippet_doc_start": 2069,
+      "snippet_doc_end": 2369,
+      "snippet_text": "to dospět k závěru, že ústavní stížnost byla podána osobou k ní zjevně neoprávněnou. Soudce\n2 ÚS 432/97\nzpravodaj proto svým usnesením návrh ústavní stížnosti mimo ústní jednání bez přítomnosti účastníků řízení podle ustanovení § 43 odst. 1 písm. d) zákona č. 182/1993 Sb., o Ústavním soudu, odmítl.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_law_id"
+        }
+      ]
+    }
+  ]
+}

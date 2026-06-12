@@ -1,0 +1,50 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.226254+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 Ntd 1_2024.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ntd 1_2024.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 Ntd 1_2024.txt::section::348::13",
+      "document_id": "1 Ntd 1_2024.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ntd 1_2024.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 21",
+      "snippet_doc_start": 88,
+      "snippet_doc_end": 612,
+      "snippet_text": " podle jeho \nmínění v prvním stupni projednat příslušný krajský soud. Argumenty okresního soudu lze shrnout tak, že \nskutek obviněného R. U. popsaný v obžalobě je namístě právně kvalifikovat jako pokus zvlášť závažného \nzločinu násilí proti úřední osobě podle § 21 odst. 1, § 325 odst. 1 písm. a), odst. 2 písm. a) tr. zákoníku v \njednočinném souběhu s pokusem zvlášť závažného zločinu těžkého ublížení na zdraví podle § 21 odst. 1, \n§ 145 odst. 1, 2 písm. g) tr. zákoníku, přičemž s ohledem na trestní sazbu druhého z uvede",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 21",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "40/2009 Sb.",
+          "law_name_text": "tr. zákoníku",
+          "declared_alias_text": "tr. zákoníku",
+          "detail_number": "21",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 Ntd 1_2024.txt::348:352:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": []
+      }
+    }
+  ]
+}

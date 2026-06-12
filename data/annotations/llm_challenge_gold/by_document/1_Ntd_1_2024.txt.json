@@ -1,0 +1,29 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "1 Ntd 1_2024.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ntd 1_2024.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.433571+00:00",
+  "citations": [
+    {
+      "task_id": "1 Ntd 1_2024.txt::section::348::13",
+      "finding_id": "1",
+      "citation_text": "§ 21",
+      "citation_type": "section",
+      "start_char": 348,
+      "end_char": 352,
+      "law_id": "40/2009 Sb.",
+      "law_name_text": "tr. zákoníku",
+      "declared_alias_text": "tr. zákoníku",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "21",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

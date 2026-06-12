@@ -1,0 +1,64 @@
+{
+  "rows": [
+    {
+      "variant": "full_spp",
+      "alias_source": "audited+seeded+canonical+derived+ambiguous+overrides",
+      "anchor_detection_f1": 0.9955,
+      "citation_presence_f1": 0.987,
+      "law_classification_accuracy": 0.9195,
+      "czech_law_resolution_accuracy": 0.9101,
+      "czech_resolved_gold_total": 634,
+      "correct_law_count": 577,
+      "unresolved_count": 37,
+      "wrong_law_count": 20
+    },
+    {
+      "variant": "no_global_aliases",
+      "alias_source": "empty_global_aliases",
+      "anchor_detection_f1": 0.9955,
+      "citation_presence_f1": 0.987,
+      "law_classification_accuracy": 0.7173,
+      "czech_law_resolution_accuracy": 0.7003,
+      "czech_resolved_gold_total": 634,
+      "correct_law_count": 444,
+      "unresolved_count": 170,
+      "wrong_law_count": 20
+    },
+    {
+      "variant": "no_seed_aliases",
+      "alias_source": "audited+canonical+derived+ambiguous+overrides",
+      "anchor_detection_f1": 0.9955,
+      "citation_presence_f1": 0.987,
+      "law_classification_accuracy": 0.9195,
+      "czech_law_resolution_accuracy": 0.9101,
+      "czech_resolved_gold_total": 634,
+      "correct_law_count": 577,
+      "unresolved_count": 37,
+      "wrong_law_count": 20
+    },
+    {
+      "variant": "no_canonical_title_harvesting",
+      "alias_source": "audited+seeded+derived+ambiguous+overrides",
+      "anchor_detection_f1": 0.9955,
+      "citation_presence_f1": 0.987,
+      "law_classification_accuracy": 0.9195,
+      "czech_law_resolution_accuracy": 0.9101,
+      "czech_resolved_gold_total": 634,
+      "correct_law_count": 577,
+      "unresolved_count": 37,
+      "wrong_law_count": 20
+    },
+    {
+      "variant": "no_inflection_aware_alias_matching",
+      "alias_source": "audited+seeded+canonical+derived+ambiguous+overrides+forced_exact",
+      "anchor_detection_f1": 0.9955,
+      "citation_presence_f1": 0.987,
+      "law_classification_accuracy": 0.8298,
+      "czech_law_resolution_accuracy": 0.8123,
+      "czech_resolved_gold_total": 634,
+      "correct_law_count": 515,
+      "unresolved_count": 96,
+      "wrong_law_count": 23
+    }
+  ]
+}

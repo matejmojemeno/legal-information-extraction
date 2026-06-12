@@ -1,0 +1,50 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.225408+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 Ko 556_2001.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 556_2001.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 Ko 556_2001.txt::section::6227::8",
+      "document_id": "1 Ko 556_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 556_2001.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 12",
+      "snippet_doc_start": 5967,
+      "snippet_doc_end": 6491,
+      "snippet_text": "mci konkursu postupoval určitým způsobem a plnil takto soudem \nuložené povinnosti (např. zahrnul do soupisu konkursní podstaty určitou věc, vymáhal úpadcovu \npohledávku, atd.). Vždy se však musí jednat o ovlivňování správce v rámci soudního dohledu ve \nsmyslu § 12 ZKV, které musí respektovat, že nad rámec zákonem dovoleného jít nelze. Není \nproto možné např. ukládat správci, jaký postoj má zaujmout k jednotlivým pohledávkám při \npřezkumném jednání či které pohledávky za podstatou má v průběhu konkursu uspokojit. V \ntom",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 12",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "328/1991 Sb.",
+          "law_name_text": "ZKV",
+          "declared_alias_text": "ZKV",
+          "detail_number": "12",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 Ko 556_2001.txt::6227:6231:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": [
+          "99/1963 Sb."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "reviewed_row_count": 112,
+  "exact_in_corpus_count": 45,
+  "no_exact_link_available_count": 67,
+  "no_exact_link_available_breakdown": {
+    "exact_in_corpus": 45,
+    "not_in_corpus": 49,
+    "same_proceeding_only": 12,
+    "unknown": 6
+  },
+  "exact_in_corpus_accuracy": 0.8,
+  "no_exact_link_available_correctly_unresolved_share": 1.0,
+  "outcome_counts": {
+    "exact_correct": 36,
+    "exact_missed": 9,
+    "no_exact_link_available_correctly_unresolved": 67
+  },
+  "examples": {
+    "no_exact_link_available_correctly_unresolved": [
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 3313,
+        "reference_text": "č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+        "availability_gold": "same_proceeding_only",
+        "gold_target_document_id": "2013_S0049.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v1:accepted_prefilled_same_proceeding_link"
+      },
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 15771,
+        "reference_text": "č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn",
+        "availability_gold": "same_proceeding_only",
+        "gold_target_document_id": "2013_S0049.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v1:accepted_prefilled_same_proceeding_link"
+      },
+      {
+        "source_document_id": "2016_S0551.txt",
+        "raw_start": 2874,
+        "reference_text": "č. j.: MVS-2059/2016",
+        "availability_gold": "not_in_corpus",
+        "gold_target_document_id": null,
+        "predicted_targets": [],
+        "review_note": "manual_v1:zadavatel outgoing letter reference, not represented as a corpus target document"
+      },
+      {
+        "source_document_id": "2016_S0551.txt",
+        "raw_start": 5159,
+        "reference_text": "sp. zn. S551/2016/VZ",
+        "availability_gold": "same_proceeding_only",
+        "gold_target_document_id": "2016_S0551.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v1:same proceeding as source UOHS case; no distinct target document available, anchored to source proceeding document"
+      },
+      {
+        "source_document_id": "2016_S0551.txt",
+        "raw_start": 5455,
+        "reference_text": "č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu",
+        "availability_gold": "same_proceeding_only",
+        "gold_target_document_id": "2016_S0551.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v1:same proceeding as source UOHS case; procedural act within the same proceeding, anchored to source proceeding document"
+      }
+    ],
+    "exact_correct": [
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 7563,
+        "reference_text": "č. j. 2 Afs 198/2006-69",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "253535.txt",
+        "predicted_targets": [
+          {
+            "target_document_id": "253535.txt",
+            "target_match_scope": "exact_decision"
+          }
+        ],
+        "review_note": "manual_v1:accepted_prefilled_exact_link"
+      },
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 13154,
+        "reference_text": "č. j. 2 As 34/2006-73",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "610716.txt",
+        "predicted_targets": [
+          {
+            "target_document_id": "610716.txt",
+            "target_match_scope": "exact_decision"
+          }
+        ],
+        "review_note": "manual_v1:accepted_prefilled_exact_link"
+      },
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 19603,
+        "reference_text": "č. j. 1 Afs 20/2008-152",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "611914.txt",
+        "predicted_targets": [
+          {
+            "target_document_id": "611914.txt",
+            "target_match_scope": "exact_decision"
+          }
+        ],
+        "review_note": "manual_v1:accepted_prefilled_exact_link"
+      },
+      {
+        "source_document_id": "2016_S0551.txt",
+        "raw_start": 13187,
+        "reference_text": "č. j. 1 Afs 20/2008-152",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "611914.txt",
+        "predicted_targets": [
+          {
+            "target_document_id": "611914.txt",
+            "target_match_scope": "exact_decision"
+          }
+        ],
+        "review_note": "manual_v1:accepted_prefilled_exact_link"
+      },
+      {
+        "source_document_id": "2016_S0551.txt",
+        "raw_start": 20966,
+        "reference_text": "č. j. 31 Af 23/2012-40",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "559252.txt",
+        "predicted_targets": [
+          {
+            "target_document_id": "559252.txt",
+            "target_match_scope": "exact_decision"
+          }
+        ],
+        "review_note": "manual_v1:accepted_prefilled_exact_link"
+      }
+    ],
+    "exact_missed": [
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 18419,
+        "reference_text": "č. j. 62 Af 57/2011-96",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "555342.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v2:accepted exact NSS/KSBR decision in production corpus; duplicate copy also exists as 555343.txt, but the cited identifier and date 1. 11. 2012 match the in-corpus target"
+      },
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 19976,
+        "reference_text": "č. j.  \n62 Af 57/2011-96",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "555342.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v2:accepted exact NSS/KSBR decision in production corpus; duplicate copy also exists as 555343.txt, but the cited identifier and date 1. 11. 2012 match the in-corpus target"
+      },
+      {
+        "source_document_id": "2013_R184_2.txt",
+        "raw_start": 21067,
+        "reference_text": "č. j. 62 Af 57/2011-96",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "555342.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v2:accepted exact NSS/KSBR decision in production corpus; duplicate copy also exists as 555343.txt, but the cited identifier and date 1. 11. 2012 match the in-corpus target"
+      },
+      {
+        "source_document_id": "2021_S0666.txt",
+        "raw_start": 8723,
+        "reference_text": "sp. zn. 1 Afs 106/2012",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "627933.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v2:accepted exact NSS link; source context states ze dne 6. 6. 2013, which selects 1 Afs 106/2012 - 45 over the earlier 1 Afs 106/2012 - 32"
+      },
+      {
+        "source_document_id": "29 icdo 2_2022_openElement.txt",
+        "raw_start": 3225,
+        "reference_text": "sen. zn. 29 ICdo 13/2021. \n10",
+        "availability_gold": "exact_in_corpus",
+        "gold_target_document_id": "29 ICdo 13_2021.txt",
+        "predicted_targets": [],
+        "review_note": "manual_v2:accepted exact NS link; source context gives Nejvyšší soud and the cited decision date 23. 6. 2021 matches 29 ICdo 13/2021 in the production corpus"
+      }
+    ]
+  }
+}

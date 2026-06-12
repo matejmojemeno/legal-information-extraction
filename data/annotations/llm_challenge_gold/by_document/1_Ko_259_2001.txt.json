@@ -1,0 +1,31 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "1 Ko 259_2001.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 259_2001.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.432941+00:00",
+  "citations": [
+    {
+      "task_id": "1 Ko 259_2001.txt::section::72::5",
+      "finding_id": "1",
+      "citation_text": "§ 44",
+      "citation_type": "section",
+      "start_char": 72,
+      "end_char": 76,
+      "law_id": "328/1991 Sb.",
+      "law_name_text": "zákona o konkursu a vyrovnání",
+      "declared_alias_text": "ZKV",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "44",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a"
+      ],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

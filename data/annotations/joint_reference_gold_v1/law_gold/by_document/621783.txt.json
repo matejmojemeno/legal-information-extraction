@@ -1,0 +1,125 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "621783.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/621783.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.424491+00:00",
+  "citations": [
+    {
+      "task_id": "621783.txt::section_or_article::466::397",
+      "finding_id": "1",
+      "citation_text": "§ 8",
+      "citation_type": "section",
+      "start_char": 466,
+      "end_char": 469,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "zákona č. 150/2002 Sb., soudního řádu správního",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "8",
+      "detail_odst": [
+        "5"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:srs_explicit",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "621783.txt::law_id_mention::488::398",
+      "finding_id": "1",
+      "citation_text": "150/2002 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 488,
+      "end_char": 500,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "soudní řád správní",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:srs_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "621783.txt::section_or_article::1906::399",
+      "finding_id": "1",
+      "citation_text": "§ 8",
+      "citation_type": "section",
+      "start_char": 1906,
+      "end_char": 1909,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "8",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:srs_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "621783.txt::section_or_article::2473::400",
+      "finding_id": "1",
+      "citation_text": "§ 8",
+      "citation_type": "section",
+      "start_char": 2473,
+      "end_char": 2476,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "§ 8 s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.98,
+      "detail_number": "8",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:srs_alias_short",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "621783.txt::section_or_article::2633::401",
+      "finding_id": "1",
+      "citation_text": "čl. 38",
+      "citation_type": "article",
+      "start_char": 2633,
+      "end_char": 2639,
+      "law_id": "2/1993 Sb.",
+      "law_name_text": "Listiny základních práv a svobod",
+      "declared_alias_text": "Listina",
+      "classification": "czech_resolved",
+      "confidence": 0.98,
+      "detail_number": "38",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:listina",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "621783.txt::section_or_article::3117::402",
+      "finding_id": "1",
+      "citation_text": "§ 8",
+      "citation_type": "section",
+      "start_char": 3117,
+      "end_char": 3120,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "8",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:srs_alias",
+      "snippet_warnings": []
+    }
+  ]
+}

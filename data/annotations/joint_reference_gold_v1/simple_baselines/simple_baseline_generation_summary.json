@@ -1,0 +1,12 @@
+{
+  "law_gold_documents": 25,
+  "law_predictions": 658,
+  "docref_gold_documents_with_positive_rows": 22,
+  "docref_predictions": 105,
+  "docref_strict_links": 30,
+  "outputs": {
+    "law_predictions": "data/annotations/joint_reference_gold_v1/simple_baselines/simple_law_baseline_predictions.jsonl",
+    "docref_predictions": "data/annotations/joint_reference_gold_v1/simple_baselines/simple_docref_baseline_predictions.jsonl",
+    "docref_links": "data/annotations/joint_reference_gold_v1/simple_baselines/simple_docref_baseline_links.jsonl"
+  }
+}

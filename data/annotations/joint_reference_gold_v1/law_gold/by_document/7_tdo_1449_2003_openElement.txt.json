@@ -1,0 +1,549 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "7 tdo 1449_2003_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.424788+00:00",
+  "citations": [
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::179::289",
+      "finding_id": "1",
+      "citation_text": "§ 256",
+      "citation_type": "section",
+      "start_char": 179,
+      "end_char": 184,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "256",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::375::290",
+      "finding_id": "1",
+      "citation_text": "§ 224",
+      "citation_type": "section",
+      "start_char": 375,
+      "end_char": 380,
+      "law_id": "140/1961 Sb.",
+      "law_name_text": "trestní zákon",
+      "declared_alias_text": "tr. zák.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "224",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_zakon_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::415::291",
+      "finding_id": "1",
+      "citation_text": "§ 224",
+      "citation_type": "section",
+      "start_char": 415,
+      "end_char": 420,
+      "law_id": "140/1961 Sb.",
+      "law_name_text": "trestní zákon",
+      "declared_alias_text": "tr. zák.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "224",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_zakon_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::502::292",
+      "finding_id": "1",
+      "citation_text": "§ 58",
+      "citation_type": "section",
+      "start_char": 502,
+      "end_char": 506,
+      "law_id": "140/1961 Sb.",
+      "law_name_text": "trestní zákon",
+      "declared_alias_text": "tr. zák.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "58",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_zakon_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::575::293",
+      "finding_id": "1",
+      "citation_text": "§ \n59",
+      "citation_type": "section",
+      "start_char": 575,
+      "end_char": 580,
+      "law_id": "140/1961 Sb.",
+      "law_name_text": "trestní zákon",
+      "declared_alias_text": "tr. zák.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "59",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_zakon_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::617::294",
+      "finding_id": "1",
+      "citation_text": "§ 228",
+      "citation_type": "section",
+      "start_char": 617,
+      "end_char": 622,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "228",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::1343::295",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 1343,
+      "end_char": 1349,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "g",
+        "l"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2375::296",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 2375,
+      "end_char": 2381,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2398::297",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 2398,
+      "end_char": 2404,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "l"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2572::298",
+      "finding_id": "1",
+      "citation_text": "§ 265a",
+      "citation_type": "section",
+      "start_char": 2572,
+      "end_char": 2578,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265a",
+      "detail_odst": [
+        "2"
+      ],
+      "detail_pism": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2754::299",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 2754,
+      "end_char": 2760,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2879::300",
+      "finding_id": "1",
+      "citation_text": "§ 253",
+      "citation_type": "section",
+      "start_char": 2879,
+      "end_char": 2884,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "253",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2914::301",
+      "finding_id": "1",
+      "citation_text": "§ 253",
+      "citation_type": "section",
+      "start_char": 2914,
+      "end_char": 2919,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "253",
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::2992::302",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 2992,
+      "end_char": 2998,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "l"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::3473::303",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 3473,
+      "end_char": 3479,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::3534::304",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 3534,
+      "end_char": 3540,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "g"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::4598::305",
+      "finding_id": "1",
+      "citation_text": "§ 2",
+      "citation_type": "section",
+      "start_char": 4598,
+      "end_char": 4601,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "2",
+      "detail_odst": [
+        "5",
+        "6"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::4900::306",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 4900,
+      "end_char": 4906,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::6503::307",
+      "finding_id": "1",
+      "citation_text": "§ 2",
+      "citation_type": "section",
+      "start_char": 6503,
+      "end_char": 6506,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "2",
+      "detail_odst": [
+        "5",
+        "6"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::6688::308",
+      "finding_id": "1",
+      "citation_text": "§ 134",
+      "citation_type": "section",
+      "start_char": 6688,
+      "end_char": 6693,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "134",
+      "detail_odst": [
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7076::309",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 7076,
+      "end_char": 7082,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "g",
+        "l"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7240::310",
+      "finding_id": "1",
+      "citation_text": "§ \n265b",
+      "citation_type": "section",
+      "start_char": 7240,
+      "end_char": 7247,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7335::311",
+      "finding_id": "1",
+      "citation_text": "§ 265b",
+      "citation_type": "section",
+      "start_char": 7335,
+      "end_char": 7341,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265b",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7374::312",
+      "finding_id": "1",
+      "citation_text": "§ 265i",
+      "citation_type": "section",
+      "start_char": 7374,
+      "end_char": 7380,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265i",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "b"
+      ],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::section_or_article::7441::313",
+      "finding_id": "1",
+      "citation_text": "§ 265i",
+      "citation_type": "section",
+      "start_char": 7441,
+      "end_char": 7447,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "trestní řád",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "265i",
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:trestni_rad_alias",
+      "snippet_warnings": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "237253.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/237253.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.201052+00:00",
+  "tasks": [
+    {
+      "task_id": "237253.txt::docref::119::57",
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 119,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 379,
+      "snippet_text": " :\nRozhodnutím Ministerstva vnitra, odboru azylové a migrační politiky (dále \njen „správní orgán“), ze dne 7. 5. 2003, č. j. OAM-1804/VL-11-C10-2003, byla dle ust. § 16 \nodst. 1 písm. g) zákona č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii \nČeské republiky, ve znění pozdějších předpisů (dále jen „zákon o azylu“), zamítnuta žádost \nstěžovatelky o udělení ",
+      "predicted_reference": {
+        "reference_text": "č. j. OAM-1804/VL-11-C10-2003",
+        "reference_prefix": "č. j.",
+        "reference_body": "OAM-1804/VL-11-C10-2003",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 119,
+        "raw_end": 148,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": null,
+        "context": " : Rozhodnutím Ministerstva vnitra, odboru azylové a migrační politiky (dále  jen „správní orgán“), ze dne 7. 5. 2003, č. j. OAM-1804/VL-11-C10-2003, byla dle ust. § 16  odst. 1 písm. g) zákona č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii  České republiky, ve znění pozdějších předpisů (dále jen „zákon o azylu“), zamítnuta žádost  stěžovatelky"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. OAM-1804/VL-11-C10-2003",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "OAM-1804/VL-11-C10-2003",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    }
+  ]
+}

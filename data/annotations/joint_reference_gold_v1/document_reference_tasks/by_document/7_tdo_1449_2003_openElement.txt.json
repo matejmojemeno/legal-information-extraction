@@ -1,0 +1,85 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "7 tdo 1449_2003_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.197399+00:00",
+  "tasks": [
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::docref::140::49",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 140,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 400,
+      "snippet_text": " : \n \nObviněný D. P. Q. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti usnesení Městského soudu v  \nPraze ze dne 7. 11. 2002, sp. zn. 8 To 357/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku \nObvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a ",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 8 To 357/2002",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "8 To 357/2002",
+        "reference_type": "spisova_znacka",
+        "raw_start": 140,
+        "raw_end": 161,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Městského soudu",
+        "context": " :    Obviněný D. P. Q. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti usnesení Městského soudu v   Praze ze dne 7. 11. 2002, sp. zn. 8 To 357/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku  Obvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným  činem ublížení na zdraví podle § 224 "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 8 To 357/2002",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "8 To 357/2002",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "7 tdo 1449_2003_openElement.txt::docref::280::50",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 280,
+      "snippet_doc_start": 20,
+      "snippet_doc_end": 540,
+      "snippet_text": " Q. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti usnesení Městského soudu v  \nPraze ze dne 7. 11. 2002, sp. zn. 8 To 357/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku \nObvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným \nčinem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody \nna deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. zák. podmíněně odlože",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 7 T 15/2002",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "7 T 15/2002",
+        "reference_type": "spisova_znacka",
+        "raw_start": 280,
+        "raw_end": 299,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": null,
+        "context": "nné lhůtě dovolání proti usnesení Městského soudu v   Praze ze dne 7. 11. 2002, sp. zn. 8 To 357/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku  Obvodního soudu pro Prahu 2 ze dne 29. 4. 2002, sp. zn. 7 T 15/2002. Tímto rozsudkem byl uznán vinným trestným  činem ublížení na zdraví podle § 224 odst. 1 tr. zák. a odsouzen podle § 224 odst. 1 tr. zák. k trestu odnětí svobody  na deset měsíců, jehož výkon byl podle § 58 odst. 1 tr. "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 7 T 15/2002",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "7 T 15/2002",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Obvodního soudu pro Prahu 2",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    }
+  ]
+}

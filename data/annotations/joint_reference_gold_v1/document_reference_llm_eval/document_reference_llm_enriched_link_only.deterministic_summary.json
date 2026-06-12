@@ -1,0 +1,10 @@
+{
+  "documents": 22,
+  "deterministic_extraction_rows": 108,
+  "deterministic_link_rows": 39,
+  "llm_tasks": 21,
+  "llm_tasks_by_route": {
+    "link_disambiguation": 20,
+    "link_normalization_or_target_recovery": 1
+  }
+}

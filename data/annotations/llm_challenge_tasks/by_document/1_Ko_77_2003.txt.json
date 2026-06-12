@@ -1,0 +1,54 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.225979+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 Ko 77_2003.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 77_2003.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 Ko 77_2003.txt::section::4395::11",
+      "document_id": "1 Ko 77_2003.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 77_2003.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 12a",
+      "snippet_doc_start": 4135,
+      "snippet_doc_end": 4660,
+      "snippet_text": "edlužen. Z dikce \ncitovaných ustanovení vyplývá, že pojem úpadku je vymezen dvojím způsobem, a to jako úpadek \nprojevující se insolvencí dlužníka (nedostatkem platební schopnosti) nebo předlužením, přičemž \npostačuje naplnění alespoň jednoho z těchto znaků. Z § 12a odst. 3 a 4 ZKV je pak třeba dovodit, \nkteré skutečnosti podmiňují prohlášení konkursu, a zda tedy není namístě zamítnutí návrhu proto, \nže majetek dlužníka zřejmě nepostačuje k úhradě nákladů konkursu, event. zda prohlášení \nkonkursu nevylučují skutečnosti p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 12a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "328/1991 Sb.",
+          "law_name_text": "ZKV",
+          "declared_alias_text": "ZKV",
+          "detail_number": "12a",
+          "detail_odst": [
+            "3",
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 Ko 77_2003.txt::4395:4400:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": [
+          "513/1991 Sb.",
+          "99/1963 Sb."
+        ]
+      }
+    }
+  ]
+}

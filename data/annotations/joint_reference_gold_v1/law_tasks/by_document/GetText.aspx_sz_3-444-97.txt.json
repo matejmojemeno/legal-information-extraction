@@ -1,0 +1,697 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.180695+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "GetText.aspx_sz_3-444-97.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+  "task_count": 23,
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::285::78",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 256",
+      "snippet_doc_start": 25,
+      "snippet_doc_end": 550,
+      "snippet_text": ". 11. 1997 ústavní stížnost, která byla doručena Ústavnímu soudu dne 24. 11. 1997. Ústavní stížnost směřuje proti usnesení Vrchního soudu v Praze, č.j. 11 To 60/97-2030, ze dne 29. 9. 1997, kdy uvedeným usnesením Vrchní soud v Praze ve veřejném zasedání podle § 256 trestního řádu (dále tr. ř.) zamítl jako nedůvodné odvolání navrhovatele, které směřovalo proti rozsudku Městského soudu v Praze, sp. zn. 46 T 2/95, ze dne 29. 5. 1997.\nZmíněným rozsudkem Městského soudu v Praze byl navrhovatel uznán vinným trestným činem ned",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 256",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "trestního řádu",
+          "detail_number": "256",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::619::79",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 187",
+      "snippet_doc_start": 359,
+      "snippet_doc_end": 884,
+      "snippet_text": "tele, které směřovalo proti rozsudku Městského soudu v Praze, sp. zn. 46 T 2/95, ze dne 29. 5. 1997.\nZmíněným rozsudkem Městského soudu v Praze byl navrhovatel uznán vinným trestným činem nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. l, odst. 3 písm. b) trestního zákona a trestným činem nedovoleného ozbrojování podle § 185 odst. 1 trestního zákona (dále tr. zák.). Za tyto trestné činy jej odsoudil podle § 187 odst. 3 tr. zák. a § 35 odst. 1 tr. zák. k úhrnnému trestu odnětí svobody ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 187",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "trestního zákona",
+          "detail_number": "187",
+          "detail_odst": [
+            "1",
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::716::80",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 185",
+      "snippet_doc_start": 456,
+      "snippet_doc_end": 981,
+      "snippet_text": "97.\nZmíněným rozsudkem Městského soudu v Praze byl navrhovatel uznán vinným trestným činem nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. l, odst. 3 písm. b) trestního zákona a trestným činem nedovoleného ozbrojování podle § 185 odst. 1 trestního zákona (dále tr. zák.). Za tyto trestné činy jej odsoudil podle § 187 odst. 3 tr. zák. a § 35 odst. 1 tr. zák. k úhrnnému trestu odnětí svobody v trvání devíti let a pro výkon tohoto trestu jej zařadil do věznice s ostrahou, když mu také ulo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 185",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "trestního zákona",
+          "detail_number": "185",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::804::81",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 187",
+      "snippet_doc_start": 544,
+      "snippet_doc_end": 1069,
+      "snippet_text": "em nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. l, odst. 3 písm. b) trestního zákona a trestným činem nedovoleného ozbrojování podle § 185 odst. 1 trestního zákona (dále tr. zák.). Za tyto trestné činy jej odsoudil podle § 187 odst. 3 tr. zák. a § 35 odst. 1 tr. zák. k úhrnnému trestu odnětí svobody v trvání devíti let a pro výkon tohoto trestu jej zařadil do věznice s ostrahou, když mu také uložil propadnutí věci - pistole zn. DUO. Uvedené rozhodnutí Vrchního soudu v Praze stěžova",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 187",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "187",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::829::82",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 35",
+      "snippet_doc_start": 569,
+      "snippet_doc_end": 1093,
+      "snippet_text": "žení omamných a psychotropních látek a jedů podle § 187 odst. l, odst. 3 písm. b) trestního zákona a trestným činem nedovoleného ozbrojování podle § 185 odst. 1 trestního zákona (dále tr. zák.). Za tyto trestné činy jej odsoudil podle § 187 odst. 3 tr. zák. a § 35 odst. 1 tr. zák. k úhrnnému trestu odnětí svobody v trvání devíti let a pro výkon tohoto trestu jej zařadil do věznice s ostrahou, když mu také uložil propadnutí věci - pistole zn. DUO. Uvedené rozhodnutí Vrchního soudu v Praze stěžovatel navrhl zrušit ÚS 444",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 35",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "35",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::1165::83",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 6",
+      "snippet_doc_start": 905,
+      "snippet_doc_end": 1430,
+      "snippet_text": " pro výkon tohoto trestu jej zařadil do věznice s ostrahou, když mu také uložil propadnutí věci - pistole zn. DUO. Uvedené rozhodnutí Vrchního soudu v Praze stěžovatel navrhl zrušit ÚS 444/97\ns tím, že jím byla porušena jeho lidská práva plynoucí z ustanovení čl. 6 odst. 1 a čl. 13 Úmluvy o ochraně lidských práv a základních svobod (dále Úmluva).\nK posouzení ústavní stížnosti si Ústavní soud vyžádal spisový materiál, který je obsažen ve spisu Městského soudu v Praze, sp. zn . 46 T 2/95. Z něj potom zjistil, že navrhovat",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Úmluva o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluva",
+          "detail_number": "6",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::1181::84",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 13",
+      "snippet_doc_start": 921,
+      "snippet_doc_end": 1447,
+      "snippet_text": "o trestu jej zařadil do věznice s ostrahou, když mu také uložil propadnutí věci - pistole zn. DUO. Uvedené rozhodnutí Vrchního soudu v Praze stěžovatel navrhl zrušit ÚS 444/97\ns tím, že jím byla porušena jeho lidská práva plynoucí z ustanovení čl. 6 odst. 1 a čl. 13 Úmluvy o ochraně lidských práv a základních svobod (dále Úmluva).\nK posouzení ústavní stížnosti si Ústavní soud vyžádal spisový materiál, který je obsažen ve spisu Městského soudu v Praze, sp. zn . 46 T 2/95. Z něj potom zjistil, že navrhovatel byl uznán vinn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 13",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Úmluva o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluva",
+          "detail_number": "13",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::1537::85",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 187",
+      "snippet_doc_start": 1277,
+      "snippet_doc_end": 1802,
+      "snippet_text": "žnosti si Ústavní soud vyžádal spisový materiál, který je obsažen ve spisu Městského soudu v Praze, sp. zn . 46 T 2/95. Z něj potom zjistil, že navrhovatel byl uznán vinným trestným činem nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, odst. 3 písm. b) tr. zák. a trestným činem nedovoleného ozbrojování podle § 185 odst. 1 tr. zák. a byl odsouzen k úhrnnému nepodmíněnému trestu odnětí svobody v trvání devíti let a k trestu propadnutí věci. Proti tomuto rozsudku podal navrhovatel (te",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 187",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "187",
+          "detail_odst": [
+            "1",
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::1626::86",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 185",
+      "snippet_doc_start": 1366,
+      "snippet_doc_end": 1891,
+      "snippet_text": "u v Praze, sp. zn . 46 T 2/95. Z něj potom zjistil, že navrhovatel byl uznán vinným trestným činem nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, odst. 3 písm. b) tr. zák. a trestným činem nedovoleného ozbrojování podle § 185 odst. 1 tr. zák. a byl odsouzen k úhrnnému nepodmíněnému trestu odnětí svobody v trvání devíti let a k trestu propadnutí věci. Proti tomuto rozsudku podal navrhovatel (tehdy obžalovaný) odvolání v rámci kterého (stejně jako v průběhu celého trestního řízení) ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 185",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "185",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::4414::87",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 21",
+      "snippet_doc_start": 4154,
+      "snippet_doc_end": 4678,
+      "snippet_text": "ne 29. 9. 1997, zamítl jako nedůvodné. V obsáhlém odůvodnění svého rozhodnutí se potom soud podrobně zabýval jednotlivými výhradami navrhovatele. Především dospěl k závěru, že protokol o výslechu svědka T. byl v hlavním líčení přečten v souladu s ustanoveními § 21 1 odst. 2 písm. a trestního řádu a vysvětlil (odůvodnil) možnost přímo aplikace cizího práva v souladu s český právním řádem v rámci dožádání o právní pomoc v cizině. Z důkazů ve spise založených a soudem provedených potom plyne, že T. byl vyslechnut v konkré",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 21",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "trestního řádu",
+          "detail_number": "211",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.93,
+          "note": "manual_v1:ocr_normalized_trestni_rad"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::6500::88",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 6",
+      "snippet_doc_start": 6240,
+      "snippet_doc_end": 6765,
+      "snippet_text": " v pozici obžalovaného).\nJak již uvedeno proti citovanému usnesení Vrchního soudu v Praze podal navrhovatel ústavní stížnost v jejímž závěru navrhuje toto rozhodnutí zrušit. V samotném odůvodnění ústavní stížnosti uvedl, že byla zasažena jeho práva obsažená v čl. 6 odst. 1 a v čl. 13 Úmluvy o ochraně lidských práv a základních svobod (Římská úmluva ze dne 4. 11. 1950, jíž je Česká republika vázána). Poukázal a znovu zdůraznil své výhrady, které již uplatnil v obsahu\n3\n111. ÚS 444/97\nodvolání, které podal proti rozsudku ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Úmluva o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluva",
+          "detail_number": "6",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::6518::89",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 13",
+      "snippet_doc_start": 6258,
+      "snippet_doc_end": 6784,
+      "snippet_text": "ného).\nJak již uvedeno proti citovanému usnesení Vrchního soudu v Praze podal navrhovatel ústavní stížnost v jejímž závěru navrhuje toto rozhodnutí zrušit. V samotném odůvodnění ústavní stížnosti uvedl, že byla zasažena jeho práva obsažená v čl. 6 odst. 1 a v čl. 13 Úmluvy o ochraně lidských práv a základních svobod (Římská úmluva ze dne 4. 11. 1950, jíž je Česká republika vázána). Poukázal a znovu zdůraznil své výhrady, které již uplatnil v obsahu\n3\n111. ÚS 444/97\nodvolání, které podal proti rozsudku Městského soudu v P",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 13",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Úmluva o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluva",
+          "detail_number": "13",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::7013::90",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 187",
+      "snippet_doc_start": 6753,
+      "snippet_doc_end": 7278,
+      "snippet_text": "ti rozsudku Městského soudu v Praze, sp. zn. 46 T 2/95, ze dne 29. 5. 1997. Uvedl, že nejdříve byl rozhodnutím Městského soudu v Praze, sp. zn. 46 T 2/95, ze dne 10. 1. 1996, trestného činu nedovolené výroby a držení omamných a psychotrozních látek a jedů dle § 187 odst. 1, 3 písm. b) tr. zák. zproštěn a poté již uvedeným rozhodnutím Městského soudu v Praze uznán tímto trestným činem vinným (za stejné důkazní situace). Znovu pak opakuje své výhrady (stejně jako i v rámci celého trestního řízení), a to zejména vůči výpov",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 187",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "140/1961 Sb.",
+          "law_name_text": "trestní zákon",
+          "declared_alias_text": "tr. zák.",
+          "detail_number": "187",
+          "detail_odst": [
+            "1",
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_zakon_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::8470::91",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 264",
+      "snippet_doc_start": 8210,
+      "snippet_doc_end": 8735,
+      "snippet_text": "lézacího soudu (jiné hodnocení důkazní situace než při rozhodnutí ze dne 10. 1. 1996) nutno uvést, že věc byla přidělena senátu bez jakéhokoliv jeho vstřícné aktivity a ten dále postupoval v souladu s trestním řádem (a to i v rámci povinnosti dané ustanovením § 264 tr. ř.). Poukazuje dále na odůvodnění svého rozhodnutí se zdůrazněním, že úvahy v Odůvodnění rozsudku týkající se poměrů navrhovatele příp. jeho soužití s mladou ženou jsou naprosto okrajové, bez důkazní hodnoty, což také plyne z písemného odůvodnění rozsudku",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 264",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "264",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::9546::92",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 10",
+      "snippet_doc_start": 9286,
+      "snippet_doc_end": 9812,
+      "snippet_text": "to u také nepřísluší právo vykonávat dozor nad rozhodovací činností obecných soudů. Do té může zasáhnout pouze a výlučně jenom tehdy, jestliže takovým rozhodnutím byla porušena základní práva a svobody chráněná ústavním zákonem nebo mezinárodní smlouvou podle čl. 10 Ústavy. Vzhledem k tomu, že v rámci podané, ústavní\n4\n111. ÚS 444/97\nstížnosti se navrhovatel takto označených práv dovolává, přezkoumal Ústavní soud napadené rozhodnutí i řízení jemu předcházející a dospěl k závěru že ústavní stížnost je zjevně neopodstatněn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 10",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "czech_resolved",
+          "law_id": "1/1993 Sb.",
+          "law_name_text": "Ústava České republiky",
+          "declared_alias_text": "Ústavy",
+          "detail_number": "10",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustava_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::10754::93",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 211",
+      "snippet_doc_start": 10494,
+      "snippet_doc_end": 11019,
+      "snippet_text": "le ze zmíněné trestné činnosti usvědčuje. Takto je ovšem znovu zapotřebí poukázat na odůvodnění zejména usnesení Vrchního soudu v Praze, který se okolnostmi výslechu T. i jeho samotnými výpověďmi podrobně zabývá. Vysvětluje odpovídajícím způsobem postup podle § 211 odst. odst. 2 písm. a) tr.ř. včetně otázek mezinárodní pomoci a uzavírá (s konkrétním odkazem na jednotlivé části spisového materiálu), že R.T. byl řádně vyslechnut v konkrétním procesním postavení v souladu s právním řádem dožadované strany, a to bez vad, kt",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 211",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr.ř.",
+          "detail_number": "211",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::14814::94",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 142",
+      "snippet_doc_start": 14554,
+      "snippet_doc_end": 15081,
+      "snippet_text": "jce tehdy obžalovaného R.V. byl vyšetřovatelem písemně vyrozuměn o termínu a místě výslechu mimo dalších i svědka R.T. orgány Š. konfederace, což také obhájce přípisem potvrdil a vzal na vědomí, jak plyne i ze spisu Městského soudu v Praze, sp. zn. 46 T 2/95 (čl. 142, 173). Nelze tak, a to i s poukazem na shora uvedené, mít za to, že byla porušena stěžovatelova práva na obhajobu, dokonce tak, že je nemohl využít či uplatnit. Soudy potom ve světle uvedených skutečností potom tento důkaz (stejně jako ostatní) hodnotily, a t",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 142",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "non_citation",
+          "law_id": null,
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "142",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.95,
+          "note": "manual_v1:spisovy_list"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::15145::95",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 14885,
+      "snippet_doc_end": 15408,
+      "snippet_text": ", že byla porušena stěžovatelova práva na obhajobu, dokonce tak, že je nemohl využít či uplatnit. Soudy potom ve světle uvedených skutečností potom tento důkaz (stejně jako ostatní) hodnotily, a to podle zásad volného hodnocení důkazů, tak jak jsou upraveny v § 2 odst. 6 a § 125 tr. řádu. Zásada volného hodnocení důkazů potom přímo vyplývá z ústavního principu nezávislosti soudů, přičemž pravomoc Ústavního soudu je vázána na zjištění, že před obecnými soudy došlo k porušení zmíněné zásady v tom smyslu, že nebyly respe",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. řádu",
+          "detail_number": "2",
+          "detail_odst": [
+            "6"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::15159::96",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 125",
+      "snippet_doc_start": 14899,
+      "snippet_doc_end": 15424,
+      "snippet_text": "šena stěžovatelova práva na obhajobu, dokonce tak, že je nemohl využít či uplatnit. Soudy potom ve světle uvedených skutečností potom tento důkaz (stejně jako ostatní) hodnotily, a to podle zásad volného hodnocení důkazů, tak jak jsou upraveny v § 2 odst. 6 a § 125 tr. řádu. Zásada volného hodnocení důkazů potom přímo vyplývá z ústavního principu nezávislosti soudů, přičemž pravomoc Ústavního soudu je vázána na zjištění, že před obecnými soudy došlo k porušení zmíněné zásady v tom smyslu, že nebyly respektovány kautely ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 125",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "trestní řád",
+          "declared_alias_text": "tr. řádu",
+          "detail_number": "125",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:trestni_rad_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::15611::97",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 10",
+      "snippet_doc_start": 15351,
+      "snippet_doc_end": 15877,
+      "snippet_text": "o k porušení zmíněné zásady v tom smyslu, že nebyly respektovány kautely uvedených ustanovení tr. řádu. Při oceňování důkazních prostředků obecnými soudy potom úloha\n6\n111. ÚS 444/97\nÚstavního soudu přisouzená mu ústavními zákony a mezinárodními smlouvami dle čl. 10 Ústavy ČR spočívá v prozkoumání právě toho, zda posuzované řízení jako celek, včetně předložených důkazních prostředků bylo spravedlivé. V souhrnu naznačených skutečností (a také úvah jimi vyvolaných) potom dle přesvědčení Ústavního soudu nelze obecným soudům",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 10",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "czech_resolved",
+          "law_id": "1/1993 Sb.",
+          "law_name_text": "Ústava České republiky",
+          "declared_alias_text": "Ústavy ČR",
+          "detail_number": "10",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustava_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::16745::98",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 13",
+      "snippet_doc_start": 16485,
+      "snippet_doc_end": 16986,
+      "snippet_text": "stního obvinění vůči němu. Stejně tak nelze míti za to, že navrhovatel byl stíhán nebo zbaven svobody jinak než z důvodů a způsobem, které stanoví zákon. Konečně s poukazem na uvedené nelze než konstatovat, že postupem soudu nebyl zasažen ani obsah namítaného čl. 13 Úmluvy o ochraně lidských práv a základních svobod.\nS ohledem na tyto skutečnosti Ústavnímu soudu nezbylo než návrh podle § 43 odst. 2 písm. a) zák. č. 182/1993 Sb., ve znění pozdějších předpisů, jako zjevně neopodstatněný odmítnout.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 13",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Úmluva o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluvy",
+          "detail_number": "13",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::section_or_article::16874::99",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 43",
+      "snippet_doc_start": 16614,
+      "snippet_doc_end": 16986,
+      "snippet_text": "em, které stanoví zákon. Konečně s poukazem na uvedené nelze než konstatovat, že postupem soudu nebyl zasažen ani obsah namítaného čl. 13 Úmluvy o ochraně lidských práv a základních svobod.\nS ohledem na tyto skutečnosti Ústavnímu soudu nezbylo než návrh podle § 43 odst. 2 písm. a) zák. č. 182/1993 Sb., ve znění pozdějších předpisů, jako zjevně neopodstatněný odmítnout.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 43",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zák.",
+          "detail_number": "43",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_3-444-97.txt::law_id_mention::16904::100",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/1993 Sb.",
+      "snippet_doc_start": 16644,
+      "snippet_doc_end": 16986,
+      "snippet_text": "ně s poukazem na uvedené nelze než konstatovat, že postupem soudu nebyl zasažen ani obsah namítaného čl. 13 Úmluvy o ochraně lidských práv a základních svobod.\nS ohledem na tyto skutečnosti Ústavnímu soudu nezbylo než návrh podle § 43 odst. 2 písm. a) zák. č. 182/1993 Sb., ve znění pozdějších předpisů, jako zjevně neopodstatněný odmítnout.\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_law_id"
+        }
+      ]
+    }
+  ]
+}

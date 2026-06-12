@@ -1,0 +1,541 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "2016_S0551.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2016_S0551.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.235769+00:00",
+  "tasks": [
+    {
+      "task_id": "2016_S0551.txt::docref::2874::83",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 2874,
+      "snippet_doc_start": 2614,
+      "snippet_doc_end": 3134,
+      "snippet_text": " nich měla být ve finanční hodnotě alespoň 8 000 000 Kč bez DPH a být realizovaná \nv posledních šesti letech, a součástí alespoň jedné rekonstrukce budovy měla být výstavba \ndoprovodné technické infrastruktury (parkoviště, komunikace). \n8. Z dopisu zadavatele č. j.: MVS-2059/2016 ze dne 18. 7. 2016, který Úřad obdržel mimo správní \nřízení, vyplývá, že zadavatel požadoval k prokázání technických kvalifikačních předpokladů \ndle § 56 odst. 3 písm. a) zákona předložení dokladů o realizaci alespoň tří provedených \nrekon",
+      "predicted_reference": {
+        "reference_text": "č. j. MVS-2059/2016",
+        "reference_prefix": "č. j.",
+        "reference_body": "MVS-2059/2016",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 2874,
+        "raw_end": 2894,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "oň 8 000 000 Kč bez DPH a být realizovaná  v posledních šesti letech, a součástí alespoň jedné rekonstrukce budovy měla být výstavba  doprovodné technické infrastruktury (parkoviště, komunikace).  8. Z dopisu zadavatele č. j.: MVS-2059/2016 ze dne 18. 7. 2016, který Úřad obdržel mimo správní  řízení, vyplývá, že zadavatel požadoval k prokázání technických kvalifikačních předpokladů  dle § 56 odst. 3 písm. a) zákona předložení dokladů o realizaci alespoň tř"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j.: MVS-2059/2016",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "MVS-2059/2016",
+          "decision_kind_hint": "dopis",
+          "court_hint": "zadavatele",
+          "confidence": 0.99,
+          "note": "manual_v1:sender_letter"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::5159::84",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 5159,
+      "snippet_doc_start": 4899,
+      "snippet_doc_end": 5419,
+      "snippet_text": "ní požadoval prokázání realizace \nalespoň tří referenčních staveb, realizovaných za předchozích šest let, přičemž každá z nich \nměla dosahovat finanční hodnoty alespoň 8 000 000 Kč bez DPH. Z těchto důvodů Úřad zahájil \nsprávní řízení z moci úřední vedené pod sp. zn. S551/2016/VZ ve věci přezkoumání úkonů \nzadavatele učiněných ve veřejné zakázce.  Řízení před správním orgánem \n11. Účastníkem správního řízení je podle § 116 zákona  \n zadavatel. \n12. Zahájení správního řízení ve věci možného spáchání správních delik",
+      "predicted_reference": {
+        "reference_text": "sp. zn. S551/2016/VZ",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "S551/2016/VZ",
+        "reference_type": "spisova_znacka",
+        "raw_start": 5159,
+        "raw_end": 5179,
+        "decision_kind_hint": null,
+        "court_hint": "Úřadu",
+        "context": "ň tří referenčních staveb, realizovaných za předchozích šest let, přičemž každá z nich  měla dosahovat finanční hodnoty alespoň 8 000 000 Kč bez DPH. Z těchto důvodů Úřad zahájil  správní řízení z moci úřední vedené pod sp. zn. S551/2016/VZ ve věci přezkoumání úkonů  zadavatele učiněných ve veřejné zakázce.  Řízení před správním orgánem  11. Účastníkem správního řízení je podle § 116 zákona    zadavatel.  12. Zahájení správního řízení ve věci možného spác"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. S551/2016/VZ",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "S551/2016/VZ",
+          "decision_kind_hint": "",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::5455::85",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 5455,
+      "snippet_doc_start": 5195,
+      "snippet_doc_end": 5715,
+      "snippet_text": "mání úkonů \nzadavatele učiněných ve veřejné zakázce.  Řízení před správním orgánem \n11. Účastníkem správního řízení je podle § 116 zákona  \n zadavatel. \n12. Zahájení správního řízení ve věci možného spáchání správních deliktů oznámil Úřad zadavateli \ndopisem č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu ze dne 5. 8. 2016, ve kterém ho \nzároveň seznámil se zjištěnými skutečnostmi, které budou podkladem pro rozhodnutí.  \n13. Současně Úřad usnesením č. j. ÚOHS-S0551/2016/VZ-32804/2016/553/MBu ze dne 5. 8. 2016 \nstanovi",
+      "predicted_reference": {
+        "reference_text": "č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu",
+        "reference_prefix": "č. j.",
+        "reference_body": "ÚOHS-S0551/2016/VZ-32803/2016/553/MBu",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 5455,
+        "raw_end": 5498,
+        "decision_kind_hint": null,
+        "court_hint": "Úřadu",
+        "context": "jné zakázce.  Řízení před správním orgánem  11. Účastníkem správního řízení je podle § 116 zákona    zadavatel.  12. Zahájení správního řízení ve věci možného spáchání správních deliktů oznámil Úřad zadavateli  dopisem č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu ze dne 5. 8. 2016, ve kterém ho  zároveň seznámil se zjištěnými skutečnostmi, které budou podkladem pro rozhodnutí.   13. Současně Úřad usnesením č. j. ÚOHS-S0551/2016/VZ-32804/2016/553/MBu ze dne 5. 8. 2016  stanovil z"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "ÚOHS-S0551/2016/VZ-32803/2016/553/MBu",
+          "decision_kind_hint": "dopis",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::5645::86",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 5645,
+      "snippet_doc_start": 5385,
+      "snippet_doc_end": 5905,
+      "snippet_text": "i možného spáchání správních deliktů oznámil Úřad zadavateli \ndopisem č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu ze dne 5. 8. 2016, ve kterém ho \nzároveň seznámil se zjištěnými skutečnostmi, které budou podkladem pro rozhodnutí.  \n13. Současně Úřad usnesením č. j. ÚOHS-S0551/2016/VZ-32804/2016/553/MBu ze dne 5. 8. 2016 \nstanovil zadavateli lhůtu, v níž byl oprávněn navrhovat důkazy, či činit jiné návrhy a v níž \nmohl vyjádřit v řízení své stanovisko, a lhůtu, v níž se mohl vyjádřit k podkladům rozhodnutí. \n14. Spr",
+      "predicted_reference": {
+        "reference_text": "č. j. ÚOHS-S0551/2016/VZ-32804/2016/553/MBu",
+        "reference_prefix": "č. j.",
+        "reference_body": "ÚOHS-S0551/2016/VZ-32804/2016/553/MBu",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 5645,
+        "raw_end": 5688,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Úřadu",
+        "context": "ámil Úřad zadavateli  dopisem č. j. ÚOHS-S0551/2016/VZ-32803/2016/553/MBu ze dne 5. 8. 2016, ve kterém ho  zároveň seznámil se zjištěnými skutečnostmi, které budou podkladem pro rozhodnutí.   13. Současně Úřad usnesením č. j. ÚOHS-S0551/2016/VZ-32804/2016/553/MBu ze dne 5. 8. 2016  stanovil zadavateli lhůtu, v níž byl oprávněn navrhovat důkazy, či činit jiné návrhy a v níž  mohl vyjádřit v řízení své stanovisko, a lhůtu, v níž se mohl vyjádřit k podkladům rozhodnutí.  14. Správn"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. ÚOHS-S0551/2016/VZ-32804/2016/553/MBu",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "ÚOHS-S0551/2016/VZ-32804/2016/553/MBu",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Úřadu",
+          "confidence": 0.99,
+          "note": "manual_v1:uohs_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::13187::87",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 13187,
+      "snippet_doc_start": 12927,
+      "snippet_doc_end": 13447,
+      "snippet_text": "zakázky, a je zřejmé, že ji mohou \nsplnit jen někteří z dodavatelů, přestože by jinak byli k plnění předmětu veřejné zakázky \nobjektivně způsobilými i dodavatelé jiní. V této souvislosti Úřad odkazuje na rozsudek \nNejvyššího správního soudu ze dne 5. 6. 2008, č. j. 1 Afs 20/2008-152, v němž soud dospěl \nk závěru, že „zákaz diskriminace uvedený v § 6 zákona zahrnuje jednak formu zjevnou, jednak \nformu skrytou. Za skrytou formu nepřípustné diskriminace v zadávacích řízeních je třeba \npovažovat i takový postup, pokud ",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 Afs 20/2008-152",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 Afs 20/2008-152",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 13187,
+        "raw_end": 13210,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "t jen někteří z dodavatelů, přestože by jinak byli k plnění předmětu veřejné zakázky  objektivně způsobilými i dodavatelé jiní. V této souvislosti Úřad odkazuje na rozsudek  Nejvyššího správního soudu ze dne 5. 6. 2008, č. j. 1 Afs 20/2008-152, v němž soud dospěl  k závěru, že „zákaz diskriminace uvedený v § 6 zákona zahrnuje jednak formu zjevnou, jednak  formu skrytou. Za skrytou formu nepřípustné diskriminace v zadávacích řízeních je třeba  považovat i tako"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 Afs 20/2008-152",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 Afs 20/2008-152",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::20220::88",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 20220,
+      "snippet_doc_start": 19960,
+      "snippet_doc_end": 20480,
+      "snippet_text": "ky na veřejnou zakázku v důsledku \npostupu zadavatele prokazatelně došlo, neboť za účelem naplnění skutkové podstaty \nsprávního deliktu postačí pouhá možnost podstatného ovlivnění výběru nejvhodnější nabídky. \nKrajský soud v Brně v rozsudku ze dne 7. 10. 2011 č. j. 62 Af 41/2010-72, dovodil, že \n„pro spáchání správního deliktu podle tohoto ustanovení [Pozn. Úřadu: § 120 odst. 1 písm. a) \nzákona] (a pro uložení pokuty podle § 120 odst. 2 zákona) musí být prokázáno, že zadavatel \nporušil ZVZ, přitom k porušení ZVZ ze",
+      "predicted_reference": {
+        "reference_text": "č. j. 62 Af 41/2010-72",
+        "reference_prefix": "č. j.",
+        "reference_body": "62 Af 41/2010-72",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 20220,
+        "raw_end": 20242,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "pu zadavatele prokazatelně došlo, neboť za účelem naplnění skutkové podstaty  správního deliktu postačí pouhá možnost podstatného ovlivnění výběru nejvhodnější nabídky.  Krajský soud v Brně v rozsudku ze dne 7. 10. 2011 č. j. 62 Af 41/2010-72, dovodil, že  „pro spáchání správního deliktu podle tohoto ustanovení [Pozn. Úřadu: § 120 odst. 1 písm. a)  zákona] (a pro uložení pokuty podle § 120 odst. 2 zákona) musí být prokázáno, že zadavatel  porušil ZVZ, přitom"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 62 Af 41/2010-72",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "62 Af 41/2010-72",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:ksbr_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::20966::89",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 20966,
+      "snippet_doc_start": 20706,
+      "snippet_doc_end": 21226,
+      "snippet_text": " ZVZ již \ndošlo k uzavření smlouvy na veřejnou zakázku a zároveň pokud samotné nedodržení pravidla \npodávaného z některého z ustanovení ZVZ buď podstatně ovlivnilo, nebo mohlo podstatně \novlivnit výběr nejvhodnější nabídky“. Krajský soud v Brně pak v rozsudku č. j. 31 Af 23/2012-40 \nze dne 26. 9. 2012 k materiální stránce deliktu uvedl, že „z dikce „podstatně ovlivnil nebo mohl \novlivnit“ vyplývá, že může jít o poruchový nebo i ohrožovací správní delikt. Zákonodárce tedy \n(za běžných okolností) spatřuje společensko",
+      "predicted_reference": {
+        "reference_text": "č. j. 31 Af 23/2012-40",
+        "reference_prefix": "č. j.",
+        "reference_body": "31 Af 23/2012-40",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 20966,
+        "raw_end": 20988,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "řejnou zakázku a zároveň pokud samotné nedodržení pravidla  podávaného z některého z ustanovení ZVZ buď podstatně ovlivnilo, nebo mohlo podstatně  ovlivnit výběr nejvhodnější nabídky“. Krajský soud v Brně pak v rozsudku č. j. 31 Af 23/2012-40  ze dne 26. 9. 2012 k materiální stránce deliktu uvedl, že „z dikce „podstatně ovlivnil nebo mohl  ovlivnit“ vyplývá, že může jít o poruchový nebo i ohrožovací správní delikt. Zákonodárce tedy  (za běžných okolností) sp"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 31 Af 23/2012-40",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "31 Af 23/2012-40",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:ksbr_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::21722::90",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 21722,
+      "snippet_doc_start": 21462,
+      "snippet_doc_end": 21982,
+      "snippet_text": "kodlivá, a došlo tedy k naplnění materiálního znaku (společenské škodlivosti) správního deliktu \nuvedeného v ustanovení § 120 odst. 1 písm. a) zákona o veřejných zakázkách“. K obdobným\nzávěrům došel i Nejvyšší správní soud např. v rozsudku ze dne 25. 7. 2013, č. j. 9 Afs 78/2012 – \n28, či rozsudku ze dne 28. 6. 2016, č. j. 4 As 61/2016 – 34.  \n34. Úřad k výše uvedenému uvádí, že se nezabýval posouzením toho, zda zadavatel dodržel zákon \nz hlediska vymezení svých požadavků na předmět dokládaných významných stavebníc",
+      "predicted_reference": {
+        "reference_text": "č. j. 9 Afs 78/2012 – 28",
+        "reference_prefix": "č. j.",
+        "reference_body": "9 Afs 78/2012 – 28",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 21722,
+        "raw_end": 21747,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "lního znaku (společenské škodlivosti) správního deliktu  uvedeného v ustanovení § 120 odst. 1 písm. a) zákona o veřejných zakázkách“. K obdobným závěrům došel i Nejvyšší správní soud např. v rozsudku ze dne 25. 7. 2013, č. j. 9 Afs 78/2012 –  28, či rozsudku ze dne 28. 6. 2016, č. j. 4 As 61/2016 – 34.   34. Úřad k výše uvedenému uvádí, že se nezabýval posouzením toho, zda zadavatel dodržel zákon  z hlediska vymezení svých požadavků na předmět dokládaných význa"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 9 Afs 78/2012 – 28",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "9 Afs 78/2012 – 28",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::21781::91",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 21781,
+      "snippet_doc_start": 21521,
+      "snippet_doc_end": 22041,
+      "snippet_text": "enské škodlivosti) správního deliktu \nuvedeného v ustanovení § 120 odst. 1 písm. a) zákona o veřejných zakázkách“. K obdobným\nzávěrům došel i Nejvyšší správní soud např. v rozsudku ze dne 25. 7. 2013, č. j. 9 Afs 78/2012 – \n28, či rozsudku ze dne 28. 6. 2016, č. j. 4 As 61/2016 – 34.  \n34. Úřad k výše uvedenému uvádí, že se nezabýval posouzením toho, zda zadavatel dodržel zákon \nz hlediska vymezení svých požadavků na předmět dokládaných významných stavebních prací \nani na celkové množství požadovaných referenčních ",
+      "predicted_reference": {
+        "reference_text": "č. j. 4 As 61/2016 – 34",
+        "reference_prefix": "č. j.",
+        "reference_body": "4 As 61/2016 – 34",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 21781,
+        "raw_end": 21804,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "edeného v ustanovení § 120 odst. 1 písm. a) zákona o veřejných zakázkách“. K obdobným závěrům došel i Nejvyšší správní soud např. v rozsudku ze dne 25. 7. 2013, č. j. 9 Afs 78/2012 –  28, či rozsudku ze dne 28. 6. 2016, č. j. 4 As 61/2016 – 34.   34. Úřad k výše uvedenému uvádí, že se nezabýval posouzením toho, zda zadavatel dodržel zákon  z hlediska vymezení svých požadavků na předmět dokládaných významných stavebních prací  ani na celkové množství požadovan"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 4 As 61/2016 – 34",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "4 As 61/2016 – 34",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::24788::92",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "čj.",
+      "candidate_start": 24788,
+      "snippet_doc_start": 24528,
+      "snippet_doc_end": 25048,
+      "snippet_text": "dokumentů, které jsou součástí zadávacích podmínek, \nnebyly rozpory a aby si potenciální uchazeči byli vědomi, na jakých požadavcích zadavatel \nk prokázání kvalifikace trvá. \n38. Ve vztahu k výše uvedenému Úřad odkazuje na rozsudek Nejvyššího správního soudu \nčj. 62 Ca 77/2008-45 ze dne 4. 11. 2010, který uvádí: „Úkolem zásady transparentnosti je \nzajištění toho, aby zadávání veřejných zakázek probíhalo průhledným, právně korektním \na předvídatelným způsobem za předem jasně a srozumitelně stanovených podmínek. Poru",
+      "predicted_reference": {
+        "reference_text": "čj. 62 Ca 77/2008-45",
+        "reference_prefix": "čj.",
+        "reference_body": "62 Ca 77/2008-45",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 24788,
+        "raw_end": 24808,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "h podmínek,  nebyly rozpory a aby si potenciální uchazeči byli vědomi, na jakých požadavcích zadavatel  k prokázání kvalifikace trvá.  38. Ve vztahu k výše uvedenému Úřad odkazuje na rozsudek Nejvyššího správního soudu  čj. 62 Ca 77/2008-45 ze dne 4. 11. 2010, který uvádí: „Úkolem zásady transparentnosti je  zajištění toho, aby zadávání veřejných zakázek probíhalo průhledným, právně korektním  a předvídatelným způsobem za předem jasně a srozumitelně stanov"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čj. 62 Ca 77/2008-45",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "čj.",
+          "reference_body": "62 Ca 77/2008-45",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:ksbr_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::33137::93",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 33137,
+      "snippet_doc_start": 32877,
+      "snippet_doc_end": 33397,
+      "snippet_text": "\nabsorpce, která se uplatní při postihu souběhu správních deliktů a jejíž podstata tkví v absorpci \nsazeb (poena maior absorbet minorem – tedy přísnější trest pohlcuje mírnější). Jak již \nv minulosti několikráte dovodil Nejvyšší správní soud (např. v rozsudku č. j. 1 As 28/2009-62 \nze dne 18. 6. 2009 nebo v rozsudku č. j. 5 Afs 9/2008-328 ze dne 31. 10. 2008), při trestání \nsprávních deliktů týmž správním orgánem se přiměřeně uplatní i principy ovládající souběh \ntrestných činů. Nutnost aplikovat trestněprávní inst",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 As 28/2009-62",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 As 28/2009-62",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 33137,
+        "raw_end": 33158,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "souběhu správních deliktů a jejíž podstata tkví v absorpci  sazeb (poena maior absorbet minorem – tedy přísnější trest pohlcuje mírnější). Jak již  v minulosti několikráte dovodil Nejvyšší správní soud (např. v rozsudku č. j. 1 As 28/2009-62  ze dne 18. 6. 2009 nebo v rozsudku č. j. 5 Afs 9/2008-328 ze dne 31. 10. 2008), při trestání  správních deliktů týmž správním orgánem se přiměřeně uplatní i principy ovládající souběh  trestných činů. Nutnost aplikovat"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 As 28/2009-62",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 As 28/2009-62",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::33195::94",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 33195,
+      "snippet_doc_start": 32935,
+      "snippet_doc_end": 33455,
+      "snippet_text": "deliktů a jejíž podstata tkví v absorpci \nsazeb (poena maior absorbet minorem – tedy přísnější trest pohlcuje mírnější). Jak již \nv minulosti několikráte dovodil Nejvyšší správní soud (např. v rozsudku č. j. 1 As 28/2009-62 \nze dne 18. 6. 2009 nebo v rozsudku č. j. 5 Afs 9/2008-328 ze dne 31. 10. 2008), při trestání \nsprávních deliktů týmž správním orgánem se přiměřeně uplatní i principy ovládající souběh \ntrestných činů. Nutnost aplikovat trestněprávní instituty i při trestání správním orgánem \nvyplývá z obecné po",
+      "predicted_reference": {
+        "reference_text": "č. j. 5 Afs 9/2008-328",
+        "reference_prefix": "č. j.",
+        "reference_body": "5 Afs 9/2008-328",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 33195,
+        "raw_end": 33217,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "  sazeb (poena maior absorbet minorem – tedy přísnější trest pohlcuje mírnější). Jak již  v minulosti několikráte dovodil Nejvyšší správní soud (např. v rozsudku č. j. 1 As 28/2009-62  ze dne 18. 6. 2009 nebo v rozsudku č. j. 5 Afs 9/2008-328 ze dne 31. 10. 2008), při trestání  správních deliktů týmž správním orgánem se přiměřeně uplatní i principy ovládající souběh  trestných činů. Nutnost aplikovat trestněprávní instituty i při trestání správním orgánem  v"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 5 Afs 9/2008-328",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "5 Afs 9/2008-328",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::34095::95",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 34095,
+      "snippet_doc_start": 33835,
+      "snippet_doc_end": 34355,
+      "snippet_text": "ud právní předpis, který má být aplikován, určitou \notázku vůbec neřeší a nevede-li výklad za pomocí analogie ani k újmě účastníka řízení, ani \nk újmě na ochraně hodnot, na jejichž vytváření a ochraně je veřejný zájem (viz rozsudky \nNejvyššího správního soudu č. j. 1 As 27/2008 – 67 ze dne 16. 4. 2008 a č. j. 8 As 17/2007 – 135 \nze dne 31. 5. 2007). Pro ukládání trestů za správní delikty se proto musí uplatnit obdobné \nprincipy a pravidla jako pro ukládání trestů za trestné činy.  \n50. S ohledem na výše uvedené Úřa",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 As 27/2008 – 67",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 As 27/2008 – 67",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 34095,
+        "raw_end": 34118,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "n, určitou  otázku vůbec neřeší a nevede-li výklad za pomocí analogie ani k újmě účastníka řízení, ani  k újmě na ochraně hodnot, na jejichž vytváření a ochraně je veřejný zájem (viz rozsudky  Nejvyššího správního soudu č. j. 1 As 27/2008 – 67 ze dne 16. 4. 2008 a č. j. 8 As 17/2007 – 135  ze dne 31. 5. 2007). Pro ukládání trestů za správní delikty se proto musí uplatnit obdobné  principy a pravidla jako pro ukládání trestů za trestné činy.   50. S ohledem na"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 As 27/2008 – 67",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 As 27/2008 – 67",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "2016_S0551.txt::docref::34140::96",
+      "document_id": "2016_S0551.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 34140,
+      "snippet_doc_start": 33880,
+      "snippet_doc_end": 34400,
+      "snippet_text": "čitou \notázku vůbec neřeší a nevede-li výklad za pomocí analogie ani k újmě účastníka řízení, ani \nk újmě na ochraně hodnot, na jejichž vytváření a ochraně je veřejný zájem (viz rozsudky \nNejvyššího správního soudu č. j. 1 As 27/2008 – 67 ze dne 16. 4. 2008 a č. j. 8 As 17/2007 – 135 \nze dne 31. 5. 2007). Pro ukládání trestů za správní delikty se proto musí uplatnit obdobné \nprincipy a pravidla jako pro ukládání trestů za trestné činy.  \n50. S ohledem na výše uvedené Úřad konstatuje, že pro stanovení konkrétní výše",
+      "predicted_reference": {
+        "reference_text": "č. j. 8 As 17/2007 – 135",
+        "reference_prefix": "č. j.",
+        "reference_body": "8 As 17/2007 – 135",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 34140,
+        "raw_end": 34164,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "ýklad za pomocí analogie ani k újmě účastníka řízení, ani  k újmě na ochraně hodnot, na jejichž vytváření a ochraně je veřejný zájem (viz rozsudky  Nejvyššího správního soudu č. j. 1 As 27/2008 – 67 ze dne 16. 4. 2008 a č. j. 8 As 17/2007 – 135  ze dne 31. 5. 2007). Pro ukládání trestů za správní delikty se proto musí uplatnit obdobné  principy a pravidla jako pro ukládání trestů za trestné činy.   50. S ohledem na výše uvedené Úřad konstatuje, že pro stanoven"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 8 As 17/2007 – 135",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "8 As 17/2007 – 135",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:nss_case_reference"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "pis33402.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis33402.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.417961+00:00",
+  "references": [
+    {
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "task_id": "pis33402.txt::docref::3946::98",
+      "classification": "document_reference",
+      "reference_text": "č. j. S351/2006-21179/2006/520-Pr",
+      "start_char": 3946,
+      "end_char": 3979,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č. j.",
+      "reference_body": "S351/2006-21179/2006/520-Pr",
+      "decision_kind_hint": "rozhodnutí",
+      "court_hint": "Úřadu",
+      "confidence": 0.99,
+      "note": "manual_v1:uohs_case_reference"
+    },
+    {
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "task_id": "pis33402.txt::docref::4068::99",
+      "classification": "document_reference",
+      "reference_text": "č. j. S351/2006-21180/2006/520-Pr",
+      "start_char": 4068,
+      "end_char": 4101,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č. j.",
+      "reference_body": "S351/2006-21180/2006/520-Pr",
+      "decision_kind_hint": "rozhodnutí",
+      "court_hint": "Úřadu",
+      "confidence": 0.99,
+      "note": "manual_v1:uohs_case_reference"
+    }
+  ]
+}

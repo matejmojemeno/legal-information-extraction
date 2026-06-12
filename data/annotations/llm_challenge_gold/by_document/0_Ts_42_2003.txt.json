@@ -1,0 +1,49 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "0 Ts 42_2003.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 42_2003.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.431218+00:00",
+  "citations": [
+    {
+      "task_id": "0 Ts 42_2003.txt::section::34381::1",
+      "finding_id": "1",
+      "citation_text": "§ 64",
+      "citation_type": "section",
+      "start_char": 34381,
+      "end_char": 34385,
+      "law_id": "141/1961 Sb.",
+      "law_name_text": "tr. ř.",
+      "declared_alias_text": "tr. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.97,
+      "detail_number": "64",
+      "detail_odst": [
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "0 Ts 42_2003.txt::article::48776::14",
+      "finding_id": "1",
+      "citation_text": "čl. 5",
+      "citation_type": "article",
+      "start_char": 48776,
+      "end_char": 48781,
+      "law_id": null,
+      "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+      "declared_alias_text": "Úmluvy",
+      "classification": "foreign_law",
+      "confidence": 0.98,
+      "detail_number": "5",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

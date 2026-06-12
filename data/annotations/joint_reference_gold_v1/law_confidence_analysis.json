@@ -1,0 +1,255 @@
+{
+  "gold_input": "data/annotations/joint_reference_gold_v1/law_gold/joint_law_reference_gold_v1.jsonl",
+  "predictions_input": "data/annotations/joint_reference_gold_v1/law_llm_eval/law_llm_fresh.deterministic_predictions.jsonl",
+  "matched_gold": 658,
+  "unmatched_gold": 0,
+  "rows": [
+    {
+      "confidence": 0.99,
+      "stage_family": "Filtered: Non-Statutory Collection",
+      "matched_gold": 1,
+      "classification_correct": 1,
+      "classification_accuracy": 1.0,
+      "fully_correct": 1,
+      "full_accuracy": 1.0,
+      "czech_law_total": 0,
+      "czech_law_correct": 0,
+      "czech_law_accuracy": null,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "non_citation": 1
+      },
+      "predicted_class_counts": {
+        "non_citation": 1
+      }
+    },
+    {
+      "confidence": 0.99,
+      "stage_family": "Law ID Mention",
+      "matched_gold": 125,
+      "classification_correct": 122,
+      "classification_accuracy": 0.976,
+      "fully_correct": 122,
+      "full_accuracy": 0.976,
+      "czech_law_total": 122,
+      "czech_law_correct": 122,
+      "czech_law_accuracy": 1.0,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "czech_resolved": 122,
+        "non_citation": 3
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 125
+      }
+    },
+    {
+      "confidence": 0.99,
+      "stage_family": "Level 1: Direct Match",
+      "matched_gold": 54,
+      "classification_correct": 54,
+      "classification_accuracy": 1.0,
+      "fully_correct": 52,
+      "full_accuracy": 0.963,
+      "czech_law_total": 54,
+      "czech_law_correct": 52,
+      "czech_law_accuracy": 0.963,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 2,
+      "gold_class_counts": {
+        "czech_resolved": 54
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 54
+      }
+    },
+    {
+      "confidence": 0.93,
+      "stage_family": "Level 5: Local Dictionary",
+      "matched_gold": 111,
+      "classification_correct": 111,
+      "classification_accuracy": 1.0,
+      "fully_correct": 104,
+      "full_accuracy": 0.9369,
+      "czech_law_total": 111,
+      "czech_law_correct": 104,
+      "czech_law_accuracy": 0.9369,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 7,
+      "gold_class_counts": {
+        "czech_resolved": 111
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 111
+      }
+    },
+    {
+      "confidence": 0.92,
+      "stage_family": "Level 2A: Section Anaphora",
+      "matched_gold": 1,
+      "classification_correct": 1,
+      "classification_accuracy": 1.0,
+      "fully_correct": 1,
+      "full_accuracy": 1.0,
+      "czech_law_total": 1,
+      "czech_law_correct": 1,
+      "czech_law_accuracy": 1.0,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "czech_resolved": 1
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 1
+      }
+    },
+    {
+      "confidence": 0.9,
+      "stage_family": "Level 2: Explicit Anaphora",
+      "matched_gold": 12,
+      "classification_correct": 12,
+      "classification_accuracy": 1.0,
+      "fully_correct": 12,
+      "full_accuracy": 1.0,
+      "czech_law_total": 12,
+      "czech_law_correct": 12,
+      "czech_law_accuracy": 1.0,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "czech_resolved": 12
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 12
+      }
+    },
+    {
+      "confidence": 0.86,
+      "stage_family": "Level 6: Global Dictionary",
+      "matched_gold": 146,
+      "classification_correct": 143,
+      "classification_accuracy": 0.9795,
+      "fully_correct": 139,
+      "full_accuracy": 0.9521,
+      "czech_law_total": 143,
+      "czech_law_correct": 139,
+      "czech_law_accuracy": 0.972,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 4,
+      "gold_class_counts": {
+        "czech_resolved": 143,
+        "foreign_law": 3
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 146
+      }
+    },
+    {
+      "confidence": 0.82,
+      "stage_family": "Typed: Foreign Law",
+      "matched_gold": 7,
+      "classification_correct": 7,
+      "classification_accuracy": 1.0,
+      "fully_correct": 7,
+      "full_accuracy": 1.0,
+      "czech_law_total": 0,
+      "czech_law_correct": 0,
+      "czech_law_accuracy": null,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "foreign_law": 7
+      },
+      "predicted_class_counts": {
+        "foreign_law": 7
+      }
+    },
+    {
+      "confidence": 0.72,
+      "stage_family": "Level 3B: Citation Chain Carryover",
+      "matched_gold": 21,
+      "classification_correct": 18,
+      "classification_accuracy": 0.8571,
+      "fully_correct": 13,
+      "full_accuracy": 0.619,
+      "czech_law_total": 18,
+      "czech_law_correct": 13,
+      "czech_law_accuracy": 0.7222,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 5,
+      "gold_class_counts": {
+        "czech_resolved": 18,
+        "non_citation": 3
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 21
+      }
+    },
+    {
+      "confidence": 0.7,
+      "stage_family": "Level 3C: Backward Context Carryover",
+      "matched_gold": 8,
+      "classification_correct": 7,
+      "classification_accuracy": 0.875,
+      "fully_correct": 4,
+      "full_accuracy": 0.5,
+      "czech_law_total": 7,
+      "czech_law_correct": 4,
+      "czech_law_accuracy": 0.5714,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 3,
+      "gold_class_counts": {
+        "czech_resolved": 7,
+        "non_citation": 1
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 8
+      }
+    },
+    {
+      "confidence": 0.62,
+      "stage_family": "Level 3: Implicit Generic Reference",
+      "matched_gold": 130,
+      "classification_correct": 129,
+      "classification_accuracy": 0.9923,
+      "fully_correct": 129,
+      "full_accuracy": 0.9923,
+      "czech_law_total": 129,
+      "czech_law_correct": 129,
+      "czech_law_accuracy": 1.0,
+      "czech_law_unresolved": 0,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "czech_resolved": 129,
+        "foreign_law": 1
+      },
+      "predicted_class_counts": {
+        "czech_resolved": 130
+      }
+    },
+    {
+      "confidence": 0.0,
+      "stage_family": "Level 7: Unresolved",
+      "matched_gold": 42,
+      "classification_correct": 0,
+      "classification_accuracy": 0.0,
+      "fully_correct": 0,
+      "full_accuracy": 0.0,
+      "czech_law_total": 37,
+      "czech_law_correct": 0,
+      "czech_law_accuracy": 0.0,
+      "czech_law_unresolved": 37,
+      "czech_law_wrong": 0,
+      "gold_class_counts": {
+        "czech_resolved": 37,
+        "foreign_law": 1,
+        "non_citation": 4
+      },
+      "predicted_class_counts": {
+        "czech_unresolved": 42
+      }
+    }
+  ]
+}

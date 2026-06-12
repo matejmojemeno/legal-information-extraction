@@ -1,0 +1,30 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "1 Co 46_2009.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Co 46_2009.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.432795+00:00",
+  "citations": [
+    {
+      "task_id": "1 Co 46_2009.txt::section::5667::3",
+      "finding_id": "1",
+      "citation_text": "§ 175h",
+      "citation_type": "section",
+      "start_char": 5667,
+      "end_char": 5673,
+      "law_id": "99/1963 Sb.",
+      "law_name_text": "o. s. ř.",
+      "declared_alias_text": "o. s. ř.",
+      "classification": "czech_resolved",
+      "confidence": 0.9,
+      "detail_number": "175h",
+      "detail_odst": [
+        "1",
+        "2"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}

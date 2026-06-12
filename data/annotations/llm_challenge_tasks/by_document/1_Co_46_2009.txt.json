@@ -1,0 +1,57 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.224660+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 Co 46_2009.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 Co 46_2009.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 Co 46_2009.txt::section::5667::3",
+      "document_id": "1 Co 46_2009.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Co 46_2009.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 175h",
+      "snippet_doc_start": 5407,
+      "snippet_doc_end": 5933,
+      "snippet_text": "o určení že registrované partnerství nevzniklo, kdy \nzemřel registrovaný partner), pokud zákon nedovoluje, aby se v řízení pokračovalo,  \nd) \nkde účastník nemá žádného právního nástupce (např. při zastavení dědického řízení po \nzemřelém účastníku řízení podle § 175h odst. l a 2, ledaže by bylo prokázáno, že zůstavitel \nzanechal majetek vyšší než nepatrné hodnoty, při zániku právnické osoby, byla-li provedena \nlikvidace nebo jestliže se likvidace z důvodů uvede­ných v zákoně nevyžaduje), který by převzal \nprávo nebo povin",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 175h",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "o. s. ř.",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "175h",
+          "detail_odst": [
+            "1",
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.9,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 Co 46_2009.txt::5667:5673:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": [
+          "262/2006 Sb.",
+          "513/1991 Sb.",
+          "59/2005 Sb.",
+          "92/1991 Sb.",
+          "99/1963 Sb."
+        ]
+      }
+    }
+  ]
+}

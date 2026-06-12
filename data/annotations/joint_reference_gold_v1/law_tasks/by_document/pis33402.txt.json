@@ -1,0 +1,1162 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.181288+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "pis33402.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis33402.txt",
+  "task_count": 40,
+  "tasks": [
+    {
+      "task_id": "pis33402.txt::law_id_mention::107::563",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "199/1994 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 379,
+      "snippet_text": " \nÚřad pro ochranu hospodářské soutěže (dále jen „Úřad“), který vykonává dohled nad \ndodržováním zákona č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších \npředpisů (dále jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/199",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "199/1994 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::295::564",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "552/1991 Sb.",
+      "snippet_doc_start": 35,
+      "snippet_doc_end": 567,
+      "snippet_text": "ěže (dále jen „Úřad“), který vykonává dohled nad \ndodržováním zákona č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších \npředpisů (dále jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "552/1991 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "552/1991 Sb.",
+          "law_name_text": "zákon o státní kontrole",
+          "declared_alias_text": "zákon o státní kontrole",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:statni_kontrola_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::348::565",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "166/1993 Sb.",
+      "snippet_doc_start": 88,
+      "snippet_doc_end": 620,
+      "snippet_text": "ržováním zákona č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších \npředpisů (dále jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, I",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "166/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "166/1993 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::372::566",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "148/1998 Sb.",
+      "snippet_doc_start": 112,
+      "snippet_doc_end": 644,
+      "snippet_text": "994 Sb., o zadávání veřejných zakázek, ve znění pozdějších \npředpisů (dále jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "148/1998 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "148/1998 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::396::567",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "132/2000 Sb.",
+      "snippet_doc_start": 136,
+      "snippet_doc_end": 668,
+      "snippet_text": "jných zakázek, ve znění pozdějších \npředpisů (dále jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12, 761 40 Zlín, zastoupen",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "132/2000 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "132/2000 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::420::568",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "274/2003 Sb.",
+      "snippet_doc_start": 160,
+      "snippet_doc_end": 692,
+      "snippet_text": "pozdějších \npředpisů (dále jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12, 761 40 Zlín, zastoupené PhDr. Irenou Ondrovou,",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "274/2003 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "274/2003 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::446::569",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "392/2005 Sb.",
+      "snippet_doc_start": 186,
+      "snippet_doc_end": 718,
+      "snippet_text": " jen „zákon“), na základě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12, 761 40 Zlín, zastoupené PhDr. Irenou Ondrovou, \nprimátorkou (dále jen „z",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "392/2005 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "392/2005 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::470::570",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "413/2005 Sb.",
+      "snippet_doc_start": 210,
+      "snippet_doc_end": 742,
+      "snippet_text": "ě výsledků kontroly, provedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12, 761 40 Zlín, zastoupené PhDr. Irenou Ondrovou, \nprimátorkou (dále jen „zadavatel“), zahájil sprá",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "413/2005 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "413/2005 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::494::571",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "501/2004 Sb.",
+      "snippet_doc_start": 234,
+      "snippet_doc_end": 766,
+      "snippet_text": "vedené Úřadem ve dnech \n31.5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12, 761 40 Zlín, zastoupené PhDr. Irenou Ondrovou, \nprimátorkou (dále jen „zadavatel“), zahájil správní řízení ve věci přezk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "501/2004 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "501/2004 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::law_id_mention::520::572",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "230/2006 Sb.",
+      "snippet_doc_start": 260,
+      "snippet_doc_end": 792,
+      "snippet_text": ".5.2006 a 1.6.2006 podle zákona č. 552/1991 Sb., o státní kontrole, ve znění zákona \nč. 166/1993 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb., zákona č. 274/2003 Sb., \nzákona č. \n392/2005 Sb., zákona č. 413/2005 Sb., zákona č. 501/2004 Sb. a zákona \nč. 230/2006 Sb. (dále jen „zákon o státní kontrole“), u zadavatele, kterým je statutární město \nZlín, IČ 00283924, nám. Míru 12, 761 40 Zlín, zastoupené PhDr. Irenou Ondrovou, \nprimátorkou (dále jen „zadavatel“), zahájil správní řízení ve věci přezkoumání rozhodnutí a \ndalší",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "230/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "230/2006 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::955::573",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 695,
+      "snippet_doc_end": 1220,
+      "snippet_text": "rimátorkou (dále jen „zadavatel“), zahájil správní řízení ve věci přezkoumání rozhodnutí a \ndalších úkonů zadavatele, učiněných při zadání veřejné zakázky „Rekonstrukce chodníků \nTGM – I. část“ zadané výzvou ze dne 29.4.2004 formou zjednodušeného zadání podle § 49a \nzákona. Výzva byla zveřejněna na centrální adrese dne 18.8.2004. \nZadavatel k podání nabídky vyzval 5 zájemců, z nichž nabídku ve lhůtě předložili 4 \nuchazeči. Z protokolu o otevírání obálek ze dne 26.5.2004 vyplývá, že všechny nabídky\nvyhověly kontrole úpln",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::2095::574",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49",
+      "snippet_doc_start": 1835,
+      "snippet_doc_end": 2359,
+      "snippet_text": "ovedené kontroly bylo zjištěno, že ve výzvě k podání nabídky zadavatel \nvymezil jako páté (poslední) hodnotící kritérium „prezentace uchazeče“, přičemž \nv podmínkách zadání dále nekonkretizoval, které skutečnosti bude v rámci tohoto kritéria \nhodnotit. \nPodle § 49 odst. 10 zákona provede zadavatel hodnocení podle kritérií stanovených \nv zadání způsobem uvedeným v § 6 zákona. O posouzení a hodnocení nabídek je zadavatel \npovinen pořídit záznam, ve kterém uvede popis hodnocení a zdůvodnění výběru nejvhodnější \nnabídky. P",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "10"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::2201::575",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 1941,
+      "snippet_doc_end": 2464,
+      "snippet_text": "tící kritérium „prezentace uchazeče“, přičemž \nv podmínkách zadání dále nekonkretizoval, které skutečnosti bude v rámci tohoto kritéria \nhodnotit. \nPodle § 49 odst. 10 zákona provede zadavatel hodnocení podle kritérií stanovených \nv zadání způsobem uvedeným v § 6 zákona. O posouzení a hodnocení nabídek je zadavatel \npovinen pořídit záznam, ve kterém uvede popis hodnocení a zdůvodnění výběru nejvhodnější \nnabídky. Protokol z jednání komise pro posouzení a hodnocení nabídek ze dne 27.5.2004 \nv předložené dokumentaci pop",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::2931::576",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2c",
+      "snippet_doc_start": 2671,
+      "snippet_doc_end": 3195,
+      "snippet_text": "jící 3 hodnotící tabulky jsou \nprázdné a obsahují pouze celkové pořadí nabídek a podpisy členů komise. Z vyplněné \nhodnotící tabulky vyplývá, že jeden člen komise nehodnotil nabídkové ceny podle jejich výše. \nV protokolu o kontrole bylo dále uvedeno, že podle § 2c odst. 2 zákona prokazuje \nvybraný uchazeč kvalifikační předpoklady před podpisem smlouvy výpisem z obchodního \nrejstříku ne starším než 90 dnů, výpisem z evidence Rejstříku trestů ne starším než 6 měsíců a \npotvrzením příslušného orgánu zdravotního pojištění ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::3524::577",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2e",
+      "snippet_doc_start": 3264,
+      "snippet_doc_end": 3788,
+      "snippet_text": "h požadavků na prokázání kvalifikace před podpisem smlouvy \nlze uznat výpis z obchodního rejstříku v nabídce vybraného uchazeče. Ostatní zákonem \nstanovené doklady k prokázání kvalifikace před uzavřením smlouvy předložená dokumentace \nneobsahovala. Ustanovení § 2e zákona přitom stanoví, že neprokáže-li uchazeč  některý \nz kvalifikačních předpokladů, musí ho zadavatel vyloučit z účasti v dalším jednání o veřejné \nzakázce. \nVzhledem k tomu, že Úřad získal pochybnosti o správnosti postupu zadavatele při \nzdávání předmětné",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2e",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::5134::578",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2c",
+      "snippet_doc_start": 4874,
+      "snippet_doc_end": 5398,
+      "snippet_text": "odnější \noznačili prostřednictvím nabídek členové hodnotící komise. \nK otázce předložení dokladů  před uzavřením smlouvy zadavatel ve svém vyjádření \nsdělil, že vybraný uchazeč Stavby silnic a železnic, a. s., byl k předložení dokladů vyzván \npodle ustanovení § 2c zákona, které v zákonné době předložil, ne však výlučně pro potřeby \nveřejné zakázky, která je předmětem správního řízení, nýbrž současně pro potřeby více \nsouběžně zadavatelem zadávaných veřejných zakázek. Z tohoto důvodu nebyly doklady \nk prokázání kvalifik",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::6266::579",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 38",
+      "snippet_doc_start": 6006,
+      "snippet_doc_end": 6530,
+      "snippet_text": "nabídky, avšak musí vždy zjišťovat, zda jsou předloženy v souladu se zákonem, \nv daném případě, zda splňují podmínku stáří“. Zadavatel závěrem tohoto vyjádření uvádí, že \nvybraný uchazeč předložil zadavateli doklady k prokázání své kvalifikace jak v souladu s § 38 \nodst. 4, tak v souladu s § 2c zákona a proto i akt uzavření smlouvy s vítězným uchazečem o \npředmětnou veřejnou zakázku podkládá zadavatel za uzavřenou v souladu se zákonem a \nnavrhuje správní řízení ve věci předmětné veřejné zakázky „Rekonstrukce chodníku T",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 38",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "4"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::6297::580",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2c",
+      "snippet_doc_start": 6037,
+      "snippet_doc_end": 6561,
+      "snippet_text": "vat, zda jsou předloženy v souladu se zákonem, \nv daném případě, zda splňují podmínku stáří“. Zadavatel závěrem tohoto vyjádření uvádí, že \nvybraný uchazeč předložil zadavateli doklady k prokázání své kvalifikace jak v souladu s § 38 \nodst. 4, tak v souladu s § 2c zákona a proto i akt uzavření smlouvy s vítězným uchazečem o \npředmětnou veřejnou zakázku podkládá zadavatel za uzavřenou v souladu se zákonem a \nnavrhuje správní řízení ve věci předmětné veřejné zakázky „Rekonstrukce chodníku TGM – I. \nčást“ zastavit. \nÚřad ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::6594::581",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 57",
+      "snippet_doc_start": 6334,
+      "snippet_doc_end": 6858,
+      "snippet_text": "louvy s vítězným uchazečem o \npředmětnou veřejnou zakázku podkládá zadavatel za uzavřenou v souladu se zákonem a \nnavrhuje správní řízení ve věci předmětné veřejné zakázky „Rekonstrukce chodníku TGM – I. \nčást“ zastavit. \nÚřad přezkoumal na základě ustanovení § 57 zákona šetřený případ ve vzájemných \nsouvislostech a po zhodnocení všech podkladů, zejména dokumentace o zadání uvedené \nzakázky, dokumentů  předložených zadavatelem a na základě vlastního zjištění rozhodl, že\nzadavatel neporušil zákon. Ke svému rozhodnutí Úř",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 57",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::7038::582",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49",
+      "snippet_doc_start": 6778,
+      "snippet_doc_end": 7302,
+      "snippet_text": "vlastního zjištění rozhodl, že\nzadavatel neporušil zákon. Ke svému rozhodnutí Úřad uvádí následující rozhodné skutečnosti. \nV oznámení o zahájení řízení Úřad zadavateli vytýká, že nepostupoval při zpracování \nzprávy o posouzení a hodnocení nabídek v souladu s § 49 odst. 10 zákona a že doklady \nk prokázání kvalifikace vybraného uchazeče, kromě výpisu z obchodního rejstříku, nejsou \nsoučástí dokumentace o zadání veřejné zakázky. \nNa základě textu výzvy ze dne 29.4.2004, v níž se výslovně odkazuje na ustanovení \n§ 49a zák",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "10"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::7293::583",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 7033,
+      "snippet_doc_end": 7558,
+      "snippet_text": "du s § 49 odst. 10 zákona a že doklady \nk prokázání kvalifikace vybraného uchazeče, kromě výpisu z obchodního rejstříku, nejsou \nsoučástí dokumentace o zadání veřejné zakázky. \nNa základě textu výzvy ze dne 29.4.2004, v níž se výslovně odkazuje na ustanovení \n§ 49a zákona, dospěl Úřad k závěru, že zadavatel zvolil pro postup zadání předmětné veřejné \nzakázky formu zjednodušeného zadání. O volbě formy zadání svědčí i výše peněžního \nzávazku – viz smlouva se společností Stavby silnic a železnic, a. s., kde je cena předmět",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::7712::584",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 7452,
+      "snippet_doc_end": 7977,
+      "snippet_text": " výše peněžního \nzávazku – viz smlouva se společností Stavby silnic a železnic, a. s., kde je cena předmětu \nstanovena v souladu s nabídkou ve výši 2 246 621,- Kč bez DPH (2 673 479,- Kč vč. DPH). \nProces zadávání této veřejné zakázky je nutno posuzovat podle § 49a zákona a ne podle § 49 \nodst. 1 zákona. \nPodle ustanovení § 49a odst. 1 zákona lze zjednodušené zadání použít u veřejných \nzakázek, u kterých výše budoucího peněžitého závazku ze smlouvy činí více než 2 000 000 \nKč bez daně z přidané hodnoty, ale nepřesáhne l",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::7736::585",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49",
+      "snippet_doc_start": 7476,
+      "snippet_doc_end": 8000,
+      "snippet_text": " – viz smlouva se společností Stavby silnic a železnic, a. s., kde je cena předmětu \nstanovena v souladu s nabídkou ve výši 2 246 621,- Kč bez DPH (2 673 479,- Kč vč. DPH). \nProces zadávání této veřejné zakázky je nutno posuzovat podle § 49a zákona a ne podle § 49 \nodst. 1 zákona. \nPodle ustanovení § 49a odst. 1 zákona lze zjednodušené zadání použít u veřejných \nzakázek, u kterých výše budoucího peněžitého závazku ze smlouvy činí více než 2 000 000 \nKč bez daně z přidané hodnoty, ale nepřesáhne limity uvedené v § 49 od",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::7776::586",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 7516,
+      "snippet_doc_end": 8041,
+      "snippet_text": "nic a železnic, a. s., kde je cena předmětu \nstanovena v souladu s nabídkou ve výši 2 246 621,- Kč bez DPH (2 673 479,- Kč vč. DPH). \nProces zadávání této veřejné zakázky je nutno posuzovat podle § 49a zákona a ne podle § 49 \nodst. 1 zákona. \nPodle ustanovení § 49a odst. 1 zákona lze zjednodušené zadání použít u veřejných \nzakázek, u kterých výše budoucího peněžitého závazku ze smlouvy činí více než 2 000 000 \nKč bez daně z přidané hodnoty, ale nepřesáhne limity uvedené v § 49 odst. 1, je zadavatel \npovinen vyžádat si p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::7993::587",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49",
+      "snippet_doc_start": 7733,
+      "snippet_doc_end": 8257,
+      "snippet_text": "le § 49 \nodst. 1 zákona. \nPodle ustanovení § 49a odst. 1 zákona lze zjednodušené zadání použít u veřejných \nzakázek, u kterých výše budoucího peněžitého závazku ze smlouvy činí více než 2 000 000 \nKč bez daně z přidané hodnoty, ale nepřesáhne limity uvedené v § 49 odst. 1, je zadavatel \npovinen vyžádat si před zadáním veřejné zakázky nabídky nejméně od tří zájemců, pokud je \njiž nemá k dispozici. \nJak vyplývá z ustanovení § 49a odst. 2 zákona, ve výzvě musí zadavatel stanovit \npožadavek na \na) zpracování nabídkové ceny",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::8159::588",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 7899,
+      "snippet_doc_end": 8424,
+      "snippet_text": "louvy činí více než 2 000 000 \nKč bez daně z přidané hodnoty, ale nepřesáhne limity uvedené v § 49 odst. 1, je zadavatel \npovinen vyžádat si před zadáním veřejné zakázky nabídky nejméně od tří zájemců, pokud je \njiž nemá k dispozici. \nJak vyplývá z ustanovení § 49a odst. 2 zákona, ve výzvě musí zadavatel stanovit \npožadavek na \na) zpracování nabídkové ceny podle místa plnění veřejné zakázky,\nb) dobu plnění a další podmínky plnění veřejné zakázky. \nVýzvu podle odstavce 1 zákona musí zadavatel doložit písemným záznamem (§",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::8423::589",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 8163,
+      "snippet_doc_end": 8688,
+      "snippet_text": "a odst. 2 zákona, ve výzvě musí zadavatel stanovit \npožadavek na \na) zpracování nabídkové ceny podle místa plnění veřejné zakázky,\nb) dobu plnění a další podmínky plnění veřejné zakázky. \nVýzvu podle odstavce 1 zákona musí zadavatel doložit písemným záznamem (§ 49a \nodst. 3 zákona). \nPodle ustanovení § 49a odst. 4 zadavatel zveřejní na centrální adrese text výzvy \nk podání nabídky u veřejných zakázek realizovaných podle § 49a odst. 1 i v případě, že má již \nk dispozici nabídku od tří zájemců. \nVýše uvedené podmínky pro ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::8465::590",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 8205,
+      "snippet_doc_end": 8730,
+      "snippet_text": "stanovit \npožadavek na \na) zpracování nabídkové ceny podle místa plnění veřejné zakázky,\nb) dobu plnění a další podmínky plnění veřejné zakázky. \nVýzvu podle odstavce 1 zákona musí zadavatel doložit písemným záznamem (§ 49a \nodst. 3 zákona). \nPodle ustanovení § 49a odst. 4 zadavatel zveřejní na centrální adrese text výzvy \nk podání nabídky u veřejných zakázek realizovaných podle § 49a odst. 1 i v případě, že má již \nk dispozici nabídku od tří zájemců. \nVýše uvedené podmínky pro použití této formy zadání veřejných zakáze",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::8587::591",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 8327,
+      "snippet_doc_end": 8852,
+      "snippet_text": "lnění veřejné zakázky. \nVýzvu podle odstavce 1 zákona musí zadavatel doložit písemným záznamem (§ 49a \nodst. 3 zákona). \nPodle ustanovení § 49a odst. 4 zadavatel zveřejní na centrální adrese text výzvy \nk podání nabídky u veřejných zakázek realizovaných podle § 49a odst. 1 i v případě, že má již \nk dispozici nabídku od tří zájemců. \nVýše uvedené podmínky pro použití této formy zadání veřejných zakázek zadavatel \nsplnil. \nK namítanému hodnocení a zdůvodnění výběru nejvhodnější nabídky Úřad uvádí, že \nzadavatel neporušil ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::8863::592",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49",
+      "snippet_doc_start": 8603,
+      "snippet_doc_end": 9127,
+      "snippet_text": "v případě, že má již \nk dispozici nabídku od tří zájemců. \nVýše uvedené podmínky pro použití této formy zadání veřejných zakázek zadavatel \nsplnil. \nK namítanému hodnocení a zdůvodnění výběru nejvhodnější nabídky Úřad uvádí, že \nzadavatel neporušil ustanovení § 49 odst. 10 zákona, kterým se stanoví povinnost zadavatele \nprovést hodnocení nabídek podle kritérií stanovených v zadání způsobem uvedeným v § 6, \npořídit záznam o posouzení a hodnocení nabídek a uvést v něm popis hodnocení a zdůvodnění \nvýběru nejvhodnější nab",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "10"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::9007::593",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 8747,
+      "snippet_doc_end": 9270,
+      "snippet_text": "il. \nK namítanému hodnocení a zdůvodnění výběru nejvhodnější nabídky Úřad uvádí, že \nzadavatel neporušil ustanovení § 49 odst. 10 zákona, kterým se stanoví povinnost zadavatele \nprovést hodnocení nabídek podle kritérií stanovených v zadání způsobem uvedeným v § 6, \npořídit záznam o posouzení a hodnocení nabídek a uvést v něm popis hodnocení a zdůvodnění \nvýběru nejvhodnější nabídky, neboť zadával zakázku ve zjednodušeném zadání podle § 49a \nzákona, které takovou povinnost zadavateli neukládá. \nZ celkového počtu čtyřec",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::9185::594",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 8925,
+      "snippet_doc_end": 9450,
+      "snippet_text": "provést hodnocení nabídek podle kritérií stanovených v zadání způsobem uvedeným v § 6, \npořídit záznam o posouzení a hodnocení nabídek a uvést v něm popis hodnocení a zdůvodnění \nvýběru nejvhodnější nabídky, neboť zadával zakázku ve zjednodušeném zadání podle § 49a \nzákona, které takovou povinnost zadavateli neukládá. \nZ celkového počtu čtyřech hodnocených nabídek byla zadavatelem na základě \nhodnocení 5 kritérií (tj. nabídková cena za dílo, doba plnění veřejné zakázky doložená \nčasovým a finančním harmonogramem, záručn",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10092::595",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49c",
+      "snippet_doc_start": 9832,
+      "snippet_doc_end": 10357,
+      "snippet_text": "tních kritérií vyplývá, že prezentace uchazečů byla doložena u všech \nuchazečů a doba plnění zakázky je rovněž nabídnuta všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10153::596",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49a",
+      "snippet_doc_start": 9893,
+      "snippet_doc_end": 10418,
+      "snippet_text": "u všech \nuchazečů a doba plnění zakázky je rovněž nabídnuta všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10161::597",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 49b",
+      "snippet_doc_start": 9901,
+      "snippet_doc_end": 10426,
+      "snippet_text": "\nuchazečů a doba plnění zakázky je rovněž nabídnuta všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal na § 2c o",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 49b",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10191::598",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2a",
+      "snippet_doc_start": 9931,
+      "snippet_doc_end": 10455,
+      "snippet_text": "y je rovněž nabídnuta všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal na § 2c odst. 2 zákona, které upravuje",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10199::599",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2h",
+      "snippet_doc_start": 9939,
+      "snippet_doc_end": 10463,
+      "snippet_text": "něž nabídnuta všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal na § 2c odst. 2 zákona, které upravuje prokazo",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2h",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10205::600",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 64a",
+      "snippet_doc_start": 9945,
+      "snippet_doc_end": 10470,
+      "snippet_text": "bídnuta všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal na § 2c odst. 2 zákona, které upravuje prokazování kv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 64a",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10213::601",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 67",
+      "snippet_doc_start": 9953,
+      "snippet_doc_end": 10477,
+      "snippet_text": "všemi uchazeči shodně. \n K problematice prokazování kvalifikačních kritérií před uzavřením smlouvy Úřad \nkonstatuje, že zákon v ustanovení § 49c stanoví, že pro zadání veřejné zakázky postupem \npodle § 49a a § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal na § 2c odst. 2 zákona, které upravuje prokazování kvalifika",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 67",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    },
+    {
+      "task_id": "pis33402.txt::section_or_article::10420::602",
+      "document_id": "pis33402.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2c",
+      "snippet_doc_start": 10160,
+      "snippet_doc_end": 10684,
+      "snippet_text": " § 49b se nepoužijí ustanovení § 2a až § 2h, § 64a a § 67. Zadavatel tedy není \npovinen kvalifikaci v případě zjednodušeného zadávání vyžadovat. \nPřes tuto skutečnost zadavatel v podmínkách výzvy požadavky na kvalifikaci stanovil, \navšak výslovně neodkázal na § 2c odst. 2 zákona, které upravuje prokazování kvalifikace před \nuzavřením smlouvy. I když zadavatel nebyl ze zákona povinen vyžadovat kvalifikační \npředpoklady a ani z podmínek zadání předmětné veřejné zakázky nevyplývá, že by zadavatel \nstanovil požadavky na kv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "199/1994 Sb.",
+          "law_name_text": "zákon o zadávání veřejných zakázek",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky"
+        }
+      ]
+    }
+  ]
+}

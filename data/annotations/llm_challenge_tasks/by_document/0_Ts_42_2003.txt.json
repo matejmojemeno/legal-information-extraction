@@ -1,0 +1,116 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.224025+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "0 Ts 42_2003.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 42_2003.txt",
+  "task_count": 2,
+  "tasks": [
+    {
+      "task_id": "0 Ts 42_2003.txt::section::34381::1",
+      "document_id": "0 Ts 42_2003.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 42_2003.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "§ 64",
+      "snippet_doc_start": 34121,
+      "snippet_doc_end": 34645,
+      "snippet_text": "nichž je možné \npožadovat doručení od policejního orgánu, do jehož působnosti tato činnost patří zcela okrajově \na výjimečně, a harmonizace s úpravou obsaženou v občanském soudním řádu. \n \nNová judikatura: \nč. 38/2003-II Sb. rozh. tr. -  Uložení zásilky podle § 64 odst. 2 tr. ř a z něj vyplývající fikce \ndoručení zásilky adresátovi nejsou vyloučeny u zásilky, jíž je obžalovaný jako odvolatel \nvyrozumíván o konání veřejného zasedání o odvolání. \n \nNová úprava doručování není podle poznatků získaných průzkumem pro práci ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 64",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "141/1961 Sb.",
+          "law_name_text": "tr. ř.",
+          "declared_alias_text": "tr. ř.",
+          "detail_number": "64",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.97,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::0 Ts 42_2003.txt::34381:34385:section",
+        "llm_route": "czech_hard",
+        "route_reason": "current_queue::unresolved",
+        "deterministic_status": "deterministic_failed_unresolved",
+        "resolver_stage": "Level 7: Unresolved",
+        "candidate_law_ids": [
+          "140/1961 Sb.",
+          "141/1961 Sb.",
+          "283/2004 Sb.",
+          "30/2002 Sb.",
+          "42/2003 Sb."
+        ]
+      }
+    },
+    {
+      "task_id": "0 Ts 42_2003.txt::article::48776::14",
+      "document_id": "0 Ts 42_2003.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 42_2003.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "čl. 5",
+      "snippet_doc_start": 48516,
+      "snippet_doc_end": 49041,
+      "snippet_text": "konkrétní skutečností, jež zakládá samo o \nsobě důvodnou obavu, že se obviněný bude vyhýbat trestnímu stíhání, a to buď tím, že uprchne, \nanebo tím, že se bude skrývat.  \nZ pohledu ústavních kautel (zejména pak čl. 8 odst. 5 Listiny základních práv a svobod a čl. 5 \nodst. 1 Úmluvy o ochraně lidských práv a základních svobod) nutno ale pro aplikaci takto \nvyloženého předmětného zákonného ustanovení vymezit prostor ústavně konformní interpretace.  \nVýklad zákonné podmínky „hrozby vysokým trestem“ Ústavní soud interpretuje",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "article",
+          "classification": "foreign_law",
+          "law_id": null,
+          "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluvy",
+          "detail_number": "5",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::0 Ts 42_2003.txt::48776:48781:article",
+        "llm_route": "foreign_easy",
+        "route_reason": "current_queue::foreign_law",
+        "deterministic_status": "deterministic_typed_foreign_law_but_left_for_semantic_normalization",
+        "resolver_stage": "Typed: Foreign Law",
+        "candidate_law_ids": [
+          "1/2003 Sb.",
+          "140/1961 Sb.",
+          "141/1961 Sb.",
+          "16/2003 Sb.",
+          "18/2003 Sb.",
+          "2/1993 Sb.",
+          "209/1992 Sb.",
+          "283/2004 Sb.",
+          "293/1993 Sb.",
+          "3/2003 Sb.",
+          "30/2002 Sb.",
+          "30/2003 Sb.",
+          "34/2003 Sb.",
+          "42/2003 Sb.",
+          "44/2003 Sb.",
+          "5/2003 Sb.",
+          "51/2002 Sb.",
+          "52/2002 Sb.",
+          "58/2002 Sb.",
+          "59/2003 Sb.",
+          "7/2003 Sb."
+        ]
+      }
+    }
+  ]
+}

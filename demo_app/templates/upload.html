@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Upload PDF{% endblock %}
+
+{% block content %}
+<section class="hero-panel">
+  <div class="hero-copy">
+    <p class="eyebrow">Thesis Demo</p>
+    <h1>Inspect legal references inside an uploaded decision.</h1>
+    <p class="hero-text">
+      Upload one PDF, extract its text, run the Structured Precision Pipeline (SPP), and inspect law references and decision references inline.
+    </p>
+  </div>
+  <form class="upload-card" id="upload-form" action="/analyze" method="post" enctype="multipart/form-data">
+    <label class="file-label" for="file">Decision PDF</label>
+    <div class="file-picker">
+      <label class="file-picker-button" for="file">Choose PDF</label>
+      <span class="file-picker-name" id="file-name">No file selected</span>
+    </div>
+    <input class="native-file-input" id="file" name="file" type="file" accept="application/pdf" required />
+    <label class="toggle-row" for="use-ai">
+      <input id="use-ai" name="use_ai" type="checkbox" value="true" />
+      <span class="toggle-switch" aria-hidden="true"></span>
+      <span>
+        <strong>Use AI-assisted review (BRL) for hard reference cases</strong>
+        <small>The SPP result appears immediately, then BRL-reviewed law and decision findings are added in the background.</small>
+      </span>
+    </label>
+    <button class="primary-button" id="analyze-button" type="submit">Analyze document</button>
+    <p class="hint-text">The app uses the existing extraction and linking modules from the repository.</p>
+    {% if error %}
+    <div class="error-box">{{ error }}</div>
+    {% endif %}
+  </form>
+</section>
+
+<section class="analysis-progress-panel" id="analysis-progress-panel" hidden aria-live="polite">
+  <div class="analysis-progress-copy">
+    <p class="eyebrow">SPP Analysis</p>
+    <h2>Preparing the reference view.</h2>
+    <p class="hero-text" id="analysis-progress-message">
+      Upload received. Starting SPP extraction now.
+    </p>
+  </div>
+  <div class="analysis-progress-card">
+    <div class="analysis-progress-bar-shell" aria-hidden="true">
+      <div class="analysis-progress-bar" id="analysis-progress-bar"></div>
+    </div>
+    <div class="analysis-progress-meta">
+      <strong id="analysis-progress-label">Uploading PDF</strong>
+      <span id="analysis-progress-value">8%</span>
+    </div>
+    <p class="hint-text">
+      The bar tracks the SPP stages of the upload flow. Final timing still depends on PDF extraction and text size.
+    </p>
+  </div>
+</section>
+{% endblock %}

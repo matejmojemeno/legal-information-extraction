@@ -1,0 +1,23 @@
+<div class="reference-list">
+  {% for item in result.law_items %}
+  <div class="reference-card-wrap{% if item.ai_assisted %} ai-assisted{% endif %}" data-kind="{{ item.kind }}">
+    <button class="reference-card{% if item.external_url %} has-target{% endif %}" data-target-id="{{ item.id }}" data-kind="{{ item.kind }}" type="button">
+      <div class="badge-row">
+        <span class="reference-badge law">{{ item.badge }}</span>
+        {% if item.ai_assisted %}
+        <span class="reference-badge ai">BRL</span>
+        {% endif %}
+      </div>
+      <strong>{{ item.surface }}</strong>
+      <span class="reference-meta">{{ item.title }}</span>
+      <span class="reference-detail">{{ item.detail }}</span>
+    </button>
+    {% if item.external_url %}
+    <div class="card-footer">
+      <span class="card-footer-label">Resolved law available</span>
+      <a class="card-link" href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">Open law text</a>
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,167 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "230526.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/230526.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.422078+00:00",
+  "citations": [
+    {
+      "task_id": "230526.txt::section_or_article::174::314",
+      "finding_id": "1",
+      "citation_text": "§ 16",
+      "citation_type": "section",
+      "start_char": 174,
+      "end_char": 178,
+      "law_id": "325/1999 Sb.",
+      "law_name_text": "zákona č. 325/1999 Sb., o azylu",
+      "declared_alias_text": "zákon o azylu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "16",
+      "detail_odst": [
+        "1"
+      ],
+      "detail_pism": [
+        "g"
+      ],
+      "note": "manual_v1:azyl_explicit",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::law_id_mention::207::315",
+      "finding_id": "1",
+      "citation_text": "325/1999 Sb.",
+      "citation_type": "other_normative",
+      "start_char": 207,
+      "end_char": 219,
+      "law_id": "325/1999 Sb.",
+      "law_name_text": "zákon o azylu",
+      "declared_alias_text": "zákon o azylu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": null,
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:azyl_law_id",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::section_or_article::712::316",
+      "finding_id": "1",
+      "citation_text": "§ 47",
+      "citation_type": "section",
+      "start_char": 712,
+      "end_char": 716,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "47",
+      "detail_odst": [],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:srs_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::section_or_article::748::317",
+      "finding_id": "1",
+      "citation_text": "§ 33",
+      "citation_type": "section",
+      "start_char": 748,
+      "end_char": 752,
+      "law_id": "325/1999 Sb.",
+      "law_name_text": "zákona o azylu",
+      "declared_alias_text": "zákon o azylu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "33",
+      "detail_odst": [],
+      "detail_pism": [
+        "b"
+      ],
+      "note": "manual_v1:azyl_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1550::318",
+      "finding_id": "1",
+      "citation_text": "§ 47",
+      "citation_type": "section",
+      "start_char": 1550,
+      "end_char": 1554,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "47",
+      "detail_odst": [],
+      "detail_pism": [
+        "c"
+      ],
+      "note": "manual_v1:srs_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1586::319",
+      "finding_id": "1",
+      "citation_text": "§ 33",
+      "citation_type": "section",
+      "start_char": 1586,
+      "end_char": 1590,
+      "law_id": "325/1999 Sb.",
+      "law_name_text": "zákona o azylu",
+      "declared_alias_text": "zákon o azylu",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "33",
+      "detail_odst": [],
+      "detail_pism": [
+        "b"
+      ],
+      "note": "manual_v1:azyl_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1652::320",
+      "finding_id": "1",
+      "citation_text": "§ 60",
+      "citation_type": "section",
+      "start_char": 1652,
+      "end_char": 1656,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "60",
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [],
+      "note": "manual_v1:srs_alias",
+      "snippet_warnings": []
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1678::321",
+      "finding_id": "1",
+      "citation_text": "§ 120",
+      "citation_type": "section",
+      "start_char": 1678,
+      "end_char": 1683,
+      "law_id": "150/2002 Sb.",
+      "law_name_text": "s. ř. s.",
+      "declared_alias_text": "s. ř. s.",
+      "classification": "czech_resolved",
+      "confidence": 0.99,
+      "detail_number": "120",
+      "detail_odst": [],
+      "detail_pism": [],
+      "note": "manual_v1:srs_alias",
+      "snippet_warnings": []
+    }
+  ]
+}

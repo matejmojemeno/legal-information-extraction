@@ -1,0 +1,85 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "pis8046.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/pis8046.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.247504+00:00",
+  "tasks": [
+    {
+      "task_id": "pis8046.txt::docref::1349::109",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 1349,
+      "snippet_doc_start": 1089,
+      "snippet_doc_end": 1609,
+      "snippet_text": "lnění veřejné zakázky \na doporučila zadavateli jako nejvhodnější nabídku: STAVOPLYN spol. s r.o., se \nsídlem K nádraží 63, 405 02 Děčín. \nStatutární orgán zadavatele, starosta obce Dolní Habartice Václav Roud, v souladu \ns doporučením komise dne 24.4.2001 pod č.j. 157-161/2001 rozeslal oznámení o výběru \nnejvhodnější nabídky všem uchazečům. \nPLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín I, za niž jedná \njednatel Jindřich Josefus (dále jen „uchazeč“), podala proti tomuto rozhodnutí zadavatele \nnámitky",
+      "predicted_reference": {
+        "reference_text": "č.j. 157-161/2001",
+        "reference_prefix": "č.j.",
+        "reference_body": "157-161/2001",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 1349,
+        "raw_end": 1366,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "vateli jako nejvhodnější nabídku: STAVOPLYN spol. s r.o., se  sídlem K nádraží 63, 405 02 Děčín.  Statutární orgán zadavatele, starosta obce Dolní Habartice Václav Roud, v souladu  s doporučením komise dne 24.4.2001 pod č.j. 157-161/2001 rozeslal oznámení o výběru  nejvhodnější nabídky všem uchazečům.  PLYNEX spol. s r.o., se sídlem Oblouková 579/1, 405 01 Děčín I, za niž jedná  jednatel Jindřich Josefus (dále jen „uchazeč“), podala proti tomuto rozhodn"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. 157-161/2001",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "157-161/2001",
+          "decision_kind_hint": "",
+          "court_hint": "",
+          "confidence": 0.95,
+          "note": "manual_v1:local_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "pis8046.txt::docref::4731::110",
+      "document_id": "pis8046.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "candidate_prefix": "č.j.",
+      "candidate_start": 4731,
+      "snippet_doc_start": 4471,
+      "snippet_doc_end": 4991,
+      "snippet_text": "právní řízení z úřední moci, protože shledal porušení zákona ze strany zadavatele. \nV rozhodnutí Úřad zohlednil nabytí účinnosti jednotlivých novel zákona o zadávání \nveřejných zakázek. V této souvislosti pak poukazuje na rozhodnutí Vrchního soudu \nv Olomouci č.j. 2 A 5/99 ze dne 4.11.1999 (poslední odstavec na str. 8) z něhož vyplývá, že \nzávazný postup zadavatelů musí být vždy posuzován podle zákona o zadávání veřejných \nzakázek, účinného v době jejich zadání, avšak řízení před Úřadem musí být posuzováno vždy \npo",
+      "predicted_reference": {
+        "reference_text": "č.j. 2 A 5/99",
+        "reference_prefix": "č.j.",
+        "reference_body": "2 A 5/99",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4731,
+        "raw_end": 4744,
+        "decision_kind_hint": "rozhodnutí",
+        "court_hint": "Vrchního soudu",
+        "context": "edal porušení zákona ze strany zadavatele.  V rozhodnutí Úřad zohlednil nabytí účinnosti jednotlivých novel zákona o zadávání  veřejných zakázek. V této souvislosti pak poukazuje na rozhodnutí Vrchního soudu  v Olomouci č.j. 2 A 5/99 ze dne 4.11.1999 (poslední odstavec na str. 8) z něhož vyplývá, že  závazný postup zadavatelů musí být vždy posuzován podle zákona o zadávání veřejných  zakázek, účinného v době jejich zadání, avšak řízení před Úřadem m"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č.j. 2 A 5/99",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č.j.",
+          "reference_body": "2 A 5/99",
+          "decision_kind_hint": "rozhodnutí",
+          "court_hint": "Vrchního soudu v Olomouci",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    }
+  ]
+}

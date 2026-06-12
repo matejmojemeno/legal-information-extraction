@@ -1,0 +1,161 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "29 odo 1019_2006_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.188149+00:00",
+  "tasks": [
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::964::37",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 964,
+      "snippet_doc_start": 704,
+      "snippet_doc_end": 1224,
+      "snippet_text": "kcie měla činit 726,- až 747,- Kč, \ndomáhá se navrhovatel doplacení rozdílu ve výši 340,- Kč na jednu akcii, tj. při \nvlastnictví 1.740 kusů akcií částky 591.600,- Kč. \n \n \nNapadeným rozhodnutím Vrchní soud v Praze potvrdil usnesení ze dne 15. \nprosince 2004, č. j. 30 Cm 46/2004-29, kterým Městský soud v Praze zastavil řízení, \nžádnému z účastníků nepřiznal právo na náhradu nákladů řízení a rozhodl o vrácení \nsoudního poplatku navrhovateli. Shodně se soudem prvního stupně dospěl k závěru, \nže pokračování v řízení b",
+      "predicted_reference": {
+        "reference_text": "č. j. 30 Cm 46/2004-29",
+        "reference_prefix": "č. j.",
+        "reference_body": "30 Cm 46/2004-29",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 964,
+        "raw_end": 986,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Vrchního soudu",
+        "context": "há se navrhovatel doplacení rozdílu ve výši 340,- Kč na jednu akcii, tj. při  vlastnictví 1.740 kusů akcií částky 591.600,- Kč.      Napadeným rozhodnutím Vrchní soud v Praze potvrdil usnesení ze dne 15.  prosince 2004, č. j. 30 Cm 46/2004-29, kterým Městský soud v Praze zastavil řízení,  žádnému z účastníků nepřiznal právo na náhradu nákladů řízení a rozhodl o vrácení  soudního poplatku navrhovateli. Shodně se soudem prvního stupně dospěl k závěru,  že pokr"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 30 Cm 46/2004-29",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "30 Cm 46/2004-29",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::1533::38",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 1533,
+      "snippet_doc_start": 1273,
+      "snippet_doc_end": 1793,
+      "snippet_text": "§ 83 odst. \n2 písm. d) zák. č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), \ntedy překážka věci zahájené dříve. Za toto dříve zahájené řízení, tvořící překážku \nřízení v projednávané věci, považoval řízení vedené u Městského soudu v Praze pod \nsp. zn. 28 Cm 52/2003, v němž se navrhovatel Ing. M. H. domáhá vůči společnosti  \nR. H. a. s. (dále jen „společnost“) doplatku rozdílu ceny akcií společnosti P. i. \nh. a. s., a to rozdílu mezi cenou dle nabídky převzetí akcií a cenou přiměřenou \nstanovenou zna",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Cm 52/2003",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Cm 52/2003",
+        "reference_type": "spisova_znacka",
+        "raw_start": 1533,
+        "raw_end": 1554,
+        "decision_kind_hint": null,
+        "court_hint": "Městského soudu",
+        "context": "b., občanského soudního řádu (dále jen „o. s. ř.“),  tedy překážka věci zahájené dříve. Za toto dříve zahájené řízení, tvořící překážku  řízení v projednávané věci, považoval řízení vedené u Městského soudu v Praze pod  sp. zn. 28 Cm 52/2003, v němž se navrhovatel Ing. M. H. domáhá vůči společnosti   R. H. a. s. (dále jen „společnost“) doplatku rozdílu ceny akcií společnosti P. i.  h. a. s., a to rozdílu mezi cenou dle nabídky převzetí akcií a cenou přiměře"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Cm 52/2003",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Cm 52/2003",
+          "decision_kind_hint": "",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::3810::39",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 3810,
+      "snippet_doc_start": 3550,
+      "snippet_doc_end": 4070,
+      "snippet_text": "vu, zde vázána na jednání stejného \nžalovaného, nemusí být naplněna podmínka stejnosti účastníků, tedy v dané \nsouvislosti i „žalobců“, pro účely závěru o existenci dané překážky řízení.  \n \nŘízení zahájené ve věci Ing. M. H., vedené u soudu prvého stupně pod sp. zn. 28 \nCm 52/2003, tedy zakládá existenci neodstranitelné překážky řízení a brání tomu, \naby řízení v této věci probíhalo současně. Závěrem odvolací soud uvedl, že \nnavrhovateli přísluší právo vedlejšího účastenství (§ 93 o. s. ř.).  \n \n \nProti usnesení o",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 28 Cm 52/2003",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "28 Cm 52/2003",
+        "reference_type": "spisova_znacka",
+        "raw_start": 3810,
+        "raw_end": 3832,
+        "decision_kind_hint": null,
+        "court_hint": null,
+        "context": "vaného, nemusí být naplněna podmínka stejnosti účastníků, tedy v dané  souvislosti i „žalobců“, pro účely závěru o existenci dané překážky řízení.     Řízení zahájené ve věci Ing. M. H., vedené u soudu prvého stupně pod sp. zn. 28  Cm 52/2003, tedy zakládá existenci neodstranitelné překážky řízení a brání tomu,  aby řízení v této věci probíhalo současně. Závěrem odvolací soud uvedl, že  navrhovateli přísluší právo vedlejšího účastenství (§ 93 o. s. ř.).     "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 28 Cm 52/2003",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "28 Cm 52/2003",
+          "decision_kind_hint": "",
+          "court_hint": "Městského soudu v Praze",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "29 odo 1019_2006_openElement.txt::docref::9158::40",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 9158,
+      "snippet_doc_start": 8898,
+      "snippet_doc_end": 9418,
+      "snippet_text": "200e odst. 3 o. \ns. ř. ustanovením § 94 odst. 1 větou první o. s. ř. V tomto řízení proto nepřipadá \nv úvahu aplikace § 93 o. s. ř., neboť vedlejší účastenství je přípustné pouze v \nřízení sporném (srov. závěry usnesení Nejvyššího soudu ze dne 25. února 1999, sp. \nzn. 20 Cdo 91/99, uveřejněného v časopise Soudní judikatura č. 7, ročník 99, pod \nčíslem 73).  \n \n \nUstanovení § 83 odst. 2 písm. d) o. s. ř. upravuje překážku litispendence \npro věci, o nichž tak stanoví zvláštní právní předpis. Odvolací soud založil své",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 20 Cdo 91/99",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "20 Cdo 91/99",
+        "reference_type": "spisova_znacka",
+        "raw_start": 9158,
+        "raw_end": 9179,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího soudu",
+        "context": "odst. 1 větou první o. s. ř. V tomto řízení proto nepřipadá  v úvahu aplikace § 93 o. s. ř., neboť vedlejší účastenství je přípustné pouze v  řízení sporném (srov. závěry usnesení Nejvyššího soudu ze dne 25. února 1999, sp.  zn. 20 Cdo 91/99, uveřejněného v časopise Soudní judikatura č. 7, ročník 99, pod  číslem 73).       Ustanovení § 83 odst. 2 písm. d) o. s. ř. upravuje překážku litispendence  pro věci, o nichž tak stanoví zvláštní právní předpis. Odvola"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 20 Cdo 91/99",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "20 Cdo 91/99",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    }
+  ]
+}

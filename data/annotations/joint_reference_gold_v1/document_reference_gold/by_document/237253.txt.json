@@ -1,0 +1,26 @@
+{
+  "schema_version": "document_reference_gold_doc_v1",
+  "document_id": "237253.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/237253.txt",
+  "exported_at_utc": "2026-03-25T16:07:57.416335+00:00",
+  "references": [
+    {
+      "document_id": "237253.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/237253.txt",
+      "task_id": "237253.txt::docref::119::57",
+      "classification": "document_reference",
+      "reference_text": "č. j. OAM-1804/VL-11-C10-2003",
+      "start_char": 119,
+      "end_char": 148,
+      "reference_type": "cislo_jednaci",
+      "reference_prefix": "č. j.",
+      "reference_body": "OAM-1804/VL-11-C10-2003",
+      "decision_kind_hint": "rozhodnutí",
+      "court_hint": "",
+      "confidence": 0.99,
+      "note": "manual_v1:structured_docref"
+    }
+  ]
+}

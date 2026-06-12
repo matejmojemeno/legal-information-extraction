@@ -1,0 +1,47 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "2021_S0666.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2021_S0666.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.238111+00:00",
+  "tasks": [
+    {
+      "task_id": "2021_S0666.txt::docref::8723::97",
+      "document_id": "2021_S0666.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 8723,
+      "snippet_doc_start": 8463,
+      "snippet_doc_end": 8983,
+      "snippet_text": " s jakou došlo k porušení právem chráněných hodnot \na zájmů v konkrétním případě. Z hlediska určení výměry pokuty je proto nutno hodnotit nejen \njaké následky byly přestupkem způsobeny, ale také jakou měly intenzitu (srov. rozsudek \nNejvyššího správního soudu sp. zn. 1 Afs 106/2012 ze dne 6. 6. 2013). \n24. \nCo se týče posouzení povahy a závažnosti spáchaného přestupku v šetřeném případě, Úřad \nkonstatuje, že postupem obviněného došlo k ohrožení právem chráněného zájmu \nspočívajícího v možnosti zpětné kontroly veřej",
+      "predicted_reference": {
+        "reference_text": "sp. zn. 1 Afs 106/2012",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "1 Afs 106/2012",
+        "reference_type": "spisova_znacka",
+        "raw_start": 8723,
+        "raw_end": 8745,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "ých hodnot  a zájmů v konkrétním případě. Z hlediska určení výměry pokuty je proto nutno hodnotit nejen  jaké následky byly přestupkem způsobeny, ale také jakou měly intenzitu (srov. rozsudek  Nejvyššího správního soudu sp. zn. 1 Afs 106/2012 ze dne 6. 6. 2013).  24.  Co se týče posouzení povahy a závažnosti spáchaného přestupku v šetřeném případě, Úřad  konstatuje, že postupem obviněného došlo k ohrožení právem chráněného zájmu  spočívajícího v možnosti zpě"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. 1 Afs 106/2012",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "1 Afs 106/2012",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:court_decision_reference"
+        }
+      ]
+    }
+  ]
+}

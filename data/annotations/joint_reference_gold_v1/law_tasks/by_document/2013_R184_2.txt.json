@@ -1,0 +1,1368 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.167534+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "2013_R184_2.txt",
+  "source": "uohs",
+  "document_path": "data/processed/uohs/2013_R184_2.txt",
+  "task_count": 45,
+  "tasks": [
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::169::423",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 112",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 434,
+      "snippet_text": " \nZadávací řízení a správní řízení před Úřadem pro ochranu hospodářské soutěže \n1. \nÚřad pro ochranu hospodářské soutěže (dále jen „Úřad“), jako orgán příslušný podle  \n§ 112 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů \n(dále jen „zákon“)1, k výkonu dohledu nad zadáváním veřejných zakázek, obdržel dne  \n11. 6. 2012 podnět k přezkoumání postupu zadavatele – Ústecký kraj, IČ 70892156, se sídlem \nVelká",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 112",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::law_id_mention::185::424",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "137/2006 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 457,
+      "snippet_text": " \nZadávací řízení a správní řízení před Úřadem pro ochranu hospodářské soutěže \n1. \nÚřad pro ochranu hospodářské soutěže (dále jen „Úřad“), jako orgán příslušný podle  \n§ 112 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů \n(dále jen „zákon“)1, k výkonu dohledu nad zadáváním veřejných zakázek, obdržel dne  \n11. 6. 2012 podnět k přezkoumání postupu zadavatele – Ústecký kraj, IČ 70892156, se sídlem \nVelká Hradební 3118/48, 400 ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "137/2006 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon o veřejných zakázkách",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::2836::425",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 2576,
+      "snippet_doc_end": 3101,
+      "snippet_text": "yla mezi zadavatelem a vybraným \nuchazečem podepsána smlouva o dílo.  \n6. \nNa základě shora uvedených zjištěných skutečností získal Úřad pochybnosti o tom, zda \nvymezením předmětu veřejné zakázky nedošlo ze strany zadavatele ke spáchání správního \ndeliktu dle § 120 odst. 1 písm. a) zákona tím, že zadavatel v rozporu s § 16 odst. 2 ve spojení \ns § 6 zákona zahrnul do předpokládané hodnoty podlimitní veřejné zakázky na stavební \npráce i dodávky, jež by v případě, pokud by byly zadávány samostatně, tvořily nadlimitní \nveře",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::2896::426",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 2636,
+      "snippet_doc_end": 3160,
+      "snippet_text": " o dílo.  \n6. \nNa základě shora uvedených zjištěných skutečností získal Úřad pochybnosti o tom, zda \nvymezením předmětu veřejné zakázky nedošlo ze strany zadavatele ke spáchání správního \ndeliktu dle § 120 odst. 1 písm. a) zákona tím, že zadavatel v rozporu s § 16 odst. 2 ve spojení \ns § 6 zákona zahrnul do předpokládané hodnoty podlimitní veřejné zakázky na stavební \npráce i dodávky, jež by v případě, pokud by byly zadávány samostatně, tvořily nadlimitní \nveřejnou zakázku. Z tohoto důvodu Úřad zahájil ve věci přezkoum",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::2923::427",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 2663,
+      "snippet_doc_end": 3186,
+      "snippet_text": "hora uvedených zjištěných skutečností získal Úřad pochybnosti o tom, zda \nvymezením předmětu veřejné zakázky nedošlo ze strany zadavatele ke spáchání správního \ndeliktu dle § 120 odst. 1 písm. a) zákona tím, že zadavatel v rozporu s § 16 odst. 2 ve spojení \ns § 6 zákona zahrnul do předpokládané hodnoty podlimitní veřejné zakázky na stavební \npráce i dodávky, jež by v případě, pokud by byly zadávány samostatně, tvořily nadlimitní \nveřejnou zakázku. Z tohoto důvodu Úřad zahájil ve věci přezkoumání úkonů zadavatele  \npři",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::3479::428",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 3219,
+      "snippet_doc_end": 3744,
+      "snippet_text": " řízení z úřední povinnosti.   \nNapadené rozhodnutí \n7. \nDne 6. 6. 2013 vydal Úřad rozhodnutí č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn (dále \njen „napadené rozhodnutí“), v jehož výroku I. zkonstatoval, že se zadavatel dopustil \nspáchání správního deliktu dle § 120 odst. 1 písm. a) zákona tím, že nedodržel postup \nstanovený v § 16 odst. 2 písm. b) zákona ve spojení s § 6 zákona, když do předpokládané \nhodnoty podlimitní veřejné zakázky na stavební práce zahrnul i předpokládanou hodnotu \ndodávek, jež nejsou nezbytné k pr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::3547::429",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 3287,
+      "snippet_doc_end": 3811,
+      "snippet_text": "013 vydal Úřad rozhodnutí č. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn (dále \njen „napadené rozhodnutí“), v jehož výroku I. zkonstatoval, že se zadavatel dopustil \nspáchání správního deliktu dle § 120 odst. 1 písm. a) zákona tím, že nedodržel postup \nstanovený v § 16 odst. 2 písm. b) zákona ve spojení s § 6 zákona, když do předpokládané \nhodnoty podlimitní veřejné zakázky na stavební práce zahrnul i předpokládanou hodnotu \ndodávek, jež nejsou nezbytné k provedení předmětu veřejné zakázky, a tyto dodávky tak byly \nzadávány",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::3589::430",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 3329,
+      "snippet_doc_end": 3852,
+      "snippet_text": "013/VZ-10502/2013/532/MKn (dále \njen „napadené rozhodnutí“), v jehož výroku I. zkonstatoval, že se zadavatel dopustil \nspáchání správního deliktu dle § 120 odst. 1 písm. a) zákona tím, že nedodržel postup \nstanovený v § 16 odst. 2 písm. b) zákona ve spojení s § 6 zákona, když do předpokládané \nhodnoty podlimitní veřejné zakázky na stavební práce zahrnul i předpokládanou hodnotu \ndodávek, jež nejsou nezbytné k provedení předmětu veřejné zakázky, a tyto dodávky tak byly \nzadávány podle ustanovení zákona, vztahujících se",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::4951::431",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 4691,
+      "snippet_doc_end": 5215,
+      "snippet_text": "ky, není natolik specifická, že by na trhu neexistoval \ndostatečný počet jejích dodavatelů. Uchazeči tedy měli možnost ucházet se o veřejnou \nzakázku za využití standardního subdodavatelského modelu.\n10. \nZa stěžejní ustanovení zákona v této věci označil Úřad § 16 odst. 2 písm. b) zákona, dle nějž \nplatí, že „do předpokládané hodnoty veřejné zakázky na stavební práce nesmí zadavatel \nzahrnout předpokládanou hodnotu dodávek či služeb, pokud tyto dodávky nebo služby nejsou \nnezbytné k provedení předmětu veřejné zakázky n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::6008::432",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 5748,
+      "snippet_doc_end": 6272,
+      "snippet_text": "tanovení. Dále uvedl, že v situaci \nšetřené veřejné zakázky, kdy je věcná nesouvislost dodávek a stavebních prací natolik zjevná \na markantní, je k naplnění účelu zákona nutné použít výkladu extenzivního.  \n12. \nDále Úřad zkoumal kumulativní naplnění podmínek § 16 odst. 2 písm. b) zákona. K naplnění \npodmínky – zahrnutí dodávek, které nejsou k provedení předmětu veřejné zakázky nezbytné, \nÚřad uvedl, že rozhodujícím je způsob zakomponování konkrétní dodávky do díla jako celku. \nZadavatel tedy musí posuzovat, zda bude u",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::law_id_mention::6941::433",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "77/2008 Sb.",
+      "snippet_doc_start": 6681,
+      "snippet_doc_end": 7212,
+      "snippet_text": "na stavební práce, nejsou nezbytné k provedení jejího předmětu. \n13. \nDále Úřad zkoumal naplnění podmínky hodnoty těchto dodávek, tedy, že pokud by byly \nzadávány samostatně, jednalo by se o nadlimitní veřejnou zakázku. Vzhledem k tomu,  \nže nařízení vlády č. 77/2008 Sb., o stanovení finančních limitů pro účely zákona o veřejných \nzakázkách, o vymezení zboží pořizovaného Českou republikou – Ministerstvem obrany,  \npro které platí zvláštní finanční limit, a o přepočtech částek stanovených v zákoně  \no veřejných zakázkách v eur",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "77/2008 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "77/2008 Sb.",
+          "law_name_text": "nařízení vlády o stanovení finančních limitů pro účely zákona o veřejných zakázkách",
+          "declared_alias_text": "nařízení vlády č. 77/2008 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:limits_nv_2008"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::9489::434",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 9229,
+      "snippet_doc_end": 9753,
+      "snippet_text": "hypotetický výrok. \n18. \nV souvislosti s argumentací, týkající se vymezení předmětu veřejné zakázky, odkazuje \nzadavatel na svá vyjádření, předložená v průběhu správního řízení, předcházejícího vydání \nnapadeného rozhodnutí. \n19. \nDále zadavatel napadá výklad § 16 odst. 2 zákona, konkrétně závěr Úřadu, dle nějž doslovný \nvýklad tohoto ustanovení by mohl představovat mezeru v právu, a tudíž je nutné užít výkladu \nextenzivního. Zadavatel vyjadřuje striktní nesouhlas s touto argumentací Úřadu, která dle něj \nznamená poruš",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::10090::435",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 9830,
+      "snippet_doc_end": 10354,
+      "snippet_text": "právní normy, je třeba zvolit ten, který vůbec, resp. v co nejmenší míře, zasahuje  \ndo určitého základního práva či svobody. V této souvislosti zadavatel odkazuje na judikaturu \nÚstavního soudu. \n20. \nSoučasně je zadavatel přesvědčen, že k naplnění požadavků § 16 odst. 2 zákona musejí být \nkumulativně naplněny zde definované podmínky. Zadavatel vylučuje existenci podmínky, \nuvedené v § 16 odst. 2 písm. a) zákona (zahrnutí sporných dodávek do předpokládané \nhodnoty veřejné zakázky na stavební práce by znamenalo, že by ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::10218::436",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 9958,
+      "snippet_doc_end": 10482,
+      "snippet_text": "této souvislosti zadavatel odkazuje na judikaturu \nÚstavního soudu. \n20. \nSoučasně je zadavatel přesvědčen, že k naplnění požadavků § 16 odst. 2 zákona musejí být \nkumulativně naplněny zde definované podmínky. Zadavatel vylučuje existenci podmínky, \nuvedené v § 16 odst. 2 písm. a) zákona (zahrnutí sporných dodávek do předpokládané \nhodnoty veřejné zakázky na stavební práce by znamenalo, že by nemusely být zadány  \nv zadávacím řízení v souladu se zákonem), neboť z žádných důkazů nelze dovodit,  \nže by zadavatel předpokl",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::10763::437",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 10503,
+      "snippet_doc_end": 11027,
+      "snippet_text": "ných dodávek zahrnul do předpokládané \nhodnoty veřejné zakázky úmyslně, právě z důvodu, aby pro ně nemusel realizovat \nsamostatné zadávací řízení. \n21. \nZadavatel se neztotožňuje se závěrem Úřadu, dle nějž je pro šetřený případ relevantní písm. \nb) ustanovení § 16 odst. 2 zákona. I v situaci, kdy by byly dotčené dodávky zajišťovány \nodděleně od stavebních prací, jednalo by se o několik samostatných veřejných zakázek  \nna dodávky. Buď by šlo o veřejné zakázky malého rozsahu, nebo o podlimitní veřejné \nzakázky. Jejich př",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::11904::438",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 11644,
+      "snippet_doc_end": 12167,
+      "snippet_text": "ech napadeného rozhodnutí si Úřad \nprotiřečí, jeho argumentace je rozporná, což má za následek nepřezkoumatelnost \nnapadeného rozhodnutí. \n24. \nZávěr, že zadavatel při zadávání veřejné zakázky neoprávněně omezil soutěžní prostředí  \na tím se dopustil porušení § 6 zákona, pokládá zadavatel za nesprávný a neodůvodněný. Toto \ntvrzení se Úřad nepokusil dle zadavatele nijak dokázat, což způsobuje nezákonnost \nnapadeného rozhodnutí. \n25. \nZe skutečnosti, že zadavatel v zadávacím řízení pro veřejnou zakázku obdržel 23 žádost",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::15077::439",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 87",
+      "snippet_doc_start": 14817,
+      "snippet_doc_end": 15341,
+      "snippet_text": "e zrušení napadeného rozhodnutí a zastavení správního \nřízení, příp. změnu napadeného rozhodnutí tak, že bude zrušen výrok o uložené pokutě,  \npříp. uložená pokuta snížena na symbolickou částku.  \nŘízení o rozkladu \n35. \nÚřad neshledal důvody pro postup podle § 87 zákona č. 500/2004 Sb., správní řád, ve znění \npozdějších předpisů (dále jen „správní řád“), a v souladu s ustanovením § 88 odst. 1 \nsprávního řádu postoupil věc orgánu rozhodujícímu o rozkladu. \nStanovisko předsedy Úřadu \n36. \nPo projednání rozkladu a vešker",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 87",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_2004"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::law_id_mention::15092::440",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "500/2004 Sb.",
+      "snippet_doc_start": 14832,
+      "snippet_doc_end": 15364,
+      "snippet_text": "eného rozhodnutí a zastavení správního \nřízení, příp. změnu napadeného rozhodnutí tak, že bude zrušen výrok o uložené pokutě,  \npříp. uložená pokuta snížena na symbolickou částku.  \nŘízení o rozkladu \n35. \nÚřad neshledal důvody pro postup podle § 87 zákona č. 500/2004 Sb., správní řád, ve znění \npozdějších předpisů (dále jen „správní řád“), a v souladu s ustanovením § 88 odst. 1 \nsprávního řádu postoupil věc orgánu rozhodujícímu o rozkladu. \nStanovisko předsedy Úřadu \n36. \nPo projednání rozkladu a veškerého spisového materiálu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "500/2004 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_2004_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::15201::441",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 88",
+      "snippet_doc_start": 14941,
+      "snippet_doc_end": 15465,
+      "snippet_text": " uložené pokutě,  \npříp. uložená pokuta snížena na symbolickou částku.  \nŘízení o rozkladu \n35. \nÚřad neshledal důvody pro postup podle § 87 zákona č. 500/2004 Sb., správní řád, ve znění \npozdějších předpisů (dále jen „správní řád“), a v souladu s ustanovením § 88 odst. 1 \nsprávního řádu postoupil věc orgánu rozhodujícímu o rozkladu. \nStanovisko předsedy Úřadu \n36. \nPo projednání rozkladu a veškerého spisového materiálu rozkladovou komisí, jmenovanou \npodle § 152 odst. 3 správního řádu, a po posouzení případu ve všech ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 88",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_2004"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::15403::442",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 152",
+      "snippet_doc_start": 15143,
+      "snippet_doc_end": 15668,
+      "snippet_text": "dpisů (dále jen „správní řád“), a v souladu s ustanovením § 88 odst. 1 \nsprávního řádu postoupil věc orgánu rozhodujícímu o rozkladu. \nStanovisko předsedy Úřadu \n36. \nPo projednání rozkladu a veškerého spisového materiálu rozkladovou komisí, jmenovanou \npodle § 152 odst. 3 správního řádu, a po posouzení případu ve všech jeho vzájemných \nsouvislostech, jsem podle § 89 odst. 2 správního řádu přezkoumal soulad napadeného \nrozhodnutí s právními předpisy a jeho správnost v rozsahu námitek uvedených v rozkladu, \na s přihlédnu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 152",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_2004"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::15508::443",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 89",
+      "snippet_doc_start": 15248,
+      "snippet_doc_end": 15772,
+      "snippet_text": "nu rozhodujícímu o rozkladu. \nStanovisko předsedy Úřadu \n36. \nPo projednání rozkladu a veškerého spisového materiálu rozkladovou komisí, jmenovanou \npodle § 152 odst. 3 správního řádu, a po posouzení případu ve všech jeho vzájemných \nsouvislostech, jsem podle § 89 odst. 2 správního řádu přezkoumal soulad napadeného \nrozhodnutí s právními předpisy a jeho správnost v rozsahu námitek uvedených v rozkladu, \na s přihlédnutím k návrhu rozkladové komise dospěl k následujícímu závěru. \n37. \nÚřad \ntím, \nže \nsvým \nrozhodnutím \nč",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 89",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "500/2004 Sb.",
+          "law_name_text": "správní řád",
+          "declared_alias_text": "správní řád",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:spravni_rad_2004"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::15882::444",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 15622,
+      "snippet_doc_end": 16147,
+      "snippet_text": "u námitek uvedených v rozkladu, \na s přihlédnutím k návrhu rozkladové komise dospěl k následujícímu závěru. \n37. \nÚřad \ntím, \nže \nsvým \nrozhodnutím \nč. j. ÚOHS-S49/2013/VZ-10502/2013/532/MKn  \nze dne 6. 6. 2013, kterým rozhodl o spáchání správního deliktu dle § 120 odst. 1 písm. a) \nzákona zadavatelem, nerozhodl správně a v souladu se zákonem. V další části odůvodnění \ntohoto rozhodnutí budou v podrobnostech rozvedeny důvody, pro které jsem přistoupil  \nke zrušení napadeného rozhodnutí a vrácení věci Úřadu k novému proj",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::17031::445",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 9",
+      "snippet_doc_start": 16771,
+      "snippet_doc_end": 17294,
+      "snippet_text": "ezohlednil možnost, že zadavatel mohl \nporušit zákon tím, že potenciální dodavatele dodávek a služeb, které byly podřazeny pod \npředmět veřejné zakázky, skrytě diskriminoval prostřednictvím příliš široce vymezeného \npředmětu veřejné zakázky. \n39. \nV souladu s § 9 odst. 2 zákona platí, že veřejnou zakázkou na stavební práce je též veřejná \nzakázka, jejímž předmětem je vedle plnění podle § 9 odst. 1 zákona rovněž poskytnutí \ndodávek či služeb nezbytných k provedení předmětu veřejné zakázky dodavatelem. Pomocí \nvýkladu a",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 9",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::17160::446",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 9",
+      "snippet_doc_start": 16900,
+      "snippet_doc_end": 17423,
+      "snippet_text": "ředmět veřejné zakázky, skrytě diskriminoval prostřednictvím příliš široce vymezeného \npředmětu veřejné zakázky. \n39. \nV souladu s § 9 odst. 2 zákona platí, že veřejnou zakázkou na stavební práce je též veřejná \nzakázka, jejímž předmětem je vedle plnění podle § 9 odst. 1 zákona rovněž poskytnutí \ndodávek či služeb nezbytných k provedení předmětu veřejné zakázky dodavatelem. Pomocí \nvýkladu a contrario pak toto ustanovení zákona říká, že předmětem dodávek, resp. služeb, \nkteré je možné zadávat jako součást veřejné zaká",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 9",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::19167::447",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 18907,
+      "snippet_doc_end": 19430,
+      "snippet_text": "zákon o veřejných zakázkách ani jiný zákon nevymezuje, jaké plnění může být \nv rámci předmětu jedné veřejné zakázky „navázáno“ na jiné plnění, je zadavatel  \ni při samotném vymezení veřejné zakázky vázán pravidlem, podle něhož nesmí porušit zásady \npodávané z § 6 zákona, mimo jiné i zásadu nediskriminace (zásadu zákazu diskriminace)“. \nKrajský soud v Brně uzavřel, že dodržení této zásady tedy musí být Úřadem řádně \npřezkoumáváno i ve vztahu k samotnému předmětu veřejné zakázky, k němuž lze  \nv zadávacím řízení podávat",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::20024::448",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 19764,
+      "snippet_doc_end": 20287,
+      "snippet_text": "v rámci vymezení minimální úrovně kvalifikačních \npředpokladů, jsou jeho závěry plně aplikovatelné na jakékoli další postupy zadavatele \nv zadávacím řízení (shodně viz rozsudek Krajského soudu ze dne 1. 11. 2012 č. j.  \n62 Af 57/2011-96: „Dodržení zásad podle § 6 zákona, a tedy i zásady zákazu diskriminace, je \npro zadavatele povinností základní a obecnou. Dodržet zásadu zákazu diskriminace podle  \n§ 6 zákona, včetně zákazu diskriminace skryté, je třeba v průběhu celého zadávacího řízení při \njakémkoli úkonu zadavatel",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::20166::449",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 19906,
+      "snippet_doc_end": 20429,
+      "snippet_text": "ávacím řízení (shodně viz rozsudek Krajského soudu ze dne 1. 11. 2012 č. j.  \n62 Af 57/2011-96: „Dodržení zásad podle § 6 zákona, a tedy i zásady zákazu diskriminace, je \npro zadavatele povinností základní a obecnou. Dodržet zásadu zákazu diskriminace podle  \n§ 6 zákona, včetně zákazu diskriminace skryté, je třeba v průběhu celého zadávacího řízení při \njakémkoli úkonu zadavatele, jehož smyslem je dodržet konkrétní předepsaný postup podle \nzákona, a to bez ohledu na skutečnost, zda je obsahová a formální náplň takovéh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::25536::450",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 25276,
+      "snippet_doc_end": 25800,
+      "snippet_text": "ávky či služby.  \n51. \nNapadené rozhodnutí je v tomto smyslu nesprávné, neboť skutkový stav, jehož se tyto \nzávěry týkají, nebyl Úřadem dostatečně zjištěn. \n52. \nÚřad naopak shledal pochybení zadavatele v tom smyslu, že nebyl z jeho strany dodržen \npostup dle § 16 odst. 2 zákona v návaznosti na § 6 zákona. \n53. \nV souladu s tímto ustanovením zákona musí zadavatel postupovat tak, že do předpokládané \nhodnoty veřejné zakázky na stavební práce nesmí zahrnout předpokládanou hodnotu \ndodávek či služeb, pokud tyto dodávky ne",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::25572::451",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 6",
+      "snippet_doc_start": 25312,
+      "snippet_doc_end": 25835,
+      "snippet_text": "odnutí je v tomto smyslu nesprávné, neboť skutkový stav, jehož se tyto \nzávěry týkají, nebyl Úřadem dostatečně zjištěn. \n52. \nÚřad naopak shledal pochybení zadavatele v tom smyslu, že nebyl z jeho strany dodržen \npostup dle § 16 odst. 2 zákona v návaznosti na § 6 zákona. \n53. \nV souladu s tímto ustanovením zákona musí zadavatel postupovat tak, že do předpokládané \nhodnoty veřejné zakázky na stavební práce nesmí zahrnout předpokládanou hodnotu \ndodávek či služeb, pokud tyto dodávky nebo služby nejsou nezbytné k provede",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::26441::452",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 26181,
+      "snippet_doc_end": 26705,
+      "snippet_text": "dlimitní \nveřejné zakázky na dodávky či služby, nebo by byly uzavřeny podle ustanovení vztahujících \nse k veřejným zakázkám malého rozsahu, ačkoliv podle předpokládané hodnoty jde  \no podlimitní veřejné zakázky na dodávky či služby. \n54. \nKe shledání porušení § 16 odst. 2 zákona tedy musejí být splněny tyto podmínky: \na. \njedná se o veřejnou zakázku na stavební práce, jejíž součástí zadavatel učinil rovněž \ndodávky či služby, \nb. \ntyto dodávky nebo služby nesmí být nezbytné k provedení předmětu veřejné \nzakázky na stav",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::27684::453",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 8",
+      "snippet_doc_start": 27424,
+      "snippet_doc_end": 27947,
+      "snippet_text": "35561, které se vztahuje k zahájení \nzadávacího řízení pro veřejnou zakázku, byla veřejná zakázka označena jako veřejná zakázka \nna stavební práce. Rovněž sporné dodávky či služby odpovídají svým charakterem definici \ndodávek a služeb, jak ji vymezuje zákon v § 8 a § 10.  \n56. \nK charakteru dotčených dodávek a služeb jako nikoli nezbytných k provedení předmětu \nveřejné zakázky jsem se vyjádřil již výše. Tuto podmínku tedy rovněž považuji za splněnou. \n57. \nPodmínku, uvedenou pod písm. c) nepovažuji za relevantní pro n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 8",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::27690::454",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 10",
+      "snippet_doc_start": 27430,
+      "snippet_doc_end": 27954,
+      "snippet_text": " které se vztahuje k zahájení \nzadávacího řízení pro veřejnou zakázku, byla veřejná zakázka označena jako veřejná zakázka \nna stavební práce. Rovněž sporné dodávky či služby odpovídají svým charakterem definici \ndodávek a služeb, jak ji vymezuje zákon v § 8 a § 10.  \n56. \nK charakteru dotčených dodávek a služeb jako nikoli nezbytných k provedení předmětu \nveřejné zakázky jsem se vyjádřil již výše. Tuto podmínku tedy rovněž považuji za splněnou. \n57. \nPodmínku, uvedenou pod písm. c) nepovažuji za relevantní pro nyní šet",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 10",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::30601::455",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 13",
+      "snippet_doc_start": 30341,
+      "snippet_doc_end": 30865,
+      "snippet_text": "jako 30 610 198,40 Kč bez DPH  \na tedy dovozovat, že se jedná o nadlimitní veřejnou zakázku na dodávky, neboť nebylo \ndostatečně zjištěno, zda skutečně existuje věcná souvislost mezi těmito dodávkami, na jejímž \nzákladě by byl zadavatel povinen postupovat dle § 13 odst. 8 zákona (Při stanovení \npředpokládané hodnoty je zadavatel povinen sečíst předpokládané hodnoty obdobných, \nspolu souvisejících dodávek či služeb, které hodlá pořídit v průběhu účetního období.).  \n62. \nOdůvodnění napadeného rozhodnutí v této souvislos",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 13",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "8"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::31771::456",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 31511,
+      "snippet_doc_end": 32035,
+      "snippet_text": "vá, zda se skutečně v případě sporných dodávek jedná \no plnění stejného nebo srovnatelného druhu. Úřad pouze uvedl relevantní judikaturu, \nnicméně tuto nekonfrontoval se stavem věci.\n64. \nPokud jde o další rozkladové námitky, související s výkladem a aplikací § 16 odst. 2 zákona, \nuvádím následující. O kumulativním naplnění podmínek dle § 16 odst. 2 zákona (nezbytnost \ndodávek nebo služeb k provedení veřejné zakázky na stavební práce a podmínka dle  \n§ 16 odst. 2 písm. a) nebo b) zákona) není dle mého názoru pochyb. Úř",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::31850::457",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 31590,
+      "snippet_doc_end": 32114,
+      "snippet_text": "ovnatelného druhu. Úřad pouze uvedl relevantní judikaturu, \nnicméně tuto nekonfrontoval se stavem věci.\n64. \nPokud jde o další rozkladové námitky, související s výkladem a aplikací § 16 odst. 2 zákona, \nuvádím následující. O kumulativním naplnění podmínek dle § 16 odst. 2 zákona (nezbytnost \ndodávek nebo služeb k provedení veřejné zakázky na stavební práce a podmínka dle  \n§ 16 odst. 2 písm. a) nebo b) zákona) není dle mého názoru pochyb. Úřad tuto premisu uvedl \nv bodě 43 napadeného rozhodnutí, rovněž zadavatel v bodě",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::31966::458",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 31706,
+      "snippet_doc_end": 32230,
+      "snippet_text": "de o další rozkladové námitky, související s výkladem a aplikací § 16 odst. 2 zákona, \nuvádím následující. O kumulativním naplnění podmínek dle § 16 odst. 2 zákona (nezbytnost \ndodávek nebo služeb k provedení veřejné zakázky na stavební práce a podmínka dle  \n§ 16 odst. 2 písm. a) nebo b) zákona) není dle mého názoru pochyb. Úřad tuto premisu uvedl \nv bodě 43 napadeného rozhodnutí, rovněž zadavatel v bodě 7 a 9 tvrdí totéž. \n65. \nCo se týče extenzivního výkladu § 16 odst. 2 zákona, který Úřad v napadeném rozhodnutí \npr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 3,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::32172::459",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 31912,
+      "snippet_doc_end": 32436,
+      "snippet_text": "ní veřejné zakázky na stavební práce a podmínka dle  \n§ 16 odst. 2 písm. a) nebo b) zákona) není dle mého názoru pochyb. Úřad tuto premisu uvedl \nv bodě 43 napadeného rozhodnutí, rovněž zadavatel v bodě 7 a 9 tvrdí totéž. \n65. \nCo se týče extenzivního výkladu § 16 odst. 2 zákona, který Úřad v napadeném rozhodnutí \nprovedl, nepovažuji takový výklad za nutný. Dle mého názoru § 16 odst. 2 nepředstavuje \nmezeru v právu a jeho obsah je zcela jednoznačný. \n66. \nZadavatel dále namítá, že z žádného důkazu není možné dovodit, ž",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::32288::460",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 32028,
+      "snippet_doc_end": 32552,
+      "snippet_text": "hyb. Úřad tuto premisu uvedl \nv bodě 43 napadeného rozhodnutí, rovněž zadavatel v bodě 7 a 9 tvrdí totéž. \n65. \nCo se týče extenzivního výkladu § 16 odst. 2 zákona, který Úřad v napadeném rozhodnutí \nprovedl, nepovažuji takový výklad za nutný. Dle mého názoru § 16 odst. 2 nepředstavuje \nmezeru v právu a jeho obsah je zcela jednoznačný. \n66. \nZadavatel dále namítá, že z žádného důkazu není možné dovodit, že by předpokládané \nhodnoty dodávek úmyslně zahrnul do předpokládané hodnoty šetřené veřejné zakázky,  \naby pro tyto",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::32718::461",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 32458,
+      "snippet_doc_end": 32983,
+      "snippet_text": "dnoty dodávek úmyslně zahrnul do předpokládané hodnoty šetřené veřejné zakázky,  \naby pro tyto dodávky nemusel provádět samostatné zadávací řízení. Ačkoli jsem již výše \nuvedl, že skutečnost, zda se zadavatel skutečně dopustil spáchání správního deliktu dle  \n§ 120 odst. 1 písm. a) zákona tím, že by postupoval v rozporu s § 16 odst. 2 zákona, považuji \nza spornou, považuji za důležité vyjádřit se i k této související námitce rozkladu. Zákon \nkonstruuje odpovědnost zadavatele za spáchání správního deliktu dle § 120 odst.",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::32782::462",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 32522,
+      "snippet_doc_end": 33046,
+      "snippet_text": "eřejné zakázky,  \naby pro tyto dodávky nemusel provádět samostatné zadávací řízení. Ačkoli jsem již výše \nuvedl, že skutečnost, zda se zadavatel skutečně dopustil spáchání správního deliktu dle  \n§ 120 odst. 1 písm. a) zákona tím, že by postupoval v rozporu s § 16 odst. 2 zákona, považuji \nza spornou, považuji za důležité vyjádřit se i k této související námitce rozkladu. Zákon \nkonstruuje odpovědnost zadavatele za spáchání správního deliktu dle § 120 odst. 1 písm. a) \nzákona jako objektivní, což znamená, že zavinění z",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::32972::463",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 32712,
+      "snippet_doc_end": 33237,
+      "snippet_text": "dle  \n§ 120 odst. 1 písm. a) zákona tím, že by postupoval v rozporu s § 16 odst. 2 zákona, považuji \nza spornou, považuji za důležité vyjádřit se i k této související námitce rozkladu. Zákon \nkonstruuje odpovědnost zadavatele za spáchání správního deliktu dle § 120 odst. 1 písm. a) \nzákona jako objektivní, což znamená, že zavinění zadavatele je irelevantní. Pro konstatování \nspáchání správního deliktu zadavatele dle zákona tedy není třeba zjišťovat existenci úmyslu \nzadavatele. \n67. \nPokud jde o skutečnost, že zadavatel",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "a"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::37156::464",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 121",
+      "snippet_doc_start": 36896,
+      "snippet_doc_end": 37421,
+      "snippet_text": "ty \nsprávního deliktu, z jehož spáchání byl zadavatel shledán vinným. \n74. \nCo se týče výroku II. napadeného rozhodnutí, jakož i jeho odůvodnění, považuji za podstatné, \naby se Úřad v novém rozhodnutí výslovně vyrovnal se všemi hledisky, která zákon uvádí  \nv § 121 odst. 2. Není však možné posuzovat úmysl zadavatele či jeho pravděpodobnou \nmotivaci jakožto polehčující či přitěžující okolnost, pokud nemá Úřad tyto okolnosti  \nza jednoznačně prokázané. Vzhledem k tomu, že odpovědnost zadavatele za spáchaný \nsprávní delikt",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 121",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::38692::465",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 38432,
+      "snippet_doc_end": 38956,
+      "snippet_text": "ýroku uvedeno. Úřad pro ochranu hospodářské \nsoutěže je při svém rozhodování vázán právním názorem vysloveným v tomto rozhodnutí. \n78. \nÚřad v prvé řadě posoudí, zda jsou skutečně naplněny podmínky, za nichž lze postup \nzadavatele kvalifikovat jako rozporný s § 16 odst. 2 písm. b) zákona. Zejména se bude \nzabývat otázkou, zda sporné dodávky, resp. služby, spolu skutečně souvisejí natolik, aby je \nbylo možné považovat za plnění stejného či obdobného druhu a tedy zadávat jako jedinou \nveřejnou zakázku. \n79. \nPokud by tom",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::39118::466",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 38858,
+      "snippet_doc_end": 39382,
+      "snippet_text": "nění stejného či obdobného druhu a tedy zadávat jako jedinou \nveřejnou zakázku. \n79. \nPokud by tomu tak nebylo, a tyto dodávky, resp. služby by bylo možné rozdělit do více \nsamostatných veřejných zakázek, posoudí Úřad, zda i v takovém případě platí podmínky  \n§ 16 odst. 2 zákona, zejména tedy, zda tyto „nové“ veřejné zakázky by byly zadávány \nv přísnějším režimu, oproti zakázce podlimitní (kterou je šetřená veřejná zakázka na stavební \npráce), pokud by byly zadávány samostatně. \n80. \nDále Úřad znovu posoudí otázku, zda",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    },
+    {
+      "task_id": "2013_R184_2.txt::section_or_article::40153::467",
+      "document_id": "2013_R184_2.txt",
+      "source": "uohs",
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 121",
+      "snippet_doc_start": 39893,
+      "snippet_doc_end": 40330,
+      "snippet_text": "2. \nPokud Úřad shledá, že zadavatel nedodržel postup dle zákona, přičemž takový postup \npodstatně ovlivnil nebo mohl ovlivnit výběr nejvhodnější nabídky, znovu rozhodne o uložení \npokuty. V odůvodnění výše výměry této pokuty potom Úřad zohlední hlediska dle  \n§ 121 odst. 2 zákona a výslovně se vypořádá se závažností spáchaného správního deliktu, \nzejména se způsobem jeho spáchání, jeho následky a s okolnostmi, za nichž byl spáchán. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 121",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "137/2006 Sb.",
+          "law_name_text": "zákon o veřejných zakázkách",
+          "declared_alias_text": "zákon",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:verejne_zakazky_2006"
+        }
+      ]
+    }
+  ]
+}

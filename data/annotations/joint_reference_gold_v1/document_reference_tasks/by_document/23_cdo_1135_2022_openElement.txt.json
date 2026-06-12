@@ -1,0 +1,113 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "23 cdo 1135_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.180319+00:00",
+  "tasks": [
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::83::27",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 83,
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 343,
+      "snippet_text": ": \n \nOkresní soud ve Znojmě jako soud prvního stupně rozsudkem ze dne 19. 6. 2019, č. j. 7\nřízení. Soud prvního stupně vycházel z následujícího skutkového stavu. Mezi žalovaným a \nspolečností Q. I. byla dne 20. 1. 2009 uzavřena smlouva o smlouvě budoucí kupní o prodeji \npozemků v k. ú. XY za kupní cenu 5 500 000 Kč; kupní cena měla být uhraz",
+      "predicted_reference": null,
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j.",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Okresního soudu ve Znojmě",
+          "confidence": 0.83,
+          "note": "manual_v1:ocr_truncated_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::3468::28",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 3468,
+      "snippet_doc_start": 3208,
+      "snippet_doc_end": 3728,
+      "snippet_text": "romlčeným, neboť uplynula subjektivní i objektivní promlčecí doba podle § 107 odst. 1 \na 2 obč. zák., a žalobu s ohledem na námitku promlčení vznesenou žalovaným zamítl. \nK odvolání žalobce Krajský soud v Brně jako soud odvolací rozsudkem ze dne 21. 9. \n2021, č. j. 21 Co 123/2020-294, potvrdil ve výroku I rozsudek soudu prvního stupně, ve výroku \nII jej změnil ohledně výše náhrady nákladů řízení před soudem prvního stupně a rozhodl o \nnákladech odvolacího řízení. Odvolací soud se ztotožnil se skutkovými závěry soud",
+      "predicted_reference": {
+        "reference_text": "č. j. 21 Co 123/2020-294",
+        "reference_prefix": "č. j.",
+        "reference_body": "21 Co 123/2020-294",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 3468,
+        "raw_end": 3492,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Krajského soudu",
+        "context": "objektivní promlčecí doba podle § 107 odst. 1  a 2 obč. zák., a žalobu s ohledem na námitku promlčení vznesenou žalovaným zamítl.  K odvolání žalobce Krajský soud v Brně jako soud odvolací rozsudkem ze dne 21. 9.  2021, č. j. 21 Co 123/2020-294, potvrdil ve výroku I rozsudek soudu prvního stupně, ve výroku  II jej změnil ohledně výše náhrady nákladů řízení před soudem prvního stupně a rozhodl o  nákladech odvolacího řízení. Odvolací soud se ztotožnil se skutko"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 21 Co 123/2020-294",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "21 Co 123/2020-294",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Krajského soudu v Brně",
+          "confidence": 0.99,
+          "note": "manual_v1:ns_case_reference"
+        }
+      ]
+    },
+    {
+      "task_id": "23 cdo 1135_2022_openElement.txt::docref::9490::29",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "candidate_prefix": "sp. zn.",
+      "candidate_start": 9490,
+      "snippet_doc_start": 9230,
+      "snippet_doc_end": 9750,
+      "snippet_text": " splátkách s lhůtou splatnosti delší než 18 měsíců. \nPodle § 41 odst. 2 zákona o obcích právní úkony, které vyžadují schválení zastupitelstva \nobce, popřípadě rady obce, jsou bez tohoto schválení od počátku neplatné. \nÚstavní soud v nálezu ze dne 10. 7. 2001, sp. zn. III. ÚS 721/2000, formuloval obecná \nvýchodiska, z nichž je třeba vycházet při posouzení, zda byl k soukromoprávnímu jednání \nstarosty obce nezbytný souhlas zastupitelstva. Ústavní soud uvedl, že starosta obce nemůže \nvytvářet sám vůli obce, ale pouze ",
+      "predicted_reference": {
+        "reference_text": "sp. zn. III. ÚS 721/2000",
+        "reference_prefix": "sp. zn.",
+        "reference_body": "III. ÚS 721/2000",
+        "reference_type": "spisova_znacka",
+        "raw_start": 9490,
+        "raw_end": 9514,
+        "decision_kind_hint": "nález",
+        "court_hint": "Ústavního soudu",
+        "context": " 18 měsíců.  Podle § 41 odst. 2 zákona o obcích právní úkony, které vyžadují schválení zastupitelstva  obce, popřípadě rady obce, jsou bez tohoto schválení od počátku neplatné.  Ústavní soud v nálezu ze dne 10. 7. 2001, sp. zn. III. ÚS 721/2000, formuloval obecná  východiska, z nichž je třeba vycházet při posouzení, zda byl k soukromoprávnímu jednání  starosty obce nezbytný souhlas zastupitelstva. Ústavní soud uvedl, že starosta obce nemůže  vytvářet sám vůli "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "sp. zn. III. ÚS 721/2000",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "spisova_znacka",
+          "reference_prefix": "sp. zn.",
+          "reference_body": "III. ÚS 721/2000",
+          "decision_kind_hint": "nález",
+          "court_hint": "Ústavního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:us_case_reference"
+        }
+      ]
+    }
+  ]
+}

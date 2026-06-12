@@ -1,0 +1,48 @@
+{
+  "law_gold": "data/annotations/joint_reference_gold_v1/law_gold/joint_law_reference_gold_v1.jsonl",
+  "docref_gold": "data/annotations/joint_reference_gold_v1/document_reference_gold/joint_document_reference_gold_v1.jsonl",
+  "results": "data/annotations/joint_reference_gold_v1/llm_passage_baseline/passage_results_25pro_v2.jsonl",
+  "predictions_jsonl": "data/annotations/joint_reference_gold_v1/llm_passage_baseline/passage_predictions_25pro_v2.jsonl",
+  "prediction_quality_counts": {
+    "text_mismatch": 1253,
+    "offset_corrected_from_unique_text": 922,
+    "offset_corrected_from_nearest_text": 312,
+    "offset_not_corrected_text_not_found": 19,
+    "invalid_offsets": 5
+  },
+  "combined": {
+    "gold": 758,
+    "predicted": 848,
+    "exact_true_positive": 158,
+    "exact_precision": 0.18632075471698112,
+    "exact_recall": 0.20844327176781002,
+    "exact_f1": 0.1967621419676214
+  },
+  "law_reference": {
+    "gold": 646,
+    "predicted": 704,
+    "exact_true_positive": 50,
+    "exact_precision": 0.07102272727272728,
+    "exact_recall": 0.07739938080495357,
+    "exact_f1": 0.07407407407407407,
+    "relaxed_overlap_true_positive": 578,
+    "relaxed_overlap_precision": 0.8210227272727273,
+    "relaxed_overlap_recall": 0.8947368421052632,
+    "relaxed_overlap_f1": 0.8562962962962963,
+    "czech_law_id_accuracy_on_exact_matches": 0.5102040816326531,
+    "czech_law_id_support": 49,
+    "czech_law_id_predicted_share_on_exact_matches": 0.5102040816326531
+  },
+  "document_reference": {
+    "gold": 112,
+    "predicted": 144,
+    "exact_true_positive": 108,
+    "exact_precision": 0.75,
+    "exact_recall": 0.9642857142857143,
+    "exact_f1": 0.8437499999999999,
+    "relaxed_overlap_true_positive": 110,
+    "relaxed_overlap_precision": 0.7638888888888888,
+    "relaxed_overlap_recall": 0.9821428571428571,
+    "relaxed_overlap_f1": 0.8593749999999999
+  }
+}

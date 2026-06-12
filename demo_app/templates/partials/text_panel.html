@@ -1,0 +1,9 @@
+<main class="text-panel">
+  <div class="text-panel-inner" id="document-text">{%- for segment in result.render_segments -%}{%- if segment.kind == 'text' -%}{{ segment.text }}{%- else -%}{%- set item = segment.item -%}<span
+          id="{{ item.id }}"
+          class="reference-mark {{ item.color_class }}"
+          data-kind="{{ item.kind }}"
+          data-status="{{ item.status }}"
+          title="{{ item.title }} | {{ item.detail }}"
+        >{%- if item.external_url -%}<a href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">{{ segment.text }}</a>{%- elif item.target_url -%}<a href="{{ item.target_url }}" target="_blank" rel="noopener noreferrer">{{ segment.text }}</a>{%- else -%}{{ segment.text }}{%- endif -%}</span>{%- endif -%}{%- endfor -%}</div>
+</main>

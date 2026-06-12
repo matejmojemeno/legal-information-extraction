@@ -1,0 +1,683 @@
+{
+  "generated_at_utc": "2026-03-31T22:22:52.627943+00:00",
+  "gold_documents": 17,
+  "gold_stats": {
+    "total_findings": 18,
+    "by_type": {
+      "article": 5,
+      "section": 13
+    },
+    "by_classification": {
+      "czech_resolved": 13,
+      "foreign_law": 5
+    },
+    "supported_types": [
+      "article",
+      "other_normative",
+      "section"
+    ],
+    "supported_findings": 18,
+    "supported_positive_findings": 18,
+    "supported_non_citation_findings": 0,
+    "unsupported_other_normative_findings": 0
+  },
+  "prediction_stats": {
+    "total_occurrences": 1375,
+    "duplicate_same_anchor_occurrences": 0,
+    "resolved_occurrences": 880,
+    "unresolved_occurrences": 495,
+    "resolver_stages": {
+      "Law ID Mention": 133,
+      "Level 1: Direct Match": 37,
+      "Level 2: Explicit Anaphora": 5,
+      "Level 3: Implicit Generic Reference": 4,
+      "Level 3B: Citation Chain Carryover": 25,
+      "Level 3C: Backward Context Carryover": 43,
+      "Level 6: Global Dictionary ('Listina základních práv a svobod')": 4,
+      "Level 6: Global Dictionary ('Listina')": 15,
+      "Level 6: Global Dictionary ('o. s. ř.')": 31,
+      "Level 6: Global Dictionary ('obch. zák.')": 10,
+      "Level 6: Global Dictionary ('občanský soudní řád')": 1,
+      "Level 6: Global Dictionary ('tr. zák.')": 19,
+      "Level 6: Global Dictionary ('tr. zákoník')": 2,
+      "Level 6: Global Dictionary ('tr. ř.')": 511,
+      "Level 6: Global Dictionary ('trestní zákoník')": 8,
+      "Level 6: Global Dictionary ('z. m. j. s.')": 21,
+      "Level 6: Global Dictionary ('Ústava')": 1,
+      "Level 7: Unresolved": 495,
+      "Typed: Foreign Law": 10
+    }
+  },
+  "metrics": {
+    "supported_anchor_detection": {
+      "tp": 18,
+      "fp": 1357,
+      "fn": 0,
+      "precision": 0.0131,
+      "recall": 1.0,
+      "f1": 0.0258
+    },
+    "supported_positive_citation_presence": {
+      "tp": 18,
+      "fp": 1350,
+      "fn": 0,
+      "precision": 0.0132,
+      "recall": 1.0,
+      "f1": 0.026
+    },
+    "matched_supported_classification_accuracy": {
+      "correct": 5,
+      "total": 18,
+      "accuracy": 0.2778,
+      "confusion": {
+        "czech_resolved": {
+          "czech_unresolved": 13
+        },
+        "foreign_law": {
+          "foreign_law": 5
+        }
+      }
+    },
+    "czech_resolved_law_accuracy": {
+      "correct": 0,
+      "total": 13,
+      "accuracy": 0.0
+    },
+    "detail_accuracy_on_supported_positives": {
+      "total": 18,
+      "number_exact": 1.0,
+      "odst_exact": 1.0,
+      "pism_exact": 1.0,
+      "full_exact": 1.0
+    }
+  },
+  "error_taxonomy": {
+    "counts": {
+      "spurious_predicted_anchor": 1357,
+      "wrong_classification": 13,
+      "wrong_law_id": 13
+    },
+    "examples": {
+      "wrong_classification": [
+        {
+          "document_id": "0 Ts 42_2003.txt",
+          "gold": {
+            "citation_text": "§ 64",
+            "citation_type": "section",
+            "start_char": 34381,
+            "classification": "czech_resolved",
+            "law_id": "141/1961 Sb.",
+            "detail_number": "64",
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "0 Ts 42_2003.txt::section::34381::1"
+          },
+          "prediction": {
+            "citation_text": "§ 64",
+            "citation_type": "section",
+            "raw_start": 34381,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "64",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "0 Ts 43_2012.txt",
+          "gold": {
+            "citation_text": "§ 205",
+            "citation_type": "section",
+            "start_char": 5994,
+            "classification": "czech_resolved",
+            "law_id": "40/2009 Sb.",
+            "detail_number": "205",
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "0 Ts 43_2012.txt::section::5994::2"
+          },
+          "prediction": {
+            "citation_text": "§ 205",
+            "citation_type": "section",
+            "raw_start": 5994,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "205",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "1 Co 46_2009.txt",
+          "gold": {
+            "citation_text": "§ 175h",
+            "citation_type": "section",
+            "start_char": 5667,
+            "classification": "czech_resolved",
+            "law_id": "99/1963 Sb.",
+            "detail_number": "175h",
+            "detail_odst": [
+              "1",
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "1 Co 46_2009.txt::section::5667::3"
+          },
+          "prediction": {
+            "citation_text": "§ 175h",
+            "citation_type": "section",
+            "raw_start": 5667,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "175h",
+              "odst": [
+                "1",
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "1 Ko 125_2001.txt",
+          "gold": {
+            "citation_text": "§ 66b",
+            "citation_type": "section",
+            "start_char": 2332,
+            "classification": "czech_resolved",
+            "law_id": "328/1991 Sb.",
+            "detail_number": "66b",
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "1 Ko 125_2001.txt::section::2332::4"
+          },
+          "prediction": {
+            "citation_text": "§ 66b",
+            "citation_type": "section",
+            "raw_start": 2332,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "66b",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "1 Ko 259_2001.txt",
+          "gold": {
+            "citation_text": "§ 44",
+            "citation_type": "section",
+            "start_char": 72,
+            "classification": "czech_resolved",
+            "law_id": "328/1991 Sb.",
+            "detail_number": "44",
+            "detail_odst": [
+              "1"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "1 Ko 259_2001.txt::section::72::5"
+          },
+          "prediction": {
+            "citation_text": "§ 44",
+            "citation_type": "section",
+            "raw_start": 72,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "44",
+              "odst": [
+                "1"
+              ],
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        }
+      ],
+      "wrong_law_id": [
+        {
+          "document_id": "0 Ts 42_2003.txt",
+          "gold": {
+            "citation_text": "§ 64",
+            "citation_type": "section",
+            "start_char": 34381,
+            "classification": "czech_resolved",
+            "law_id": "141/1961 Sb.",
+            "detail_number": "64",
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "0 Ts 42_2003.txt::section::34381::1"
+          },
+          "prediction": {
+            "citation_text": "§ 64",
+            "citation_type": "section",
+            "raw_start": 34381,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "64",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "0 Ts 43_2012.txt",
+          "gold": {
+            "citation_text": "§ 205",
+            "citation_type": "section",
+            "start_char": 5994,
+            "classification": "czech_resolved",
+            "law_id": "40/2009 Sb.",
+            "detail_number": "205",
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "0 Ts 43_2012.txt::section::5994::2"
+          },
+          "prediction": {
+            "citation_text": "§ 205",
+            "citation_type": "section",
+            "raw_start": 5994,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "205",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "1 Co 46_2009.txt",
+          "gold": {
+            "citation_text": "§ 175h",
+            "citation_type": "section",
+            "start_char": 5667,
+            "classification": "czech_resolved",
+            "law_id": "99/1963 Sb.",
+            "detail_number": "175h",
+            "detail_odst": [
+              "1",
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "1 Co 46_2009.txt::section::5667::3"
+          },
+          "prediction": {
+            "citation_text": "§ 175h",
+            "citation_type": "section",
+            "raw_start": 5667,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "175h",
+              "odst": [
+                "1",
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "1 Ko 125_2001.txt",
+          "gold": {
+            "citation_text": "§ 66b",
+            "citation_type": "section",
+            "start_char": 2332,
+            "classification": "czech_resolved",
+            "law_id": "328/1991 Sb.",
+            "detail_number": "66b",
+            "detail_odst": [
+              "2"
+            ],
+            "detail_pism": [],
+            "task_id": "1 Ko 125_2001.txt::section::2332::4"
+          },
+          "prediction": {
+            "citation_text": "§ 66b",
+            "citation_type": "section",
+            "raw_start": 2332,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "66b",
+              "odst": [
+                "2"
+              ]
+            }
+          }
+        },
+        {
+          "document_id": "1 Ko 259_2001.txt",
+          "gold": {
+            "citation_text": "§ 44",
+            "citation_type": "section",
+            "start_char": 72,
+            "classification": "czech_resolved",
+            "law_id": "328/1991 Sb.",
+            "detail_number": "44",
+            "detail_odst": [
+              "1"
+            ],
+            "detail_pism": [
+              "a"
+            ],
+            "task_id": "1 Ko 259_2001.txt::section::72::5"
+          },
+          "prediction": {
+            "citation_text": "§ 44",
+            "citation_type": "section",
+            "raw_start": 72,
+            "label": "czech_unresolved",
+            "predicted_classification": "czech_unresolved",
+            "resolved_law_id": null,
+            "resolver_stage": "Level 7: Unresolved",
+            "confidence": 0.0,
+            "parsed_detail": {
+              "number": "44",
+              "odst": [
+                "1"
+              ],
+              "pism": [
+                "a"
+              ]
+            }
+          }
+        }
+      ],
+      "spurious_predicted_anchor": [
+        {
+          "document_id": "0 Ts 42_2003.txt"
+        },
+        {
+          "document_id": "0 Ts 42_2003.txt"
+        },
+        {
+          "document_id": "0 Ts 42_2003.txt"
+        },
+        {
+          "document_id": "0 Ts 42_2003.txt"
+        },
+        {
+          "document_id": "0 Ts 42_2003.txt"
+        }
+      ]
+    }
+  },
+  "per_document": [
+    {
+      "document_id": "0 Ts 42_2003.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 42_2003.txt",
+      "gold_total": 2,
+      "gold_supported": 2,
+      "gold_supported_positive": 2,
+      "predicted_occurrences": 505,
+      "matched_supported": 2,
+      "missing_supported": 0,
+      "spurious_predictions": 503,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "0 Ts 43_2012.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/0 Ts 43_2012.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 521,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 520,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Co 46_2009.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Co 46_2009.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 49,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 48,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 125_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 125_2001.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 7,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 6,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 259_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 259_2001.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 13,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 12,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 397_2002.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 397_2002.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 11,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 10,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 433_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 433_2001.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 11,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 10,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 556_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 556_2001.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 16,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 15,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 559_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 559_2001.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 14,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 13,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 68_2001.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 68_2001.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 11,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 10,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ko 77_2003.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ko 77_2003.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 9,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 8,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Nt 206_2007.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Nt 206_2007.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 47,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 46,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 Ntd 1_2024.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 Ntd 1_2024.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 33,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 32,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "1 To 39_2012.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 To 39_2012.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 47,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 46,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "10 To 34_2007.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/10 To 34_2007.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 27,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 26,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "11 Tcu 106_2015.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 106_2015.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 16,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 15,
+      "duplicate_anchor_predictions": 0
+    },
+    {
+      "document_id": "11 Tcu 116_2019.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/11 Tcu 116_2019.txt",
+      "gold_total": 1,
+      "gold_supported": 1,
+      "gold_supported_positive": 1,
+      "predicted_occurrences": 38,
+      "matched_supported": 1,
+      "missing_supported": 0,
+      "spurious_predictions": 37,
+      "duplicate_anchor_predictions": 0
+    }
+  ],
+  "alias_source": "external_predictions",
+  "gold_input": "data/annotations/llm_challenge_gold/llm_challenge_gold_v1.jsonl"
+}

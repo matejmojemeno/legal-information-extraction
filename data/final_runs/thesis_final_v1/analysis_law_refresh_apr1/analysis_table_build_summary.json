@@ -1,0 +1,9 @@
+{
+  "run_root": "data/final_runs/thesis_final_v1",
+  "output_dir": "data/final_runs/thesis_final_v1/analysis_law_refresh_apr1",
+  "law_reference_rows": 13304530,
+  "document_reference_occurrence_rows": 4280705,
+  "document_reference_edge_rows": 2460156,
+  "document_reference_node_rows": 344492,
+  "csv_written": false
+}

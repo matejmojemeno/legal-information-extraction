@@ -1,0 +1,170 @@
+{
+  "docs_evaluated": 22,
+  "gold_positive_references": 112,
+  "predicted_references": 105,
+  "exact_span_precision": 1.0,
+  "exact_span_recall": 0.9375,
+  "exact_span_f1": 0.967741935483871,
+  "reference_type_accuracy_on_exact_matches": 1.0,
+  "reference_body_accuracy_on_exact_matches": 0.9428571428571428,
+  "decision_kind_hint_accuracy": 0.9036144578313253,
+  "decision_kind_hint_support": 83,
+  "court_hint_accuracy": 0.5445544554455446,
+  "court_hint_support": 101,
+  "per_document": [
+    {
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "gold_references": 5,
+      "predicted_references": 5,
+      "exact_matches": 5
+    },
+    {
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-432-97.txt",
+      "document_id": "GetText.aspx_sz_1-432-97.txt",
+      "gold_references": 2,
+      "predicted_references": 2,
+      "exact_matches": 2
+    },
+    {
+      "document_path": "data/processed/nalus/GetText.aspx_sz_2-111-04.txt",
+      "document_id": "GetText.aspx_sz_2-111-04.txt",
+      "gold_references": 12,
+      "predicted_references": 12,
+      "exact_matches": 12
+    },
+    {
+      "document_path": "data/processed/nalus/GetText.aspx_sz_3-444-97.txt",
+      "document_id": "GetText.aspx_sz_3-444-97.txt",
+      "gold_references": 8,
+      "predicted_references": 6,
+      "exact_matches": 6
+    },
+    {
+      "document_path": "data/processed/ns/23 cdo 1135_2022_openElement.txt",
+      "document_id": "23 cdo 1135_2022_openElement.txt",
+      "gold_references": 3,
+      "predicted_references": 2,
+      "exact_matches": 2
+    },
+    {
+      "document_path": "data/processed/ns/29 icdo 2_2022_openElement.txt",
+      "document_id": "29 icdo 2_2022_openElement.txt",
+      "gold_references": 7,
+      "predicted_references": 5,
+      "exact_matches": 5
+    },
+    {
+      "document_path": "data/processed/ns/29 odo 1019_2006_openElement.txt",
+      "document_id": "29 odo 1019_2006_openElement.txt",
+      "gold_references": 4,
+      "predicted_references": 4,
+      "exact_matches": 4
+    },
+    {
+      "document_path": "data/processed/ns/30 cdo 1354_2006_openElement.txt",
+      "document_id": "30 cdo 1354_2006_openElement.txt",
+      "gold_references": 2,
+      "predicted_references": 2,
+      "exact_matches": 2
+    },
+    {
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "gold_references": 6,
+      "predicted_references": 6,
+      "exact_matches": 6
+    },
+    {
+      "document_path": "data/processed/ns/7 tdo 1449_2003_openElement.txt",
+      "document_id": "7 tdo 1449_2003_openElement.txt",
+      "gold_references": 2,
+      "predicted_references": 2,
+      "exact_matches": 2
+    },
+    {
+      "document_path": "data/processed/nss/231833.txt",
+      "document_id": "231833.txt",
+      "gold_references": 6,
+      "predicted_references": 6,
+      "exact_matches": 6
+    },
+    {
+      "document_path": "data/processed/nss/237253.txt",
+      "document_id": "237253.txt",
+      "gold_references": 1,
+      "predicted_references": 1,
+      "exact_matches": 1
+    },
+    {
+      "document_path": "data/processed/nss/609828.txt",
+      "document_id": "609828.txt",
+      "gold_references": 10,
+      "predicted_references": 9,
+      "exact_matches": 9
+    },
+    {
+      "document_path": "data/processed/nss/621783.txt",
+      "document_id": "621783.txt",
+      "gold_references": 2,
+      "predicted_references": 1,
+      "exact_matches": 1
+    },
+    {
+      "document_path": "data/processed/nss/724902.txt",
+      "document_id": "724902.txt",
+      "gold_references": 6,
+      "predicted_references": 6,
+      "exact_matches": 6
+    },
+    {
+      "document_path": "data/processed/uohs/2013_R184_2.txt",
+      "document_id": "2013_R184_2.txt",
+      "gold_references": 8,
+      "predicted_references": 8,
+      "exact_matches": 8
+    },
+    {
+      "document_path": "data/processed/uohs/2016_S0551.txt",
+      "document_id": "2016_S0551.txt",
+      "gold_references": 14,
+      "predicted_references": 14,
+      "exact_matches": 14
+    },
+    {
+      "document_path": "data/processed/uohs/2021_S0666.txt",
+      "document_id": "2021_S0666.txt",
+      "gold_references": 1,
+      "predicted_references": 1,
+      "exact_matches": 1
+    },
+    {
+      "document_path": "data/processed/uohs/pis33402.txt",
+      "document_id": "pis33402.txt",
+      "gold_references": 2,
+      "predicted_references": 2,
+      "exact_matches": 2
+    },
+    {
+      "document_path": "data/processed/uohs/pis6543.txt",
+      "document_id": "pis6543.txt",
+      "gold_references": 8,
+      "predicted_references": 8,
+      "exact_matches": 8
+    },
+    {
+      "document_path": "data/processed/uohs/pis7143.txt",
+      "document_id": "pis7143.txt",
+      "gold_references": 1,
+      "predicted_references": 1,
+      "exact_matches": 1
+    },
+    {
+      "document_path": "data/processed/uohs/pis8046.txt",
+      "document_id": "pis8046.txt",
+      "gold_references": 2,
+      "predicted_references": 2,
+      "exact_matches": 2
+    }
+  ]
+}

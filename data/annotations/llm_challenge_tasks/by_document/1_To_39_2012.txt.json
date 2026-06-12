@@ -1,0 +1,56 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-20T11:22:32.226380+00:00",
+  "context_radius": 260,
+  "challenge_batch": "data/annotations/eval/llm_challenge_batch_v1.json",
+  "document_id": "1 To 39_2012.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 To 39_2012.txt",
+  "task_count": 1,
+  "tasks": [
+    {
+      "task_id": "1 To 39_2012.txt::article::2847::15",
+      "document_id": "1 To 39_2012.txt",
+      "source": "ns",
+      "document_path": "data/imports/parent_bucket_texts/ns/1 To 39_2012.txt",
+      "candidate_type": "llm_challenge_candidate",
+      "target_reference": "čl. 6",
+      "snippet_doc_start": 2587,
+      "snippet_doc_end": 3113,
+      "snippet_text": "o soudu (tj. v takovém případě rozsudek vydaný za podmínek \n§ 259 odst. 3, odst. 4 tr.ř.) označeno za rozhodnutí překvapivé, tzn. \ntakové, jehož vydáním by bylo porušeno ustanovení čl. 40 odst. 3 \nListiny základních práv a svobod (dale „Listiny”) i ustanovení čl. \n6 odst. 3 písm. b) Úmluvy o ochraně lidských práv a základních svobod \nve znění protokolů č. 209/1992 Sb. a v konečném důsledku i ustanovení \nčl. 36 odst. 1 Listiny, kterým je zaručeno právo na spravedlivý proces \n(srov. např. rozhodnutí Ústavního soudu ČR, sp.",
+    "annotations": [
+      {
+        "finding_id": "1",
+        "finding_text": "čl. \n6",
+        "occurrence_index_in_snippet": 1,
+        "citation_type": "article",
+        "classification": "foreign_law",
+        "law_id": null,
+          "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+          "declared_alias_text": "Úmluvy",
+          "detail_number": "6",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.98,
+          "note": "manual_v1:llm_challenge_review"
+        }
+      ],
+      "challenge_metadata": {
+        "entry_id": "ns::1 To 39_2012.txt::2847:2853:article",
+        "llm_route": "foreign_easy",
+        "route_reason": "current_queue::foreign_law",
+        "deterministic_status": "deterministic_typed_foreign_law_but_left_for_semantic_normalization",
+        "resolver_stage": "Typed: Foreign Law",
+        "candidate_law_ids": [
+          "141/1961 Sb.",
+          "2/1993 Sb.",
+          "209/1992 Sb."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schema_version": "document_reference_tasks_v1",
+  "document_id": "231833.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/231833.txt",
+  "generated_at_utc": "2026-03-25T10:48:21.199301+00:00",
+  "tasks": [
+    {
+      "task_id": "231833.txt::docref::3966::51",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 3966,
+      "snippet_doc_start": 3706,
+      "snippet_doc_end": 4226,
+      "snippet_text": "ele, a zda je tedy možno \nji považovat za přijatelnou. K podrobnějšímu vymezení institutu přijatelnosti kasační stížnosti \nve věcech azylu (mezinárodní ochrany) lze přitom pro stručnost odkázat např. na usnesení \nNejvyššího správního soudu ze dne 26. 4. 2006, č. j. 1 Azs 13/2006 - 39, publikované \npod č. 933/2006 Sb. NSS.\nNámitkou týkající se „pronásledování“ ze strany věřitelů se Nejvyšší správní soud \ndostatečně zabýval např. v rozsudku ze dne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55, \nwww.nssoud.cz. Také podmínky ",
+      "predicted_reference": {
+        "reference_text": "č. j. 1 Azs 13/2006 - 39",
+        "reference_prefix": "č. j.",
+        "reference_body": "1 Azs 13/2006 - 39",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 3966,
+        "raw_end": 3990,
+        "decision_kind_hint": "usnesení",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "a přijatelnou. K podrobnějšímu vymezení institutu přijatelnosti kasační stížnosti  ve věcech azylu (mezinárodní ochrany) lze přitom pro stručnost odkázat např. na usnesení  Nejvyššího správního soudu ze dne 26. 4. 2006, č. j. 1 Azs 13/2006 - 39, publikované  pod č. 933/2006 Sb. NSS. Námitkou týkající se „pronásledování“ ze strany věřitelů se Nejvyšší správní soud  dostatečně zabýval např. v rozsudku ze dne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55,  www.nssoud.cz"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 1 Azs 13/2006 - 39",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "1 Azs 13/2006 - 39",
+          "decision_kind_hint": "usnesení",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::docref::4170::52",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4170,
+      "snippet_doc_start": 3910,
+      "snippet_doc_end": 4430,
+      "snippet_text": "snesení \nNejvyššího správního soudu ze dne 26. 4. 2006, č. j. 1 Azs 13/2006 - 39, publikované \npod č. 933/2006 Sb. NSS.\nNámitkou týkající se „pronásledování“ ze strany věřitelů se Nejvyšší správní soud \ndostatečně zabýval např. v rozsudku ze dne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55, \nwww.nssoud.cz. Také podmínky zamítnutí žádosti o udělení azylu pro její zjevnou \nnedůvodnost byly mnohokrát Nejvyšším správním soudem řešeny (viz rozsudek ze dne \n14. 1. 2004, č. j. 5 Azs 25/2003 - 94, www.nssoud.cz, či rozsudek ze d",
+      "predicted_reference": {
+        "reference_text": "č. j. 4 Azs 63/2005 - 55",
+        "reference_prefix": "č. j.",
+        "reference_body": "4 Azs 63/2005 - 55",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4170,
+        "raw_end": 4194,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "ne 26. 4. 2006, č. j. 1 Azs 13/2006 - 39, publikované  pod č. 933/2006 Sb. NSS. Námitkou týkající se „pronásledování“ ze strany věřitelů se Nejvyšší správní soud  dostatečně zabýval např. v rozsudku ze dne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55,  www.nssoud.cz. Také podmínky zamítnutí žádosti o udělení azylu pro její zjevnou  nedůvodnost byly mnohokrát Nejvyšším správním soudem řešeny (viz rozsudek ze dne  14. 1. 2004, č. j. 5 Azs 25/2003 - 94, www.nssoud.cz, "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 4 Azs 63/2005 - 55",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "4 Azs 63/2005 - 55",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::docref::4373::53",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4373,
+      "snippet_doc_start": 4113,
+      "snippet_doc_end": 4633,
+      "snippet_text": "dostatečně zabýval např. v rozsudku ze dne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55, \nwww.nssoud.cz. Také podmínky zamítnutí žádosti o udělení azylu pro její zjevnou \nnedůvodnost byly mnohokrát Nejvyšším správním soudem řešeny (viz rozsudek ze dne \n14. 1. 2004, č. j. 5 Azs 25/2003 - 94, www.nssoud.cz, či rozsudek ze dne 20. 11. 2003 \nč. j. 2 Azs 27/2003 - 59, www.nssoud.cz) a argumentace žalobce nepřináší v tomto ohledu \nžádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové\nustanovení neby",
+      "predicted_reference": {
+        "reference_text": "č. j. 5 Azs 25/2003 - 94",
+        "reference_prefix": "č. j.",
+        "reference_body": "5 Azs 25/2003 - 94",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4373,
+        "raw_end": 4397,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "ne 21. 12. 2005, č. j. 4 Azs 63/2005 - 55,  www.nssoud.cz. Také podmínky zamítnutí žádosti o udělení azylu pro její zjevnou  nedůvodnost byly mnohokrát Nejvyšším správním soudem řešeny (viz rozsudek ze dne  14. 1. 2004, č. j. 5 Azs 25/2003 - 94, www.nssoud.cz, či rozsudek ze dne 20. 11. 2003  č. j. 2 Azs 27/2003 - 59, www.nssoud.cz) a argumentace žalobce nepřináší v tomto ohledu  žádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 5 Azs 25/2003 - 94",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "5 Azs 25/2003 - 94",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::docref::4447::54",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4447,
+      "snippet_doc_start": 4187,
+      "snippet_doc_end": 4707,
+      "snippet_text": "05 - 55, \nwww.nssoud.cz. Také podmínky zamítnutí žádosti o udělení azylu pro její zjevnou \nnedůvodnost byly mnohokrát Nejvyšším správním soudem řešeny (viz rozsudek ze dne \n14. 1. 2004, č. j. 5 Azs 25/2003 - 94, www.nssoud.cz, či rozsudek ze dne 20. 11. 2003 \nč. j. 2 Azs 27/2003 - 59, www.nssoud.cz) a argumentace žalobce nepřináší v tomto ohledu \nžádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové\nustanovení nebyly zjevně splněny podmínky), již byla řešena např. v rozsudku ze dne \n21. ",
+      "predicted_reference": {
+        "reference_text": "č. j. 2 Azs 27/2003 - 59",
+        "reference_prefix": "č. j.",
+        "reference_body": "2 Azs 27/2003 - 59",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4447,
+        "raw_end": 4471,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": "amítnutí žádosti o udělení azylu pro její zjevnou  nedůvodnost byly mnohokrát Nejvyšším správním soudem řešeny (viz rozsudek ze dne  14. 1. 2004, č. j. 5 Azs 25/2003 - 94, www.nssoud.cz, či rozsudek ze dne 20. 11. 2003  č. j. 2 Azs 27/2003 - 59, www.nssoud.cz) a argumentace žalobce nepřináší v tomto ohledu  žádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové ustanovení nebyly zjevně splněny podmínky), již byla řešena např. v rozsu"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 2 Azs 27/2003 - 59",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "2 Azs 27/2003 - 59",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::docref::4716::55",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4716,
+      "snippet_doc_start": 4456,
+      "snippet_doc_end": 4976,
+      "snippet_text": "zs 27/2003 - 59, www.nssoud.cz) a argumentace žalobce nepřináší v tomto ohledu \nžádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové\nustanovení nebyly zjevně splněny podmínky), již byla řešena např. v rozsudku ze dne \n21. 7. 2005, č. j. 6 Azs 380/2004 - 29, www.nssoud.cz, nebo v rozsudku ze dne 12. 3. 2004, \nč. j. 7 Azs 10/2004 - 52, www.nssoud.cz. Sluší se poznamenat, že v soudním spise je založeno \nvýslovné prohlášení stěžovatele, že česky rozumí a tlumočníka nežádá. K tvrzení stěžova",
+      "predicted_reference": {
+        "reference_text": "č. j. 6 Azs 380/2004 - 29",
+        "reference_prefix": "č. j.",
+        "reference_body": "6 Azs 380/2004 - 29",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4716,
+        "raw_end": 4741,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": null,
+        "context": "ntace žalobce nepřináší v tomto ohledu  žádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové ustanovení nebyly zjevně splněny podmínky), již byla řešena např. v rozsudku ze dne  21. 7. 2005, č. j. 6 Azs 380/2004 - 29, www.nssoud.cz, nebo v rozsudku ze dne 12. 3. 2004,  č. j. 7 Azs 10/2004 - 52, www.nssoud.cz. Sluší se poznamenat, že v soudním spise je založeno  výslovné prohlášení stěžovatele, že česky rozumí a tlumočníka nežádá. K "
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 6 Azs 380/2004 - 29",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "6 Azs 380/2004 - 29",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    },
+    {
+      "task_id": "231833.txt::docref::4795::56",
+      "document_id": "231833.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/231833.txt",
+      "candidate_prefix": "č. j.",
+      "candidate_start": 4795,
+      "snippet_doc_start": 4535,
+      "snippet_doc_end": 5055,
+      "snippet_text": "\nžádné novum. Konečně i námitka týkající se neustanovení tlumočníka (ač pro takové\nustanovení nebyly zjevně splněny podmínky), již byla řešena např. v rozsudku ze dne \n21. 7. 2005, č. j. 6 Azs 380/2004 - 29, www.nssoud.cz, nebo v rozsudku ze dne 12. 3. 2004, \nč. j. 7 Azs 10/2004 - 52, www.nssoud.cz. Sluší se poznamenat, že v soudním spise je založeno \nvýslovné prohlášení stěžovatele, že česky rozumí a tlumočníka nežádá. K tvrzení stěžovatele \no přijatelnosti kasační stížnosti z důvodu zodpovězení otázky rozsahu pře",
+      "predicted_reference": {
+        "reference_text": "č. j. 7 Azs 10/2004 - 52",
+        "reference_prefix": "č. j.",
+        "reference_body": "7 Azs 10/2004 - 52",
+        "reference_type": "cislo_jednaci",
+        "raw_start": 4795,
+        "raw_end": 4819,
+        "decision_kind_hint": "rozsudek",
+        "court_hint": "Nejvyššího správního soudu",
+        "context": " se neustanovení tlumočníka (ač pro takové ustanovení nebyly zjevně splněny podmínky), již byla řešena např. v rozsudku ze dne  21. 7. 2005, č. j. 6 Azs 380/2004 - 29, www.nssoud.cz, nebo v rozsudku ze dne 12. 3. 2004,  č. j. 7 Azs 10/2004 - 52, www.nssoud.cz. Sluší se poznamenat, že v soudním spise je založeno  výslovné prohlášení stěžovatele, že česky rozumí a tlumočníka nežádá. K tvrzení stěžovatele  o přijatelnosti kasační stížnosti z důvodu zodpovězení ot"
+      },
+      "task_origin": "prefix_pattern",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "č. j. 7 Azs 10/2004 - 52",
+          "occurrence_index_in_snippet": 1,
+          "classification": "document_reference",
+          "reference_type": "cislo_jednaci",
+          "reference_prefix": "č. j.",
+          "reference_body": "7 Azs 10/2004 - 52",
+          "decision_kind_hint": "rozsudek",
+          "court_hint": "Nejvyššího správního soudu",
+          "confidence": 0.99,
+          "note": "manual_v1:structured_docref"
+        }
+      ]
+    }
+  ]
+}

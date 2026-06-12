@@ -1,0 +1,272 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.176263+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "30 cdo 1363_2022_openElement.txt",
+  "source": "ns",
+  "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+  "task_count": 9,
+  "tasks": [
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::section_or_article::899::280",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243c",
+      "snippet_doc_start": 639,
+      "snippet_doc_end": 1165,
+      "snippet_text": "k I rozsudku odvolacího soudu) a uložil žalobkyni zaplatit žalované náklady \nodvolacího řízení ve výši 900 Kč (výrok II rozsudku odvolacího soudu). \nRozsudek odvolacího soudu napadla žalobkyně v plném rozsahu včasným dovoláním, \nkteré však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve \nznění účinném od 30. 9. 2017 (viz čl. II zákona č. 296/2017 Sb.), dále jen „o. s. ř.“, odmítl. \nDovolání směřující proti rozhodnutí o náhradě nákladů řízení není přípustné vzhledem k \nustanovení § 238 od",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243c",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "zákona č. 99/1963 Sb., občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "243c",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::law_id_mention::924::281",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "99/1963 Sb.",
+      "snippet_doc_start": 664,
+      "snippet_doc_end": 1195,
+      "snippet_text": "oudu) a uložil žalobkyni zaplatit žalované náklady \nodvolacího řízení ve výši 900 Kč (výrok II rozsudku odvolacího soudu). \nRozsudek odvolacího soudu napadla žalobkyně v plném rozsahu včasným dovoláním, \nkteré však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve \nznění účinném od 30. 9. 2017 (viz čl. II zákona č. 296/2017 Sb.), dále jen „o. s. ř.“, odmítl. \nDovolání směřující proti rozhodnutí o náhradě nákladů řízení není přípustné vzhledem k \nustanovení § 238 odst. 1 písm. h) o. s. ř. \nOtázk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "99/1963 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::law_id_mention::1013::282",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "296/2017 Sb.",
+      "snippet_doc_start": 753,
+      "snippet_doc_end": 1285,
+      "snippet_text": "ok II rozsudku odvolacího soudu). \nRozsudek odvolacího soudu napadla žalobkyně v plném rozsahu včasným dovoláním, \nkteré však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve \nznění účinném od 30. 9. 2017 (viz čl. II zákona č. 296/2017 Sb.), dále jen „o. s. ř.“, odmítl. \nDovolání směřující proti rozhodnutí o náhradě nákladů řízení není přípustné vzhledem k \nustanovení § 238 odst. 1 písm. h) o. s. ř. \nOtázka, zda žalobkyně byla či měla být účastnicí restitučního řízení, přípustnost dovolání \npod",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "296/2017 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "296/2017 Sb.",
+          "law_name_text": "zákona č. 296/2017 Sb.",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.96,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::section_or_article::1157::283",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 238",
+      "snippet_doc_start": 897,
+      "snippet_doc_end": 1422,
+      "snippet_text": "e § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve \nznění účinném od 30. 9. 2017 (viz čl. II zákona č. 296/2017 Sb.), dále jen „o. s. ř.“, odmítl. \nDovolání směřující proti rozhodnutí o náhradě nákladů řízení není přípustné vzhledem k \nustanovení § 238 odst. 1 písm. h) o. s. ř. \nOtázka, zda žalobkyně byla či měla být účastnicí restitučního řízení, přípustnost dovolání \npodle § 237 o. s. ř. nezakládá, neboť se při jejím řešení odvolací soud neodchýlil od ustálené \njudikatury Nejvyššího soudu, pokud na ni odp",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 238",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "o. s. ř.",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "238",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "h"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::section_or_article::1288::284",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 237",
+      "snippet_doc_start": 1028,
+      "snippet_doc_end": 1553,
+      "snippet_text": "dále jen „o. s. ř.“, odmítl. \nDovolání směřující proti rozhodnutí o náhradě nákladů řízení není přípustné vzhledem k \nustanovení § 238 odst. 1 písm. h) o. s. ř. \nOtázka, zda žalobkyně byla či měla být účastnicí restitučního řízení, přípustnost dovolání \npodle § 237 o. s. ř. nezakládá, neboť se při jejím řešení odvolací soud neodchýlil od ustálené \njudikatury Nejvyššího soudu, pokud na ni odpověděl záporně (srov. rozsudek Nejvyššího soudu \nze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021, a judikaturu citovanou v bodě 19 toho",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 237",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "o. s. ř.",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "237",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::law_id_mention::1567::285",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "82/1998 Sb.",
+      "snippet_doc_start": 1307,
+      "snippet_doc_end": 1838,
+      "snippet_text": "kládá, neboť se při jejím řešení odvolací soud neodchýlil od ustálené \njudikatury Nejvyššího soudu, pokud na ni odpověděl záporně (srov. rozsudek Nejvyššího soudu \nze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021, a judikaturu citovanou v bodě 19 tohoto rozsudku).\n82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo \nnesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o \nnotářích a jejich činnosti (notářský řád), dále jen „OdpŠk“, ve vztahu k pojmu účastník řízení, v",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "82/1998 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "82/1998 Sb.",
+          "law_name_text": "zákon o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem",
+          "declared_alias_text": "OdpŠk",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:odpsk_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::law_id_mention::1724::286",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "358/1992 Sb.",
+      "snippet_doc_start": 1464,
+      "snippet_doc_end": 1996,
+      "snippet_text": "soudu \nze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021, a judikaturu citovanou v bodě 19 tohoto rozsudku).\n82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo \nnesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o \nnotářích a jejich činnosti (notářský řád), dále jen „OdpŠk“, ve vztahu k pojmu účastník řízení, ve \nkterém bylo nezákonné rozhodnutí vydáno, neboť i tu jako podmínku odpovědnosti státu \nohledně žalobkyně posoudil odvolací soud v souladu s judikaturou Nejv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "358/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "358/1992 Sb.",
+          "law_name_text": "zákon České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád)",
+          "declared_alias_text": "notářský řád",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:notarsky_rad_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::section_or_article::2345::287",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 7",
+      "snippet_doc_start": 2085,
+      "snippet_doc_end": 2608,
+      "snippet_text": "13, a v něm odkazovanou \njudikaturu). \nNa vysvětlenou žalobkyni Nejvyšší soud dodává, že neshledal důvody pro změnu své \njudikatury ve vztahu k vymezení okruhu účastníků restitučního řízení, ani neshledal podmínky \npro podání návrhu Ústavnímu soudu na zrušení § 7 OdpŠk. Jakkoli žalobkyně představila ve \nsvém dovolání silnou argumentaci na podporu obou těchto svých požadavků, nelze přehlédnout, \nže jde o argumentaci vystavěnou na omylu stran výkladu účinků nezákonného rozhodnutí, od \nněhož vznik své škody odvozuje. Žal",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 7",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "82/1998 Sb.",
+          "law_name_text": "OdpŠk",
+          "declared_alias_text": "OdpŠk",
+          "detail_number": "7",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:odpsk_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "30 cdo 1363_2022_openElement.txt::section_or_article::3315::288",
+      "document_id": "30 cdo 1363_2022_openElement.txt",
+      "source": "ns",
+      "document_path": "data/processed/ns/30 cdo 1363_2022_openElement.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 243f",
+      "snippet_doc_start": 3055,
+      "snippet_doc_end": 3353,
+      "snippet_text": "oudu ze dne 23. 5. 2013, sp. zn. 28 Cdo 3048/2012, nebo ze dne 2. 7. \n2018, sp. zn. 28 Cdo 5678/2017, a judikaturu odkazovanou v bodě 24 odůvodnění rozsudku \nNejvyššího soudu ze dne 31. 3. 2022, sp. zn. 28 Cdo 232/2021).  \nNákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.). \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 243f",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "o. s. ř.",
+          "declared_alias_text": "o. s. ř.",
+          "detail_number": "243f",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr_alias"
+        }
+      ]
+    }
+  ]
+}

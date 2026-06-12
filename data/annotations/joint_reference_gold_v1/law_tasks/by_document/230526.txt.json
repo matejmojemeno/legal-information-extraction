@@ -1,0 +1,250 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.172027+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "230526.txt",
+  "source": "nss",
+  "document_path": "data/processed/nss/230526.txt",
+  "task_count": 8,
+  "tasks": [
+    {
+      "task_id": "230526.txt::section_or_article::174::314",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 16",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 438,
+      "snippet_text": " :\nŽalobce brojil u Krajského soudu v Brně žalobou proti rozhodnutí žalovaného ze dne \n9. 11. 2006, kterým zamítl žádost žalobců o udělení azylu jako zjevně nedůvodnou podle § 16 \nodst. 1 písm. g) zákona č. 325/1999 Sb., o azylu. Podáním doručeným soudu dne 24. 11. 2006 \nvšak byla žaloba vzata zpět. Krajský soud proto usnesením ze dne 27. 11. 2006 řízení \no žalobě zastavil.\nŽalobce podal proti usnesení včasnou kasační stížnost; násled",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 16",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona č. 325/1999 Sb., o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "16",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "g"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_explicit"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::law_id_mention::207::315",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "325/1999 Sb.",
+      "snippet_doc_start": 0,
+      "snippet_doc_end": 479,
+      "snippet_text": " :\nŽalobce brojil u Krajského soudu v Brně žalobou proti rozhodnutí žalovaného ze dne \n9. 11. 2006, kterým zamítl žádost žalobců o udělení azylu jako zjevně nedůvodnou podle § 16 \nodst. 1 písm. g) zákona č. 325/1999 Sb., o azylu. Podáním doručeným soudu dne 24. 11. 2006 \nvšak byla žaloba vzata zpět. Krajský soud proto usnesením ze dne 27. 11. 2006 řízení \no žalobě zastavil.\nŽalobce podal proti usnesení včasnou kasační stížnost; následně však krajský soud \nzjistil, že žalobce",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "325/1999 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "other_normative",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákon o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::section_or_article::712::316",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 47",
+      "snippet_doc_start": 452,
+      "snippet_doc_end": 976,
+      "snippet_text": "ý soud \nzjistil, že žalobce je neznámého pobytu. Krajský soud proto ustanovil usnesením ze dne \n17. 1. 2007 žalobci opatrovníka, a to administrativní pracovnici soudu. Následně předložil \nspis Nejvyššímu správnímu soudu k rozhodnutí o kasační stížnosti.\nPodle § 47 písm. c) s. ř. s. ve spojení s § 33 písm. b) zákona o azylu soud řízení \nzastaví, jestliže nelze zjistit místo pobytu žadatele o udělení mezinárodní ochrany (žalobce). \nPodle \ninformací \nPolicie \nČeské \nrepubliky, \nŘeditelství \nslužby \ncizinecké \na pohraniční",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 47",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "47",
+          "detail_odst": [],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::section_or_article::748::317",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 33",
+      "snippet_doc_start": 488,
+      "snippet_doc_end": 1012,
+      "snippet_text": "mého pobytu. Krajský soud proto ustanovil usnesením ze dne \n17. 1. 2007 žalobci opatrovníka, a to administrativní pracovnici soudu. Následně předložil \nspis Nejvyššímu správnímu soudu k rozhodnutí o kasační stížnosti.\nPodle § 47 písm. c) s. ř. s. ve spojení s § 33 písm. b) zákona o azylu soud řízení \nzastaví, jestliže nelze zjistit místo pobytu žadatele o udělení mezinárodní ochrany (žalobce). \nPodle \ninformací \nPolicie \nČeské \nrepubliky, \nŘeditelství \nslužby \ncizinecké \na pohraniční policie, byl žalobci vydán výjezdní",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 33",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "33",
+          "detail_odst": [],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1550::318",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 47",
+      "snippet_doc_start": 1290,
+      "snippet_doc_end": 1811,
+      "snippet_text": "mnou \nskutečností, že její naplnění znamená faktickou nemožnost pokračovat v soudním přezkumu \nazylového řízení, resp. zmaření účelu zákona o azylu.\nNejvyšší správní soud proto řízení o kasační stížnosti zastavil z důvodu neznámého \nmísta pobytu žalobců podle § 47 písm. c) s. ř. s. ve spojení s § 33 písm. b) zákona o azylu.\nVýrok o nákladech řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, bylo-li řízení o kasační \nstížnosti zastaveno. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 47",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "47",
+          "detail_odst": [],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1586::319",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 33",
+      "snippet_doc_start": 1326,
+      "snippet_doc_end": 1811,
+      "snippet_text": "znamená faktickou nemožnost pokračovat v soudním přezkumu \nazylového řízení, resp. zmaření účelu zákona o azylu.\nNejvyšší správní soud proto řízení o kasační stížnosti zastavil z důvodu neznámého \nmísta pobytu žalobců podle § 47 písm. c) s. ř. s. ve spojení s § 33 písm. b) zákona o azylu.\nVýrok o nákladech řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, bylo-li řízení o kasační \nstížnosti zastaveno. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 33",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "325/1999 Sb.",
+          "law_name_text": "zákona o azylu",
+          "declared_alias_text": "zákon o azylu",
+          "detail_number": "33",
+          "detail_odst": [],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:azyl_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1652::320",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 60",
+      "snippet_doc_start": 1392,
+      "snippet_doc_end": 1811,
+      "snippet_text": "ho řízení, resp. zmaření účelu zákona o azylu.\nNejvyšší správní soud proto řízení o kasační stížnosti zastavil z důvodu neznámého \nmísta pobytu žalobců podle § 47 písm. c) s. ř. s. ve spojení s § 33 písm. b) zákona o azylu.\nVýrok o nákladech řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, bylo-li řízení o kasační \nstížnosti zastaveno. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 60",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "60",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    },
+    {
+      "task_id": "230526.txt::section_or_article::1678::321",
+      "document_id": "230526.txt",
+      "source": "nss",
+      "document_path": "data/processed/nss/230526.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 120",
+      "snippet_doc_start": 1418,
+      "snippet_doc_end": 1811,
+      "snippet_text": "čelu zákona o azylu.\nNejvyšší správní soud proto řízení o kasační stížnosti zastavil z důvodu neznámého \nmísta pobytu žalobců podle § 47 písm. c) s. ř. s. ve spojení s § 33 písm. b) zákona o azylu.\nVýrok o nákladech řízení se opírá o § 60 odst. 3 ve spojení s § 120 s. ř. s., \npodle nichž žádný z účastníků nemá právo na náhradu nákladů řízení, bylo-li řízení o kasační \nstížnosti zastaveno. \n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 120",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "section",
+          "classification": "czech_resolved",
+          "law_id": "150/2002 Sb.",
+          "law_name_text": "s. ř. s.",
+          "declared_alias_text": "s. ř. s.",
+          "detail_number": "120",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:srs_alias"
+        }
+      ]
+    }
+  ]
+}

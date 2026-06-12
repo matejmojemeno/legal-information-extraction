@@ -1,0 +1,1602 @@
+{
+  "schema_version": "manual_annotation_tasks_doc_v1",
+  "created_at_utc": "2026-03-25T10:48:21.178845+00:00",
+  "context_radius": 260,
+  "include_law_id_mentions": true,
+  "document_id": "GetText.aspx_sz_1-293-96.txt",
+  "source": "nalus",
+  "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+  "task_count": 55,
+  "tasks": [
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::798::4",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 538,
+      "snippet_doc_end": 1061,
+      "snippet_text": "y, kterou uzavřela stěžovatelka s K.K. - Č. dne 1. 9. 1992 a již dne 23. 1. 1994 odvolala.\nMěstský soud odůvodnil napadené usnesení poukazem na to, že přezkoumání rozhodnutí katastrálního úřadu o povolení vkladu vlastnického práva soudem je vyloučeno dle ust. § 5 odst. 3 věta druhá zákona č.. 265/1992 Sb., ve znění zákona č. 90/1996 Sb. Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Městský soud je toho názoru, že skut",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::832::5",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 572,
+      "snippet_doc_end": 1104,
+      "snippet_text": "K.K. - Č. dne 1. 9. 1992 a již dne 23. 1. 1994 odvolala.\nMěstský soud odůvodnil napadené usnesení poukazem na to, že přezkoumání rozhodnutí katastrálního úřadu o povolení vkladu vlastnického práva soudem je vyloučeno dle ust. § 5 odst. 3 věta druhá zákona č.. 265/1992 Sb., ve znění zákona č. 90/1996 Sb. Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Městský soud je toho názoru, že skutečnosti zpochybňující vklad vlastnického pr",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::865::6",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 605,
+      "snippet_doc_end": 1136,
+      "snippet_text": "e 23. 1. 1994 odvolala.\nMěstský soud odůvodnil napadené usnesení poukazem na to, že přezkoumání rozhodnutí katastrálního úřadu o povolení vkladu vlastnického práva soudem je vyloučeno dle ust. § 5 odst. 3 věta druhá zákona č.. 265/1992 Sb., ve znění zákona č. 90/1996 Sb. Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Městský soud je toho názoru, že skutečnosti zpochybňující vklad vlastnického práva do katastru nemovitostí, nam",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::1597::7",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250s",
+      "snippet_doc_start": 1337,
+      "snippet_doc_end": 1863,
+      "snippet_text": " řešitelné v nalézacím řízení před obecnými soudy. Rozhodnutí katastrálního úřadu o povolení vkladu vlastnického práva je svým charakterem administrativním zápisem s právními účinky, avšak na obsahu ujednání smluvních stran nic nemění. Proto bylo řízení podle § 250s občanského soudního řádu (dále jen \"o.s.ř\") zastaveno, jestliže žaloba směřovala proti rozhodnutí, které nemůže být předmětem přezkoumávání soudem.\nStěžovatelka v ústavní stížnosti namítala, že Městský soud v Praze v napadeném rozhodnutí vycházel ze znění § 5",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250s",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::1860::8",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 1600,
+      "snippet_doc_end": 2123,
+      "snippet_text": "50s občanského soudního řádu (dále jen \"o.s.ř\") zastaveno, jestliže žaloba směřovala proti rozhodnutí, které nemůže být předmětem přezkoumávání soudem.\nStěžovatelka v ústavní stížnosti namítala, že Městský soud v Praze v napadeném rozhodnutí vycházel ze znění § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., které stanoví, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Takovýto právní režim však v době podání žaloby Městskému soudu",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::1882::9",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 1622,
+      "snippet_doc_end": 2154,
+      "snippet_text": "o řádu (dále jen \"o.s.ř\") zastaveno, jestliže žaloba směřovala proti rozhodnutí, které nemůže být předmětem přezkoumávání soudem.\nStěžovatelka v ústavní stížnosti namítala, že Městský soud v Praze v napadeném rozhodnutí vycházel ze znění § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., které stanoví, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Takovýto právní režim však v době podání žaloby Městskému soudu v Praze, tedy dne 9. června 19",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::1915::10",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 1655,
+      "snippet_doc_end": 2186,
+      "snippet_text": "no, jestliže žaloba směřovala proti rozhodnutí, které nemůže být předmětem přezkoumávání soudem.\nStěžovatelka v ústavní stížnosti namítala, že Městský soud v Praze v napadeném rozhodnutí vycházel ze znění § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., které stanoví, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Takovýto právní režim však v době podání žaloby Městskému soudu v Praze, tedy dne 9. června 1995, neplatil. Zákon č. 265/1992 ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::2177::11",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 1917,
+      "snippet_doc_end": 2449,
+      "snippet_text": "/1996 Sb., které stanoví, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Takovýto právní režim však v době podání žaloby Městskému soudu v Praze, tedy dne 9. června 1995, neplatil. Zákon č. 265/1992 Sb., v tehdy platném znění, ustanovení o nemožnosti přezkoumání rozhodnutí ve správním soudnictví neobsahoval, neboť ustanovení § 5 odst. 3 tohoto zákona pouze stanovilo, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek. Přijetím n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::2314::12",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 2054,
+      "snippet_doc_end": 2577,
+      "snippet_text": "ctví. Takovýto právní režim však v době podání žaloby Městskému soudu v Praze, tedy dne 9. června 1995, neplatil. Zákon č. 265/1992 Sb., v tehdy platném znění, ustanovení o nemožnosti přezkoumání rozhodnutí ve správním soudnictví neobsahoval, neboť ustanovení § 5 odst. 3 tohoto zákona pouze stanovilo, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek. Přijetím novely ÚS 293/96\nzákona č. 265/1992 Sb. (zákonem č. 90/1996 Sb.), byla sice jednoznačně vyloučena dle jeho ust. § 5 odst. 3 možno",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::2475::13",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 2215,
+      "snippet_doc_end": 2747,
+      "snippet_text": "stanovení o nemožnosti přezkoumání rozhodnutí ve správním soudnictví neobsahoval, neboť ustanovení § 5 odst. 3 tohoto zákona pouze stanovilo, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek. Přijetím novely ÚS 293/96\nzákona č. 265/1992 Sb. (zákonem č. 90/1996 Sb.), byla sice jednoznačně vyloučena dle jeho ust. § 5 odst. 3 možnost podat žalobu ve správním soudnictví\", ovšem žaloba byla podána více jak jeden rok před touto novelou. Přesto městský soud vycházel z ustanovení § 5 odst. 3 zákona č. 9",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::2500::14",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 2240,
+      "snippet_doc_end": 2771,
+      "snippet_text": "ezkoumání rozhodnutí ve správním soudnictví neobsahoval, neboť ustanovení § 5 odst. 3 tohoto zákona pouze stanovilo, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek. Přijetím novely ÚS 293/96\nzákona č. 265/1992 Sb. (zákonem č. 90/1996 Sb.), byla sice jednoznačně vyloučena dle jeho ust. § 5 odst. 3 možnost podat žalobu ve správním soudnictví\", ovšem žaloba byla podána více jak jeden rok před touto novelou. Přesto městský soud vycházel z ustanovení § 5 odst. 3 zákona č. 90/1996 Sb. a napadeným u",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::2560::15",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 2300,
+      "snippet_doc_end": 2823,
+      "snippet_text": "oť ustanovení § 5 odst. 3 tohoto zákona pouze stanovilo, že proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek. Přijetím novely ÚS 293/96\nzákona č. 265/1992 Sb. (zákonem č. 90/1996 Sb.), byla sice jednoznačně vyloučena dle jeho ust. § 5 odst. 3 možnost podat žalobu ve správním soudnictví\", ovšem žaloba byla podána více jak jeden rok před touto novelou. Přesto městský soud vycházel z ustanovení § 5 odst. 3 zákona č. 90/1996 Sb. a napadeným usnesením řízení proti Katastrálnímu úřadu P., v před",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::2724::16",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 2464,
+      "snippet_doc_end": 2987,
+      "snippet_text": "\nzákona č. 265/1992 Sb. (zákonem č. 90/1996 Sb.), byla sice jednoznačně vyloučena dle jeho ust. § 5 odst. 3 možnost podat žalobu ve správním soudnictví\", ovšem žaloba byla podána více jak jeden rok před touto novelou. Přesto městský soud vycházel z ustanovení § 5 odst. 3 zákona č. 90/1996 Sb. a napadeným usnesením řízení proti Katastrálnímu úřadu P., v předmětné věci zastavil. Soud nerespektoval článek 6 odst. 1 Úmluvy o ochraně lidských práv a základních svobod ve znění protokolů č. 3, 5 a 8 (dále jen \"Úmluva\"), podl",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::2746::17",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 2486,
+      "snippet_doc_end": 3017,
+      "snippet_text": ". (zákonem č. 90/1996 Sb.), byla sice jednoznačně vyloučena dle jeho ust. § 5 odst. 3 možnost podat žalobu ve správním soudnictví\", ovšem žaloba byla podána více jak jeden rok před touto novelou. Přesto městský soud vycházel z ustanovení § 5 odst. 3 zákona č. 90/1996 Sb. a napadeným usnesením řízení proti Katastrálnímu úřadu P., v předmětné věci zastavil. Soud nerespektoval článek 6 odst. 1 Úmluvy o ochraně lidských práv a základních svobod ve znění protokolů č. 3, 5 a 8 (dále jen \"Úmluva\"), podle něhož každý má právo na to, ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::2863::18",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "článek 6",
+      "snippet_doc_start": 2603,
+      "snippet_doc_end": 3131,
+      "snippet_text": "m soudnictví\", ovšem žaloba byla podána více jak jeden rok před touto novelou. Přesto městský soud vycházel z ustanovení § 5 odst. 3 zákona č. 90/1996 Sb. a napadeným usnesením řízení proti Katastrálnímu úřadu P., v předmětné věci zastavil. Soud nerespektoval článek 6 odst. 1 Úmluvy o ochraně lidských práv a základních svobod ve znění protokolů č. 3, 5 a 8 (dále jen \"Úmluva\"), podle něhož každý má právo na to, aby jeho záležitost byla spravedlivě, veřejně a v přiměřené lhůtě projednána nezávislým a nestranným soudem, zříze",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "článek 6",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "foreign_law",
+          "law_id": "",
+          "law_name_text": "",
+          "declared_alias_text": "Úmluva o ochraně lidských práv a základních svobod",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:echr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::3146::19",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "článek 36",
+      "snippet_doc_start": 2886,
+      "snippet_doc_end": 3415,
+      "snippet_text": " o ochraně lidských práv a základních svobod ve znění protokolů č. 3, 5 a 8 (dále jen \"Úmluva\"), podle něhož každý má právo na to, aby jeho záležitost byla spravedlivě, veřejně a v přiměřené lhůtě projednána nezávislým a nestranným soudem, zřízeným zákonem, a článek 36 odst. 2 Listiny základních práv a svobod (dále jen \"Listina\"), který umožňuje každému domáhat se stanoveným postupem svého práva u nezávislého a nestranného soudu. Stěžovatelka se dále dovolává článku 38 odst. 1 Listiny, podle něhož nikdo nesmí být odňat svém",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "článek 36",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "2/1993 Sb.",
+          "law_name_text": "Listina základních práv a svobod",
+          "declared_alias_text": "Listina",
+          "detail_number": "",
+          "detail_odst": [
+            "2"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:listina"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::3551::20",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 109",
+      "snippet_doc_start": 3291,
+      "snippet_doc_end": 3816,
+      "snippet_text": "vislého a nestranného soudu. Stěžovatelka se dále dovolává článku 38 odst. 1 Listiny, podle něhož nikdo nesmí být odňat svému zákonnému soudci. Stěžovatelka je toho názoru, že soud měl postupovat ve smyslu článku 95 odst. 2 Ústavy České republiky a ustanovení § 109 odst. 1 písm. b) o.s.ř., přerušit řízení a věc předložit Ústavnímu soudu.\nZ těchto důvodů navrhla stěžovatelka, aby bylo napadené usnesení zrušeno.\nK ústavní stížnosti se jako účastník řízení vyjádřil Městský soud v Praze. Poukázal především na to, že se soud",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 109",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::4311::21",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 4051,
+      "snippet_doc_end": 4574,
+      "snippet_text": "edmětnému rozhodnutí správního orgánu, je soud toho názoru, že neměl pravomoc o takové žalobě rozhodnout, byt' tato žaloba byla podána v době, kdy zákon její podání výslovně nevylučoval\". Soud dále uvedl, že jinou, a to zásadní otázkou je skutečnost, zda ust. § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., je či není v rozporu s Ústavou a ÚS 293/96\nListinou, a zda tedy soud měl přerušit řízení a podat návrh Ústavnímu soudu na zrušení tohoto zákonného ustanovení (čl. 95 Ústavy). Soud je toho názoru,",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::4333::22",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 4073,
+      "snippet_doc_end": 4605,
+      "snippet_text": "právního orgánu, je soud toho názoru, že neměl pravomoc o takové žalobě rozhodnout, byt' tato žaloba byla podána v době, kdy zákon její podání výslovně nevylučoval\". Soud dále uvedl, že jinou, a to zásadní otázkou je skutečnost, zda ust. § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., je či není v rozporu s Ústavou a ÚS 293/96\nListinou, a zda tedy soud měl přerušit řízení a podat návrh Ústavnímu soudu na zrušení tohoto zákonného ustanovení (čl. 95 Ústavy). Soud je toho názoru, že pokud se rozhodnutí správní",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::4366::23",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 4106,
+      "snippet_doc_end": 4637,
+      "snippet_text": "oru, že neměl pravomoc o takové žalobě rozhodnout, byt' tato žaloba byla podána v době, kdy zákon její podání výslovně nevylučoval\". Soud dále uvedl, že jinou, a to zásadní otázkou je skutečnost, zda ust. § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., je či není v rozporu s Ústavou a ÚS 293/96\nListinou, a zda tedy soud měl přerušit řízení a podat návrh Ústavnímu soudu na zrušení tohoto zákonného ustanovení (čl. 95 Ústavy). Soud je toho názoru, že pokud se rozhodnutí správního orgánu dotýká základních práv",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::4538::24",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "čl. 95",
+      "snippet_doc_start": 4278,
+      "snippet_doc_end": 4804,
+      "snippet_text": " otázkou je skutečnost, zda ust. § 5 odst. 3 zákona č. 265/1992 Sb., ve znění zákona č. 90/1996 Sb., je či není v rozporu s Ústavou a ÚS 293/96\nListinou, a zda tedy soud měl přerušit řízení a podat návrh Ústavnímu soudu na zrušení tohoto zákonného ustanovení (čl. 95 Ústavy). Soud je toho názoru, že pokud se rozhodnutí správního orgánu dotýká základních práv a svobod, nemůže být jeho přezkum vyloučen z pravomoci soudu. V daném případě je však sporné, zda rozhodnutím katastrálního úřadu, jímž se povoluje vklad vlastnického",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "čl. 95",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "1/1993 Sb.",
+          "law_name_text": "Ústava České republiky",
+          "declared_alias_text": "Ústava České republiky",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustava"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::5362::25",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 5102,
+      "snippet_doc_end": 5634,
+      "snippet_text": "astnického práva k nemovitosti. Účastník smlouvy má tedy možnost domáhat se občanskoprávní cestou určení neplatnosti uzavřené smlouvy a v důsledku toho i změny zápisu v katastru nemovitostí. Z těchto důvodů se soud již před přijetím novely zákona           č. 265/1992 Sb. přikláněl k názoru, že tuto žalobu podat nelze. V této souvislosti soud poukázal na to, že znění ust. § 5 odst. 3 zákona č. 265/1992 Sb. před novelou provedenou zákonem č. 90/1996 Sb., které nepřipouštělo podání \"opravného prostředku\" proti rozhodnutí o povol",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::5477::26",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 5217,
+      "snippet_doc_end": 5740,
+      "snippet_text": "i uzavřené smlouvy a v důsledku toho i změny zápisu v katastru nemovitostí. Z těchto důvodů se soud již před přijetím novely zákona           č. 265/1992 Sb. přikláněl k názoru, že tuto žalobu podat nelze. V této souvislosti soud poukázal na to, že znění ust. § 5 odst. 3 zákona č. 265/1992 Sb. před novelou provedenou zákonem č. 90/1996 Sb., které nepřipouštělo podání \"opravného prostředku\" proti rozhodnutí o povolení vkladu vlastnického práva, nebylo zcela jednoznačné. Nebylo totiž zřejmé, zda pojem \"opravný prostřede",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::5499::27",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 5239,
+      "snippet_doc_end": 5771,
+      "snippet_text": " důsledku toho i změny zápisu v katastru nemovitostí. Z těchto důvodů se soud již před přijetím novely zákona           č. 265/1992 Sb. přikláněl k názoru, že tuto žalobu podat nelze. V této souvislosti soud poukázal na to, že znění ust. § 5 odst. 3 zákona č. 265/1992 Sb. před novelou provedenou zákonem č. 90/1996 Sb., které nepřipouštělo podání \"opravného prostředku\" proti rozhodnutí o povolení vkladu vlastnického práva, nebylo zcela jednoznačné. Nebylo totiž zřejmé, zda pojem \"opravný prostředek\" zde použitý znamená opravný ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::5547::28",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 5287,
+      "snippet_doc_end": 5818,
+      "snippet_text": "ostí. Z těchto důvodů se soud již před přijetím novely zákona           č. 265/1992 Sb. přikláněl k názoru, že tuto žalobu podat nelze. V této souvislosti soud poukázal na to, že znění ust. § 5 odst. 3 zákona č. 265/1992 Sb. před novelou provedenou zákonem č. 90/1996 Sb., které nepřipouštělo podání \"opravného prostředku\" proti rozhodnutí o povolení vkladu vlastnického práva, nebylo zcela jednoznačné. Nebylo totiž zřejmé, zda pojem \"opravný prostředek\" zde použitý znamená opravný prostředek podle části páté hlavy třetí o.s.ř. ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::5819::29",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2501",
+      "snippet_doc_start": 5559,
+      "snippet_doc_end": 6085,
+      "snippet_text": " které nepřipouštělo podání \"opravného prostředku\" proti rozhodnutí o povolení vkladu vlastnického práva, nebylo zcela jednoznačné. Nebylo totiž zřejmé, zda pojem \"opravný prostředek\" zde použitý znamená opravný prostředek podle části páté hlavy třetí o.s.ř. (§ 2501 a násl. o.s.ř.), \"když podat opravný prostředek k soudu proti rozhodnutí správního orgánu lze pouze v případech zákonem výslovně stanovených\", či zda šlo o jakýkoli opravný prostředek, tedy řádný i mimořádný opravný prostředek ve správním řízení. Novela ustan",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2501",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.93,
+          "note": "manual_v1:ocr_normalized_osr_250l"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::6091::30",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 5831,
+      "snippet_doc_end": 6354,
+      "snippet_text": "l. o.s.ř.), \"když podat opravný prostředek k soudu proti rozhodnutí správního orgánu lze pouze v případech zákonem výslovně stanovených\", či zda šlo o jakýkoli opravný prostředek, tedy řádný i mimořádný opravný prostředek ve správním řízení. Novela ustanovení § 5 odst. 3 zákona č. 265/1992 Sb. tyto nejasnosti odstranila, stejně jako jednoznačně vyřešila pochybnosti o možnosti podat žalobu proti rozhodnutí o povolení vkladu.\nMěstský soud navrhl zamítnutí ústavní stížnosti a sdělil, že netrvá na ústním jednání před Ústa",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::6113::31",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 5853,
+      "snippet_doc_end": 6385,
+      "snippet_text": "t opravný prostředek k soudu proti rozhodnutí správního orgánu lze pouze v případech zákonem výslovně stanovených\", či zda šlo o jakýkoli opravný prostředek, tedy řádný i mimořádný opravný prostředek ve správním řízení. Novela ustanovení § 5 odst. 3 zákona č. 265/1992 Sb. tyto nejasnosti odstranila, stejně jako jednoznačně vyřešila pochybnosti o možnosti podat žalobu proti rozhodnutí o povolení vkladu.\nMěstský soud navrhl zamítnutí ústavní stížnosti a sdělil, že netrvá na ústním jednání před Ústavním soudem. ÚS 293/96\nDále se ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::6515::32",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 2",
+      "snippet_doc_start": 6255,
+      "snippet_doc_end": 6778,
+      "snippet_text": "du.\nMěstský soud navrhl zamítnutí ústavní stížnosti a sdělil, že netrvá na ústním jednání před Ústavním soudem. ÚS 293/96\nDále se jako vedlejší účastník vyjádřil Katastrální úřad P.  Ten uvedl, že podle právní úpravy platné i v rozhodném období ve smyslu ust. § 2 odst. 3 a § 5 odst. 1 zákona č. 265/1992 Sb., ve znění zákona č. 210/1993 Sb., vycházel katastrální úřad při svém rozhodování z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zas",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 2",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::6529::33",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 6269,
+      "snippet_doc_end": 6792,
+      "snippet_text": "ud navrhl zamítnutí ústavní stížnosti a sdělil, že netrvá na ústním jednání před Ústavním soudem. ÚS 293/96\nDále se jako vedlejší účastník vyjádřil Katastrální úřad P.  Ten uvedl, že podle právní úpravy platné i v rozhodném období ve smyslu ust. § 2 odst. 3 a § 5 odst. 1 zákona č. 265/1992 Sb., ve znění zákona č. 210/1993 Sb., vycházel katastrální úřad při svém rozhodování z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zaslal Městskému ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::6551::34",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 6291,
+      "snippet_doc_end": 6823,
+      "snippet_text": "tavní stížnosti a sdělil, že netrvá na ústním jednání před Ústavním soudem. ÚS 293/96\nDále se jako vedlejší účastník vyjádřil Katastrální úřad P.  Ten uvedl, že podle právní úpravy platné i v rozhodném období ve smyslu ust. § 2 odst. 3 a § 5 odst. 1 zákona č. 265/1992 Sb., ve znění zákona č. 210/1993 Sb., vycházel katastrální úřad při svém rozhodování z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zaslal Městskému soudu v Praze ke sp. zn. 28 Ca ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::6584::35",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "210/1993 Sb.",
+      "snippet_doc_start": 6324,
+      "snippet_doc_end": 6856,
+      "snippet_text": "vá na ústním jednání před Ústavním soudem. ÚS 293/96\nDále se jako vedlejší účastník vyjádřil Katastrální úřad P.  Ten uvedl, že podle právní úpravy platné i v rozhodném období ve smyslu ust. § 2 odst. 3 a § 5 odst. 1 zákona č. 265/1992 Sb., ve znění zákona č. 210/1993 Sb., vycházel katastrální úřad při svém rozhodování z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zaslal Městskému soudu v Praze ke sp. zn. 28 Ca 209/95, v němž mimo jiné poukázal",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "210/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "210/1993 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::6900::36",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 630",
+      "snippet_doc_start": 6640,
+      "snippet_doc_end": 7165,
+      "snippet_text": "vání z právního stavu ke dni podání návrhu na vklad. Katastrální úřad se dále odvolal na své vyjádření z 4. 9. 1995, které v této věci zaslal Městskému soudu v Praze ke sp. zn. 28 Ca 209/95, v němž mimo jiné poukázal na to, že odvolání daru je upraveno v ust. § 630 občanského zákoníku a ve věci je příslušný soud. Dopis stěžovatelky o odvolání daru, doručený katastrálnímu úřadu 7. 2. 1994, neobsahuje její návrh na přerušení řízení z důvodu podání návrhu u soudu na vydání předběžného opatření, které by mu ukládalo, aby vk",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 630",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "občanský zákoník",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::8369::37",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 630",
+      "snippet_doc_start": 8109,
+      "snippet_doc_end": 8634,
+      "snippet_text": "\nnemovitostem, aniž přihlédl k tomu, že dne 23. 1. 1994 odvolala dar nemovitosti, přestože sám řízení přerušil s tím, že je třeba opatřit souhlas obdarované se zpětvzetím daru. Následně žalovaný upozornil žalobkyni, že je nutno ve věci podat žalobu podle ust. § 630 občanského zákoníku, k podání jí však neposkytl žádnou lhůtu a řízení za tím účelem nepřerušil. Městský soud vyšel z obsahu žaloby a z napadeného rozhodnutí a dospěl k závěru, že napadené rozhodnutí nelze přezkoumat v řízení před soudem. Podle ust. § 248 o.s.",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 630",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "občanský zákoník",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::8624::38",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 248",
+      "snippet_doc_start": 8364,
+      "snippet_doc_end": 8889,
+      "snippet_text": "ust. § 630 občanského zákoníku, k podání jí však neposkytl žádnou lhůtu a řízení za tím účelem nepřerušil. Městský soud vyšel z obsahu žaloby a z napadeného rozhodnutí a dospěl k závěru, že napadené rozhodnutí nelze přezkoumat v řízení před soudem. Podle ust. § 248 o.s.ř. soudy ve správním soudnictví nepřezkoumávají rozhodnutí správních orgánů, která nemají povahu rozhodnutí o právu či povinnosti fyzické nebo právnické osoby, zejména obecně závazné akty, rozhodnutí organizační povahy a rozhodnutí upravující vnitřní pomě",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 248",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::9198::39",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 248",
+      "snippet_doc_start": 8938,
+      "snippet_doc_end": 9463,
+      "snippet_text": "ená v odst. 2 cit. ustanovení. Kromě toho jsou z přezkoumávání soudem vyloučena rozhodnutí správních orgánů vydaná na základě ustanovení uvedených v příloze A, která je součástí tohoto zákona, jakož i rozhodnutí, jejichž přezkoumávání vyloučí zvláštní zákony (§ 248 odst. 3 o.s.ř.). V daném případě je rozhodnutí katastrálních úřadů o povolení vkladu vlastnického práva vyloučeno ustanovením § 5 odst. 3 větou druhou zákona č. 265/1992 Sb., v platném znění (ve znění zákona č. 90/1996 Sb.). Podle tohoto zákonného ustanovení ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 248",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::9330::40",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 9070,
+      "snippet_doc_end": 9593,
+      "snippet_text": "vení uvedených v příloze A, která je součástí tohoto zákona, jakož i rozhodnutí, jejichž přezkoumávání vyloučí zvláštní zákony (§ 248 odst. 3 o.s.ř.). V daném případě je rozhodnutí katastrálních úřadů o povolení vkladu vlastnického práva vyloučeno ustanovením § 5 odst. 3 větou druhou zákona č. 265/1992 Sb., v platném znění (ve znění zákona č. 90/1996 Sb.). Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Proto podle ust.",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::9365::41",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 9105,
+      "snippet_doc_end": 9637,
+      "snippet_text": "e součástí tohoto zákona, jakož i rozhodnutí, jejichž přezkoumávání vyloučí zvláštní zákony (§ 248 odst. 3 o.s.ř.). V daném případě je rozhodnutí katastrálních úřadů o povolení vkladu vlastnického práva vyloučeno ustanovením § 5 odst. 3 větou druhou zákona č. 265/1992 Sb., v platném znění (ve znění zákona č. 90/1996 Sb.). Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Proto podle ust. § 250d odst. 3 o.s.ř. řízení usnesením zast",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::9415::42",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 9155,
+      "snippet_doc_end": 9686,
+      "snippet_text": "chž přezkoumávání vyloučí zvláštní zákony (§ 248 odst. 3 o.s.ř.). V daném případě je rozhodnutí katastrálních úřadů o povolení vkladu vlastnického práva vyloučeno ustanovením § 5 odst. 3 větou druhou zákona č. 265/1992 Sb., v platném znění (ve znění zákona č. 90/1996 Sb.). Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Proto podle ust. § 250d odst. 3 o.s.ř. řízení usnesením zastavil, rozhodl, že žádný z účastníků nemá právo na",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::9594::43",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250d",
+      "snippet_doc_start": 9334,
+      "snippet_doc_end": 9860,
+      "snippet_text": "odst. 3 větou druhou zákona č. 265/1992 Sb., v platném znění (ve znění zákona č. 90/1996 Sb.). Podle tohoto zákonného ustanovení proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví. Proto podle ust. § 250d odst. 3 o.s.ř. řízení usnesením zastavil, rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení a žalobkyni vrátil 50% soudního poplatku zaplaceného z podané žaloby v kolcích, tj. částku 500,- Kč.\nPodstata ústavní stížnosti spočívá v polemice s p",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250d",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::9939::44",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 9679,
+      "snippet_doc_end": 10202,
+      "snippet_text": "rávo na náhradu nákladů řízení a žalobkyni vrátil 50% soudního poplatku zaplaceného z podané žaloby v kolcích, tj. částku 500,- Kč.\nPodstata ústavní stížnosti spočívá v polemice s právním závěrem napadeného usnesení městského soudu, který aplikoval ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., ve znění jeho novely, tj. zákona č. 90/1996 Sb. Tento postup stěžovatelka napadla s poukazem na to, že v době podání žaloby dne 9. 6. 1995 zákon č. 90/1996 Sb. neexistoval. V té době platilo ustanovení § 5 odst. 3 zákona č. 265",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::9961::45",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 9701,
+      "snippet_doc_end": 10233,
+      "snippet_text": "ů řízení a žalobkyni vrátil 50% soudního poplatku zaplaceného z podané žaloby v kolcích, tj. částku 500,- Kč.\nPodstata ústavní stížnosti spočívá v polemice s právním závěrem napadeného usnesení městského soudu, který aplikoval ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., ve znění jeho novely, tj. zákona č. 90/1996 Sb. Tento postup stěžovatelka napadla s poukazem na to, že v době podání žaloby dne 9. 6. 1995 zákon č. 90/1996 Sb. neexistoval. V té době platilo ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., v původním znění, po",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::10011::46",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 9751,
+      "snippet_doc_end": 10282,
+      "snippet_text": "zaplaceného z podané žaloby v kolcích, tj. částku 500,- Kč.\nPodstata ústavní stížnosti spočívá v polemice s právním závěrem napadeného usnesení městského soudu, který aplikoval ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., ve znění jeho novely, tj. zákona č. 90/1996 Sb. Tento postup stěžovatelka napadla s poukazem na to, že v době podání žaloby dne 9. 6. 1995 zákon č. 90/1996 Sb. neexistoval. V té době platilo ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., v původním znění, podle něhož proti ÚS 293/96\nrozhodnutí katastrálníh",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::10123::47",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 9863,
+      "snippet_doc_end": 10394,
+      "snippet_text": "ním závěrem napadeného usnesení městského soudu, který aplikoval ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., ve znění jeho novely, tj. zákona č. 90/1996 Sb. Tento postup stěžovatelka napadla s poukazem na to, že v době podání žaloby dne 9. 6. 1995 zákon č. 90/1996 Sb. neexistoval. V té době platilo ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., v původním znění, podle něhož proti ÚS 293/96\nrozhodnutí katastrálního úřadu, kterým se povoluje vklad, není přípustný opravný prostředek, takže podání správní žaloby vyloučeno neby",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::10177::48",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 5",
+      "snippet_doc_start": 9917,
+      "snippet_doc_end": 10440,
+      "snippet_text": " aplikoval ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., ve znění jeho novely, tj. zákona č. 90/1996 Sb. Tento postup stěžovatelka napadla s poukazem na to, že v době podání žaloby dne 9. 6. 1995 zákon č. 90/1996 Sb. neexistoval. V té době platilo ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., v původním znění, podle něhož proti ÚS 293/96\nrozhodnutí katastrálního úřadu, kterým se povoluje vklad, není přípustný opravný prostředek, takže podání správní žaloby vyloučeno nebylo.\nK námitkám stěžovatelky zaujal ústavní sou",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 5",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::10199::49",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 9939,
+      "snippet_doc_end": 10471,
+      "snippet_text": "§ 5 odst. 3 zákona č. 265/1992 Sb., ve znění jeho novely, tj. zákona č. 90/1996 Sb. Tento postup stěžovatelka napadla s poukazem na to, že v době podání žaloby dne 9. 6. 1995 zákon č. 90/1996 Sb. neexistoval. V té době platilo ustanovení § 5 odst. 3 zákona č. 265/1992 Sb., v původním znění, podle něhož proti ÚS 293/96\nrozhodnutí katastrálního úřadu, kterým se povoluje vklad, není přípustný opravný prostředek, takže podání správní žaloby vyloučeno nebylo.\nK námitkám stěžovatelky zaujal ústavní soud toto stanovisko:\n1. Městský s",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 2,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::10510::50",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 10250,
+      "snippet_doc_end": 10782,
+      "snippet_text": "S 293/96\nrozhodnutí katastrálního úřadu, kterým se povoluje vklad, není přípustný opravný prostředek, takže podání správní žaloby vyloučeno nebylo.\nK námitkám stěžovatelky zaujal ústavní soud toto stanovisko:\n1. Městský soud byl se zřetelem k novele zákona č. 265/1992 Sb. (zákona č. 90/1996 Sb.) - při neexistenci přechodných ustanovení - povinen rozhodnout podle právního stavu platného v době vydání napadeného rozhodnutí (§ 154 odst. 1 o.s.ř.). Jestliže v době, kdy soud rozhodoval, zákon vylučoval možnost podat žalobu proti př",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::10534::51",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "90/1996 Sb.",
+      "snippet_doc_start": 10274,
+      "snippet_doc_end": 10805,
+      "snippet_text": "strálního úřadu, kterým se povoluje vklad, není přípustný opravný prostředek, takže podání správní žaloby vyloučeno nebylo.\nK námitkám stěžovatelky zaujal ústavní soud toto stanovisko:\n1. Městský soud byl se zřetelem k novele zákona č. 265/1992 Sb. (zákona č. 90/1996 Sb.) - při neexistenci přechodných ustanovení - povinen rozhodnout podle právního stavu platného v době vydání napadeného rozhodnutí (§ 154 odst. 1 o.s.ř.). Jestliže v době, kdy soud rozhodoval, zákon vylučoval možnost podat žalobu proti předmětnému rozhodnutí sp",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "90/1996 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "90/1996 Sb.",
+          "law_name_text": "",
+          "declared_alias_text": "",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.98,
+          "note": "manual_v1:amending_act"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::10676::52",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 154",
+      "snippet_doc_start": 10416,
+      "snippet_doc_end": 10941,
+      "snippet_text": "telky zaujal ústavní soud toto stanovisko:\n1. Městský soud byl se zřetelem k novele zákona č. 265/1992 Sb. (zákona č. 90/1996 Sb.) - při neexistenci přechodných ustanovení - povinen rozhodnout podle právního stavu platného v době vydání napadeného rozhodnutí (§ 154 odst. 1 o.s.ř.). Jestliže v době, kdy soud rozhodoval, zákon vylučoval možnost podat žalobu proti předmětnému rozhodnutí správního orgánu, pak neměl pravomoc o takové žalobě rozhodnout, byt' byla podána v době, kdy zákon jejímu podání výslovně nebránil. S tou",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 154",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::11270::53",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 109",
+      "snippet_doc_start": 11010,
+      "snippet_doc_end": 11535,
+      "snippet_text": " výstižným způsobem vypořádal a Ústavní soud nevidí důvod, aby se z hlediska ochrany základních práv a svobod účastníků řízení od právního názoru obecného soudu odchyloval.\n2. Stěžovatelka dále bez bližšího odůvodnění uvedla, že soud měl postupovat podle ust. § 109 odst. 1 písm. b) o.s.ř., tj. přerušit řízení a věc předložit Ústavnímu soudu. Ani tuto výtku nelze akceptovat. Soud by byl povinen aplikovat citované ustanovení v případě, jestliže by před rozhodnutím ve věci dospěl k závěru, že zákon, jehož má být při řešení",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 109",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "b"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::12222::54",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "265/1992 Sb.",
+      "snippet_doc_start": 11962,
+      "snippet_doc_end": 12494,
+      "snippet_text": "ou určení neplatnosti smlouvy a v důsledku toho i změny zápisu v katastru nemovitostí. Z další argumentace městského soudu, která je obsažena v jeho vyjádření k ústavní stížnosti, plyne, proč soud dospěl k závěru, že\nustanovení §,5 odst. 3 zákona č. ÚS 293/96\n265/1992 Sb., v platném znění, není v rozporu s ústavou ČR, Listinou či normami mezinárodního práva tak, jak to dovozuje stěžovatelka. Tato argumentace je přesvědčivá a správná. Z hlediska ochrany základních práv a svobod stěžovatelky není ani zde důvod, aby Ústavní soud ",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "265/1992 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "265/1992 Sb.",
+          "law_name_text": "zákon o zápisech vlastnických a jiných věcných práv k nemovitostem",
+          "declared_alias_text": "zákon č. 265/1992 Sb.",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:katastralni_vklady_law_id"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::13041::55",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 250d",
+      "snippet_doc_start": 12781,
+      "snippet_doc_end": 13307,
+      "snippet_text": "stiny, je třeba zdůraznit, že tyto předpisy zajišťují každému možnost domáhat se stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu. Ústavní soud neshledal v postupu soudu - který zastavil řízení podle § 250d odst. 3 o.s.ř. po zjištění, že žaloba směřuje proti rozhodnutí, které nemůže být podle zákona předmětem přezkoumávání soudem - porušení uvedených článků Úmluvy a Listiny. Stěžovatelka se dále dovolává článku 36 odst. 2 Listiny, podle něhož kdo tvrdí, že byl n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 250d",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "99/1963 Sb.",
+          "law_name_text": "občanský soudní řád",
+          "declared_alias_text": "o.s.ř.",
+          "detail_number": "",
+          "detail_odst": [
+            "3"
+          ],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:osr"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::13766::56",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 630",
+      "snippet_doc_start": 13506,
+      "snippet_doc_end": 14015,
+      "snippet_text": "m městského soudu rovněž nedošlo, neboť přezkum ve věci možný je, byt' jinou formou. Stěžovatelka má totiž možnost domáhat se občanskoprávní cestou vrácení daru, jestliže se obdarovaná chová k ní nebo členům její rodiny tak, že tím hrubě porušuje dobré mravy (§ 630 občanského zákoníku).\nProto soudce zpravodaj ústavní stížnost mimo ústní jednání bez přítomnosti účastníků usnesením odmítl jako návrh, který je zjevně neopodstatněný [§ 43 odst. 1 písm. c) zákona č. 182/1993 Sb., o Ústavním soudu]. ÚS 293/96\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 630",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "40/1964 Sb.",
+          "law_name_text": "občanský zákoník",
+          "declared_alias_text": "občanský zákoník",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:stary_obcansky_zakonik"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::section_or_article::13940::57",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "section_or_article",
+      "target_reference": "§ 43",
+      "snippet_doc_start": 13680,
+      "snippet_doc_end": 14015,
+      "snippet_text": "obdarovaná chová k ní nebo členům její rodiny tak, že tím hrubě porušuje dobré mravy (§ 630 občanského zákoníku).\nProto soudce zpravodaj ústavní stížnost mimo ústní jednání bez přítomnosti účastníků usnesením odmítl jako návrh, který je zjevně neopodstatněný [§ 43 odst. 1 písm. c) zákona č. 182/1993 Sb., o Ústavním soudu]. ÚS 293/96\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "§ 43",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "",
+          "detail_odst": [
+            "1"
+          ],
+          "detail_pism": [
+            "c"
+          ],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_zakon"
+        }
+      ]
+    },
+    {
+      "task_id": "GetText.aspx_sz_1-293-96.txt::law_id_mention::13972::58",
+      "document_id": "GetText.aspx_sz_1-293-96.txt",
+      "source": "nalus",
+      "document_path": "data/processed/nalus/GetText.aspx_sz_1-293-96.txt",
+      "candidate_type": "law_id_mention",
+      "target_reference": "182/1993 Sb.",
+      "snippet_doc_start": 13712,
+      "snippet_doc_end": 14015,
+      "snippet_text": "m její rodiny tak, že tím hrubě porušuje dobré mravy (§ 630 občanského zákoníku).\nProto soudce zpravodaj ústavní stížnost mimo ústní jednání bez přítomnosti účastníků usnesením odmítl jako návrh, který je zjevně neopodstatněný [§ 43 odst. 1 písm. c) zákona č. 182/1993 Sb., o Ústavním soudu]. ÚS 293/96\n",
+      "annotations": [
+        {
+          "finding_id": "1",
+          "finding_text": "182/1993 Sb.",
+          "occurrence_index_in_snippet": 1,
+          "citation_type": "",
+          "classification": "czech_resolved",
+          "law_id": "182/1993 Sb.",
+          "law_name_text": "zákon o Ústavním soudu",
+          "declared_alias_text": "zákon o Ústavním soudu",
+          "detail_number": "",
+          "detail_odst": [],
+          "detail_pism": [],
+          "confidence": 0.99,
+          "note": "manual_v1:ustavni_soud_zakon_law_id"
+        }
+      ]
+    }
+  ]
+}

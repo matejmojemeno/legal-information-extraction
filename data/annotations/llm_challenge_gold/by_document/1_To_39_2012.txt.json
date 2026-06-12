@@ -1,0 +1,31 @@
+{
+  "schema_version": "gold_annotations_doc_v1",
+  "document_id": "1 To 39_2012.txt",
+  "source": "ns",
+  "document_path": "data/imports/parent_bucket_texts/ns/1 To 39_2012.txt",
+  "exported_at_utc": "2026-03-20T11:31:49.433719+00:00",
+  "citations": [
+    {
+      "task_id": "1 To 39_2012.txt::article::2847::15",
+      "finding_id": "1",
+      "citation_text": "čl. \n6",
+      "citation_type": "article",
+      "start_char": 2847,
+      "end_char": 2853,
+      "law_id": null,
+      "law_name_text": "Úmluvy o ochraně lidských práv a základních svobod",
+      "declared_alias_text": "Úmluvy",
+      "classification": "foreign_law",
+      "confidence": 0.98,
+      "detail_number": "6",
+      "detail_odst": [
+        "3"
+      ],
+      "detail_pism": [
+        "b"
+      ],
+      "note": "manual_v1:llm_challenge_review",
+      "snippet_warnings": []
+    }
+  ]
+}
